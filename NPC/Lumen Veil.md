@@ -1,4 +1,6 @@
 ---
+title: Lumen Veil
+draft: false
 aliases:
   - Lumen
 type: npc

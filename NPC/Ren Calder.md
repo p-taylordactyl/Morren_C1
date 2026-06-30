@@ -1,4 +1,6 @@
 ---
+title: Ren Calder
+draft: false
 aliases:
   - Ren
 type: npc

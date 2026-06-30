@@ -1,4 +1,6 @@
 ---
+title: Seahorse Stadium
+draft: false
 aliases:
 type: location
 district: "[[Crownlight Strip]]"

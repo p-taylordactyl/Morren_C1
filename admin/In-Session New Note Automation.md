@@ -1,4 +1,6 @@
 ---
+title: In-Session New Note Automation
+draft: true
 type: meta
 modified: 2026-03-21
 created: 2026-03-05

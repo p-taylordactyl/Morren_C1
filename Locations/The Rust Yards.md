@@ -1,4 +1,6 @@
 ---
+title: The Rust Yards
+draft: false
 aliases:
 type: district
 cover: "[[location_TheRustYards.webp]]"

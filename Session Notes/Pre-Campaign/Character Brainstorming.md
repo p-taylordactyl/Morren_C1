@@ -1,6 +1,8 @@
 ---
+title: Character Brainstorming
+draft: true
 type:
-modified: 2026-05-21
+modified: 2026-06-30
 created: 2026-04-07
 tags:
   - under_construction

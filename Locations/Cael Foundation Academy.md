@@ -1,4 +1,6 @@
 ---
+title: Cael Foundation Academy
+draft: false
 aliases:
   - CF Academy
 type: location

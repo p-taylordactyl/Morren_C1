@@ -1,4 +1,6 @@
 ---
+title: Malcolm Oublier
+draft: false
 aliases:
   - Malcolm
 type: npc

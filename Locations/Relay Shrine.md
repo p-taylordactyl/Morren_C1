@@ -1,4 +1,6 @@
 ---
+title: Relay Shrine
+draft: false
 aliases:
 type: location
 district:

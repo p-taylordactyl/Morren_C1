@@ -1,4 +1,6 @@
 ---
+title: Hood Station
+draft: false
 type: faction
 cover: "[[faction_hoodstation.webp]]"
 created: 2026-05-20

@@ -1,4 +1,6 @@
 ---
+title: NPC
+draft: true
 aliases:
 type: npc
 cover: "[[npc_<% tp.file.title.replace(/ /g, '') %>.webp]]"

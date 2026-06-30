@@ -1,4 +1,6 @@
 ---
+title: Box City
+draft: false
 aliases:
 type: location
 district:

@@ -1,4 +1,6 @@
 ---
+title: Kali Torreo
+draft: false
 aliases:
   - Kali
   - Commander Torreo

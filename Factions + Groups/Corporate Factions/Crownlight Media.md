@@ -1,4 +1,6 @@
 ---
+title: Crownlight Media
+draft: false
 aliases:
   - Crownlight
 type: corporate faction

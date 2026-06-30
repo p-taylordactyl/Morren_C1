@@ -1,4 +1,6 @@
 ---
+title: Infinity Plaza Mall
+draft: false
 aliases:
   - Mall
 type: corporate faction

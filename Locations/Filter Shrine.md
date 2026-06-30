@@ -1,4 +1,6 @@
 ---
+title: Filter Shrine
+draft: false
 type: location
 cover: "[[location_notfarsewer_filtershrine.webp]]"
 created: 2026-05-08

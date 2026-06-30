@@ -1,4 +1,6 @@
 ---
+title: The Redacted
+draft: false
 aliases:
 type: group
 cover:

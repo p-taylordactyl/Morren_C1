@@ -1,4 +1,6 @@
 ---
+title: Cillian Ward
+draft: false
 aliases:
   - Cillian
 type: npc

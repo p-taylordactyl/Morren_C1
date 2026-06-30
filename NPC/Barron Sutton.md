@@ -1,4 +1,6 @@
 ---
+title: Barron Sutton
+draft: false
 aliases:
   - Barron
 type: npc

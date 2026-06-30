@@ -1,4 +1,6 @@
 ---
+title: Aegis Response Group
+draft: false
 aliases:
 type: location
 district:

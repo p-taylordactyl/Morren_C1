@@ -1,4 +1,6 @@
 ---
+title: BB Megatower
+draft: false
 aliases:
 type: location
 district:

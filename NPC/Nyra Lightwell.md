@@ -1,4 +1,6 @@
 ---
+title: Nyra Lightwell
+draft: false
 aliases:
   - Nyra
 type: npc

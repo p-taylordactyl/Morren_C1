@@ -1,4 +1,6 @@
 ---
+title: Kelm
+draft: false
 aliases:
 type: npc
 cover: "[[npc_Kelm.webp]]"

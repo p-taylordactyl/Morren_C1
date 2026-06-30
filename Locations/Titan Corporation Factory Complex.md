@@ -1,4 +1,6 @@
 ---
+title: Titan Corporation Factory Complex
+draft: false
 aliases:
 type: location
 district: "[[Cloud District]]"

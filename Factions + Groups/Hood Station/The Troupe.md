@@ -1,4 +1,6 @@
 ---
+title: The Troupe
+draft: false
 aliases:
   - Troupe
 type: group

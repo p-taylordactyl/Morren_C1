@@ -1,4 +1,6 @@
 ---
+title: Paragon Soundworks
+draft: false
 aliases:
 type: location
 district:

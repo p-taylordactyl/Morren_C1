@@ -1,4 +1,6 @@
 ---
+title: Crownlight Media Studio Lot
+draft: false
 aliases:
 type: location
 district:

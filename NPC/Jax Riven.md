@@ -1,4 +1,6 @@
 ---
+title: Jax Riven
+draft: false
 aliases:
   - Jax
 type: npc

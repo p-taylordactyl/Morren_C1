@@ -1,7 +1,9 @@
 ---
+title: Session 8
+draft: false
 type: session_note
 created: 2026-06-15
-modified: 2026-06-22
+modified: 2026-06-30
 session_date: 06/15/2026
 session_number: 8
 players:

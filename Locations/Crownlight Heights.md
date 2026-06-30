@@ -1,4 +1,6 @@
 ---
+title: Crownlight Heights
+draft: false
 aliases:
 type: location
 district:

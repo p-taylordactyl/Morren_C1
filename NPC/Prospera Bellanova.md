@@ -1,4 +1,6 @@
 ---
+title: Prospera Bellanova
+draft: false
 aliases:
   - Prospera
 type: npc

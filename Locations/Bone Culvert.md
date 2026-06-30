@@ -1,4 +1,6 @@
 ---
+title: Bone Culvert
+draft: false
 type: location
 cover: "[[location_BoneCulvert.webp]]"
 created: 2026-05-21

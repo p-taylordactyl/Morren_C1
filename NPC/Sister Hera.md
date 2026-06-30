@@ -1,4 +1,6 @@
 ---
+title: Sister Hera
+draft: false
 aliases:
   - Hera
 type: npc

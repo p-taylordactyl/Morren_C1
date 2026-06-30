@@ -1,4 +1,6 @@
 ---
+title: The Asylum
+draft: false
 aliases:
 type: location
 district: "[[Westreach]]"

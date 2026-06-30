@@ -1,4 +1,6 @@
 ---
+title: Gideon Oublier
+draft: false
 aliases:
   - Gideon
 cover: "[[pc_gideonoublier.webp]]"

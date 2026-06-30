@@ -1,4 +1,6 @@
 ---
+title: Westreach
+draft: false
 aliases:
 type: district
 district:

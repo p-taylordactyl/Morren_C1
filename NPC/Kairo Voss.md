@@ -1,4 +1,6 @@
 ---
+title: Kairo Voss
+draft: false
 aliases:
   - Kairo
 type: npc

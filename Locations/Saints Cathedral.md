@@ -1,4 +1,6 @@
 ---
+title: Saints Cathedral
+draft: false
 aliases:
 type: location
 district:

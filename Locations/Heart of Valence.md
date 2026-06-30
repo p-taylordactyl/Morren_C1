@@ -1,4 +1,6 @@
 ---
+title: Heart of Valence
+draft: false
 aliases:
 type: district
 district:

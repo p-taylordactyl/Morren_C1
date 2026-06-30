@@ -1,4 +1,6 @@
 ---
+title: NovaStyle Group Galleria
+draft: false
 aliases:
 type: location
 district:

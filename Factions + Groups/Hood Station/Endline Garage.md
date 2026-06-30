@@ -1,4 +1,6 @@
 ---
+title: Endline Garage
+draft: false
 aliases:
   - garage
 type: group

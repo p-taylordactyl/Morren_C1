@@ -1,4 +1,6 @@
 ---
+title: Titan Corporation
+draft: false
 aliases:
   - Titan
 type: corporate faction

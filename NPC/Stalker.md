@@ -1,4 +1,6 @@
 ---
+title: Stalker
+draft: false
 aliases:
   - stalker
 type: npc

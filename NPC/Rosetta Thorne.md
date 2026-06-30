@@ -1,4 +1,6 @@
 ---
+title: Rosetta Thorne
+draft: false
 aliases:
   - Rosetta "The Thorn" Thorne
   - Rosetta

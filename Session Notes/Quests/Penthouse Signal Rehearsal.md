@@ -1,4 +1,6 @@
 ---
+title: Penthouse Signal Rehearsal
+draft: false
 aliases:
 created: 2026-06-01
 modified: 2026-06-21

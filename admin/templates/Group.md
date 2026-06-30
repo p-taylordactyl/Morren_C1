@@ -1,4 +1,6 @@
 ---
+title: Group
+draft: true
 aliases:
 type: group
 cover:

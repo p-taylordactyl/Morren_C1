@@ -1,4 +1,6 @@
 ---
+title: Katriel Buchanon
+draft: false
 aliases:
   - Kat
   - Kat Buchanon

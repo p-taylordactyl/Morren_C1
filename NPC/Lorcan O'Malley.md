@@ -1,4 +1,6 @@
 ---
+title: "Lorcan O'Malley"
+draft: false
 aliases:
   - Lorcan
 type: npc

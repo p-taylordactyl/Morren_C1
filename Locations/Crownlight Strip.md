@@ -1,4 +1,6 @@
 ---
+title: Crownlight Strip
+draft: false
 aliases:
 type: district
 cover: "[[location_CrownlightStrip.webp]]"

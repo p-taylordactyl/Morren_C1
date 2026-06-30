@@ -1,4 +1,6 @@
 ---
+title: Jack Mercer
+draft: false
 aliases:
 type: npc
 cover: "[[npc_JackMercer.webp]]"

@@ -1,4 +1,6 @@
 ---
+title: Mooring Wards
+draft: false
 aliases:
 type: district
 district:

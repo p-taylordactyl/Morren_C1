@@ -1,4 +1,6 @@
 ---
+title: The Protective Association for Wayward and Neglected Strays
+draft: false
 aliases:
   - PAWNS
   - Association

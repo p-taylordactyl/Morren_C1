@@ -1,4 +1,6 @@
 ---
+title: Sludge Farm
+draft: false
 type: location
 cover:
 created: 2026-04-29

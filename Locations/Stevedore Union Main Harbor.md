@@ -1,4 +1,6 @@
 ---
+title: Stevedore Union Main Harbor
+draft: false
 aliases:
 type: location
 district:

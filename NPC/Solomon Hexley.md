@@ -1,4 +1,6 @@
 ---
+title: Solomon Hexley
+draft: false
 aliases:
   - Solomon
   - Hexley

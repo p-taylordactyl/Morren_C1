@@ -1,4 +1,6 @@
 ---
+title: Old Valence
+draft: false
 type: city
 cover:
 parent:

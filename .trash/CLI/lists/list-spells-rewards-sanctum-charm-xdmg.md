@@ -1,0 +1,16 @@
+---
+title: list-spells-rewards-sanctum-charm-xdmg
+draft: true
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- ttrpg-cli/spell/list/reward/sanctum-charm
+aliases:
+- "Spells for Sanctum Charm"
+---
+# Spells for Sanctum Charm
+
+## 6th Level
+
+- [Heal](CLI/spells/heal-xphb.md "XPHB")

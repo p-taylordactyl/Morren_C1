@@ -1,4 +1,6 @@
 ---
+title: Elyra Sol
+draft: false
 aliases:
   - Elyra
 type: npc

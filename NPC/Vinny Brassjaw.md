@@ -1,4 +1,6 @@
 ---
+title: Vinny Brassjaw
+draft: false
 aliases:
   - Vinny
   - Brassjaw

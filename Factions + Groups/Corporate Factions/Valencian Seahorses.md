@@ -1,4 +1,6 @@
 ---
+title: Valencian Seahorses
+draft: false
 aliases:
   - Seahorses
 type: corporate faction

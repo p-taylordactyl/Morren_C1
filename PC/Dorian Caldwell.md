@@ -1,4 +1,6 @@
 ---
+title: Dorian Caldwell
+draft: false
 aliases:
   - Dorian
   - Franklin Marvelous

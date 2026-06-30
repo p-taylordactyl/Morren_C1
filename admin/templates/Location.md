@@ -1,4 +1,6 @@
 ---
+title: Location
+draft: true
 aliases:
 type: location
 district:

@@ -1,4 +1,6 @@
 ---
+title: "Keena O'Malley"
+draft: false
 aliases:
   - Keena
 cover: "[[pc_keenaomalley.webp]]"

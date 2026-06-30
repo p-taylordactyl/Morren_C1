@@ -1,4 +1,6 @@
 ---
+title: Cloud District
+draft: false
 aliases:
 type: district
 district:

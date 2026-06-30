@@ -1,4 +1,6 @@
 ---
+title: The Box Boys
+draft: false
 aliases:
   - Box Boys
   - Box Boy

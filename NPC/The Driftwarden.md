@@ -1,4 +1,6 @@
 ---
+title: The Driftwarden
+draft: false
 aliases:
 type: npc
 cover: "[[npc_TheDriftwarden.webp]]"

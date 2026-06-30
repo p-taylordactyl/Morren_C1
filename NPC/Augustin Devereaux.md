@@ -1,4 +1,6 @@
 ---
+title: Augustin Devereaux
+draft: false
 aliases:
   - Augustin
 type: npc

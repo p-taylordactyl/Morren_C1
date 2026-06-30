@@ -1,4 +1,6 @@
 ---
+title: Custis Delavide
+draft: false
 aliases:
   - Custis
 type: npc

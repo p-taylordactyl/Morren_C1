@@ -1,4 +1,6 @@
 ---
+title: Floodgate Bazaar
+draft: false
 aliases:
   - bazaar
 type: location

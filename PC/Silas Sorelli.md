@@ -1,4 +1,6 @@
 ---
+title: Silas Sorelli
+draft: false
 aliases:
   - Silas
 cover: "[[pc_silassorelli.webp]]"

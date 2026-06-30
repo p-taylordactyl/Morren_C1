@@ -1,4 +1,6 @@
 ---
+title: Oligarchs
+draft: false
 type: corporate faction
 cover: "[[faction_oligarchs.webp]]"
 created: 2026-03-06

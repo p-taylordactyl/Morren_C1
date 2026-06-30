@@ -1,4 +1,6 @@
 ---
+title: Cillian Kravus
+draft: false
 aliases:
   - Cillian
 type: npc

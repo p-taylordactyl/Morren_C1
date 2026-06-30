@@ -1,4 +1,6 @@
 ---
+title: Sprocket
+draft: false
 aliases:
 type: npc
 cover: "[[npc_sprocket.webp]]"

@@ -1,4 +1,6 @@
 ---
+title: Gorax
+draft: false
 aliases:
 type: npc
 cover: "[[npc_Gorax.webp]]"

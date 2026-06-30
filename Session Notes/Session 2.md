@@ -1,7 +1,9 @@
 ---
+title: Session 2
+draft: false
 type: session_note
 created: 2026-04-27
-modified: 2026-06-05
+modified: 2026-06-30
 session_number: 2
 session_date: 04/27/2026
 players:

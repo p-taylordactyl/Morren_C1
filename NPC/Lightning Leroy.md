@@ -1,4 +1,6 @@
 ---
+title: Lightning Leroy
+draft: false
 aliases:
 type: npc
 cover: "[[npc_LightningLeroy.webp]]"

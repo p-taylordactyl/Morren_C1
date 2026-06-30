@@ -1,4 +1,6 @@
 ---
+title: The Bloom Below
+draft: false
 aliases:
 created: 2026-06-01
 modified: 2026-06-08

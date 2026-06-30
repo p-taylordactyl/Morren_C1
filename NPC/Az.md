@@ -1,4 +1,6 @@
 ---
+title: Az
+draft: false
 aliases:
 type: npc
 cover: "[[npc_Az.webp]]"

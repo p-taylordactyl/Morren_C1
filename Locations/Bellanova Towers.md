@@ -1,4 +1,6 @@
 ---
+title: Bellanova Towers
+draft: false
 aliases:
 type: location
 district:

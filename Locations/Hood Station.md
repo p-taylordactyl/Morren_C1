@@ -1,4 +1,6 @@
 ---
+title: Hood Station
+draft: false
 aliases:
   - Hood Station
 type: location

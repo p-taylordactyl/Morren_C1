@@ -1,4 +1,6 @@
 ---
+title: Kieran Graves
+draft: false
 aliases:
 type: npc
 cover: "[[npc_Kieran.webp]]"

@@ -1,4 +1,6 @@
 ---
+title: Vesh Hollowbone
+draft: false
 aliases:
   - Vesh
 type: npc

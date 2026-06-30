@@ -1,4 +1,6 @@
 ---
+title: Mira Sporehand
+draft: false
 aliases:
   - Mira
 type: npc

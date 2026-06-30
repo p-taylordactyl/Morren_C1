@@ -1,4 +1,6 @@
 ---
+title: Voices in the Grates
+draft: false
 aliases:
   - missing kids
 created: 2026-06-01

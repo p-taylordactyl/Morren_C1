@@ -1,4 +1,6 @@
 ---
+title: Róisín Ward
+draft: false
 aliases:
   - Róisín
 type: npc

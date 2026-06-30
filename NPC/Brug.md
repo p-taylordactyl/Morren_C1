@@ -1,4 +1,6 @@
 ---
+title: Brug
+draft: false
 aliases:
 type: npc
 cover: "[[npc_Brug.webp]]"

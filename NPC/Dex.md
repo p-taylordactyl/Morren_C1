@@ -1,4 +1,6 @@
 ---
+title: Dex
+draft: false
 aliases:
 type: npc
 cover: "[[npc_Dex.webp]]"

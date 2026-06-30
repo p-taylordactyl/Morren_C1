@@ -1,4 +1,6 @@
 ---
+title: Drogrash
+draft: false
 aliases:
 type: npc
 cover: "[[npc_Drogrash.webp]]"

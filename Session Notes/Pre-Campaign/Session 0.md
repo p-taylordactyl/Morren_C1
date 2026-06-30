@@ -1,7 +1,9 @@
 ---
+title: Session 0
+draft: true
 type: session_note
 created: 2026-04-06
-modified: 2026-04-17
+modified: 2026-06-30
 session_date: 04/06/2026
 missed:
 paid: true

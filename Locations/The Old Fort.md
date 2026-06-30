@@ -1,4 +1,6 @@
 ---
+title: The Old Fort
+draft: false
 aliases:
 type: location
 district:

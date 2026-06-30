@@ -1,4 +1,6 @@
 ---
+title: Elevator Eulogy
+draft: false
 aliases:
   - fix the elevator
 created: 2026-06-01

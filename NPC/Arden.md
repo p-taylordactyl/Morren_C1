@@ -1,4 +1,6 @@
 ---
+title: Arden
+draft: false
 aliases:
 type: npc
 cover: "[[npc_Arden.webp]]"

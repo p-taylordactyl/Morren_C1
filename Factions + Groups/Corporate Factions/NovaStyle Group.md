@@ -1,4 +1,6 @@
 ---
+title: NovaStyle Group
+draft: false
 aliases:
   - Novastyle
 type: corporate faction

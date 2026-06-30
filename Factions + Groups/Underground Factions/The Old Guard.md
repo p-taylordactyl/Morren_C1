@@ -1,4 +1,6 @@
 ---
+title: The Old Guard
+draft: false
 aliases:
   - Old Guard
   - Guard

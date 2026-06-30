@@ -1,4 +1,6 @@
 ---
+title: Pipey
+draft: false
 aliases:
 type: npc
 cover: "[[npc_Pipey.webp]]"

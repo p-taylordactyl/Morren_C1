@@ -1,4 +1,6 @@
 ---
+title: Cael Foundation
+draft: false
 aliases:
   - CF
 type: corporate faction

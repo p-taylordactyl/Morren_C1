@@ -1,4 +1,6 @@
 ---
+title: The Old Valence Stevedore Union
+draft: false
 aliases:
   - Stevedores
   - Old Valence Stevedore Union

@@ -1,4 +1,6 @@
 ---
+title: Pumping Station
+draft: false
 aliases:
   - Hot Pipe
 type: location

@@ -1,4 +1,6 @@
 ---
+title: Iron Form Dojo
+draft: false
 aliases:
   - Dojo
   - Chojo

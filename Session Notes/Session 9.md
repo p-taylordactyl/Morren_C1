@@ -1,7 +1,9 @@
 ---
+title: Session 9
+draft: false
 type: session_note
 created: 2026-06-22
-modified: 2026-06-29
+modified: 2026-06-30
 session_date: 06/22/2026
 session_number: 9
 players:

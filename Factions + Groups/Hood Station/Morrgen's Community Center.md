@@ -1,4 +1,6 @@
 ---
+title: "Morrgen's Community Center"
+draft: false
 aliases:
   - Community Center
 type: group

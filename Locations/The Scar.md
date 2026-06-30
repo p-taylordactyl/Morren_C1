@@ -1,4 +1,6 @@
 ---
+title: The Scar
+draft: false
 aliases:
 type: district
 district:

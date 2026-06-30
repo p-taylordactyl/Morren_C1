@@ -6,7 +6,7 @@
       {
         "id": "4926aafa37c55690",
         "type": "tabs",
-        "dimension": 32.716568544995795,
+        "dimension": 32.36021771400297,
         "children": [
           {
             "id": "ee2038ee279731a2",
@@ -87,7 +87,7 @@
       {
         "id": "2cf7b81944b06cc4",
         "type": "tabs",
-        "dimension": 67.2834314550042,
+        "dimension": 67.63978228599703,
         "children": [
           {
             "id": "457b502a6ecccc95",
@@ -206,6 +206,18 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d0eb348edd8804a0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "ffe97bd6f04d2e12",
             "type": "leaf",
             "state": {
@@ -281,21 +293,8 @@
               "icon": "lucide-list",
               "title": "Outline of Home"
             }
-          },
-          {
-            "id": "d0eb348edd8804a0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "pinned": true,
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -314,45 +313,45 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "d0eb348edd8804a0",
+  "active": "a38f4569ed3b3dc0",
   "lastOpenFiles": [
     "Index.md",
-    "admin/templates/Quest.md",
-    "Session Notes/Quests/The Silent Floor.md",
     "Session Notes/Session 10.md",
+    "Session Notes/Session 9.md",
+    "Session Notes/Session 8.md",
+    "Session Notes/Session 7.md",
+    "Session Notes/Session 6.md",
+    "Session Notes/Session 5.md",
+    "Session Notes/Session 4.md",
+    "Session Notes/Session 3.md",
+    "Session Notes/Session 2.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Timers.md",
+    "Session Notes/Pre-Campaign/Character Brainstorming.md",
+    "Session Notes/Pre-Campaign/Session 0.md",
+    "Kat Themes and Goals.md",
+    "NPC/Hadrian Buchanon.md",
+    "NPC/NPC Index.base",
+    "admin/templates/Quest.md",
+    "PC/Themes.md",
+    "PC/Keena O'Malley.md",
+    "PC/Gideon Oublier.md",
+    "PC/Silas Sorelli.md",
+    "PC/Maximilius Adkins.md",
+    "PC/Katriel Buchanon.md",
+    "admin/In-Session New Note Automation.md",
+    "admin/Meta.md",
+    "admin/Useful Bits.md",
     "admin/assets/npc_caveman.webp",
     "admin/assets/npc_broadcastsaint.webp",
     "admin/assets/npc_quietplacelady.webp",
     "admin/assets/hamletkeeper_2_itsrealbad.webp",
     "admin/assets/hamletkeeper.webp",
     "admin/assets/session10_map2.webp",
-    "Locations/Quiet Place.md",
     "admin/assets/session10_map1.webp",
     "admin/assets/keena_masked.webp",
-    "Session Notes/Session 9.md",
     "admin/assets/max_thetickler.webp",
     "admin/assets/image-1.webp",
-    "NPC/Jax Riven.md",
-    "World Misc/Religion/Cult of the Machine God.md",
-    "NPC/Bron.md",
-    "NPC/Arden.md",
-    "NPC/Faile.md",
-    "NPC/Dex.md",
-    "NPC/Solomon Hexley.md",
-    "NPC/Lightning Leroy.md",
-    "NPC/Kieran Graves.md",
-    "NPC/Elyra Sol.md",
-    "NPC/Vinny Brassjaw.md",
-    "NPC/Jack Mercer.md",
-    "NPC/Stalker.md",
-    "Factions + Groups/Enforcers.md",
-    "Factions + Groups/Underground Factions/The West Valence Saints.md",
-    "Factions + Groups/Underground Factions/The Old Valence Stevedore Union.md",
-    "Factions + Groups/Underground Factions/The Old Guard.md",
-    "Factions + Groups/Underground Factions/Mariner's Reach.md",
-    "Factions + Groups/Underground Factions/Ghosts of the Flooded Zone.md",
-    "Factions + Groups/Underground Factions/The Bellanova Family.md",
-    "NPC/NPC Index.base",
     "Session Notes/Session Index.base",
     "Factions + Groups/Faction Index.base",
     "Session Notes/Quests/Quest Index.base",

@@ -1,4 +1,6 @@
 ---
+title: Bron
+draft: false
 aliases:
 type: npc
 cover: "[[npc_Bron.webp]]"

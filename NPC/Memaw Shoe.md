@@ -1,4 +1,6 @@
 ---
+title: Memaw Shoe
+draft: false
 aliases:
   - Memaw
 type: npc

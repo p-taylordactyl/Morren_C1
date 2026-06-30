@@ -1,4 +1,6 @@
 ---
+title: Hadrian Buchanon
+draft: false
 aliases:
   - Hadrian
 type: npc

@@ -1,4 +1,6 @@
 ---
+title: Enforcers
+draft: false
 aliases:
 type: group
 cover:

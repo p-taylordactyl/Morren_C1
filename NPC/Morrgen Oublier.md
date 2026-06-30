@@ -1,4 +1,6 @@
 ---
+title: Morrgen Oublier
+draft: false
 aliases:
   - Morrgen
 type: npc

@@ -1,4 +1,6 @@
 ---
+title: Faile
+draft: false
 aliases:
 type: npc
 cover: "[[npc_Faile.webp]]"

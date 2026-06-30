@@ -1,4 +1,6 @@
 ---
+title: Maximilius Adkins
+draft: false
 aliases:
   - Max Adkins
   - Max
@@ -6,7 +8,7 @@ aliases:
 cover: "[[pc_maxadkins.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-05-28
+modified: 2026-06-30
 tags:
   - under_construction
 ---

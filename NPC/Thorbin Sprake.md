@@ -1,4 +1,6 @@
 ---
+title: Thorbin Sprake
+draft: false
 aliases:
   - Thorbin
 type: npc

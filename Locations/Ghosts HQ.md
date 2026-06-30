@@ -1,4 +1,6 @@
 ---
+title: Ghosts HQ
+draft: false
 aliases:
 type: location
 district:

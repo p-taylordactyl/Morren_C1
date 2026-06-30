@@ -1,4 +1,6 @@
 ---
+title: Mega Mall
+draft: false
 aliases:
 type: location
 district:

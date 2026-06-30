@@ -1,4 +1,6 @@
 ---
+title: Central Park
+draft: false
 aliases:
 type: location
 district:

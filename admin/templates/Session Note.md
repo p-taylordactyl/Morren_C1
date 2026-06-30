@@ -1,4 +1,6 @@
 ---
+title: Session Note
+draft: true
 type: session_note
 created:
 modified:

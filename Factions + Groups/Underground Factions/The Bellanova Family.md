@@ -1,4 +1,6 @@
 ---
+title: The Bellanova Family
+draft: false
 aliases:
   - Bellanovas
   - Bellanova

@@ -1,4 +1,6 @@
 ---
+title: Energy Siphon Tower
+draft: false
 aliases:
 type: location
 district: "[[Crownlight Strip]]"

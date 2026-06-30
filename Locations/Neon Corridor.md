@@ -1,4 +1,6 @@
 ---
+title: Neon Corridor
+draft: false
 aliases:
 type: location
 district:

@@ -1,0 +1,16 @@
+---
+title: list-spells-feats-telekinetic-xphb
+draft: true
+obsidianUIMode: preview
+cssclasses:
+- json5e-note
+tags:
+- ttrpg-cli/spell/list/feat/telekinetic
+aliases:
+- "Spells for Telekinetic"
+---
+# Spells for Telekinetic
+
+## Cantrip
+
+- [Mage Hand](CLI/spells/mage-hand-xphb.md "XPHB") as cantrip
