@@ -59,16 +59,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Quests/The Silent Floor.md",
+                "file": "admin/templates/Quest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Silent Floor"
+              "title": "Quest"
+            }
+          },
+          {
+            "id": "abfefd39ab9a481b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "2cf7b81944b06cc4",
@@ -267,17 +281,29 @@
               "icon": "lucide-list",
               "title": "Outline of Home"
             }
+          },
+          {
+            "id": "d0eb348edd8804a0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -288,14 +314,16 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "8c3d4033fa24f2e6",
+  "active": "d0eb348edd8804a0",
   "lastOpenFiles": [
+    "Index.md",
+    "admin/templates/Quest.md",
+    "Session Notes/Quests/The Silent Floor.md",
     "Session Notes/Session 10.md",
     "admin/assets/npc_caveman.webp",
     "admin/assets/npc_broadcastsaint.webp",
     "admin/assets/npc_quietplacelady.webp",
     "admin/assets/hamletkeeper_2_itsrealbad.webp",
-    "Session Notes/Quests/The Silent Floor.md",
     "admin/assets/hamletkeeper.webp",
     "admin/assets/session10_map2.webp",
     "Locations/Quiet Place.md",
@@ -324,7 +352,6 @@
     "Factions + Groups/Underground Factions/Mariner's Reach.md",
     "Factions + Groups/Underground Factions/Ghosts of the Flooded Zone.md",
     "Factions + Groups/Underground Factions/The Bellanova Family.md",
-    "Factions + Groups/Underground Factions/The Box Boys.md",
     "NPC/NPC Index.base",
     "Session Notes/Session Index.base",
     "Factions + Groups/Faction Index.base",
