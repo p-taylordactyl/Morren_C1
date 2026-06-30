@@ -1,0 +1,16 @@
+{
+  "ITS@@illusion": true,
+  "ITS@@default-font": "Pilgrim",
+  "ITS@@file-line-width": 1100,
+  "ITS@@check-color": false,
+  "ITS@@check-bg": false,
+  "ITS@@canvas-milanote": false,
+  "ITS@@canvas-cards": true,
+  "ITS@@embed-clean": false,
+  "ITS@@embed-dark-background": false,
+  "ITS@@callout-style": "none",
+  "ITS@@default-callout-quote": true,
+  "ITS@@file-explorer-flat": false,
+  "ITS@@bases-notion-cards": false,
+  "ITS@@bases-non-its-styling": false
+}

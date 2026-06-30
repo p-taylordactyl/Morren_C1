@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"95daec22209bb7a7","type":"text","text":"new NPC","x":-938,"y":-697,"width":158,"height":60},
+		{"id":"44d2030751fb657c","type":"text","text":"location property","x":-293,"y":-827,"width":250,"height":60,"color":"2"},
+		{"id":"70f8bb03b223d531","type":"text","text":"faction/group property","x":-293,"y":-720,"width":250,"height":53,"color":"2"},
+		{"id":"a6a0c4ff12dc1d66","type":"text","text":"paste NPC image in session note and rename","x":-646,"y":-620,"width":218,"height":90},
+		{"id":"03fcf65ea6e441bb","type":"text","text":"NPC image already embedded through templater","x":-293,"y":-590,"width":250,"height":90,"color":"2"},
+		{"id":"83b39298b7c1ba46","type":"text","text":"create note named for NPC with NPC template\n","x":-646,"y":-804,"width":218,"height":107}
+	],
+	"edges":[
+		{"id":"8d79593d0984b764","fromNode":"95daec22209bb7a7","fromSide":"right","toNode":"83b39298b7c1ba46","toSide":"left"},
+		{"id":"8f12f82d8eefb469","fromNode":"83b39298b7c1ba46","fromSide":"right","toNode":"44d2030751fb657c","toSide":"left"},
+		{"id":"26d4bb380e0a643c","fromNode":"83b39298b7c1ba46","fromSide":"right","toNode":"70f8bb03b223d531","toSide":"left"},
+		{"id":"209fff0638476811","fromNode":"95daec22209bb7a7","fromSide":"right","toNode":"a6a0c4ff12dc1d66","toSide":"left"},
+		{"id":"95a19457f0195f93","fromNode":"a6a0c4ff12dc1d66","fromSide":"right","toNode":"03fcf65ea6e441bb","toSide":"left"},
+		{"id":"d1100f9e7badcdd6","fromNode":"83b39298b7c1ba46","fromSide":"right","toNode":"03fcf65ea6e441bb","toSide":"left"}
+	]
+}

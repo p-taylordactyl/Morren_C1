@@ -1,0 +1,20 @@
+filters:
+  and:
+    - type.containsAny("faction","group")
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: All Factions + Groups
+    order:
+      - file.name
+      - locations
+      - associations
+    image: note.cover
+    rowHeight: tall
+  - type: cards
+    name: Corporate
+    filters:
+      and:
+        - type.contains("corporate faction")
+    image: note.cover
+    imageAspectRatio: 1.15

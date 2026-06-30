@@ -1,0 +1,341 @@
+{
+  "main": {
+    "id": "4e47b9a8652d31e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "4926aafa37c55690",
+        "type": "tabs",
+        "dimension": 32.716568544995795,
+        "children": [
+          {
+            "id": "ee2038ee279731a2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Session Notes/Session Index.base",
+                "viewName": "All Sessions"
+              },
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "Session Index"
+            }
+          },
+          {
+            "id": "6f50d9046c1b23b4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Factions + Groups/Faction Index.base",
+                "viewName": "All Factions + Groups"
+              },
+              "pinned": true,
+              "icon": "lucide-layout-grid",
+              "title": "Faction Index"
+            }
+          },
+          {
+            "id": "d7d9c79a92e6b4b1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "NPC/NPC Index.base",
+                "viewName": "All NPCs"
+              },
+              "pinned": true,
+              "icon": "lucide-layout-grid",
+              "title": "NPC Index"
+            }
+          },
+          {
+            "id": "8c3d4033fa24f2e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Quests/The Silent Floor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Silent Floor"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2cf7b81944b06cc4",
+        "type": "tabs",
+        "dimension": 67.2834314550042,
+        "children": [
+          {
+            "id": "457b502a6ecccc95",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 8"
+            }
+          },
+          {
+            "id": "f3ddf28c720a30aa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 9"
+            }
+          },
+          {
+            "id": "a38f4569ed3b3dc0",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 10.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 10"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "07d11163825d7296",
+    "type": "split",
+    "children": [
+      {
+        "id": "f882ad1b171bc3bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5281df3ab5f0459f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e317db3ef66269e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "3c30548b3b8b5809",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "right": {
+    "id": "75db2d57aea98827",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf0cf28a0b793b61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffe97bd6f04d2e12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Locations/Location Index.base",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Location Index"
+            }
+          },
+          {
+            "id": "9329fed06e8aefa1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Locations/Location Index.base",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Location Index"
+            }
+          },
+          {
+            "id": "3e1f0b4e5637317b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f18f9490e8c4aea8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "21090ef14e4a8262",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "admin/Home.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "templater-obsidian:Templater": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "8c3d4033fa24f2e6",
+  "lastOpenFiles": [
+    "Session Notes/Session 10.md",
+    "admin/assets/npc_caveman.webp",
+    "admin/assets/npc_broadcastsaint.webp",
+    "admin/assets/npc_quietplacelady.webp",
+    "admin/assets/hamletkeeper_2_itsrealbad.webp",
+    "Session Notes/Quests/The Silent Floor.md",
+    "admin/assets/hamletkeeper.webp",
+    "admin/assets/session10_map2.webp",
+    "Locations/Quiet Place.md",
+    "admin/assets/session10_map1.webp",
+    "admin/assets/keena_masked.webp",
+    "Session Notes/Session 9.md",
+    "admin/assets/max_thetickler.webp",
+    "admin/assets/image-1.webp",
+    "NPC/Jax Riven.md",
+    "World Misc/Religion/Cult of the Machine God.md",
+    "NPC/Bron.md",
+    "NPC/Arden.md",
+    "NPC/Faile.md",
+    "NPC/Dex.md",
+    "NPC/Solomon Hexley.md",
+    "NPC/Lightning Leroy.md",
+    "NPC/Kieran Graves.md",
+    "NPC/Elyra Sol.md",
+    "NPC/Vinny Brassjaw.md",
+    "NPC/Jack Mercer.md",
+    "NPC/Stalker.md",
+    "Factions + Groups/Enforcers.md",
+    "Factions + Groups/Underground Factions/The West Valence Saints.md",
+    "Factions + Groups/Underground Factions/The Old Valence Stevedore Union.md",
+    "Factions + Groups/Underground Factions/The Old Guard.md",
+    "Factions + Groups/Underground Factions/Mariner's Reach.md",
+    "Factions + Groups/Underground Factions/Ghosts of the Flooded Zone.md",
+    "Factions + Groups/Underground Factions/The Bellanova Family.md",
+    "Factions + Groups/Underground Factions/The Box Boys.md",
+    "NPC/NPC Index.base",
+    "Session Notes/Session Index.base",
+    "Factions + Groups/Faction Index.base",
+    "Session Notes/Quests/Quest Index.base",
+    "admin/assets/misc",
+    "admin/Home.canvas",
+    "admin/Workflow Map.canvas",
+    "admin/assets/factions",
+    "Session Notes/Questions",
+    "Session Notes/Quests",
+    "Locations/Location Index.base",
+    "Factions + Groups/Groups"
+  ]
+}

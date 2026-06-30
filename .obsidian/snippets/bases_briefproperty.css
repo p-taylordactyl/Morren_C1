@@ -1,0 +1,16 @@
+/* Bases calls "brief" are multi-line */
+.bases-cards-group .bases-cards-property[data-property="note.brief"] .bases-cards-label { 
+	display: none !important; 
+}
+.bases-cards-group .bases-cards-property[data-property="note.brief"] {
+	transform: translateY(calc(-0.5 * var(--bases-cards-line-height)));
+	height: auto !important;
+}
+.bases-cards-group .bases-cards-property[data-property="note.brief"] .bases-rendered-value {
+	display:block !important; 
+	white-space: normal !important; 
+	overflow: visible !important;
+	
+	height: auto !important;
+	
+}

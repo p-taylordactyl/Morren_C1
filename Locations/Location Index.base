@@ -1,0 +1,28 @@
+filters:
+  and:
+    - type == "location"
+    - file.folder != "admin/templates"
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: factions
+      direction: ASC
+    order:
+      - file.name
+      - associations
+      - cover
+    image: note.cover
+    columnSize:
+      file.name: 186
+    rowHeight: tall
+  - type: list
+    name: Sublocations
+    filters:
+      and:
+        - parent.contains(link(this.file.name))
+  - type: table
+    name: District
+    groupBy:
+      property: district
+      direction: ASC

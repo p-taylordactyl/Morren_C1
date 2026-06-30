@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "admin/assets",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "trashOption": "local",
+  "openBehavior": "file:Session Notes/Kat Themes and Goals",
+  "focusNewTab": false,
+  "userIgnoreFilters": [
+    "CLI/"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "userAdmonitions": {
+    "statblock": {
+      "type": "statblock",
+      "color": "198, 157, 159",
+      "icon": {
+        "name": "dragon",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "styleWithCss": true,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false
+    },
+    "flowchart": {
+      "type": "flowchart",
+      "icon": {
+        "name": "map",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false,
+      "color": "133, 204, 48",
+      "styleWithCss": true
+    },
+    "gallery": {
+      "type": "gallery",
+      "icon": {
+        "name": "image",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "injectColor": false,
+      "noTitle": true,
+      "copy": false,
+      "color": "44, 128, 206",
+      "styleWithCss": true
+    },
+    "readaloud": {
+      "type": "readaloud",
+      "icon": {
+        "name": "book-reader",
+        "type": "font-awesome"
+      },
+      "title": "Read Aloud",
+      "command": false,
+      "injectColor": false,
+      "noTitle": false,
+      "copy": false,
+      "color": "212, 175, 83",
+      "styleWithCss": true
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": false,
+  "version": "11.0.0",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": false,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": true
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": false,
+  "snippetPath": "custom-admonitions.d0ff38"
+}

@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "session_date": "text",
+    "locations": "multitext",
+    "missed": "checkbox",
+    "associations": "multitext",
+    "cover": "text",
+    "paid": "checkbox",
+    "disposition": "multitext",
+    "Bee-ed": "multitext",
+    "players": "multitext",
+    "parent": "text",
+    "type": "text",
+    "organizations": "multitext",
+    "session_number": "number",
+    "quest_status": "text"
+  }
+}

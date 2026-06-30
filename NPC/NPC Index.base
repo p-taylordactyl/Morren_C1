@@ -1,0 +1,48 @@
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: All NPCs
+    order:
+      - file.name
+      - brief
+      - locations
+      - factions
+      - associations
+    sort:
+      - property: file.backlinks
+        direction: DESC
+    columnSize:
+      note.brief: 454
+    image: note.cover
+    imageAspectRatio: 1.05
+  - type: cards
+    name: Faction
+    filters:
+      and:
+        - organizations.contains(link(this.file.name))
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+  - type: cards
+    name: Location
+    filters:
+      and:
+        - locations.contains(link(this.file.name))
+    order:
+      - file.name
+      - brief
+    image: note.cover
+    cardSize: 170
+    imageAspectRatio: 1.15
+  - type: cards
+    name: Groups
+    filters:
+      and:
+        - associations.contains(link(this.file.name))
+    image: note.img

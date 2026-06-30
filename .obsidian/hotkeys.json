@@ -1,0 +1,94 @@
+{
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "B"
+    }
+  ],
+  "file-explorer:new-file": [],
+  "workspace:close": [],
+  "quickadd:choice:c652a9a8-2c80-433f-b2eb-95ddbd4edeb0": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "quickadd:choice:bbafdce3-d464-420c-8de0-7ab50073493f": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:insert-link": [],
+  "quickadd:choice:1f8ea46a-22ab-4bd9-9009-5aa9166f107d": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
+  "graph:open": [],
+  "quickadd:choice:0bf1097e-337a-4478-b605-6e6ea2c3ab48": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "quickadd:choice:a3268790-60b4-4f01-9cf5-35a331da4536": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "editor:save-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ],
+  "quickadd:choice:98d6b29a-7dfb-4b22-bf7c-7a65fd46543b": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "quickadd:choice:41705a4a-42a4-407a-8c99-ac5c5655c6a5": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ]
+}

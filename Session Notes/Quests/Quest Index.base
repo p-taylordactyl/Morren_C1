@@ -1,0 +1,40 @@
+filters:
+  and:
+    - type == "quest"
+    - file.folder != "admin/templates"
+views:
+  - type: table
+    name: All Quests
+    groupBy:
+      property: quest_status
+      direction: ASC
+    order:
+      - file.name
+      - quest_status
+      - quest_location
+      - quest_giver
+      - expires
+      - tags
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: due_date
+        direction: ASC
+    columnSize:
+      note.quest_location: 154
+  - type: table
+    name: Completed
+    order:
+      - file.name
+      - quest_location
+      - quest_giver
+      - quest_status
+      - expires
+      - tags
+    sort:
+      - property: due_date
+        direction: ASC
+    columnSize:
+      note.due_date: 94
+      note.quest_location: 270
+      note.quest_giver: 272

@@ -1,0 +1,57 @@
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+formulas:
+  Untitled: ""
+  Untitled 2: ""
+properties:
+  file.name:
+    displayName: Session
+views:
+  - type: table
+    name: All Sessions
+    order:
+      - file.name
+      - session_date
+      - missed
+      - paid
+      - ingame_start
+      - ingame_finish
+      - locations
+  - type: table
+    name: Unpaid
+    filters:
+      and:
+        - missed != true
+        - paid != true
+    order:
+      - file.name
+      - session_date
+      - paid
+    sort: []
+    columnSize:
+      file.name: 179
+      note.session_date: 219
+      note.paid: 235
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink(this.file)
+    order:
+      - file.name
+      - locations
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: cards
+    name: Prev and Next Sessions
+    filters:
+      or:
+        - session_number == this.session_number - 01
+        - session_number == this.session_number + 1
+    order:
+      - session_date
+      - file.name
+    cardSize: 280

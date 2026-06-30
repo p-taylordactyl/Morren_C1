@@ -1,0 +1,27 @@
+filters:
+  and:
+    - "!img.isEmpty()"
+formulas:
+  Untitled: ""
+  image: image(img)
+views:
+  - type: list
+    name: All Maps
+    filters:
+      and:
+        - "!img_location.isEmpty()"
+    order:
+      - formula.image
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: note.img
+    rowHeight: extra
+    columnSize:
+      formula.image: 1086
+  - type: cards
+    name: All NPCs
+    filters:
+      and:
+        - "!img_npc.isEmpty()"
+    image: note.img
