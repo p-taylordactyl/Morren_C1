@@ -1,0 +1,41 @@
+name: Sync Vault to Quartz
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Morren_C1
+        uses: actions/checkout@v4.2.2
+
+      - name: Checkout hoodswatch
+        uses: actions/checkout@v4.2.2
+        with:
+          repository: p-taylordactyl/hoodswatch
+          token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          path: hoodswatch
+
+      - name: Sync files to Quartz
+        run: |
+          rsync -av --delete \
+            --exclude=".git" \
+            --exclude=".github" \
+            ./ hoodswatch/content/
+
+      - name: Commit and push changes
+        run: |
+          cd hoodswatch
+
+          git config user.name "p-taylordactyl"
+          git config user.email "279896963+p-taylordactyl@users.noreply.github.com"
+
+          git add .
+
+          # Exit if nothing changed
+          git diff --cached --quiet && exit 0
+
+          git commit -m "Sync from Vault Repo"
+          git push

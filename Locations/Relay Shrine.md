@@ -6,7 +6,7 @@ type: location
 district:
 cover: "[[location_RelayShrine.webp]]"
 created: 2026-06-29
-modified: 2026-06-29
+modified: 2026-06-30
 parent: "[[BB Megatower]]"
 associations:
 tags:
