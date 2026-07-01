@@ -1,7 +1,7 @@
 ---
 title: Kat Themes and Goals
 draft: "true"
-modified: 2026-06-30
+modified: 2026-07-01
 created: 2026-04-27
 ---
 ## Themes
