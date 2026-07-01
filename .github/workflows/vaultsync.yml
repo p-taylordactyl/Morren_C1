@@ -9,10 +9,10 @@ jobs:
 
     steps:
       - name: Checkout Morren_C1
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v4
 
       - name: Checkout hoodswatch
-        uses: actions/checkout@v4.2.2
+        uses: actions/checkout@v4
         with:
           repository: p-taylordactyl/hoodswatch
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
