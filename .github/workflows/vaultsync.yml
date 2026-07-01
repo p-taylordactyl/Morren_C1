@@ -18,16 +18,16 @@ jobs:
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
           path: hoodswatch
 
-      - name: Sync files to Quartz content
+      - name: Sync files to Quartz
         run: |
           rsync -av --delete \
             --exclude=".git" \
             --exclude=".github" \
-            ./ quartz/content/
+            ./ hoodswatch/content/
 
       - name: Commit and push changes
         run: |
-          cd quartz
+          cd hoodswatch
 
           git config user.name "p-taylordactyl"
           git config user.email "279896963+p-taylordactyl@users.noreply.github.com"
