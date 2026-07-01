@@ -37,4 +37,4 @@ In the Modern Age, Paragon Soundworks has shifted from overt psychological warfa
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

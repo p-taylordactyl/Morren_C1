@@ -35,4 +35,4 @@ Cillian Ward. A human man in his late 40s/early 50s, originally from Westreach. 
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

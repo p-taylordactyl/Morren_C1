@@ -31,4 +31,4 @@ Mechanic working for the Titan Corporation at the Not Far Sewer's Pumping Statio
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

@@ -47,4 +47,4 @@ In the Modern Age, the Saints maintain careful boundaries. They do not expand ag
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

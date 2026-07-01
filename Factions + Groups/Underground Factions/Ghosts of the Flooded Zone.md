@@ -43,4 +43,4 @@ To the rest of Morren, the Ghosts are treated as an urban myth, a cautionary rum
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

@@ -39,4 +39,4 @@ They emphasize that art is supposed to be messy and confusing. They encourage ot
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

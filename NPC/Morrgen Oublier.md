@@ -34,4 +34,4 @@ Morrgen Oublier, a high elf in her early hundreds with deep wine red hair. She i
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

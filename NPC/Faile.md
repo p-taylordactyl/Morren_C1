@@ -34,4 +34,4 @@ One of the tech priests serving the [[Cult of the Machine God|Machine Spirit]] a
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

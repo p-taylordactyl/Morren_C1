@@ -3,7 +3,7 @@ title: Session 10
 draft: false
 type: session_note
 created: 2026-06-29
-modified: 2026-06-30
+modified: 2026-07-01
 session_date: 06/29/2026
 session_number: 10
 players:
@@ -17,13 +17,14 @@ missed:
 paid:
 level: "3"
 ingame_start: 1/11/2012
-ingame_finish:
+ingame_finish: 1/11/2012
 locations:
   - "[[BB Megatower]]"
+  - "[[Quiet Place]]"
 tags:
 ---
 
-![[Session Index.base#Prev and Next Sessions]]
+![[0 Session Index.base#Prev and Next Sessions]]
 
 # Winter 11, 2012``
 

@@ -28,4 +28,4 @@ A popular Oogtuber who collects rare media and comic books. [[Gideon Oublier|Gid
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

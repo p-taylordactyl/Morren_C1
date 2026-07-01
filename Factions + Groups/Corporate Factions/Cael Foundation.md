@@ -43,4 +43,4 @@ Once Rookie Heroes accumulate enough influence and wealth, they may enroll in th
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

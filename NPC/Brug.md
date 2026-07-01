@@ -31,4 +31,4 @@ A member of the [[The Box Boys|Box Boys]] we saved from getting his ass kicked b
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

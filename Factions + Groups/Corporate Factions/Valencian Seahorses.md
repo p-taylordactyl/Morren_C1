@@ -38,4 +38,4 @@ Over time, this ecosystem has transformed the “love of Ball” into a genuine 
 
 # Sessions Encountered
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

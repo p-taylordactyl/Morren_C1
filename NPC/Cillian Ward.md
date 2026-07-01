@@ -30,4 +30,4 @@ A human man in his late 40s/early 50s, originally from [[Westreach]]. Although h
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

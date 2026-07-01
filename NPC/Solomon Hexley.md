@@ -37,4 +37,4 @@ Solomon has spent the intervening years tracking Silas down to extract restituti
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

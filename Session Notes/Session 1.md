@@ -19,13 +19,13 @@ level: "1"
 ingame_start: 1/1/2012
 ingame_finish: 1/2/2012
 locations:
-  - "[[Locations/Hood Station]]"
+  - "[[Locations/Hood Station|Hood Station]]"
   - "[[Not Far Sewer]]"
 quests: "[[The Bloom Below]]"
 tags:
 ---
 
-![[Session Index.base#Prev and Next Sessions]]
+![[0 Session Index.base#Prev and Next Sessions]]
 
 # Winter 1, 2012
 

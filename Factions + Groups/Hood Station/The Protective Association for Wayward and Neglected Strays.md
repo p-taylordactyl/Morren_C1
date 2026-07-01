@@ -48,4 +48,4 @@ Rosetta "the Thorn" is nothing short of a full blown psychopath. Cold, calculati
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

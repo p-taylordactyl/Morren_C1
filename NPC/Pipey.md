@@ -31,4 +31,4 @@ Mysterious tiefling we met in a pipe in the [[Not Far Sewer]]. Wouldn't give his
 
 # Session Appearances
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

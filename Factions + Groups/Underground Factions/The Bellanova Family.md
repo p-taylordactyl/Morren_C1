@@ -41,4 +41,4 @@ In the Modern Age, the Bellanova Family continues to dominate life within Bellan
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

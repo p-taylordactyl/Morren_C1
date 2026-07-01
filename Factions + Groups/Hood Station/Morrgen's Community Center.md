@@ -37,4 +37,4 @@ Morrgen's Community Center came to be more from necessity than ambition. The [[T
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

@@ -36,4 +36,4 @@ In the Modern Age, Crownlight Media no longer needs overt coercion. Its dominanc
 
 # Sessions Encountered
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

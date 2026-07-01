@@ -34,4 +34,4 @@ In addition to the normal Saints rules, the Dominion had their own additional ru
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

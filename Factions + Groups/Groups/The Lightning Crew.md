@@ -31,4 +31,4 @@ While helping Kieran, the party disabled several crew members (and killed one on
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

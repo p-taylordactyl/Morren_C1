@@ -15,7 +15,6 @@ views:
       - file.name
       - session_date
       - missed
-      - paid
       - ingame_start
       - ingame_finish
       - locations

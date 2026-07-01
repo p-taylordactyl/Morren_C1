@@ -31,4 +31,4 @@ Keena's cousin, who lost an arm in a Titan Corporation accident.
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

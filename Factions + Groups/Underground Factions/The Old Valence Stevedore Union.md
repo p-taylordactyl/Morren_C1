@@ -42,4 +42,4 @@ To the public, the Old Valence Stevedore Union is a necessary institution that k
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

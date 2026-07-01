@@ -32,4 +32,4 @@ A former manager of a team adjacent to [[Maximilius Adkins|Max]]’s during his 
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

@@ -29,4 +29,4 @@ A Priestess of the [[Machine God]] living in the [[Not Far Sewer]].We found Sist
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

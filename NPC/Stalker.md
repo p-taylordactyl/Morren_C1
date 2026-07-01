@@ -40,4 +40,4 @@ A mysterious individual or group that keeps sending Gideon blackmail material ag
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

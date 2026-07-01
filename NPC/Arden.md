@@ -34,4 +34,4 @@ A priest of the [[Cult of the Machine God]] located at the [[Relay Shrine]]. App
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

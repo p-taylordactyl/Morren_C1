@@ -30,4 +30,4 @@ A superhero with the [[Cael Foundation]], powered by a custom suit made of Lumen
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

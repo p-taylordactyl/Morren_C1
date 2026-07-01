@@ -49,4 +49,4 @@ Influence within The Redacted is fluid and situational. Authority is not assigne
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

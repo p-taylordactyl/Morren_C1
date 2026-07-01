@@ -40,7 +40,7 @@ In the Modern Age, Titan Corporation continues to dominate industrial production
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]
 
 
 

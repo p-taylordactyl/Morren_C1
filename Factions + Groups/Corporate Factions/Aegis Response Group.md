@@ -37,4 +37,4 @@ In the Modern Age, Aegis Response Group continues to dominate disaster response 
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

@@ -32,4 +32,4 @@ Individual responsible for accident at the [[Titan Corporation]] that killed ove
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

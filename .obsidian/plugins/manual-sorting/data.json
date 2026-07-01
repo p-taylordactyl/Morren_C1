@@ -2,14 +2,14 @@
   "customOrder": {
     "/": {
       "children": [
+        "Index.md",
         "admin",
         "World Misc",
         "PC",
         "NPC",
         "Factions + Groups",
         "Locations",
-        "Session Notes",
-        "Index.md"
+        "Session Notes"
       ],
       "sortOrder": "custom"
     },
@@ -349,7 +349,7 @@
         "Session Notes/Pre-Campaign",
         "Session Notes/Quests",
         "Session Notes/Timers.md",
-        "Session Notes/Session Index.base",
+        "Session Notes/0 Session Index.base",
         "Session Notes/Session 1.md",
         "Session Notes/Session 2.md",
         "Session Notes/Session 3.md",
@@ -372,7 +372,7 @@
     },
     "Session Notes/Quests": {
       "children": [
-        "Session Notes/Quests/Quest Index.base",
+        "Session Notes/Quests/0 Quest Index.base",
         "Session Notes/Quests/The Flow Must Continue.md",
         "Session Notes/Quests/Voices in the Grates.md",
         "Session Notes/Quests/The Bloom Below.md",

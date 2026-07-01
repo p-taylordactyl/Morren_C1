@@ -24,6 +24,9 @@ views:
       note.quest_location: 154
   - type: table
     name: Completed
+    filters:
+      and:
+        - quest_status == "completed"
     order:
       - file.name
       - quest_location
@@ -38,3 +41,16 @@ views:
       note.due_date: 94
       note.quest_location: 270
       note.quest_giver: 272
+  - type: table
+    name: Active
+    order:
+      - file.name
+      - quest_location
+      - quest_giver
+      - quest_status
+      - expires
+      - reward
+      - tags
+    columnSize:
+      note.quest_giver: 160
+      note.quest_location: 270

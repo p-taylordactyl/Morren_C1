@@ -38,4 +38,4 @@ A goblin that seems to be some kind of crime boss in the [[BB Megatower]].
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

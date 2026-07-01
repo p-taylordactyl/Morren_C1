@@ -30,4 +30,4 @@ An active member of [[The Redacted]] who is constantly searching for leads and o
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

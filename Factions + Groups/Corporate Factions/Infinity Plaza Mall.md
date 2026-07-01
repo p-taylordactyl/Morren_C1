@@ -36,4 +36,4 @@ In the Modern Age, Infinity Plaza Mall continues to consolidate retail influence
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

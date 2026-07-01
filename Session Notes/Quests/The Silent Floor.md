@@ -3,10 +3,10 @@ title: The Silent Floor
 draft: false
 aliases:
 created: 2026-06-01
-modified: 2026-06-29
+modified: 2026-07-01
 cover: "[[quest_thesilentfloor.webp]]"
 type: quest
-quest_status: complete
+quest_status: completed
 quest_giver: "[[Ren Calder]]"
 quest_location: "[[BB Megatower]]"
 reward: 30 platinum

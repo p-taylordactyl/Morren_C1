@@ -31,4 +31,4 @@ Leader of the [[The Lightning Crew|Lightning Crew]] of [[The West Valence Saints
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

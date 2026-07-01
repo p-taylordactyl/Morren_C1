@@ -30,4 +30,4 @@ One of the first people Max connected with through [[The Redacted]], both online
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

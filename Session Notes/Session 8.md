@@ -19,10 +19,11 @@ ingame_finish: 1/11/2012
 locations:
   - "[[BB Megatower]]"
   - "[[Penthouse]]"
+  - "[[Neon Corridor]]"
 tags:
 ---
 
-![[Session Index.base#Prev and Next Sessions]]
+![[0 Session Index.base#Prev and Next Sessions]]
 
 # Winter 9, 2012
 

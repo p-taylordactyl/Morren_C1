@@ -33,4 +33,4 @@ _**Themes:**_ Survival, Creating One's Place in the World, Lost/Found, Ingenuity
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

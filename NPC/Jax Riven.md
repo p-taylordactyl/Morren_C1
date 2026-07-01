@@ -30,4 +30,4 @@ Courier working in the [[BB Megatower]]. Specializes in navigating collapsed sec
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

@@ -6,7 +6,7 @@
       {
         "id": "4926aafa37c55690",
         "type": "tabs",
-        "dimension": 32.36021771400297,
+        "dimension": 61.07491856677525,
         "children": [
           {
             "id": "ee2038ee279731a2",
@@ -59,12 +59,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Locations/BB Megatower.md",
-                "bFile": "Locations/BB Megatower.md",
+                "aFile": "NPC/Dex.md",
+                "bFile": "NPC/Dex.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: BB Megatower  (Working Tree)"
+              "title": "Diff: Dex  (Working Tree)"
             }
           }
         ],
@@ -73,7 +73,7 @@
       {
         "id": "2cf7b81944b06cc4",
         "type": "tabs",
-        "dimension": 67.63978228599703,
+        "dimension": 38.925081433224754,
         "children": [
           {
             "id": "457b502a6ecccc95",
@@ -123,8 +123,7 @@
               "title": "Session 10"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,8 +176,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -283,6 +281,11 @@
   },
   "active": "9cf76d6fe3c92044",
   "lastOpenFiles": [
+    "Factions + Groups/Enforcers.md",
+    "Session Notes/0 Session Index.base",
+    "Session Notes/Session 8.md",
+    "Session Notes/Quests/0 Quest Index.base",
+    "Session Notes/Quests/The Silent Floor.md",
     "Factions + Groups/Faction Index.base",
     "Session Notes/Session 10.md",
     "Locations/Hood Station.md",
@@ -299,7 +302,6 @@
     "Locations/Quiet Place1.md",
     "Index.md",
     "Session Notes/Session 9.md",
-    "Session Notes/Session 8.md",
     "Session Notes/Session 7.md",
     "Session Notes/Session 6.md",
     "Session Notes/Session 5.md",
@@ -311,7 +313,6 @@
     "Session Notes/Pre-Campaign/Character Brainstorming.md",
     "Session Notes/Pre-Campaign/Session 0.md",
     "NPC/Hadrian Buchanon.md",
-    "PC/Themes.md",
     "admin/assets/npc_caveman.webp",
     "admin/assets/npc_broadcastsaint.webp",
     "admin/assets/npc_quietplacelady.webp",
@@ -322,8 +323,6 @@
     "admin/assets/keena_masked.webp",
     "admin/assets/max_thetickler.webp",
     "admin/assets/image-1.webp",
-    "Session Notes/Session Index.base",
-    "Session Notes/Quests/Quest Index.base",
     "admin/assets/misc",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas",

@@ -30,4 +30,4 @@ Once a custodian of [[Locations/Hood Station|Hood Station]] - upon its retiring 
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

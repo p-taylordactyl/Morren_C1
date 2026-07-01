@@ -35,4 +35,4 @@ Adoptive son of Faile living at the Relay Shrine. He's a big fan of some of [[Ma
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

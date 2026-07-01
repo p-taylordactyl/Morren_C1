@@ -37,4 +37,4 @@ Rosetta "the Thorn" Thorne, Queen of the [[The Protective Association for Waywar
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

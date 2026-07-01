@@ -8,7 +8,7 @@ modified: 2026-06-08
 cover: "[[quest_elevatoreulogy.webp]]"
 type: quest
 quest_status: active
-quest_giver: "[[Cillian Ward|Cillian]]"
+quest_giver: "[[Cillian Ward]]"
 quest_location: "[[BB Megatower]]"
 reward: 30 platinum
 date_accepted: 1/1/2012

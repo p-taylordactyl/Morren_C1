@@ -29,4 +29,4 @@ Mysterious leader of an unknown group of people living in the [[Not Far Sewer]].
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

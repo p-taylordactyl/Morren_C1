@@ -30,5 +30,5 @@ A goblin merchant in the bazaar located in the south section of the Not Far Sewe
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]
 

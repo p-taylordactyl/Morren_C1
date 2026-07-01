@@ -28,4 +28,4 @@ To the average citizen, the Oligarchs are more rumor than reality: a distant pow
 
 # Session Mentions
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]

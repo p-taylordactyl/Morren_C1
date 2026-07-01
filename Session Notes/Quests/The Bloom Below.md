@@ -13,7 +13,6 @@ reward: 30 platinum
 date_accepted: 1/1/2012
 expires: 1/14/2012
 tags:
-  - water
 ---
 ![[quest_TheBloomBelow.webp|717]]
 

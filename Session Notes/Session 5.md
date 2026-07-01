@@ -23,7 +23,7 @@ locations:
 tags:
 ---
 
-![[Session Index.base#Prev and Next Sessions]]
+![[0 Session Index.base#Prev and Next Sessions]]
 
 # Winter 7, 2012
 

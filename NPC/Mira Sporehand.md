@@ -34,4 +34,4 @@ Elfin farmer at the [[Sludge Farm]]. Friendly and generous, even before she foun
 
 # Session Appearances
 
-![[Session Index.base#Encounters]]
+![[0 Session Index.base#Encounters]]
