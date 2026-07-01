@@ -18,16 +18,18 @@ jobs:
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
           path: hoodswatch
 
-      - name: Copy files to Quartz
+      - name: Clear Outdated Content
         run: |
           rm -rf hoodswatch/content
           mkdir -p hoodswatch/content
-
+      
+      - name: Copy files to Hoods Watch
+        run: |
           rsync -av \
             --exclude=".git" \
             --exclude=".github" \
             ./ hoodswatch/content/
-
+          
       - name: Commit and push changes
         run: |
           cd hoodswatch
@@ -36,9 +38,6 @@ jobs:
           git config user.email "279896963+p-taylordactyl@users.noreply.github.com"
 
           git add .
-
-          # Exit if nothing changed
-          git diff --cached --quiet && exit 0
 
           git commit -m "Sync from Vault Repo"
           git push origin v5
