@@ -18,9 +18,12 @@ jobs:
           token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
           path: hoodswatch
 
-      - name: Sync files to Quartz
+      - name: Copy files to Quartz
         run: |
-          rsync -av --delete \
+          rm -rf hoodswatch/content
+          mkdir -p hoodswatch/content
+
+          rsync -av \
             --exclude=".git" \
             --exclude=".github" \
             ./ hoodswatch/content/

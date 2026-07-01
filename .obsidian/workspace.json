@@ -66,23 +66,9 @@
               "icon": "lucide-file",
               "title": "Quest"
             }
-          },
-          {
-            "id": "abfefd39ab9a481b",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".github/workflows/vaultsync.yml",
-                "bFile": ".github/workflows/vaultsync.yml",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: vaultsync.yml  (Working Tree)"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "2cf7b81944b06cc4",
@@ -313,7 +299,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "abfefd39ab9a481b",
+  "active": "d0eb348edd8804a0",
   "lastOpenFiles": [
     "Locations/Relay Shrine.md",
     "Locations/Quiet Place.md",
