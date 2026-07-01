@@ -113,14 +113,14 @@
             "id": "f3c9544cc518e44d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "admin/templates/Quest.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".trash/Quiet Place1.md",
+                "bFile": ".trash/Quiet Place1.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Quest"
+              "icon": "diff",
+              "title": "Diff: Quiet Place1  (Working Tree)"
             }
           }
         ],
@@ -301,6 +301,8 @@
   },
   "active": "f3c9544cc518e44d",
   "lastOpenFiles": [
+    "admin/templates/Quest.md",
+    "Public",
     "PC/Katriel Buchanon.md",
     "Session Notes/Kat Themes and Goals.md",
     "Session Notes/Session 10.md",
@@ -323,12 +325,10 @@
     "Session Notes/Pre-Campaign/Session 0.md",
     "NPC/Hadrian Buchanon.md",
     "NPC/NPC Index.base",
-    "admin/templates/Quest.md",
     "PC/Themes.md",
     "PC/Keena O'Malley.md",
     "PC/Gideon Oublier.md",
     "PC/Silas Sorelli.md",
-    "PC/Maximilius Adkins.md",
     "admin/assets/npc_caveman.webp",
     "admin/assets/npc_broadcastsaint.webp",
     "admin/assets/npc_quietplacelady.webp",
@@ -347,7 +347,6 @@
     "admin/Workflow Map.canvas",
     "admin/assets/factions",
     "Session Notes/Questions",
-    "Session Notes/Quests",
-    "Locations/Location Index.base"
+    "Session Notes/Quests"
   ]
 }
