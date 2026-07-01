@@ -71,14 +71,14 @@
             "id": "abfefd39ab9a481b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Locations/Relay Shrine.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".github/workflows/vaultsync.yml",
+                "bFile": ".github/workflows/vaultsync.yml",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Relay Shrine"
+              "icon": "diff",
+              "title": "Diff: vaultsync.yml  (Working Tree)"
             }
           }
         ],
@@ -315,6 +315,7 @@
   },
   "active": "abfefd39ab9a481b",
   "lastOpenFiles": [
+    "Locations/Relay Shrine.md",
     "Locations/Quiet Place.md",
     "Session Notes/Session 10.md",
     "Locations/Quiet Place1.md",
@@ -341,7 +342,6 @@
     "PC/Silas Sorelli.md",
     "PC/Maximilius Adkins.md",
     "PC/Katriel Buchanon.md",
-    "admin/In-Session New Note Automation.md",
     "admin/assets/npc_caveman.webp",
     "admin/assets/npc_broadcastsaint.webp",
     "admin/assets/npc_quietplacelady.webp",
