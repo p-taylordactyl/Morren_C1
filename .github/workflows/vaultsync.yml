@@ -32,7 +32,7 @@ jobs:
           
       - name: Commit and push changes
         run: |
-          cd hoodswatch
+          cd p-taylordactyl/hoodswatch
 
           git config user.name "p-taylordactyl"
           git config user.email "279896963+p-taylordactyl@users.noreply.github.com"
