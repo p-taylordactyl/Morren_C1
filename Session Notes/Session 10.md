@@ -27,11 +27,11 @@ tags:
 
 # Winter 11, 2012``
 
-We resume just outside the Quiet Place.
+We resume just outside the [[Quiet Place]].
 
 Gideon is bee-ed back into existence.
 
-We tell him about the Titan Corporation and he wants.
+We tell him about the Titan Corporation and he wants. 
 
 We get a text with a GPS coordinate for the meeting location. It's not far past the [[Quiet Place]].
 

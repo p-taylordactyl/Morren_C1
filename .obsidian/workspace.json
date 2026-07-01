@@ -73,12 +73,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Relay Shrine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Relay Shrine"
             }
           }
         ],
@@ -313,10 +313,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "a38f4569ed3b3dc0",
+  "active": "abfefd39ab9a481b",
   "lastOpenFiles": [
-    "Index.md",
+    "Locations/Quiet Place.md",
     "Session Notes/Session 10.md",
+    "Locations/Quiet Place1.md",
+    "Index.md",
     "Session Notes/Session 9.md",
     "Session Notes/Session 8.md",
     "Session Notes/Session 7.md",
@@ -340,8 +342,6 @@
     "PC/Maximilius Adkins.md",
     "PC/Katriel Buchanon.md",
     "admin/In-Session New Note Automation.md",
-    "admin/Meta.md",
-    "admin/Useful Bits.md",
     "admin/assets/npc_caveman.webp",
     "admin/assets/npc_broadcastsaint.webp",
     "admin/assets/npc_quietplacelady.webp",

@@ -5,9 +5,9 @@ aliases:
 type: location
 district:
 cover: "[[location_QuietPlace.webp]]"
-created:
-modified:
-parent:
+created: 2026-06-29
+modified: 2026-06-30
+parent: "[[BB Megatower]]"
 associations:
 tags:
   - under_construction
