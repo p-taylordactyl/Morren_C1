@@ -41,3 +41,8 @@ jobs:
 
           git commit -m "Sync from Vault Repo"
           git push origin v5
+           with:
+          repository: p-taylordactyl/hoodswatch
+          token: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
+          path: hoodswatch
+
