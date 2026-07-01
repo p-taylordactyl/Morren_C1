@@ -5,10 +5,11 @@ aliases:
 type: location
 district:
 cover: "[[location_BBMegatower.webp]]"
-created:
-modified:
+created: 2026-06-03
+modified: 2026-07-01
 parent:
 associations:
+  - "[[The Bellanova Family|Bellanova Family]]"
 tags:
   - under_construction
 ---

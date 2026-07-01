@@ -8,12 +8,10 @@ district: "[[Cloud District]]"
 parent:
 cover:
 created: 2026-04-23
-modified: 2026-06-08
-controlled by: "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+modified: 2026-07-01
 associations:
   - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
 tags:
-  - under_construction
 ---
 # Description
 
