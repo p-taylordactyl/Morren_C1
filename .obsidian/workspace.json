@@ -59,12 +59,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC/Dorian Caldwell.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dorian Caldwell"
+              "title": "Index"
             }
           },
           {
@@ -82,7 +82,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "2cf7b81944b06cc4",
@@ -278,13 +278,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 10.md",
+                "file": "Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 10"
+              "title": "Outline of Index"
             }
           }
         ]
@@ -305,8 +305,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "baf1b525c4b50b0c",
+  "active": "9cf76d6fe3c92044",
   "lastOpenFiles": [
+    "PC/Dorian Caldwell.md",
+    "NPC/NPC Index.base",
+    "Session Notes/0 Session Index.base",
+    "Factions + Groups/Faction Index.base",
+    "Session Notes/Session 10.md",
     "Session Notes/Quests/Penthouse Signal Rehearsal.md",
     "Session Notes/Quests/Elevator Eulogy.md",
     "Session Notes/Quests/The Silent Floor.md",
@@ -318,7 +323,6 @@
     "Session Notes/Quests/0 Quest Index.base",
     "Session Notes/Timers.md",
     "PC/Katriel Buchanon.md",
-    "PC/Dorian Caldwell.md",
     "PC/Keena O'Malley.md",
     "PC/Gideon Oublier.md",
     "PC/Silas Sorelli.md",
@@ -331,18 +335,13 @@
     "admin/assets/pc_silassorelli_firstdisguise.webp",
     "admin/assets/pc_gideonoublier_firstdisguise.webp",
     "Session Notes/Session 9.md",
-    "Session Notes/Session 10.md",
     "Session Notes/Pre-Campaign/Session 0.md",
     "Session Notes/Pre-Campaign/Character Brainstorming.md",
-    "Session Notes/0 Session Index.base",
     "Session Notes/Session 8.md",
     "Session Notes/Kat Themes and Goals.md",
     "Factions + Groups/Enforcers.md",
-    "Factions + Groups/Faction Index.base",
     "Locations/Hood Station.md",
     "Locations/BB Megatower.md",
-    "NPC/NPC Index.base",
-    "Locations/Neon Corridor.md",
     "Public",
     "test",
     "admin/assets/npc_caveman.webp",
