@@ -7,9 +7,8 @@ aliases:
 cover: "[[pc_katbuchanon.webp]]"
 type: player_character
 created: 2026-04-21
-modified: 2026-06-08
+modified: 2026-07-01
 tags:
-  - under_construction
 ---
 > [!infobox]
 > # Katriel Buchanon
@@ -37,6 +36,8 @@ Kat fled Westreach at age 19, having failed her initiation ritual to become a ra
 
 At the [[Morrgen's Community Center|Community Center]], the [[Morrgen Oublier|Oublier family]] welcomed Kat to Hood Station with open arms, helping her get acquainted with the station and adjust to life outside the strict hierarchy of the Dominion Saints. She got a job working at [[Endline Garage]] under the tutelage of [[Thorbin Sprake]] and actually likes her life now, fixing autos and helping people instead of beating and extorting them. However, despite having found this little pocket of good in the hellscape, Kat can't help but wonder when the other shoe is going to drop. 
 
+**Themes**: Search for Truth, Independence, Might Makes Right, Legality vs Morality, Blind Obedience, Found Family, Survival, Ambition, Justice vs Mercy
+
 # PC Bonds
 
 **[[Gideon Oublier]]** - One of the first people she met in Hood Station, along with his family. His mother, Morrgen, really took Katriel under her wing. Now, with most of Kat's time spent at the community center when she isn't at the shop or the chojo, she thinks of Gideon as a brother.
@@ -53,15 +54,4 @@ At the [[Morrgen's Community Center|Community Center]], the [[Morrgen Oublier|Ou
 **[[Kairo Voss]]** (they/them): Kairo is a regular customer at Endline and first recommended that Kat come spar at Iron Form. They've become regular workout buddies and sometimes go out scrapping together. More recently, Kairo has hinted to Kat that she should stick around after-hours at the chojo, though they won't say more than that.
 
 
-# Themes
 
-**Pregame Themes**: Search for Truth, Independence, Might Makes Right, Legality vs Morality, Blind Obedience, Found Family, Survival, Ambition, Justice vs Mercy
-
-**In-game Themes**
-- The Greater Good
-- Family
-- Outrunning the Past
-- Power
-- Hierarchy
-- Fear
-- 

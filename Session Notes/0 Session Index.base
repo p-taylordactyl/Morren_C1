@@ -19,21 +19,6 @@ views:
       - ingame_finish
       - locations
   - type: table
-    name: Unpaid
-    filters:
-      and:
-        - missed != true
-        - paid != true
-    order:
-      - file.name
-      - session_date
-      - paid
-    sort: []
-    columnSize:
-      file.name: 179
-      note.session_date: 219
-      note.paid: 235
-  - type: table
     name: Encounters
     filters:
       and:

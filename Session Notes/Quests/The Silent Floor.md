@@ -3,7 +3,7 @@ title: The Silent Floor
 draft: false
 aliases:
 created: 2026-06-01
-modified: 2026-07-01
+modified: 2026-07-02
 cover: "[[quest_thesilentfloor.webp]]"
 type: quest
 quest_status: completed
@@ -25,15 +25,17 @@ Gain access to the affected floors via maintenance shafts or external climb rout
 
 ### Completion Requirements
 
-- [ ] Find cause of blackout
-- [ ] Restore power
-- [ ] Recover or account for missing team
+- [x] Find cause of blackout
+- [x] Restore power
+- [x] Recover or account for missing team
 
 # Notes
 
-- We've made it to the [[BB Megatower]]
-- We encountered
+- While exploring the middle tier of the [[BB Megatower]], we encountered [[Jack Mercer]] who was looking for a copy of a cursed video game known as The Hamlet Keeper
+- After we recovered his stolen game tracking device from a group of [[The West Valence Saints|Saints]], Jack helped us locate the "Silent Floor"
+- We found the [[Quiet Place]] past the [[Relay Shrine]] on the middle tier -  the cursed game inside, ready to play
+- 
+- We survived X rounds of combat and half the party was quite nearly perma-killed
 
 # To Do
 
-- [ ] locate affected floors

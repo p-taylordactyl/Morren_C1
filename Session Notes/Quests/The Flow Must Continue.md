@@ -3,7 +3,7 @@ title: The Flow Must Continue
 draft: false
 aliases:
 created: 2026-06-01
-modified: 2026-06-08
+modified: 2026-07-02
 cover: "[[quest_theflowmustcontinue.webp]]"
 type: quest
 quest_status: turned in
@@ -13,7 +13,7 @@ reward: 30 platinum
 date_accepted: 1/1/2012
 expires: 1/14/2012
 tags:
-  - "#unresolved"
+  - "#follow-up"
 ---
 ![[quest_theflowmustcontinue.webp]]
 
@@ -27,8 +27,8 @@ If the sewer fails, disease follows. [[Factions + Groups/Hood Station/Hood Stati
 
 ### Completion Requirements
 
-- [ ] find and clear the blockage
-- [ ] drive off any creatures, if applicable
+- [x] find and clear the blockage
+- [x] drive off any creatures, if applicable
 
 # Notes
 
@@ -37,6 +37,8 @@ If the sewer fails, disease follows. [[Factions + Groups/Hood Station/Hood Stati
 - We believed this was due to the [[Titan Corporation]] controlling the Pumping Station and siphoning off extra water for themselves.
 - We convinced [[Brug]] that the [[The Box Boys|Box Boys]] should drive Titan out of the Pumping Station so water can be distributed evenly again.
 
-# To Do
+# To-Do
 
-- [ ] Return to the Pumping Station and get the Box Boys to let us restore Hood Station's water flow
+### Follow Up
+
+- [ ] Return to the Pumping Station and get the Box Boys to let us restore Hood Station's water flow to normal levels

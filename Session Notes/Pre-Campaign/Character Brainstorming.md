@@ -1,8 +1,8 @@
 ---
 title: Character Brainstorming
 draft: true
-type:
-modified: 2026-06-30
+type: pregame
+modified: 2026-07-01
 created: 2026-04-07
 tags:
   - under_construction

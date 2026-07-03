@@ -3,7 +3,7 @@ title: Session 9
 draft: false
 type: session_note
 created: 2026-06-22
-modified: 2026-06-30
+modified: 2026-07-01
 session_date: 06/22/2026
 session_number: 9
 players:
@@ -154,7 +154,7 @@ Keena threw a burlap sack over her head to hide her identity and is playing the 
 
 ![[max_thetickler.webp|548]]
 
-The acolyte doesn't even know [[Kieran Graves|Kieran's]] name.
+The acolyte doesn't even know [[Kieran Graves|Kieran's]] name and only called him derogatory nicknames.
 
 The leader of the [[The Lightning Crew]] is named [[Lightning Leroy]].
 

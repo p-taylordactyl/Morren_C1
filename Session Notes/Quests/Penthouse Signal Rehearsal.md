@@ -3,7 +3,7 @@ title: Penthouse Signal Rehearsal
 draft: false
 aliases:
 created: 2026-06-01
-modified: 2026-06-21
+modified: 2026-07-02
 cover: "[[quest_penthousesignalrehearsal.webp]]"
 type: quest
 quest_status: completed
@@ -31,8 +31,10 @@ Reach the penthouse and locate the source of the broadcast. Determine whether it
 
 # Notes
 
-- We've made it to the [[BB Megatower]]
-- Penthouse appears to be some kind of rental/airbnb situation.
+- We made it to the [[BB Megatower]] but have to fix the elevator to get to the [[Penthouse|penthouse]]
+- The penthouse is not abandoned and in fact appears to be some kind of rental/Airbnb situation, currently occupied by one [[Elyra Sol]].
+- We found the relevant videos on the guest PC and were able to copy them to an empty flash drive we found in a draw to take with us
+- wiped the videos off the PC (along with security footage of our break-in) and reset it back to new guest settings
 
 # To Do
 

@@ -3,7 +3,7 @@ title: The Bloom Below
 draft: false
 aliases:
 created: 2026-06-01
-modified: 2026-06-08
+modified: 2026-07-02
 cover: "[[quest_thebloombelow.webp]]"
 type: quest
 quest_status: turned in
@@ -13,6 +13,7 @@ reward: 30 platinum
 date_accepted: 1/1/2012
 expires: 1/14/2012
 tags:
+  - follow-up
 ---
 ![[quest_TheBloomBelow.webp|717]]
 
@@ -26,9 +27,9 @@ Hydroponics feeds the station. If the crops fail, rationing begins within days, 
 
 ### Completion Requirements
 
-- [ ] collect fungus samples
+- [x] collect fungus samples
 - [x] locate fungus origin
-- [ ] eradicate core growth without contaminating water
+- [/] eradicate core growth without contaminating water
 
 # Notes
 
@@ -37,7 +38,8 @@ Hydroponics feeds the station. If the crops fail, rationing begins within days, 
 - At the Filter Shrine, we confirmed that Mira was correct and the filter was not running at all. [[Sister Hera]] informed us that nothing broke, it just stopped one day, and all repair attempts had failed.
 - [[Dorian Caldwell|Dorian]] threatened to blow up the Filter and successfully intimidated it into starting up again. Notably, no Divine Magic involved.
 
-# To Do
+# To-Do
+
+### Follow Up
 
 - [ ] ensure [[The Sludge Farmers]] move into the station as anticipated next season
-- [ ] 

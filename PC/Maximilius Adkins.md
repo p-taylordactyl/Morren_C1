@@ -5,10 +5,11 @@ aliases:
   - Max Adkins
   - Max
   - Franklin Marvelous
+  - The Tickler
 cover: "[[pc_maxadkins.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-06-30
+modified: 2026-07-01
 tags:
   - under_construction
 ---
@@ -27,16 +28,6 @@ tags:
 > | **Factions** | [[Factions + Groups/Hood Station/Hood Station\|Hood Station]], [[The Redacted]] |
 > 
 
-```statblock
-columns: Number
-forcecolumns: Boolean
-layout: Basic Short Name Layout
-source: "Source in String"
-name: "Name in String"
-
-For the rest, please indicate how it should be filled out. Boolean, string, integer, etc. 
-
-```
 # Backstory
 
 Maximilius Adkins (Max) started his career at [[Crownlight Media]] as a junior field documentarian. He was competent at the job, good at capturing events as they unfolded and identifying the parts of a story that would actually resonate with an audience. During the [[Titan Corporation|Titan]] Line Blackout, he was assigned to cover the [[Flooded Zone]] response efforts. He recorded evacuations, stranded residents, and people refusing relocation in the aftermath. When the material aired, the final broadcast presented a controlled narrative: orderly response, successful recovery, minimal disruption. Large portions of his footage were removed or reframed beyond recognition. It was not the first time Max had seen editorial shaping, but it was the first time he fully realized how completely recorded reality could be replaced.
@@ -53,6 +44,8 @@ In the process, Hood Station became more than just another lead for Max. At the 
 
 Seeing that overlap, Max began using his work to support and strengthen those information gaps in both directions, bringing reliable external reporting into Hood Station while also documenting its realities for the outside world in a controlled, contextualized way. Over time, this developed into The Redacted, a decentralized network built around combining structured reporting with raw documentation. The network now operates across Old Valence, with Hood Station serving as a key anchor point for grounding information and, occasionally, for quietly receiving those who arrive after encountering their work.
 
+**Themes**: Justice, Exposing Truth, Go Getter, Bold, Nomadic, Transitions, Surface Level, Power of the People, Emotional Mobilization, Brick by Brick
+
 # PC Bonds
 
 **[[Keena O'Malley]]** - see backstory
@@ -68,10 +61,4 @@ Seeing that overlap, Max began using his work to support and strengthen those in
 **[[Barron Sutton]]** – A former manager of a team adjacent to Max’s during his time at Crownlight Media. The two got along well professionally, and Barron has recently attempted to reestablish contact. Max is uncertain of his intentions—whether it’s an attempt to locate him on behalf of Crownlight or a genuine, sympathetic outreach. He wants to believe the latter, but for now, he considers it too much of a risk to respond.
 
 
-# Themes
 
-**Pregame Themes**: Justice, Exposing Truth, Go Getter, Bold, Nomadic, Transitions, Surface Level, Power of the People, Emotional Mobilization, Brick by Brick
-
-**In-game Themes**
-- Go Getter, Bold
-- 

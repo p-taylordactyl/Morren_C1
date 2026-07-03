@@ -5,7 +5,7 @@ aliases:
 type: npc
 cover: "[[npc_Az.webp]]"
 created: 2026-05-25
-modified: 2026-06-22
+modified: 2026-07-02
 disposition:
   - friendly
 organizations:
@@ -16,7 +16,7 @@ associates:
   - "[[Dorian Caldwell|Dorian]]"
 brief: Dorian's friend and de facto leader of The Troupe, he/they
 tags:
-  - they/them
+  - they-them
 ---
 ![[npc_az.webp|453]]
 

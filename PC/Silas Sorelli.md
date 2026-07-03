@@ -6,7 +6,7 @@ aliases:
 cover: "[[pc_silassorelli.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-05-28
+modified: 2026-07-01
 tags:
   - under_construction
 ---
@@ -34,6 +34,7 @@ That is until the [[Ghosts of the Flooded Zone]] took control of the district, a
 
 Unable to convince her or even convince himself that the Ghosts were entirely in the wrong, Silas instead committed himself and his talents to shattering the oligarchy and their hold over society-- and the Ghosts of the Flooded Zone along with it-- by any means he could so that one day, Kali could be freed from her mental prison and join him on the other side of reality.
 
+**Themes**: Ambition, Control, Obsession, Ideology, Purpose, Survival, Perception vs Reality, Loyalty vs Betrayal, Freedom vs Control, Means vs Ends
 
 # PC Bonds
 
@@ -49,10 +50,5 @@ Unable to convince her or even convince himself that the Ghosts were entirely in
 **[[Kali Torreo]]** - A childhood friend of Silas who stayed behind in the Flooded Zone when he left. Unlike Silas, who saw the Ghosts of the Flooded Zone as being too short-sighted and extremist-- not addressing the real problem of the Oligarchy-- Kali was fully indoctrinated into the Ghosts' ideology. Despite growing up together and caring for her immensely, Silas was unable to convince her to leave the Flooded Zone with him. Rather than stay for her sake at the cost of his own ideals, Silas left her behind with the hopes of one day breaking the chains the Ghosts had placed on her.
 
 
-# Themes
 
-**Pregame Themes**: Ambition, Control, Obsession, Ideology, Purpose, Survival, Perception vs Reality, Loyalty vs Betrayal, Freedom vs Control, Means vs Ends
 
-**In-game Themes**
-- 
-- 

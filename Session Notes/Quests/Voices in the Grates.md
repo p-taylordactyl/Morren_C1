@@ -4,7 +4,7 @@ draft: false
 aliases:
   - missing kids
 created: 2026-06-01
-modified: 2026-06-08
+modified: 2026-07-02
 cover: "[[quest_voicesinthegrates.webp]]"
 type: quest
 quest_status: turned in
@@ -14,7 +14,7 @@ reward: 30 platinum
 date_accepted: 1/1/2012
 expires: 1/14/2012
 tags:
-  - unresolved
+  - follow-up
 ---
 
 ![[quest_VoicesintheGrates.webp]]
@@ -28,18 +28,20 @@ Investigate the upper access ducts and trace the source of the voices. Locate an
 ### Completion Requirements
 
 - [x] locate the missing children
-- [ ] identify and neutralize whatever is luring them
+- [?] identify and neutralize whatever is luring them
 
 # Notes
 
-- [[Rosetta Thorne|Miss Rosie]] accepted the dolls as quest completion, but 
+- The missing children have somehow been turned into dolls, each with a corresponding candle
+- [[Dorian Caldwell|Dorian]] cut one doll open and based on the organs inside it seems like he in fact killed one of the kids
+- [[Rosetta Thorne|Miss Rosie]] accepted us returning the dolls as quest completion, since technically they are the missing kids. 
 - While we technically located the children, they are stuck in doll form until we figure out some kind of way to change them back. 
-- Keena had a vision that she believes is related to this quest:
+- [[Keena O'Malley|Keena]] had a vision that she believes is related to this quest:
 	- ![[Keena O'Malley#Candle Vision]]
-
 
 # To-Do
 
+### Follow Up
 - [ ] Find a way to restore the children back to their real bodies
-- [ ] Determine the meaning and relevance of Keena's prophecy
-- [ ] Find and kill whatever lured the children
+- [ ] Determine the meaning of Keena's prophecy
+- [ ] Find and kill whatever did this to the kids

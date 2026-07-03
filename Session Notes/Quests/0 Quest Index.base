@@ -14,6 +14,7 @@ views:
       - quest_location
       - quest_giver
       - expires
+      - reward
       - tags
     sort:
       - property: file.name
@@ -43,6 +44,9 @@ views:
       note.quest_giver: 272
   - type: table
     name: Active
+    filters:
+      and:
+        - quest_status == "active"
     order:
       - file.name
       - quest_location

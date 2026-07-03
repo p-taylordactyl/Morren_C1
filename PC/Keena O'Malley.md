@@ -1,12 +1,12 @@
 ---
-title: "Keena O'Malley"
+title: Keena O'Malley
 draft: false
 aliases:
   - Keena
 cover: "[[pc_keenaomalley.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-06-29
+modified: 2026-07-01
 tags:
   - under_construction
 ---
@@ -33,6 +33,8 @@ Angry and lost without her dear older brother, she was visiting his grave/talkin
 
 In her free time, she studies martial arts and various fighting styles with her uncle, even teaching some classes to women and younger kids, and hunts down those who haven't been punished for injustice, corruption, or exploitation, using their wealth or power to escape the ramifications of their actions. Sometimes, after hours at the dojo, she even meets with others who also believe in the [[Covenant of Equal Measure]] where they have scripture study, religious debates, and so forth, though they keep the group fairly small and not many are aware of it. While some might think her delirious after the loss of her brother, becoming one of Morrenel's Chosen settled something within Keena and gave her renewed purpose in the world.
 
+**Themes**: Purpose; Justice; Truth; Hope Against Rot; Faith vs Fury; From Below, Judgment Rises; The Necessary Blade; Ambition; Survival; Equality; The Common People; Family; Optimism vs Realism; Legality vs Morality
+
 # PC Bonds
 
 **[[Maximilius Adkins|Max Adkins]]** (Major): Max and Keena met as a consequence of the accident at the Titan Corporation Factory Complex. Keena was posting about it online, and his network connected the two so he could interview her. He started an investigation into the accident, eventually identifying the culprit ([[Augustin Devereaux]]) who caused and covered up the accident. Together, they went to interview him, with two purposes in mind: learn more about the inner workings and corruption of the Titan Corporation, and exact revenge for causing the accident that took her brother's life. After beating him into a coma, the pair realized they could work together in order to expose the truth about the corrupt oligarchs exploiting the working class and to bring justice to those corrupt and powerful people.
@@ -55,6 +57,7 @@ Family:
 - Orla Ward, her aunt
 - **[[Róisín Ward]]**, her cousin who lost her arm in the accident at the Titan Corporation Factory Complex
 - Ronan Ward, her other cousin
+
 
 # Messages from "Morronel"
 

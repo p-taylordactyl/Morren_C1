@@ -1,9 +1,9 @@
 ---
 title: Session 0
 draft: true
-type: session_note
+type: pregame
 created: 2026-04-06
-modified: 2026-06-30
+modified: 2026-07-01
 session_date: 04/06/2026
 missed:
 paid: true

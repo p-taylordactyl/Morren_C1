@@ -6,7 +6,7 @@ aliases:
 type: npc
 cover: "[[npc_KairoVoss.webp]]"
 created: 2026-05-08
-modified: 2026-06-22
+modified: 2026-07-02
 disposition:
   - friendly
 organizations:
@@ -20,7 +20,7 @@ associates:
   - "[[Nyra Lightwell|Nyra]]"
 brief: Keena's friend, who both works out and attends church sessions at the Iron Form Dojo. Also friendly with Kat.
 tags:
-  - they/them
+  - they-them
 ---
 ![[npc_KairoVoss.webp]]
 

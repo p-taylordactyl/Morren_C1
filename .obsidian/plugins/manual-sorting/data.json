@@ -133,7 +133,13 @@
         "admin/assets/hamletkeeper_2_itsrealbad.webp",
         "admin/assets/npc_quietplacelady.webp",
         "admin/assets/npc_broadcastsaint.webp",
-        "admin/assets/npc_caveman.webp"
+        "admin/assets/npc_caveman.webp",
+        "admin/assets/pc_katrielbuchanon_firstdisguise.webp",
+        "admin/assets/pc_keenaomalley_firstdisguise.webp",
+        "admin/assets/pc_maxadkins_thetickler.webp",
+        "admin/assets/pc_silassorelli_firstdisguise.webp",
+        "admin/assets/pc_gideonoublier_firstdisguise.webp",
+        "admin/assets/pc_doriancaldwell_firstdisguise.webp"
       ],
       "sortOrder": "custom"
     },

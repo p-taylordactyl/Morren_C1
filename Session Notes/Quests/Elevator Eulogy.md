@@ -4,10 +4,10 @@ draft: false
 aliases:
   - fix the elevator
 created: 2026-06-01
-modified: 2026-06-08
+modified: 2026-07-02
 cover: "[[quest_elevatoreulogy.webp]]"
 type: quest
-quest_status: active
+quest_status: completed
 quest_giver: "[[Cillian Ward]]"
 quest_location: "[[BB Megatower]]"
 reward: 30 platinum
@@ -25,15 +25,17 @@ Enter the central elevator shaft, inspect the lift mechanisms, and restore safe 
 
 ### Completion Requirements
 
-- [ ] Restore safe operation of the elevator
-- [ ] Remove any hazards
-
+- [x] Restore safe operation of the elevator
+- [x] Remove any hazards
 
 # Notes
 
-- When we reached the elevator, [[Dorian Caldwell|Dorian]] attempted to intimidate it into working properly, which resulted in the floor giving way and himself, [[Katriel Buchanon|Kat]], [[Gideon Oublier|Gideon]], and [[Silas Sorelli|Silas]] being immediately being dumped into what seemed to be a vent leading to a lower floor and/or basement? [[Keena O'Malley|Keena]] and [[Maximilius Adkins|Max]] intentionally jump in after them.
+- When we reached the elevator, [[Dorian Caldwell|Dorian]] attempted to intimidate it into working properly, which resulted in the floor giving way and himself, [[Katriel Buchanon|Kat]], [[Gideon Oublier|Gideon]], and [[Silas Sorelli|Silas]] being immediately being dumped into what seemed to be a vent leading to a lower floor and/or basement? [[Keena O'Malley|Keena]] and [[Maximilius Adkins|Max]] intentionally jumped in after them.
+- Once we finally made it back to the elevator, Kat was able to fix it with her tinker's tools
 
 # To Do
 
 - [x] Go to the [[BB Megatower]] and locate the elevator
-- [ ] Find our way back to the elevator/shaft so we can inspect for issues
+- [x] Find our way back to the elevator/shaft so we can inspect for issues
+- [x] fix the elevator
+- [ ] turn in to [[Cillian Ward]] 
