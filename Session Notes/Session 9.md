@@ -3,7 +3,7 @@ title: Session 9
 draft: false
 type: session_note
 created: 2026-06-22
-modified: 2026-07-01
+modified: 2026-07-02
 session_date: 06/22/2026
 session_number: 9
 players:
@@ -110,21 +110,21 @@ Keena wakes up.
 
 She takes Dex aside and asks if he's aware of any wicked people in the room and he says absolutely not. She asks about recent converts and he says technically he's a recent convert, but no one else.
 
-She asks who he worshipped before and he says nothing, until Faile? adopted him.
+She asks who he worshipped before and he says nothing, until Faile?? (what is this guy's name) adopted him.
 
 This kid reminds Keena of Gideon. 
 
 She presses him trying to figure out who present may be wicked, but gets nowhere and returns to the group.
 
-The priest comes back and says the explosion lever is fixed. Kat tests the repaired door lever and thank god it works.
+The priest comes back and says the explosion lever is fixed. Kat tests the repaired door lever and thank god it works. That was dicey for a moment.
 
 She thanks the Machine God by doing an oil change on the car and pouring the old oil in the shrine (since the priest mentioned used oil/components are the preferred sacrifice).
 
 ![[session9_map3.webp]]
 
- With slightly more info to go on but still no communication from the stalker, we decide to keep heading towards the [[The Silent Floor|silent floor]]. We see a temporary dwelling, and on top of the building is graffiti that says "The Quiet Place."
+ With slightly more info to go on but still no communication from the stalker, we decide to keep heading towards the [[The Silent Floor|silent floor]]. We see a temporary dwelling, and on top of the building is graffiti that says "The [[Quiet Place]]."
 
-Jack starts climbing a rusty pipe to get an establishing shot while Max starts filming too, but from the ground. Jack falls. Keena catches him, saving his life he asks her to explain why she did it on camera. She basically says it was just the right thing to do. He also asks what the party wants to be called.
+Jack starts climbing a rusty pipe to get an establishing shot while Max starts filming too, but from the ground. Jack falls. Keena catches him, saving his life. He asks her to explain why she did it on camera. She basically says it was just the right thing to do. He also asks what the party wants to be called but we can't decide without Gideon.
 
 Jack starts spieling about all the heroic things we've done for him for his viewers when suddenly, a portal appears and a [[Solomon Hexley|wizard]] steps out. His eyes glow blue as he points at Silas.
 
@@ -150,7 +150,7 @@ We hear rattling in a vent. Kat hears a noise and it's a cog (symbol of the Mach
 
 Our friends in the trunk are awake. Keena and Max will conduct the interrogation. They pull the acolyte out first.
 
-Keena threw a burlap sack over her head to hide her identity and is playing the "good cop" of sorts while Max is "The Tickler" AKA the most incredible hero known to man.
+Keena threw a burlap sack over her head to hide her identity and is playing the "good cop" of sorts while Max takes on the character of "The Tickler" and gives a performance so perfect it defies words. Anyway he stabs himself in the leg.
 
 ![[max_thetickler.webp|548]]
 

@@ -3,7 +3,7 @@ title: Session 3
 draft: false
 type: session_note
 created: 2026-05-04
-modified: 2026-06-30
+modified: 2026-07-02
 session_number: 3
 session_date: 05/04/2026
 players:
@@ -58,9 +58,6 @@ Silas uses Silent Image to project a message that says "Room for friends? Flash 
 They flash once.
 
 He replies "We sleep now. Thumbs up emoji." Then does a shower of sparks.
-
-
-### Sewer Day 3 Watch
 
 Silas and Dorian are on watch. Dorian peeks into a weird pipe with a fairly wide opening, and realizes there's something lodged within. He pulls it out and finds that it's a large plastic garbage bag. He cuts it open with his dagger, and a bunch of garbage falls out, along with a humanoid body wearing a costume/suit. Some kind of Costumed Freak.
 
@@ -155,23 +152,18 @@ Keena peeks in to look for traps and doesn't see any, but does see a bunch of co
 
 We see some offering bowls but no supplicants. The bowls mostly contain coins.
 
-Dorian wonders about swiping some coins and 
+Dorian tries to steal some coins but spills the bowl.
 
-discussion about gods
+Silas helps him by stealing a coin and sneaking it into Dorian's pocket.
 
-Silas helps
+Kat says he should be careful or he might get smited/smote/?
 
-Kat calls it
-
-Silas finger bleeds
+Silas's finger is bleeding.
 
 Keena and Kat scope out the offering bowl. It seems like Silas might have been cut by a little piece of machinery.
 
-After deciding that 
+Kat says the this machine god must be weak if all Silas got for stealing from him was a little cut. A pipe falls on her head near-immediately after and she acknowledges that perhaps the god is stronger that she thought. This seems to cause water to pour out of the broken off pipe above her, but surprisingly it's pure instead of sewer water.
 
-Keena looks for a title as we move further in but only sees a title of "the machine god"
-
-Kat
 
 ![[session3_map6.webp]]
 
@@ -199,9 +191,3 @@ However, she offers us money to help her and we're on board.
 Gideon tries to cast sleep on the Crocodiles, starting combat.
 
 We leave off with 2 gators dead and the other 2 asleep for the next 60 seconds.
-
-
-### Kat Thematic Moments
-
-- Insulting the Machine God
-- 

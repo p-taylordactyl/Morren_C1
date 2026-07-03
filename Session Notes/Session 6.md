@@ -3,7 +3,7 @@ title: Session 6
 draft: false
 type: session_note
 created: 2026-06-01
-modified: 2026-06-30
+modified: 2026-07-02
 session_number: 6
 session_date: 06/01/2026
 players:
@@ -128,13 +128,13 @@ People with diving gear and gas masks get out, holding rifles. One is wearing bi
 
 Dorian seems very interested in trying to either slow them down and/or get more info about why they're here. We make a plan to distract the driver so Dorian can check out the van.
 
-Kat crafts a tiny little air pump from scrap. Silas creates an [[unseen-servant-xphb|Unseen Servant]], who takes the air pump and uses it to blow one of the van's tires before hiding.
+Kat crafts a tiny little air pump from scrap. Silas creates an unseen servant, who takes the air pump and uses it to blow one of the van's tires before hiding.
 
-The driver doesn't find the unseen servant or detect foul play. He sets about replacing the tire, and we can see a dossier sitting on the dash where he left the door open. Silas casts [[invisibility-xphb|Invisibility]] on Dorian, who sneaks over and grabs the dossier. He looks around for any other loose valuables, finding 5 platinum in the dash before he sneaks back to the car.
+The driver doesn't find the unseen servant or detect foul play. He sets about replacing the tire, and we can see a dossier sitting on the dash where he left the door open. Silas casts invisibility on Dorian, who sneaks over and grabs the dossier. He looks around for any other loose valuables, finding 5 platinum in the dash before he sneaks back to the car.
 
 Just after he's back in the car, the Ghosts come back out, loading crates into the van. Kat perceives. They look inconspicuous and intentionally ambiguous, but the crates are long and deep enough to store all kinds of things - drugs, weapons, or even people.
 
-These crates could fit so many gnomes - a significant point of discussion. The party is feeling particularly chaotic tonight.
+These crates could fit so many gnomes - a significant point of discussion. 
 
 The Ghosts leave while we're discussing what to do.
 
@@ -156,7 +156,7 @@ We see [[Malcolm Oublier|Malcolm]] begging a group of [[The Bellanova Family|Bel
 
 The Bellanovas leave and Malcolm slumps to the floor.
 
-Gideon [[message-xphb|messages]] him from the vent and says "you fucking dumbass." He kicks the vent out which becomes a ladder we can use to climb down.
+Gideon messages him from the vent and says "you fucking dumbass." He kicks the vent out which becomes a ladder we can use to climb down.
 
 Meanwhile up top, the ball bearings forgotten, Keena and Max tries to decide what to do. Keena asks what to do about the car but Max just jumps down the shaft. She locks the car and asks the operator if we can leave it in the spot. He says she's good, so she joins us at the bottom of the shaft.
 

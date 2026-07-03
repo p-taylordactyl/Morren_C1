@@ -3,7 +3,7 @@ title: Session 7
 draft: false
 type: session_note
 created: 2026-06-08
-modified: 2026-06-30
+modified: 2026-07-02
 session_number: 7
 session_date: 06/08/2026
 players:
@@ -27,7 +27,7 @@ tags:
 
 # Winter 8, 2012
 
-We resume in this area deep in the [[BB Megatower]].
+We resume in this area somewhere in the depths of the [[BB Megatower]].
 
 ![[session7_map1.webp]]
 
