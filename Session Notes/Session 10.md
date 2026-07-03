@@ -3,7 +3,7 @@ title: Session 10
 draft: true
 type: session_note
 created: 2026-06-29
-modified: 2026-07-01
+modified: 2026-07-02
 session_date: 06/29/2026
 session_number: 10
 players:
