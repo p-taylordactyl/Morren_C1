@@ -29,7 +29,7 @@ Thorbin Sprake was a mechanic for the [[Titan Corporation]], until he lost his l
 
 # NPCs
 
-![[NPC Index.base#Groups]]
+![[NPC Index.base#Groups - embedonly]]
 
 
 

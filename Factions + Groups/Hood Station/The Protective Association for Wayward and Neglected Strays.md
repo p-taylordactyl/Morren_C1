@@ -41,7 +41,7 @@ Rosetta "the Thorn" is nothing short of a full blown psychopath. Cold, calculati
 
 # NPCs
 
-![[NPC Index.base#Groups]]
+![[NPC Index.base#Groups - embedonly]]
 
 
 

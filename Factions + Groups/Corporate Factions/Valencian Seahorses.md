@@ -32,7 +32,7 @@ Over time, this ecosystem has transformed the “love of Ball” into a genuine 
 
 # NPCs
 
-![[NPC Index.base#Faction]]
+![[NPC Index.base#Faction - embedonly]]
 
 
 

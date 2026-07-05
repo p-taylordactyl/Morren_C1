@@ -29,7 +29,7 @@ In the Modern Age, NovaStyle Group remains the definitive arbiter of appearance 
 
 # NPCs
 
-![[NPC Index.base#Faction]]
+![[NPC Index.base#Faction - embedonly]]
 
 
 

@@ -34,7 +34,7 @@ In the Modern Age, the Bellanova Family continues to dominate life within Bellan
 
 # NPCs
 
-![[NPC Index.base#Faction]]
+![[NPC Index.base#Faction - embedonly]]
 
 
 

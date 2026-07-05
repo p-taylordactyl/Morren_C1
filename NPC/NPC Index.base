@@ -9,8 +9,7 @@ views:
       - file.name
       - brief
       - locations
-      - factions
-      - associations
+      - organizations
     sort:
       - property: file.backlinks
         direction: DESC
@@ -19,7 +18,7 @@ views:
     image: note.cover
     imageAspectRatio: 1.05
   - type: cards
-    name: Faction
+    name: Faction - embedonly
     filters:
       and:
         - organizations.contains(link(this.file.name))
@@ -30,7 +29,7 @@ views:
       - associates
     image: note.cover
   - type: cards
-    name: Location
+    name: Location - embedonly
     filters:
       and:
         - locations.contains(link(this.file.name))
@@ -41,8 +40,17 @@ views:
     cardSize: 170
     imageAspectRatio: 1.15
   - type: cards
-    name: Groups
+    name: Groups - embedonly
     filters:
       and:
         - associations.contains(link(this.file.name))
     image: note.img
+  - type: cards
+    name: NPC by Organization
+    order:
+      - file.name
+      - brief
+      - locations
+      - organizations
+    image: note.cover
+    imageAspectRatio: 1.25

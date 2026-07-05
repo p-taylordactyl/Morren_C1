@@ -73,11 +73,11 @@
             "state": {
               "type": "bases",
               "state": {
-                "file": "Quests/0 Quest Index.base",
-                "viewName": "All Quests"
+                "file": "NPC/NPC Index.base",
+                "viewName": "All NPCs"
               },
-              "icon": "lucide-table",
-              "title": "0 Quest Index"
+              "icon": "lucide-layout-grid",
+              "title": "NPC Index"
             }
           }
         ],
@@ -306,13 +306,14 @@
   },
   "active": "baf1b525c4b50b0c",
   "lastOpenFiles": [
+    "NPC/NPC Index.base",
+    "Quests/0 Quest Index.base",
     "Quests/The Flow Must Continue.md",
     "Quests/Voices in the Grates.md",
     "Quests/The Bloom Below.md",
     "Quests/The Silent Floor.md",
     "Quests/Elevator Eulogy.md",
     "Quests/Penthouse Signal Rehearsal.md",
-    "Quests/0 Quest Index.base",
     "Session Notes/Kat Themes and Goals.md",
     "Session Notes/Session 10.md",
     "Session Notes/Session 11.md",
@@ -329,7 +330,6 @@
     "Session Notes/Session 3.md",
     "Index.md",
     "PC/Dorian Caldwell.md",
-    "NPC/NPC Index.base",
     "Factions + Groups/Faction Index.base",
     "NPC/Az.md",
     "NPC/Kairo Voss.md",

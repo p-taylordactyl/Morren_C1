@@ -24,7 +24,7 @@ The old subway station that has become home to the members of
 
 # NPCs
 
-![[NPC Index.base#Location]]
+![[NPC Index.base#Location - embedonly]]
 
 
 

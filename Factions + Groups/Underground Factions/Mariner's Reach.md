@@ -30,7 +30,7 @@ In the Modern Age, Mariner’s Reach has become a central authority in oceanic m
 
 # NPCs
 
-![[NPC Index.base#Faction]]
+![[NPC Index.base#Faction - embedonly]]
 
 
 

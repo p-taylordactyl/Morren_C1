@@ -24,7 +24,7 @@ While helping Kieran, the party disabled several crew members (and killed one on
 
 # NPCs
 
-![[NPC Index.base#Groups]]
+![[NPC Index.base#Groups - embedonly]]
 
 
 

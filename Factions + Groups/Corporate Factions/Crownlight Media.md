@@ -32,7 +32,7 @@ In the Modern Age, Crownlight Media no longer needs overt coercion. Its dominanc
 
 # NPCs
 
-![[NPC Index.base#Faction]]
+![[NPC Index.base#Faction - embedonly]]
 
 # Sessions Encountered
 

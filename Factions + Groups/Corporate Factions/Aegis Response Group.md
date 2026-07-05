@@ -30,7 +30,7 @@ In the Modern Age, Aegis Response Group continues to dominate disaster response 
 
 # NPCs
 
-![[NPC Index.base#Faction]]
+![[NPC Index.base#Faction - embedonly]]
 
 
 

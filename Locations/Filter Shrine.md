@@ -22,7 +22,7 @@ tags:
 
 # NPCs
 
-![[NPC Index.base#Location]]
+![[NPC Index.base#Location - embedonly]]
 
 
 

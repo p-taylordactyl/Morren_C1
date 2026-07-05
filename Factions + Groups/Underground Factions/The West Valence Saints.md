@@ -40,7 +40,7 @@ In the Modern Age, the Saints maintain careful boundaries. They do not expand ag
 
 # NPCs
 
-![[NPC Index.base#Faction]]
+![[NPC Index.base#Faction - embedonly]]
 
 
 

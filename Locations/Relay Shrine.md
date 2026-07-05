@@ -24,7 +24,7 @@ A shrine located on Tier 2 of the BB Megatower
 
 # NPCs
 
-![[NPC Index.base#Location]]
+![[NPC Index.base#Location - embedonly]]
 
 
 

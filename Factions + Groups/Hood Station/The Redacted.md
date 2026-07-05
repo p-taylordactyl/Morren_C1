@@ -42,7 +42,7 @@ Influence within The Redacted is fluid and situational. Authority is not assigne
 
 # NPCs
 
-![[NPC Index.base#Groups]]
+![[NPC Index.base#Groups - embedonly]]
 
 
 

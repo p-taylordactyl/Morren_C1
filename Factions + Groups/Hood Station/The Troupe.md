@@ -32,7 +32,7 @@ They emphasize that art is supposed to be messy and confusing. They encourage ot
 
 # NPCs
 
-![[NPC Index.base#Groups]]
+![[NPC Index.base#Groups - embedonly]]
 
 
 

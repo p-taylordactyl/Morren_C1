@@ -22,7 +22,7 @@ To the average citizen, the Oligarchs are more rumor than reality: a distant pow
 
 # Associated NPCs
 
-![[NPC Index.base#Faction]]
+![[NPC Index.base#Faction - embedonly]]
 
 
 
