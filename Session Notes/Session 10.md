@@ -3,7 +3,7 @@ title: Session 10
 draft: true
 type: session_note
 created: 2026-06-29
-modified: 2026-07-02
+modified: 2026-07-05
 session_date: 06/29/2026
 session_number: 10
 players:
@@ -50,13 +50,13 @@ Outside the building, Kat tries to look for our stalker's drone and catches a gl
 
 Dorian pretends to be sick in a nearby port-a-potty (helped by Silas's illusions) and escapes out the back to flank the possible drone. He finds it, confirms it is in fact a drone, and captures it in his backpack.
 
-Kat takes the drone into the port-a-potty, where she grapples and disables it with her tinker's tools. Take that, stalker. We talk about potentially seeing if the Relay Shrine can help us recover data from it.
+Kat takes the drone into the port-a-potty, where she grapples and disables it with her tinker's tools. Take that, stalker. We talk about potentially seeing if the nice folks at the [[Relay Shrine]] can help us recover data from it.
 
 The Quiet Place door is barricaded from the outside. Windows are also barricaded.
 
 We use the car to help clear the rubble.
 
-Jack gives Max his camera to film and says he'll watch the door for us.
+[[Jack Mercer|Jack]] gives Max his camera to film and says he'll watch the door for us.
 
 The inside of this building is rotting. bedrooms to the right, common area to the left. Ahead seems to be the "game zone" with a fallen banner for the Cursed Hamlet Keeper Playthrough.
 
@@ -80,6 +80,7 @@ We realize there is a humming building around us and then an explosion of sound.
 
 We get an "Enter Team Name" prompt. 
 
+It's decided that we're "Hood's Watch"
 
 We find ourselves in the game
 

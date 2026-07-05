@@ -87,7 +87,7 @@
       {
         "id": "2cf7b81944b06cc4",
         "type": "tabs",
-        "dimension": 10.857763300760045,
+        "dimension": 10.857763300760046,
         "children": [
           {
             "id": "f3ddf28c720a30aa",
@@ -307,6 +307,10 @@
   },
   "active": "9cf76d6fe3c92044",
   "lastOpenFiles": [
+    "admin/assets/location_hoodstation_0.webp",
+    "Session Notes/Session 1.md",
+    "Session Notes/0 Session Index.base",
+    "Session Notes/Kat Themes and Goals.md",
     "Session Notes/Session 9.md",
     "Session Notes/Session 10.md",
     "Session Notes/Session 8.md",
@@ -314,13 +318,11 @@
     "Session Notes/Session 6.md",
     "Session Notes/Session 5.md",
     "Session Notes/Session 4.md",
-    "Session Notes/Session 1.md",
     "Session Notes/Session 2.md",
     "Session Notes/Session 3.md",
     "Index.md",
     "PC/Dorian Caldwell.md",
     "NPC/NPC Index.base",
-    "Session Notes/0 Session Index.base",
     "Factions + Groups/Faction Index.base",
     "Session Notes/Quests/Penthouse Signal Rehearsal.md",
     "Session Notes/Quests/Elevator Eulogy.md",
@@ -335,8 +337,6 @@
     "PC/Katriel Buchanon.md",
     "PC/Keena O'Malley.md",
     "PC/Gideon Oublier.md",
-    "PC/Silas Sorelli.md",
-    "PC/Maximilius Adkins.md",
     "admin/assets/pc_katrielbuchanon_firstdisguise.webp",
     "admin/assets/pc_doriancaldwell_firstdisguise.webp",
     "admin/assets/pc_keenaomalley_firstdisguise.webp",
