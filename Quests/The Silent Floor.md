@@ -3,10 +3,10 @@ title: The Silent Floor
 draft: false
 aliases:
 created: 2026-06-01
-modified: 2026-07-02
+modified: 2026-07-05
 cover: "[[quest_thesilentfloor.webp]]"
 type: quest
-quest_status: completed
+quest_status: turn in
 quest_giver: "[[Ren Calder]]"
 quest_location: "[[BB Megatower]]"
 reward: 30 platinum
@@ -33,9 +33,11 @@ Gain access to the affected floors via maintenance shafts or external climb rout
 
 - While exploring the middle tier of the [[BB Megatower]], we encountered [[Jack Mercer]] who was looking for a copy of a cursed video game known as The Hamlet Keeper
 - After we recovered his stolen game tracking device from a group of [[The West Valence Saints|Saints]], Jack helped us locate the "Silent Floor"
-- We found the [[Quiet Place]] past the [[Relay Shrine]] on the middle tier -  the cursed game inside, ready to play
-- 
-- We survived X rounds of combat and half the party was quite nearly perma-killed
+- We found the [[Quiet Place]] past the [[Relay Shrine]] on the middle tier -  the cursed game was inside, ready to play
+- playing the game trapped us in the game, where we had to win to escape
+- We survived X rounds of combat and half the party was nearly killed
+- once we beat the game, we were returned to the real world along with all trapped individuals, including the rescue team (sans one member who died in the game)
 
 # To Do
 
+- [ ]  turn in to [[Ren Calder]]

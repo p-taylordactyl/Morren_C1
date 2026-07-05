@@ -3,10 +3,10 @@ title: The Bloom Below
 draft: false
 aliases:
 created: 2026-06-01
-modified: 2026-07-02
+modified: 2026-07-05
 cover: "[[quest_thebloombelow.webp]]"
 type: quest
-quest_status: turned in
+quest_status: completed
 quest_giver: "[[Morrgen Oublier]]"
 quest_location: "[[Not Far Sewer]]"
 reward: 30 platinum

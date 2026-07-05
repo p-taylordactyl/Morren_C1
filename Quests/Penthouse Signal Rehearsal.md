@@ -3,10 +3,10 @@ title: Penthouse Signal Rehearsal
 draft: false
 aliases:
 created: 2026-06-01
-modified: 2026-07-02
+modified: 2026-07-05
 cover: "[[quest_penthousesignalrehearsal.webp]]"
 type: quest
-quest_status: completed
+quest_status: turn in
 quest_giver: "[[Az]]"
 quest_location: "[[BB Megatower]]"
 reward: 30 platinum
@@ -39,3 +39,4 @@ Reach the penthouse and locate the source of the broadcast. Determine whether it
 # To Do
 
 - [x]  Reach the [[Penthouse|Penthouse]]
+- [ ] turn into [[Az]]

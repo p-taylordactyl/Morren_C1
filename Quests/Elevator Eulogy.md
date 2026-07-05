@@ -4,10 +4,10 @@ draft: false
 aliases:
   - fix the elevator
 created: 2026-06-01
-modified: 2026-07-02
+modified: 2026-07-05
 cover: "[[quest_elevatoreulogy.webp]]"
 type: quest
-quest_status: completed
+quest_status: turn in
 quest_giver: "[[Cillian Ward]]"
 quest_location: "[[BB Megatower]]"
 reward: 30 platinum

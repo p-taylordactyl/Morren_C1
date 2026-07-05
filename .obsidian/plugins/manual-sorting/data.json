@@ -9,7 +9,8 @@
         "NPC",
         "Factions + Groups",
         "Locations",
-        "Session Notes"
+        "Session Notes",
+        "Quests"
       ],
       "sortOrder": "custom"
     },
@@ -349,11 +350,22 @@
       ],
       "sortOrder": "custom"
     },
+    "Quests": {
+      "children": [
+        "Quests/0 Quest Index.base",
+        "Quests/The Flow Must Continue.md",
+        "Quests/Voices in the Grates.md",
+        "Quests/The Bloom Below.md",
+        "Quests/The Silent Floor.md",
+        "Quests/Elevator Eulogy.md",
+        "Quests/Penthouse Signal Rehearsal.md"
+      ],
+      "sortOrder": "custom"
+    },
     "Session Notes": {
       "children": [
         "Session Notes/Kat Themes and Goals.md",
         "Session Notes/Pre-Campaign",
-        "Session Notes/Quests",
         "Session Notes/Timers.md",
         "Session Notes/0 Session Index.base",
         "Session Notes/Session 1.md",
@@ -373,18 +385,6 @@
       "children": [
         "Session Notes/Pre-Campaign/Session 0.md",
         "Session Notes/Pre-Campaign/Character Brainstorming.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Session Notes/Quests": {
-      "children": [
-        "Session Notes/Quests/0 Quest Index.base",
-        "Session Notes/Quests/The Flow Must Continue.md",
-        "Session Notes/Quests/Voices in the Grates.md",
-        "Session Notes/Quests/The Bloom Below.md",
-        "Session Notes/Quests/The Silent Floor.md",
-        "Session Notes/Quests/Elevator Eulogy.md",
-        "Session Notes/Quests/Penthouse Signal Rehearsal.md"
       ],
       "sortOrder": "custom"
     },

@@ -71,18 +71,17 @@
             "id": "baf1b525c4b50b0c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Session Notes/Session 10.md",
-                "mode": "source",
-                "source": false
+                "file": "Quests/0 Quest Index.base",
+                "viewName": "All Quests"
               },
-              "icon": "lucide-file",
-              "title": "Session 10"
+              "icon": "lucide-table",
+              "title": "0 Quest Index"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "2cf7b81944b06cc4",
@@ -305,14 +304,22 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9cf76d6fe3c92044",
+  "active": "baf1b525c4b50b0c",
   "lastOpenFiles": [
+    "Quests/The Flow Must Continue.md",
+    "Quests/Voices in the Grates.md",
+    "Quests/The Bloom Below.md",
+    "Quests/The Silent Floor.md",
+    "Quests/Elevator Eulogy.md",
+    "Quests/Penthouse Signal Rehearsal.md",
+    "Quests/0 Quest Index.base",
+    "Session Notes/Kat Themes and Goals.md",
+    "Session Notes/Session 10.md",
+    "Session Notes/Session 11.md",
     "admin/assets/location_hoodstation_0.webp",
     "Session Notes/Session 1.md",
     "Session Notes/0 Session Index.base",
-    "Session Notes/Kat Themes and Goals.md",
     "Session Notes/Session 9.md",
-    "Session Notes/Session 10.md",
     "Session Notes/Session 8.md",
     "Session Notes/Session 7.md",
     "Session Notes/Session 6.md",
@@ -324,19 +331,11 @@
     "PC/Dorian Caldwell.md",
     "NPC/NPC Index.base",
     "Factions + Groups/Faction Index.base",
-    "Session Notes/Quests/Penthouse Signal Rehearsal.md",
-    "Session Notes/Quests/Elevator Eulogy.md",
-    "Session Notes/Quests/The Silent Floor.md",
-    "Session Notes/Quests/The Flow Must Continue.md",
-    "Session Notes/Quests/The Bloom Below.md",
-    "Session Notes/Quests/Voices in the Grates.md",
     "NPC/Az.md",
     "NPC/Kairo Voss.md",
-    "Session Notes/Quests/0 Quest Index.base",
     "Session Notes/Timers.md",
     "PC/Katriel Buchanon.md",
     "PC/Keena O'Malley.md",
-    "PC/Gideon Oublier.md",
     "admin/assets/pc_katrielbuchanon_firstdisguise.webp",
     "admin/assets/pc_doriancaldwell_firstdisguise.webp",
     "admin/assets/pc_keenaomalley_firstdisguise.webp",
@@ -353,6 +352,6 @@
     "admin/Workflow Map.canvas",
     "admin/assets/factions",
     "Session Notes/Questions",
-    "Session Notes/Quests"
+    "Quests"
   ]
 }
