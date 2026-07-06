@@ -7,7 +7,7 @@ aliases:
 type: underground faction
 cover: "[[faction_oldguard.webp]]"
 created: 2026-04-23
-modified: 2026-06-01
+modified: 2026-07-06
 associations:
 locations:
   - "[[The Old Fort]]"
@@ -19,7 +19,7 @@ tags:
 
 # Description
 
-The Old Guard is a militant gang that occupies a ruined fortification dating back to the final phase of the Corporate Wars. The structure was once a regional command bastion used to coordinate corporate security forces, logistics routes, and emergency response operations across Old Valence. When the wars ended and Valence consolidated control, the fort was deemed strategically redundant and quietly abandoned, along with its remaining personnel and infrastructure.
+The Old Guard is a militant gang that occupies a ruined fortification dating back to the final phase of the Corporate Wars. The structure was once a regional command bastion used to coordinate corporate security forces, logistics routes, and emergency response operations across [[Old Valence]]. When the wars ended and Valence consolidated control, the fort was deemed strategically redundant and quietly abandoned, along with its remaining personnel and infrastructure.
 
 Rather than dispersing, a number of soldiers, contractors, and support staff remained behind. Some were unwilling to return to civilian life, others were cut off from relocation programs, and many simply refused to accept the authority of the new order. Over time, these holdouts formed the nucleus of what would become the Old Guard.
 

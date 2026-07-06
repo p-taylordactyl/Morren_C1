@@ -22,6 +22,10 @@ Patrols around the Tower are constant but understated, relying on advanced surve
 To the average citizen, the Oligarchs are more rumor than reality: a distant power that manifests only in moments of crisis, their insignia appearing on armored transports or sealed-off districts before vanishing again just as quickly. This limited but focused presence reinforces their role not as rulers of Old Valence, but as custodians of its most valuable resource, ensuring that the flow of energy, and by extension profit, remains uninterrupted.
 
 
+# Notes
+
+- The Oligarchs have a group of "police" known as [[Enforcers]] who will basically come pick folks up who were "citizens arrested"
+
 # Associated NPCs
 
 ![[NPC Index.base#Organizations - embedonly]]

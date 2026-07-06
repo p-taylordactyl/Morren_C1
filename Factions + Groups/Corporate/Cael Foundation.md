@@ -6,7 +6,7 @@ aliases:
 type: corporate faction
 cover: "[[faction_caelfoundation.webp]]"
 created: 2026-03-05
-modified: 2026-06-01
+modified: 2026-07-06
 associations:
 locations:
   - "[[The Asylum]]"
@@ -15,9 +15,6 @@ locations:
   - "[[The Prison]]"
 tags:
 ---
-
-
-
 
 
 ![[faction_caelfoundation.webp||banner p+t]]

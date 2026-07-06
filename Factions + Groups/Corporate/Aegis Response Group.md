@@ -6,7 +6,7 @@ aliases:
 type: corporate faction
 cover: "[[faction_aegisresponsegroup.webp]]"
 created: 2026-04-23
-modified: 2026-06-01
+modified: 2026-07-06
 associations:
 locations:
   - "[[Locations/Aegis Response Group|Aegis Response Group]]"
@@ -24,8 +24,6 @@ The company coordinates large-scale relief operations with a high degree of effi
 During the Corporate Wars, Aegis Response Group remained neutral, focusing on civilian protection and infrastructure repair rather than military engagement. Its logistics networks and modular bases were occasionally used to provide safe passage or temporary refuge for displaced populations, and the corporation coordinated emergency interventions in contested zones to prevent further civilian casualties. While Aegis occasionally contracted with factions to secure transport corridors, it avoided direct involvement in combat operations, prioritizing long-term stability over tactical advantage.
 
 In the Modern Age, Aegis Response Group continues to dominate disaster response across Morren. Smaller humanitarian initiatives, municipal emergency services, and independent relief organizations often operate under Aegis coordination or licensing, relying on its mobile infrastructure, communication systems, and logistical expertise. The corporation’s combination of rapid deployment, technical precision, and neutral public mandate has made it the default authority in managing crises, natural disasters, and industrial accidents across the Archipelago.
-
-
 
 
 # NPCs

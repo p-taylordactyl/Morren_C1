@@ -184,27 +184,24 @@
       "children": [
         "Factions + Groups/Faction Index.base",
         "Factions + Groups/Hood Station",
-        "Factions + Groups/Corporate Factions",
-        "Factions + Groups/Underground Factions",
-        "Factions + Groups/Sewer Goblins.md",
-        "Factions + Groups/Lightning Crew.md",
-        "Factions + Groups/Dominion Crew.md",
-        "Factions + Groups/Sludge Farmers.md",
-        "Factions + Groups/Enforcers.md"
+        "Factions + Groups/Corporate",
+        "Factions + Groups/Underground",
+        "Factions + Groups/Misc"
       ],
       "sortOrder": "custom"
     },
-    "Factions + Groups/Corporate Factions": {
+    "Factions + Groups/Corporate": {
       "children": [
-        "Factions + Groups/Corporate Factions/Aegis Response Group.md",
-        "Factions + Groups/Corporate Factions/Crownlight Media.md",
-        "Factions + Groups/Corporate Factions/Cael Foundation.md",
-        "Factions + Groups/Corporate Factions/Infinity Plaza Mall.md",
-        "Factions + Groups/Corporate Factions/NovaStyle Group.md",
-        "Factions + Groups/Corporate Factions/Oligarchs.md",
-        "Factions + Groups/Corporate Factions/Paragon Soundworks.md",
-        "Factions + Groups/Corporate Factions/Titan Corporation.md",
-        "Factions + Groups/Corporate Factions/Valencian Seahorses.md"
+        "Factions + Groups/Corporate/Aegis Response Group.md",
+        "Factions + Groups/Corporate/Crownlight Media.md",
+        "Factions + Groups/Corporate/Cael Foundation.md",
+        "Factions + Groups/Corporate/Infinity Plaza Mall.md",
+        "Factions + Groups/Corporate/NovaStyle Group.md",
+        "Factions + Groups/Corporate/Oligarchs.md",
+        "Factions + Groups/Corporate/Enforcers.md",
+        "Factions + Groups/Corporate/Paragon Soundworks.md",
+        "Factions + Groups/Corporate/Titan Corporation.md",
+        "Factions + Groups/Corporate/Valencian Seahorses.md"
       ],
       "sortOrder": "custom"
     },
@@ -220,15 +217,24 @@
       ],
       "sortOrder": "custom"
     },
-    "Factions + Groups/Underground Factions": {
+    "Factions + Groups/Misc": {
       "children": [
-        "Factions + Groups/Underground Factions/Bellanova Family.md",
-        "Factions + Groups/Underground Factions/Box Boys.md",
-        "Factions + Groups/Underground Factions/Ghosts of the Flooded Zone.md",
-        "Factions + Groups/Underground Factions/Mariner's Reach.md",
-        "Factions + Groups/Underground Factions/Old Guard.md",
-        "Factions + Groups/Underground Factions/Old Valence Stevedore Union.md",
-        "Factions + Groups/Underground Factions/West Valence Saints.md"
+        "Factions + Groups/Misc/Sewer Goblins.md",
+        "Factions + Groups/Misc/Sludge Farmers.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Factions + Groups/Underground": {
+      "children": [
+        "Factions + Groups/Underground/Bellanova Family.md",
+        "Factions + Groups/Underground/Box Boys.md",
+        "Factions + Groups/Underground/Ghosts of the Flooded Zone.md",
+        "Factions + Groups/Underground/Mariner's Reach.md",
+        "Factions + Groups/Underground/Old Guard.md",
+        "Factions + Groups/Underground/Old Valence Stevedore Union.md",
+        "Factions + Groups/Underground/West Valence Saints.md",
+        "Factions + Groups/Underground/Lightning Crew.md",
+        "Factions + Groups/Underground/Dominion Crew.md"
       ],
       "sortOrder": "custom"
     },

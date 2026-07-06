@@ -65,37 +65,29 @@
               "icon": "lucide-file",
               "title": "Session 10"
             }
-          },
-          {
-            "id": "baf1b525c4b50b0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPC/Custis Delavide.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Custis Delavide"
-            }
-          },
-          {
-            "id": "18c19ebaa506b368",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Factions + Groups/Sewer Goblins.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sewer Goblins"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
+      },
+      {
+        "id": "754acb4ccb0414f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da56e160ad49e8de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions + Groups/Misc/Sludge Farmers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sludge Farmers"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -152,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 209.5
   },
   "right": {
     "id": "75db2d57aea98827",
@@ -180,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factions + Groups/Sewer Goblins.md",
+                "file": "Factions + Groups/Misc/Sludge Farmers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +182,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sewer Goblins"
+              "title": "Backlinks for Sludge Farmers"
             }
           },
           {
@@ -199,12 +191,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Factions + Groups/Sewer Goblins.md",
+                "file": "Factions + Groups/Misc/Sludge Farmers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Sewer Goblins"
+              "title": "Outgoing links from Sludge Farmers"
             }
           },
           {
@@ -279,35 +271,38 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "18c19ebaa506b368",
+  "active": "da56e160ad49e8de",
   "lastOpenFiles": [
-    "NPC/Sprocket.md",
-    "Factions + Groups/Sewer Goblins.md",
-    "Factions + Groups/Lightning Crew.md",
-    "NPC/NPC Index.base",
-    "NPC/Paintbrush Gnome.md",
-    "NPC/Lightning Leroy.md",
-    "NPC/Solomon Hexley.md",
-    "NPC/Dex.md",
-    "NPC/Dex Dad.md",
-    "NPC/Arden.md",
-    "NPC/Bron.md",
-    "NPC/Jax Riven.md",
-    "NPC/Kieran Graves.md",
+    "Factions + Groups/Misc/Sewer Goblins.md",
+    "Factions + Groups/Misc/Sludge Farmers.md",
+    "PC/Katriel Buchanon.md",
+    "Factions + Groups/Corporate/NovaStyle Group.md",
+    "Factions + Groups/Corporate/Oligarchs.md",
+    "Factions + Groups/Corporate/Enforcers.md",
+    "Factions + Groups/Underground/Bellanova Family.md",
+    "Factions + Groups/Underground/West Valence Saints.md",
+    "Factions + Groups/Underground/Lightning Crew.md",
+    "Factions + Groups/Underground/Dominion Crew.md",
+    "Factions + Groups/Underground/Mariner's Reach.md",
+    "Factions + Groups/Underground/Old Guard.md",
+    "Factions + Groups/Underground/Old Valence Stevedore Union.md",
+    "Factions + Groups/Faction Index.base",
+    "Factions + Groups/Underground/Ghosts of the Flooded Zone.md",
+    "Factions + Groups/Underground/Box Boys.md",
+    "Factions + Groups/Hood Station/Endline Garage.md",
+    "Factions + Groups/Corporate/Valencian Seahorses.md",
+    "Factions + Groups/Corporate/Titan Corporation.md",
+    "Factions + Groups/Corporate/Paragon Soundworks.md",
+    "Factions + Groups/Corporate/Infinity Plaza Mall.md",
+    "Factions + Groups/Corporate/Cael Foundation.md",
     "NPC/Stalker.md",
-    "NPC/Jack Mercer.md",
-    "NPC/Elyra Sol.md",
-    "NPC/Vinny Brassjaw.md",
-    "NPC/Brug.md",
-    "NPC/Malcolm Oublier.md",
-    "NPC/Prospera Bellanova.md",
-    "NPC/Memaw Shoe.md",
-    "NPC/Kelm.md",
-    "NPC/Gorax.md",
-    "NPC/Custis Delavide.md",
-    "NPC/Az.md",
-    "NPC/Kali Torreo.md",
-    "NPC/Rosetta Thorne.md",
+    "NPC/Lorcan O'Malley.md",
+    "Factions + Groups/Corporate/Crownlight Media.md",
+    "Factions + Groups/Corporate/Aegis Response Group.md",
+    "admin/templates/Faction.md",
+    "Factions + Groups/Misc",
+    "Locations/Location Index.base",
+    "NPC/NPC Index.base",
     "admin/assets/npc_missrosie.webp",
     "admin/assets/npc_rescueteamlady.webp",
     "admin/assets/hamletkeeper_2_itsrealbad.webp",
@@ -318,7 +313,6 @@
     "admin/assets/npc_shrinepriest1.webp",
     "admin/assets/npc_shrinepriest2.webp",
     "admin/assets/npc_solomonhexley.webp",
-    "Factions + Groups/Faction Index.base",
     "Quests/0 Quest Index.base",
     "Session Notes/0 Session Index.base",
     "Public",
@@ -326,8 +320,6 @@
     "admin/assets/misc",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas",
-    "admin/assets/factions",
-    "Session Notes/Questions",
-    "Quests"
+    "admin/assets/factions"
   ]
 }

@@ -6,7 +6,7 @@ aliases:
 type: corporate faction
 cover: "[[faction_crownlightmedia.webp]]"
 created: 2026-04-23
-modified: 2026-06-01
+modified: 2026-07-06
 associations:
 locations:
   - "[[Crownlight Media Studio Lot]]"
@@ -26,9 +26,6 @@ During the Corporate Wars, Crownlight Media operated as a strategic information 
 Crownlight’s most controversial wartime project was the Continuity Initiative, a massive archival and reconstruction effort that sought to preserve a single, stable version of the war for post-conflict society. This involved the destruction or acquisition of independent footage, the forced absorption of smaller media houses, and the quiet erasure of journalists who refused to conform to Crownlight’s editorial mandates. By the end of the Corporate Wars, Crownlight effectively owned the definitive history of the conflict, and by extension, the emotional narrative of how Morren understood its own survival.
 
 In the Modern Age, Crownlight Media no longer needs overt coercion. Its dominance is maintained through contracts, cultural inertia, and infrastructural dependency. Most scrying networks, public archives, educational reels, and civic broadcast systems run on Crownlight-managed platforms. Even rival factions rely on Crownlight distribution channels to legitimize their own stories. While Crownlight possesses no formal armies and claims political neutrality, its control over narrative continuity makes it one of the most powerful corporate entities in Morren.
-
-
-
 
 # NPCs
 

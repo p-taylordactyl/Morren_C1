@@ -7,7 +7,10 @@ aliases:
 cover: "[[pc_katbuchanon.webp]]"
 type: player_character
 created: 2026-04-21
-modified: 2026-07-01
+modified: 2026-07-06
+organizations:
+  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+  - "[[Endline Garage]]"
 tags:
 ---
 > [!infobox]

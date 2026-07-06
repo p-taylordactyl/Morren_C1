@@ -4,22 +4,22 @@ draft: false
 aliases:
   - Bellanovas
   - Bellanova
-  - Bellanova Family
 type: underground faction
 cover: "[[faction_bellanovafamily.webp]]"
 created: 2026-04-23
-modified: 2026-07-05
+modified: 2026-07-06
 associations:
 locations:
+  - "[[Cloud District]]"
+  - "[[BB Megatower]]"
 tags:
-  - under_construction
 ---
 
 ![[faction_bellanovafamily.webp]]
 
 # Description
 
-The Bellanova Family is a crime dynasty heavily steeped in tradition that controls Bellanova Towers, a sprawling mega-tenement in Old Valence. Originally built as luxury housing for mid-tier corporate managers, the building was later abandoned and fell into disrepair. The Bellanova Family claimed it early, transforming the tower into both a fortress and the operational hub of their organized crime activities. Over decades, they turned the vertical city into a self-contained syndicate stronghold, with entire floors dedicated to living quarters, offices, gambling halls, workshops, and illicit storage.
+The Bellanova Family is a crime dynasty heavily steeped in tradition that controls [[Bellanova Towers]], a sprawling mega-tenement in [[Old Valence]]. Originally built as luxury housing for mid-tier corporate managers, the building was later abandoned and fell into disrepair. The Bellanova Family claimed it early, transforming the tower into both a fortress and the operational hub of their organized crime activities. Over decades, they turned the vertical city into a self-contained syndicate stronghold, with entire floors dedicated to living quarters, offices, gambling halls, workshops, and illicit storage.
 
 The family maintains a rigid hierarchical structure. At the top sits the Patriarch or Matriarch, whose authority is absolute within the tower. Beneath them is the Council of Lieutenants, each responsible for specific floors, revenue streams, or operational sectors such as smuggling, protection, debt collection, and information brokerage. Foot soldiers and associates populate the lower floors, enforcing the family’s rules, controlling tenants, and maintaining security. Roles are often hereditary or long-term, and loyalty is reinforced by both tradition and the ever-present threat of enforced discipline.
 

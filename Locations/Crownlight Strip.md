@@ -10,7 +10,7 @@ parent:
 associations:
   - "[[Crownlight Media]]"
   - "[[NovaStyle Group]]"
-  - "[[Factions + Groups/Corporate Factions/Paragon Soundworks|Paragon Soundworks]]"
+  - "[[Factions + Groups/Corporate/Paragon Soundworks|Paragon Soundworks]]"
   - "[[Infinity Plaza Mall]]"
   - "[[Valencian Seahorses]]"
 tags:

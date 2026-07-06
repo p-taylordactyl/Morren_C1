@@ -14,6 +14,7 @@ disposition:
 organizations:
   - "[[Titan Corporation]]"
 locations:
+  - unknown
 associates:
 brief: A mysterious individual or group that keeps sending Gideon blackmail material against the party
 tags:

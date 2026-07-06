@@ -6,13 +6,14 @@ aliases:
 type: corporate faction
 cover: "[[faction_valencianseahorses.webp]]"
 created: 2026-03-05
-modified: 2026-06-01
+modified: 2026-07-06
 associations:
 locations:
   - "[[Crownlight Strip]]"
 tags:
   - under_construction
 ---
+
 ![[faction_valencianseahorses.webp]]
 
 # Description

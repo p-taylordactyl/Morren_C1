@@ -7,11 +7,11 @@ aliases:
 type: underground faction
 cover: "[[faction_oldvalencestevedoreunion.webp]]"
 created: 2026-04-23
-modified: 2026-06-29
+modified: 2026-07-06
 associations:
 locations:
+  - "[[Stevedore Union Main Harbor]]"
 tags:
-  - under_construction
 ---
 
 ![[faction_oldvalencestevedoreunion.webp]]

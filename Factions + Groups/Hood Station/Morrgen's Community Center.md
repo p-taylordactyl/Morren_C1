@@ -1,18 +1,17 @@
 ---
-title: "Morrgen's Community Center"
+title: Morrgen's Community Center
 draft: false
 aliases:
   - Community Center
 type: group
 cover:
 created: 2026-05-25
-modified: 2026-05-25
+modified: 2026-07-06
 parent: "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
 associations:
 locations:
   - "[[Locations/Hood Station|Hood Station]]"
 tags:
-  - under_construction
 ---
 # Description
 

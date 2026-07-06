@@ -31,7 +31,7 @@ views:
     name: Organizations - embedonly
     filters:
       and:
-        - organizations.contains(link(this.file.name))
+        - organizations.contains(link(this.file))
     order:
       - file.name
       - brief

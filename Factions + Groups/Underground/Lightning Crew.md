@@ -4,17 +4,19 @@ aliases:
 type: underground group
 cover:
 created: 2026-06-29
-modified: 2026-07-05
+modified: 2026-07-06
 parent: "[[West Valence Saints]]"
 associations:
   - "[[Dominion Crew]]"
 locations:
+  - "[[Westreach]]"
 tags:
-  - under_construction
 ---
-# Notes
+# Description
 
-A crew of the [[West Valence Saints|Saints]] who follow principles similar to [[Dominion Crew]]. 
+A crew of the [[West Valence Saints|Saints]] who follow principles similar to the [[Dominion Crew]]. 
+
+# Notes
 
 [[Kieran Graves]] was a member of the crew until he failed his initiation by refusing to kill someone. 
 

@@ -12,7 +12,6 @@ status:
 disposition:
   - friendly
 organizations:
-  - "[[Titan Corporation]]"
   - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
 locations:
   - "[[Locations/Hood Station|Hood Station]]"

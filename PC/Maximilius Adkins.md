@@ -9,7 +9,10 @@ aliases:
 cover: "[[pc_maxadkins.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-01
+modified: 2026-07-06
+organizations:
+  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+  - "[[The Redacted]]"
 tags:
   - under_construction
 ---

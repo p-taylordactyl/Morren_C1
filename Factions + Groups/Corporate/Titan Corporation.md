@@ -6,7 +6,7 @@ aliases:
 type: corporate faction
 cover: "[[faction_titancorporation.webp]]"
 created: 2026-04-23
-modified: 2026-06-01
+modified: 2026-07-06
 associations:
 locations:
   - "[[Titan Corporation Factory Complex]]"
@@ -26,9 +26,11 @@ During the Corporate Wars, Titan Corporation leveraged its industrial empire as 
 
 In the Modern Age, Titan Corporation continues to dominate industrial production, consolidating mining operations, heavy manufacturing, and energy supply under its control. Independent operations are either acquired, leased, or shut down, while its private security and enforcement forces maintain uninterrupted access to strategic resource locations. Titan’s influence extends across the Archipelago, shaping both the economy and the environment to serve the corporation’s relentless drive for production and expansion.
 
-## Additional Notes
+## Notes
 
-[[Keena O'Malley]] and [[Maximilius Adkins]] investigated an unreported accident that killed or injured a significant number Titan employees, including Keena's brother [[Lorcan O'Malley]], who died, and her cousin [[Róisín Ward|Róisín]], who lost an arm. They found that [[Augustin Devereaux]] both caused and covered up the accident and subsequently beat the man into a coma.
+- [[Keena O'Malley]] and [[Maximilius Adkins]] investigated an unreported accident that killed or injured a significant number Titan employees, including Keena's brother [[Lorcan O'Malley]], who died, and her cousin [[Róisín Ward|Róisín]], who lost an arm. They found that [[Augustin Devereaux]] both caused and covered up the accident and subsequently beat the man into a coma.
+- Max has now impersonated a Titan Corporation employee on multiple occasions
+- The party found out at the [[Relay Shrine]] that the person stalking them is somehow affiliated with Titan
 
 
 # NPCs

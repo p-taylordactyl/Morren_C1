@@ -7,7 +7,7 @@ aliases:
 type: underground faction
 cover: "[[faction_boxboys.webp]]"
 created: 2026-04-23
-modified: 2026-06-29
+modified: 2026-07-06
 associations:
 locations:
   - "[[Box City]]"
@@ -18,7 +18,7 @@ tags:
 
 # Description
 
-The Box Boys are a territorial gang that controls an abandoned cargo container lot on the industrial fringe of Old Valence, a former logistics yard left behind after major shipping routes were automated and rerouted through orbital and arcane transit systems. What was once a flat expanse of idle freight containers has been transformed into a dense vertical settlement, with crates stacked into irregular towers, bridges welded between rows, and entire neighborhoods carved out inside repurposed cargo shells. The area is commonly referred to as the Box City, though no official maps still acknowledge its existence.
+The Box Boys are a territorial gang that controls an abandoned cargo container lot on the industrial fringe of [[Old Valence]], a former logistics yard left behind after major shipping routes were automated and rerouted through orbital and arcane transit systems. What was once a flat expanse of idle freight containers has been transformed into a dense vertical settlement, with crates stacked into irregular towers, bridges welded between rows, and entire neighborhoods carved out inside repurposed cargo shells. The area is commonly referred to as the [[Box City]], though no official maps still acknowledge its existence.
 
 The gang uses the container city as both living space and defensive structure. Individual stacks are reinforced with scrap plating, barricades, and internal passageways known only to members. Power is siphoned from nearby industrial grids and derelict substations. Water is collected through condensation systems, rain capture, and illegal pipeline taps. Most containers are refitted into living quarters, workshops, drug labs, chop shops, or storage vaults. Exterior access points are limited, with narrow corridors, retractable bridges, and hidden drop shafts creating natural chokepoints throughout the settlement.
 
