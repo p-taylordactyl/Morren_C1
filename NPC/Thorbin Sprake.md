@@ -1,16 +1,19 @@
 ---
 title: Thorbin Sprake
-draft: false
 aliases:
   - Thorbin
 type: npc
 cover: "[[npc_ThorbinSprake.webp]]"
 created: 2026-05-08
-modified: 2026-06-22
+modified: 2026-07-06
+draft: false
+status:
+  - alive
 disposition:
   - friendly
 organizations:
   - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+  - "[[Endline Garage]]"
 locations:
   - "[[Locations/Hood Station|Hood Station]]"
 associates:
@@ -18,6 +21,7 @@ associates:
 brief: Kat's boss/mentor and owner of the Endline Garage
 tags:
 ---
+
 ![[npc_ThorbinSprake.webp]]
 
 
@@ -29,11 +33,10 @@ Thorbin Sprake was a mechanic for the [[Titan Corporation]], until he lost his l
 
 
 
-
-# Quests
-
-
 # Session Mentions
 
 ![[0 Session Index.base#Encounters]]
 
+# Quests
+
+![[0 Quest Index.base#By NPC]]

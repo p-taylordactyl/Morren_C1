@@ -6,21 +6,24 @@ aliases:
 type: location
 district: "[[Cloud District]]"
 parent:
-cover:
+cover: "[[location_hoodstation_0.webp]]"
 created: 2026-04-23
-modified: 2026-07-01
+modified: 2026-07-06
 associations:
   - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+  - "[[Morrgen's Community Center]]"
+  - "[[The Redacted]]"
+  - "[[Endline Garage]]"
+  - "[[Iron Form Dojo]]"
+  - "[[Protective Association for Wayward and Neglected Strays|PAWNS]]"
+  - "[[The Troupe]]"
 tags:
 ---
 # Description
 
-The old subway station that has become home to the members of 
+The old subway station that has become home to a [[Factions + Groups/Hood Station/Hood Station|community]] of folks looking to find a way to survive a little less under the thumb of the corpos and criminals.
 
-# Controlling Faction
-
-
-
+Origin and current home base of Hood's Watch.
 
 # NPCs
 

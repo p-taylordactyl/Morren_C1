@@ -11,7 +11,7 @@ parent:
 associations:
   - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
   - "[[Titan Corporation]]"
-  - "[[The Bellanova Family]]"
+  - "[[Bellanova Family]]"
 tags:
   - under_construction
 ---

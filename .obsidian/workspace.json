@@ -6,7 +6,6 @@
       {
         "id": "4926aafa37c55690",
         "type": "tabs",
-        "dimension": 89.14223669923996,
         "children": [
           {
             "id": "31efc69d17e92a30",
@@ -71,56 +70,32 @@
             "id": "baf1b525c4b50b0c",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "NPC/NPC Index.base",
-                "viewName": "All NPCs"
-              },
-              "icon": "lucide-layout-grid",
-              "title": "NPC Index"
-            }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "2cf7b81944b06cc4",
-        "type": "tabs",
-        "dimension": 10.857763300760046,
-        "children": [
-          {
-            "id": "f3ddf28c720a30aa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 9.md",
+                "file": "NPC/Custis Delavide.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Session 9"
+              "title": "Custis Delavide"
             }
           },
           {
-            "id": "a38f4569ed3b3dc0",
+            "id": "18c19ebaa506b368",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 10.md",
+                "file": "Factions + Groups/Sewer Goblins.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Session 10"
+              "title": "Sewer Goblins"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -205,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Location Index.base",
+                "file": "Factions + Groups/Sewer Goblins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Location Index"
+              "title": "Backlinks for Sewer Goblins"
             }
           },
           {
@@ -224,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Location Index.base",
+                "file": "Factions + Groups/Sewer Goblins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Location Index"
+              "title": "Outgoing links from Sewer Goblins"
             }
           },
           {
@@ -304,49 +279,50 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "baf1b525c4b50b0c",
+  "active": "18c19ebaa506b368",
   "lastOpenFiles": [
+    "NPC/Sprocket.md",
+    "Factions + Groups/Sewer Goblins.md",
+    "Factions + Groups/Lightning Crew.md",
     "NPC/NPC Index.base",
-    "Quests/0 Quest Index.base",
-    "Quests/The Flow Must Continue.md",
-    "Quests/Voices in the Grates.md",
-    "Quests/The Bloom Below.md",
-    "Quests/The Silent Floor.md",
-    "Quests/Elevator Eulogy.md",
-    "Quests/Penthouse Signal Rehearsal.md",
-    "Session Notes/Kat Themes and Goals.md",
-    "Session Notes/Session 10.md",
-    "Session Notes/Session 11.md",
-    "admin/assets/location_hoodstation_0.webp",
-    "Session Notes/Session 1.md",
-    "Session Notes/0 Session Index.base",
-    "Session Notes/Session 9.md",
-    "Session Notes/Session 8.md",
-    "Session Notes/Session 7.md",
-    "Session Notes/Session 6.md",
-    "Session Notes/Session 5.md",
-    "Session Notes/Session 4.md",
-    "Session Notes/Session 2.md",
-    "Session Notes/Session 3.md",
-    "Index.md",
-    "PC/Dorian Caldwell.md",
-    "Factions + Groups/Faction Index.base",
+    "NPC/Paintbrush Gnome.md",
+    "NPC/Lightning Leroy.md",
+    "NPC/Solomon Hexley.md",
+    "NPC/Dex.md",
+    "NPC/Dex Dad.md",
+    "NPC/Arden.md",
+    "NPC/Bron.md",
+    "NPC/Jax Riven.md",
+    "NPC/Kieran Graves.md",
+    "NPC/Stalker.md",
+    "NPC/Jack Mercer.md",
+    "NPC/Elyra Sol.md",
+    "NPC/Vinny Brassjaw.md",
+    "NPC/Brug.md",
+    "NPC/Malcolm Oublier.md",
+    "NPC/Prospera Bellanova.md",
+    "NPC/Memaw Shoe.md",
+    "NPC/Kelm.md",
+    "NPC/Gorax.md",
+    "NPC/Custis Delavide.md",
     "NPC/Az.md",
-    "NPC/Kairo Voss.md",
-    "Session Notes/Timers.md",
-    "PC/Katriel Buchanon.md",
-    "PC/Keena O'Malley.md",
-    "admin/assets/pc_katrielbuchanon_firstdisguise.webp",
-    "admin/assets/pc_doriancaldwell_firstdisguise.webp",
-    "admin/assets/pc_keenaomalley_firstdisguise.webp",
-    "admin/assets/pc_maxadkins_thetickler.webp",
-    "admin/assets/pc_silassorelli_firstdisguise.webp",
-    "admin/assets/pc_gideonoublier_firstdisguise.webp",
+    "NPC/Kali Torreo.md",
+    "NPC/Rosetta Thorne.md",
+    "admin/assets/npc_missrosie.webp",
+    "admin/assets/npc_rescueteamlady.webp",
+    "admin/assets/hamletkeeper_2_itsrealbad.webp",
+    "admin/assets/hamletkeeper.webp",
+    "admin/assets/image-1.webp",
+    "admin/assets/pc_keena_disguise.webp",
+    "admin/assets/pc_max_thetickler.webp",
+    "admin/assets/npc_shrinepriest1.webp",
+    "admin/assets/npc_shrinepriest2.webp",
+    "admin/assets/npc_solomonhexley.webp",
+    "Factions + Groups/Faction Index.base",
+    "Quests/0 Quest Index.base",
+    "Session Notes/0 Session Index.base",
     "Public",
     "test",
-    "admin/assets/npc_caveman.webp",
-    "admin/assets/npc_broadcastsaint.webp",
-    "admin/assets/npc_quietplacelady.webp",
     "admin/assets/misc",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas",

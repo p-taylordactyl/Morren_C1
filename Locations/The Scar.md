@@ -9,7 +9,7 @@ created: 2026-06-01
 modified: 2026-06-01
 parent:
 associations:
-  - "[[The Old Guard]]"
+  - "[[Old Guard]]"
 tags:
   - under_construction
 ---

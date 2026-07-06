@@ -31,7 +31,7 @@ Max gets stung by a sewer bee and vanishes.
 
 [[Katriel Buchanon|Kat]] and [[Gideon Oublier|Gideon]] decide to help [[Mira Sporehand]] milk a toad before we leave the [[Sludge Farm]]. Kat is...surprisingly good at it and Mira pays 3 silvers for their efforts.
 
-[[Silas Sorelli|Silas]] asks Kat why she won't leverage the fear she commands as a (former) [[The West Valence Saints|Saint]]. Kat isn't entirely opposed to the idea in the right circumstances, but she is completely unwilling to try and intimidate anyone she sees as an innocent. [[Keena O'Malley|Keena]] also rightly points out that it might not be a good idea for Kat to be throwing around the Saints name, especially outside of their jurisdiction, as it might bring unwelcome attention from the gang.
+[[Silas Sorelli|Silas]] asks Kat why she won't leverage the fear she commands as a (former) [[West Valence Saints|Saint]]. Kat isn't entirely opposed to the idea in the right circumstances, but she is completely unwilling to try and intimidate anyone she sees as an innocent. [[Keena O'Malley|Keena]] also rightly points out that it might not be a good idea for Kat to be throwing around the Saints name, especially outside of their jurisdiction, as it might bring unwelcome attention from the gang.
 
 The conversation turns to Gideon and he mentions that he gets a signature in his notebook from everyone he helps, but he rarely if ever makes friends, because he's afraid they're going to die.
 
@@ -67,7 +67,7 @@ Silas cuts open the costume and it self-heals. Silas realizes this guy is a hero
 
 Lumen gasps, he is alive. Silas asks what he was doing in the pipe but he can barely move. With Max bee-ed, we have no healing to offer. Lumen asks why he isn't dead but Silas doesn't know. He asks about our affiliations.
 
-Silas says we're sort of roundabout friends of the Cael Foundation. Otherwise we would have killed him and taken his suit. Lumen is suspicious but says he was fighting some "undesirables" in the [[The Bellanova Family|Bellanova]] Towers. He was winning but then something hit him and he blacked out. He's really surprised he's not dead. Silas tries to check the suit, but no sign of damage. He would need to see Lumen's actual body. 
+Silas says we're sort of roundabout friends of the Cael Foundation. Otherwise we would have killed him and taken his suit. Lumen is suspicious but says he was fighting some "undesirables" in the [[Bellanova Family|Bellanova]] Towers. He was winning but then something hit him and he blacked out. He's really surprised he's not dead. Silas tries to check the suit, but no sign of damage. He would need to see Lumen's actual body. 
 
 Lumen explains the suit will explode if he's killed.
 

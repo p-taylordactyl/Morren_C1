@@ -3,7 +3,7 @@ title: Session 9
 draft: false
 type: session_note
 created: 2026-06-22
-modified: 2026-07-02
+modified: 2026-07-05
 session_date: 06/22/2026
 session_number: 9
 players:
@@ -52,9 +52,9 @@ Kat pulls the lever that won't blow everyone up and we enter the [[Relay Shrine]
 
 ![[location_bbmegatower_relayshrine.webp]]
 
-![[npc_relayshrine1.webp]]
+![[npc_shrinepriest1.webp]]
 
-![[npc_relayshrine2.webp]]
+![[npc_shrinepriest2.webp]]
 
 These two guys will get the Machine Spirit inside the machine to help us figure out who owns the phone number of our stalker. It requires a donation. Kat and Dorian each kick in 2 platinum.
 
@@ -64,7 +64,7 @@ Dorian gives them his phone and clarifies we're looking for information on the r
 
 This is going to take a few hours. The give us some sacred water - runoff from the Machine. It tastes shockingly clean. Keena tries to detect any divine magic but gets nothing.
 
-Kid comes in. Tech people are named [[Arden]] and [[Faile]]?
+Kid comes in. Tech people are named [[Arden]] and [[Dex Dad]]?
 
 ![[npc_dex.webp]]
 
@@ -152,13 +152,13 @@ Our friends in the trunk are awake. Keena and Max will conduct the interrogation
 
 Keena threw a burlap sack over her head to hide her identity and is playing the "good cop" of sorts while Max takes on the character of "The Tickler" and gives a performance so perfect it defies words. Anyway he stabs himself in the leg.
 
-![[max_thetickler.webp|548]]
+![[pc_maxadkins_thetickler.webp]]
 
 The acolyte doesn't even know [[Kieran Graves|Kieran's]] name and only called him derogatory nicknames.
 
-The leader of the [[The Lightning Crew]] is named [[Lightning Leroy]].
+The leader of the [[Lightning Crew]] is named [[Lightning Leroy]].
 
-The acolyte's name is [[Jerry]] and his specific area of influence is channeling Morronel. The Lightning Crew are trying to take the [[BB Megatower]] from the [[The Bellanova Family|Bellanovas]]. 
+The acolyte's name is [[Jerry]] and his specific area of influence is channeling Morronel. The Lightning Crew are trying to take the [[BB Megatower]] from the [[Bellanova Family|Bellanovas]]. 
 
 They put the acolyte back in the trunk and pull out the grunt.
 

@@ -1,13 +1,15 @@
 ---
 title: Kali Torreo
-draft: false
 aliases:
   - Kali
   - Commander Torreo
 type: npc
 cover: "[[npc_KaliTorreo.webp]]"
 created: 2026-05-25
-modified: 2026-06-22
+modified: 2026-07-06
+status:
+  - alive
+draft: false
 disposition:
   - unknown
 organizations:
@@ -25,11 +27,12 @@ tags:
 
 # Description
 
+Silas's childhood friend who joined the [[Ghosts of the Flooded Zone]].
 
 # Notes
 
 - At the [[BB Megatower]] we steal documents from a [[Ghosts of the Flooded Zone|Ghosts]] van that reference the battle plans of a "Commander Torreo"
-- Later 
+- After he asked "Commander Torreo" is likely Kali, Silas asked [[Vinny Brassjaw|Brassjaw]] to arrange a meeting. It's a no until we build more trust.
 
 # Session Mentions
 

@@ -22,7 +22,7 @@ tags:
 
 # NPCs
 
-![[NPC Index.base#Faction - embedonly]]
+![[NPC Index.base#Organizations - embedonly]]
 
 
 

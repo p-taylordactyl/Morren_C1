@@ -34,7 +34,7 @@ Hydroponics feeds the station. If the crops fail, rationing begins within days, 
 # Notes
 
 - The bioluminescent fungus was being grown as food at the [[Sludge Farm]].
-- [[The Sludge Farmers|Sludge Farmer]] [[Mira Sporehand]] was insistent that the fungus is not the cause of filtration issues and that the true problem was that the Filter at the [[Filter Shrine]] had simply stopped working.
+- [[Sludge Farmers|Sludge Farmer]] [[Mira Sporehand]] was insistent that the fungus is not the cause of filtration issues and that the true problem was that the Filter at the [[Filter Shrine]] had simply stopped working.
 - At the Filter Shrine, we confirmed that Mira was correct and the filter was not running at all. [[Sister Hera]] informed us that nothing broke, it just stopped one day, and all repair attempts had failed.
 - [[Dorian Caldwell|Dorian]] threatened to blow up the Filter and successfully intimidated it into starting up again. Notably, no Divine Magic involved.
 
@@ -42,4 +42,4 @@ Hydroponics feeds the station. If the crops fail, rationing begins within days, 
 
 ### Follow Up
 
-- [ ] ensure [[The Sludge Farmers]] move into the station as anticipated next season
+- [ ] ensure [[Sludge Farmers]] move into the station as anticipated next season

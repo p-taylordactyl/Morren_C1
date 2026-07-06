@@ -3,7 +3,7 @@ type: group
 cover:
 created: 2026-04-29
 modified: 2026-05-01
-parent: "[[The West Valence Saints]]"
+parent: "[[West Valence Saints]]"
 associations:
   - "[[Hadrian Buchanon]]"
   - "[[Katriel Buchanon]]"

@@ -101,7 +101,7 @@ First wave is abyssal hyenas.
 
 At great cost, like half the party almost forreal dead type of cost, we win and get spit back out into the Quiet Place along with a large group of people, including this woman who I think is from the team that disappeared. Notably one of the team members is dead.
 
-![[npc_quietplacelady.webp]]
+![[npc_rescueteamlady.webp]]
 
 The game flickers off the screen and it flips back to live TV, where we see this guy.
 

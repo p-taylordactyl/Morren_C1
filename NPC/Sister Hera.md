@@ -1,12 +1,14 @@
 ---
 title: Sister Hera
-draft: false
 aliases:
   - Hera
 type: npc
 cover: "[[npc_sisterhera.webp]]"
 created: 2026-05-04
-modified: 2026-06-22
+modified: 2026-07-06
+draft: false
+status:
+  - alive
 disposition:
   - friendly
 organizations:
@@ -17,6 +19,7 @@ associates:
 brief: A priestess of the Machine God and only survivor at the Filter Shrine
 tags:
 ---
+
 ![[npc_SisterHera.webp]]
 
 

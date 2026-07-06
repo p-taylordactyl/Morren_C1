@@ -1,10 +1,12 @@
 ---
 title: Oligarchs
+aliases:
+  - oligarch
 draft: false
 type: corporate faction
 cover: "[[faction_oligarchs.webp]]"
 created: 2026-03-06
-modified: 2026-06-01
+modified: 2026-07-06
 associations:
 tags:
   - under_construction
@@ -22,7 +24,7 @@ To the average citizen, the Oligarchs are more rumor than reality: a distant pow
 
 # Associated NPCs
 
-![[NPC Index.base#Faction - embedonly]]
+![[NPC Index.base#Organizations - embedonly]]
 
 
 

@@ -1,28 +1,30 @@
 ---
 title: Vesh Hollowbone
-draft: false
 aliases:
   - Vesh
 type: npc
 cover: "[[npc_veshhollowbone.webp]]"
 created: 2026-05-21
-modified: 2026-06-01
+modified: 2026-07-06
+draft: false
+status: deceased
 disposition:
   - friendly
-  - deceased
 organizations:
 locations:
+  - "[[Not Far Sewer]]"
   - "[[Bone Culvert]]"
 associates:
 brief: A tiefling encountered in the Bone Culvert who died helping the party disrupt an undead ritual.
 tags:
-  - deceased
 ---
+
 ![[npc_veshhollowbone.webp]]
 
 
 # Description
 
+A tiefling encountered in the [[Bone Culvert]] who died helping the party disrupt an undead ritual.
 
 # Notes
 

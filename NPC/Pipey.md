@@ -1,11 +1,13 @@
 ---
 title: Pipey
-draft: false
 aliases:
 type: npc
 cover: "[[npc_Pipey.webp]]"
 created: 2026-04-29
-modified: 2026-05-29
+modified: 2026-07-06
+draft: false
+status:
+  - alive
 disposition:
   - neutral
   - friendly
@@ -17,6 +19,7 @@ associates:
 brief: A mysterious tiefling hanging out in a sewer pipe
 tags:
 ---
+
 ![[npc_Pipey.webp]]
 
 

@@ -1,14 +1,17 @@
 ---
 title: Az
-draft: false
 aliases:
 type: npc
 cover: "[[npc_Az.webp]]"
 created: 2026-05-25
-modified: 2026-07-02
+modified: 2026-07-06
+status:
+  - alive
+draft: false
 disposition:
   - friendly
 organizations:
+  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
   - "[[The Troupe]]"
 locations:
   - "[[Locations/Hood Station|Hood Station]]"
@@ -16,8 +19,8 @@ associates:
   - "[[Dorian Caldwell|Dorian]]"
 brief: Dorian's friend and de facto leader of The Troupe, he/they
 tags:
-  - they-them
 ---
+
 ![[npc_az.webp|453]]
 
 
@@ -29,7 +32,13 @@ They emphasize that art is supposed to be messy and confusing. They encourage ot
 
 # Notes
 
+- Az is also a drug dealer and grows some of their own supply
 
 # Session Mentions
 
 ![[0 Session Index.base#Encounters]]
+
+
+# Quests
+
+![[0 Quest Index.base#By NPC]]

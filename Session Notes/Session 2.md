@@ -46,7 +46,7 @@ As we're searching, [[Maximilius Adkins|Max]] and Kat spot what appears to be a 
 
 The tiefling doesn't want to come out. Max introduces himself. The tiefling doesn't want to give their name but says we can call them "[[Pipey]]." 
 
-Pipey tells us Pipe Junction is an controlled by smugglers, and there are whispers that they're associated with the [[The Bellanova Family|Bellanovas]].
+Pipey tells us Pipe Junction is an controlled by smugglers, and there are whispers that they're associated with the [[Bellanova Family|Bellanovas]].
 
 Max asks about the forcefield. Pipey says it used to be open but has gotten less so since the cultists went into mourning.
 
@@ -88,7 +88,7 @@ Machine Spirit people did at some point also send inquisitors to the sludge farm
 
 We get clear on the problem but are undecided on the solution. We discuss the possibility of migrating the farm to Hood Station.
 
-Gideon pushes Kat to reveal her past with the [[The West Valence Saints|Saints]] to try and bond with Mira. This backfires as the mere mention of the gang sends the farmer into a panic of trying to placate us in any way possible. Kat repeatedly reassures her that she is no longer affiliated and that if anything, there are people in the gang who want to kill her. It kind of works? 
+Gideon pushes Kat to reveal her past with the [[West Valence Saints|Saints]] to try and bond with Mira. This backfires as the mere mention of the gang sends the farmer into a panic of trying to placate us in any way possible. Kat repeatedly reassures her that she is no longer affiliated and that if anything, there are people in the gang who want to kill her. It kind of works? 
 
 Keena asks Kat what she did for the gang.
 

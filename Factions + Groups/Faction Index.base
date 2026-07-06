@@ -2,6 +2,9 @@ filters:
   and:
     - type.containsAny("faction","group")
     - file.folder != "admin/templates"
+formulas:
+  Untitled: ""
+  backlinks: "if "
 views:
   - type: cards
     name: All Factions + Groups
@@ -18,3 +21,14 @@ views:
         - type.contains("corporate faction")
     image: note.cover
     imageAspectRatio: 1.15
+  - type: cards
+    name: Undergound
+    filters:
+      and:
+        - type == "underground faction"
+    order:
+      - file.name
+      - locations
+      - associations
+    image: note.cover
+    rowHeight: tall

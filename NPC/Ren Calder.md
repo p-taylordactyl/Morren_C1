@@ -1,15 +1,18 @@
 ---
 title: Ren Calder
-draft: false
 aliases:
   - Ren
 type: npc
 cover: "[[npc_rencalder.webp]]"
 created: 2026-05-04
-modified: 2026-06-22
+modified: 2026-07-06
+draft: false
+status:
+  - alive
 disposition:
   - friendly
 organizations:
+  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
   - "[[The Redacted]]"
 locations:
   - "[[Locations/Hood Station|Hood Station]]"
@@ -18,6 +21,7 @@ associates:
 brief: Max's friend and fellow member of The Redacted.
 tags:
 ---
+
 ![[npc_rencalder.webp|508]]
 
 
@@ -31,3 +35,8 @@ An active member of [[The Redacted]] who is constantly searching for leads and o
 # Session Mentions
 
 ![[0 Session Index.base#Encounters]]
+
+
+# Quests
+
+![[0 Quest Index.base#By NPC]]

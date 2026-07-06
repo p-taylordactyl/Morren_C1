@@ -1,19 +1,21 @@
 ---
 title: Vinny Brassjaw
-draft: false
 aliases:
   - Vinny
   - Brassjaw
 type: npc
 cover: "[[npc_vinnybrassjaw.webp]]"
 created: 2026-06-08
-modified: 2026-06-22
+modified: 2026-07-06
+status:
+  - alive
+draft: false
 disposition:
   - neutral
   - friendly
   - unknown
 organizations:
-  - "[[The Bellanova Family|Bellanovas]]"
+  - "[[Bellanova Family|Bellanovas]]"
 locations:
   - "[[BB Megatower]]"
 associates:
@@ -22,8 +24,8 @@ associates:
   - "[[Malcolm Oublier]]"
 brief: A goblin that seems to be some kind of crime boss in the BB Megatower.
 tags:
-  - under_construction
 ---
+
 ![[npc_vinnybrassjaw.webp]]
 
 # Description
@@ -33,9 +35,16 @@ A goblin that seems to be some kind of crime boss in the [[BB Megatower]].
 # Notes
 
 - Received some videos from our [[Stalker]] and is interested in unmasking them
-- Will help us in exchange for us doing some work for him
-- Also gave us some old wrestling costumes to use as disguises
+- Willing to help us if we do some work for him
+- Holds [[Malcolm Oublier]]'s debt
+- If we build enough trust, could set up a meeting between [[Silas Sorelli|Silas]] and [[Kali Torreo|Commander Torreo]]
+- Gave us some old wrestling costumes to use as disguises
 
 # Session Mentions
 
 ![[0 Session Index.base#Encounters]]
+
+
+# Quests
+
+![[0 Quest Index.base#By NPC]]

@@ -1,33 +1,36 @@
 ---
 title: Lightning Leroy
-draft: false
 aliases:
+  - Leroy
 type: npc
 cover: "[[npc_LightningLeroy.webp]]"
 created: 2026-06-29
-modified: 2026-06-29
+modified: 2026-07-06
+status:
+  - alive
+draft: false
 disposition:
   - enemy
   - unfriendly
-  - neutral
-  - friendly
-  - ally
-  - unknown
 organizations:
+  - "[[West Valence Saints]]"
+  - "[[Lightning Crew]]"
 locations:
 associates:
+  - Jerry
 brief: Leader of the Lightning Crew of the West Valence Saints.
 tags:
-  - under_construction
 ---
+
 ![[npc_LightningLeroy.webp]]
 
 # Description
 
-Leader of the [[The Lightning Crew|Lightning Crew]] of [[The West Valence Saints]].
+Leader of the [[Lightning Crew|Lightning Crew]] of [[West Valence Saints]].
 
 # Notes
 
+- party learned of Leroy's existence from Jerry, a Lightning Crew acolyte we captured and interrogated
 
 # Session Mentions
 

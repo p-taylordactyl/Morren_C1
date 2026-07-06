@@ -16,7 +16,7 @@ tags:
 ---
 # Description
 
-Morrgen's Community Center came to be more from necessity than ambition. The [[Titan Corporation]] and the [[The West Valence Saints|Saints]] left the people dwelling in these neighborhoods broken in mind, body, and spirit. Gideon's [[Morrgen Oublier|mother]] took it upon herself to help the people mend what could be mended and rebuild that which was beyond repair. What started as just a run down train car eventually turned into a community.
+Morrgen's Community Center came to be more from necessity than ambition. The [[Titan Corporation]] and the [[West Valence Saints|Saints]] left the people dwelling in these neighborhoods broken in mind, body, and spirit. Gideon's [[Morrgen Oublier|mother]] took it upon herself to help the people mend what could be mended and rebuild that which was beyond repair. What started as just a run down train car eventually turned into a community.
 
 **What they do for Hood Station**: A place of respite for those in need. Whether it's medical care, spiritual guidance or food the Community Center functions around the clock for the community.
 

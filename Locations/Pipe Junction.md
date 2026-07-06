@@ -8,7 +8,7 @@ modified: 2026-05-25
 district: "[[Westreach]]"
 parent: "[[Not Far Sewer]]"
 associations:
-  - "[[The Bellanova Family]]"
+  - "[[Bellanova Family]]"
 tags:
 ---
 
@@ -16,7 +16,7 @@ tags:
 
 # Description
 
-A Point of Interest in the [[Not Far Sewer]] controlled by smugglers associated with the [[The Bellanova Family|Bellanovas]]. 
+A Point of Interest in the [[Not Far Sewer]] controlled by smugglers associated with the [[Bellanova Family|Bellanovas]]. 
 
 - Contains a computer terminal that controls the forcefield surrounding the [[Filter Shrine]].
 

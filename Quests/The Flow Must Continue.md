@@ -35,7 +35,7 @@ If the sewer fails, disease follows. [[Factions + Groups/Hood Station/Hood Stati
 - We defeated the orange goo that was blocking a pipe beneath the [[Pumping Station]].
 - This restored the water to a usable level for now, but it still isn't what it should be.
 - We believed this was due to the [[Titan Corporation]] controlling the Pumping Station and siphoning off extra water for themselves.
-- We convinced [[Brug]] that the [[The Box Boys|Box Boys]] should drive Titan out of the Pumping Station so water can be distributed evenly again.
+- We convinced [[Brug]] that the [[Box Boys|Box Boys]] should drive Titan out of the Pumping Station so water can be distributed evenly again.
 
 # To-Do
 

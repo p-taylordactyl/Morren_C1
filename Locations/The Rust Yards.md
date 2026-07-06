@@ -9,7 +9,7 @@ modified: 2026-06-01
 district:
 parent:
 associations:
-  - "[[The Box Boys]]"
+  - "[[Box Boys]]"
 tags:
   - under_construction
 ---

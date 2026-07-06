@@ -1,5 +1,5 @@
 ---
-title: The Bellanova Family
+title: Bellanova Family
 draft: false
 aliases:
   - Bellanovas
@@ -8,7 +8,7 @@ aliases:
 type: underground faction
 cover: "[[faction_bellanovafamily.webp]]"
 created: 2026-04-23
-modified: 2026-06-29
+modified: 2026-07-05
 associations:
 locations:
 tags:
@@ -34,7 +34,7 @@ In the Modern Age, the Bellanova Family continues to dominate life within Bellan
 
 # NPCs
 
-![[NPC Index.base#Faction - embedonly]]
+![[NPC Index.base#Organizations - embedonly]]
 
 
 

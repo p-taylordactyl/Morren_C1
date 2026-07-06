@@ -1,27 +1,30 @@
 ---
 title: Brug
-draft: false
 aliases:
 type: npc
 cover: "[[npc_Brug.webp]]"
 created: 2026-06-01
-modified: 2026-06-22
+modified: 2026-07-06
+status:
+  - alive
+draft: false
 disposition:
-  - friendly
+  - neutral
 organizations:
-  - "[[The Box Boys]]"
+  - "[[Box Boys]]"
 locations:
   - "[[Not Far Sewer]]"
 associates:
 brief: A member of the Box Boys we met in the Not Far Sewer
 tags:
 ---
+
 ![[npc_Brug.webp]]
 
 
 # Description
 
-A member of the [[The Box Boys|Box Boys]] we saved from getting his ass kicked by a group of [[The West Valence Saints|Saints]]. 
+A member of the [[Box Boys|Box Boys]] we saved from getting his ass kicked by a group of [[West Valence Saints|Saints]]. 
 
 # Notes
 

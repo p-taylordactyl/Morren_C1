@@ -6,12 +6,13 @@ cover:
 district: "[[Westreach]]"
 parent:
 created: 2026-04-23
-modified: 2026-06-01
+modified: 2026-07-06
 associations:
-  - "[[The Sludge Farmers]]"
-  - "[[The Bellanova Family|Bellanovas]]"
+  - "[[Sludge Farmers]]"
+  - "[[Bellanova Family|Bellanovas]]"
   - "[[The Driftwarden]]"
   - "[[Sewer Goblins]]"
+  - "[[Cult of the Machine God]]"
 tags:
 ---
 

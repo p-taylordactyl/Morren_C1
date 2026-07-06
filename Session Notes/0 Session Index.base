@@ -8,6 +8,8 @@ formulas:
 properties:
   file.name:
     displayName: Session
+  note.locations:
+    displayName: session locations
 views:
   - type: table
     name: All Sessions

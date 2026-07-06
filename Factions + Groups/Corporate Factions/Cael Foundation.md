@@ -38,7 +38,7 @@ Once Rookie Heroes accumulate enough influence and wealth, they may enroll in th
 
 # NPCs
 
-![[NPC Index.base#Faction - embedonly]]
+![[NPC Index.base#Organizations - embedonly]]
 
 
 # Session Mentions

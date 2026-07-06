@@ -1,19 +1,19 @@
 ---
 title: Solomon Hexley
-draft: false
 aliases:
   - Solomon
   - Hexley
 type: npc
 cover: "[[npc_solomonhexley.webp]]"
 created: 2026-06-29
-modified: 2026-06-29
+modified: 2026-07-06
+status:
+  - alive
+draft: false
 disposition:
-  - enemy
   - unfriendly
   - neutral
   - friendly
-  - ally
   - unknown
 organizations:
 locations:
@@ -22,6 +22,7 @@ associates:
 brief: The original owner of Silas's spellbook
 tags:
 ---
+
 ![[npc_solomonhexley.webp|589]]
 
 # Description

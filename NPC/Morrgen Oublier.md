@@ -1,24 +1,29 @@
 ---
 title: Morrgen Oublier
-draft: false
 aliases:
   - Morrgen
 type: npc
 cover: "[[npc_MorrgenOublier.webp]]"
 created: 2026-05-08
-modified: 2026-06-22
+modified: 2026-07-06
+draft: false
+status:
+  - alive
 disposition:
   - friendly
 organizations:
+  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
   - "[[Morrgen's Community Center]]"
 locations:
   - "[[Locations/Hood Station|Hood Station]]"
 associations:
   - "[[Gideon Oublier]]"
   - "[[Katriel Buchanon|Kat Buchanon]]"
+  - "[[Malcolm Oublier]]"
 brief: Gideon's mother, Kat's adoptive mother and leader of the Community Center
 tags:
 ---
+
 ![[npc_morrgenoublier.webp|404]]
 
 
@@ -29,9 +34,11 @@ Morrgen Oublier, a high elf in her early hundreds with deep wine red hair. She i
 # Notes
 
 
-# Quests
-
-
 # Session Mentions
 
 ![[0 Session Index.base#Encounters]]
+
+
+# Quests
+
+![[0 Quest Index.base#By NPC]]

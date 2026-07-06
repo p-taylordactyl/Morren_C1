@@ -1,18 +1,16 @@
 ---
 title: Faile
-draft: false
 aliases:
 type: npc
 cover: "[[npc_Faile.webp]]"
 created: 2026-06-29
-modified: 2026-06-29
+modified: 2026-07-06
+status:
+  - alive
+draft: false
 disposition:
-  - enemy
-  - unfriendly
   - neutral
   - friendly
-  - ally
-  - unknown
 organizations:
 locations:
   - "[[Relay Shrine]]"
@@ -21,8 +19,9 @@ associates:
   - "[[Dex]]"
 brief: Priest at the relay shrine and adoptive father of Dex
 tags:
-  - under_construction
+  - name-needed
 ---
+
 ![[npc_Faile.webp]]
 
 # Description
@@ -31,6 +30,7 @@ One of the tech priests serving the [[Cult of the Machine God|Machine Spirit]] a
 
 # Notes
 
+- helped us track down that our [[Stalker]]'s redacted number is affiliated with the [[Titan Corporation]]
 
 # Session Mentions
 

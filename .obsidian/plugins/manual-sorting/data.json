@@ -4,7 +4,6 @@
       "children": [
         "Index.md",
         "admin",
-        "World Misc",
         "PC",
         "NPC",
         "Factions + Groups",
@@ -28,7 +27,6 @@
       "children": [
         "admin/assets/factions",
         "admin/assets/misc",
-        "admin/assets/background_cloisteredscholar.webp",
         "admin/assets/location_hoodstation_stationhouse.webp",
         "admin/assets/questboard_winter012021_morning.webp",
         "admin/assets/location_hoodstation_0.webp",
@@ -118,21 +116,17 @@
         "admin/assets/session9_map1.webp",
         "admin/assets/session9_map2.webp",
         "admin/assets/location_bbmegatower_relayshrine.webp",
-        "admin/assets/npc_relayshrine1.webp",
-        "admin/assets/npc_relayshrine2.webp",
+        "admin/assets/npc_shrinepriest1.webp",
+        "admin/assets/npc_shrinepriest2.webp",
         "admin/assets/npc_dex.webp",
         "admin/assets/session9_map3.webp",
         "admin/assets/npc_solomonhexley.webp",
-        "admin/assets/image.webp",
         "admin/assets/location_bbmegatower_wizardfight.webp",
-        "admin/assets/image-1.webp",
-        "admin/assets/max_thetickler.webp",
-        "admin/assets/keena_masked.webp",
         "admin/assets/session10_map1.webp",
         "admin/assets/session10_map2.webp",
         "admin/assets/hamletkeeper.webp",
         "admin/assets/hamletkeeper_2_itsrealbad.webp",
-        "admin/assets/npc_quietplacelady.webp",
+        "admin/assets/npc_rescueteamlady.webp",
         "admin/assets/npc_broadcastsaint.webp",
         "admin/assets/npc_caveman.webp",
         "admin/assets/pc_katrielbuchanon_firstdisguise.webp",
@@ -140,7 +134,8 @@
         "admin/assets/pc_maxadkins_thetickler.webp",
         "admin/assets/pc_silassorelli_firstdisguise.webp",
         "admin/assets/pc_gideonoublier_firstdisguise.webp",
-        "admin/assets/pc_doriancaldwell_firstdisguise.webp"
+        "admin/assets/pc_doriancaldwell_firstdisguise.webp",
+        "admin/assets/npc_missrosie.webp"
       ],
       "sortOrder": "custom"
     },
@@ -167,6 +162,7 @@
     },
     "admin/assets/misc": {
       "children": [
+        "admin/assets/misc/background_cloisteredscholar.webp",
         "admin/assets/misc/primer_cover.webp",
         "admin/assets/misc/background_plaintiff.webp"
       ],
@@ -190,7 +186,10 @@
         "Factions + Groups/Hood Station",
         "Factions + Groups/Corporate Factions",
         "Factions + Groups/Underground Factions",
-        "Factions + Groups/Groups",
+        "Factions + Groups/Sewer Goblins.md",
+        "Factions + Groups/Lightning Crew.md",
+        "Factions + Groups/Dominion Crew.md",
+        "Factions + Groups/Sludge Farmers.md",
         "Factions + Groups/Enforcers.md"
       ],
       "sortOrder": "custom"
@@ -209,22 +208,13 @@
       ],
       "sortOrder": "custom"
     },
-    "Factions + Groups/Groups": {
-      "children": [
-        "Factions + Groups/Groups/Sewer Goblins.md",
-        "Factions + Groups/Groups/The Lightning Crew.md",
-        "Factions + Groups/Groups/The Dominion Crew.md",
-        "Factions + Groups/Groups/The Sludge Farmers.md"
-      ],
-      "sortOrder": "custom"
-    },
     "Factions + Groups/Hood Station": {
       "children": [
         "Factions + Groups/Hood Station/Hood Station.md",
         "Factions + Groups/Hood Station/Endline Garage.md",
         "Factions + Groups/Hood Station/Iron Form Dojo.md",
         "Factions + Groups/Hood Station/Morrgen's Community Center.md",
-        "Factions + Groups/Hood Station/The Protective Association for Wayward and Neglected Strays.md",
+        "Factions + Groups/Hood Station/Protective Association for Wayward and Neglected Strays.md",
         "Factions + Groups/Hood Station/The Redacted.md",
         "Factions + Groups/Hood Station/The Troupe.md"
       ],
@@ -232,13 +222,13 @@
     },
     "Factions + Groups/Underground Factions": {
       "children": [
-        "Factions + Groups/Underground Factions/The Bellanova Family.md",
-        "Factions + Groups/Underground Factions/The Box Boys.md",
+        "Factions + Groups/Underground Factions/Bellanova Family.md",
+        "Factions + Groups/Underground Factions/Box Boys.md",
         "Factions + Groups/Underground Factions/Ghosts of the Flooded Zone.md",
         "Factions + Groups/Underground Factions/Mariner's Reach.md",
-        "Factions + Groups/Underground Factions/The Old Guard.md",
-        "Factions + Groups/Underground Factions/The Old Valence Stevedore Union.md",
-        "Factions + Groups/Underground Factions/The West Valence Saints.md"
+        "Factions + Groups/Underground Factions/Old Guard.md",
+        "Factions + Groups/Underground Factions/Old Valence Stevedore Union.md",
+        "Factions + Groups/Underground Factions/West Valence Saints.md"
       ],
       "sortOrder": "custom"
     },
@@ -332,10 +322,11 @@
         "NPC/Jax Riven.md",
         "NPC/Bron.md",
         "NPC/Arden.md",
-        "NPC/Faile.md",
+        "NPC/Dex Dad.md",
         "NPC/Dex.md",
         "NPC/Solomon Hexley.md",
-        "NPC/Lightning Leroy.md"
+        "NPC/Lightning Leroy.md",
+        "NPC/Paintbrush Gnome.md"
       ],
       "sortOrder": "custom"
     },
@@ -386,16 +377,6 @@
         "Session Notes/Pre-Campaign/Session 0.md",
         "Session Notes/Pre-Campaign/Character Brainstorming.md"
       ],
-      "sortOrder": "custom"
-    },
-    "World Misc": {
-      "children": [
-        "World Misc/Religion"
-      ],
-      "sortOrder": "custom"
-    },
-    "World Misc/Religion": {
-      "children": [],
       "sortOrder": "custom"
     }
   },

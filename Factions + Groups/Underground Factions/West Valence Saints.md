@@ -8,9 +8,10 @@ aliases:
 type: underground faction
 cover: "[[faction_westvalencesaints.webp]]"
 created: 2026-04-23
-modified: 2026-06-29
+modified: 2026-07-05
 associations:
-  - "[[The Dominion Crew]]"
+  - "[[Dominion Crew]]"
+  - "[[Lightning Crew]]"
 locations:
   - westreach
 tags:
@@ -40,7 +41,7 @@ In the Modern Age, the Saints maintain careful boundaries. They do not expand ag
 
 # NPCs
 
-![[NPC Index.base#Faction - embedonly]]
+![[NPC Index.base#Organizations - embedonly]]
 
 
 

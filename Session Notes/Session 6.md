@@ -28,13 +28,13 @@ tags:
 
 # Winter 7, 2012
 
-[[Silas Sorelli|Silas]] pops back into existence in the garage as we're talking to [[Thorbin Sprake|Thorbin]]. As we're chatting, we hear a newscast on the TV that says the [[The Box Boys|Box Boys]] have attacked the [[Pumping Station]] and taken control from the [[Titan Corporation]].
+[[Silas Sorelli|Silas]] pops back into existence in the garage as we're talking to [[Thorbin Sprake|Thorbin]]. As we're chatting, we hear a newscast on the TV that says the [[Box Boys|Box Boys]] have attacked the [[Pumping Station]] and taken control from the [[Titan Corporation]].
 
 ![[session6_map1.webp]]
 
 We talk through our next moves. 
 
-[[Maximilius Adkins|Max]] needs painter's supplies, a flute, or calligrapher's tools. [[Dorian Caldwell|Dorian]] would also like some painter's supplies. And [[Katriel Buchanon|Kat]] could use some tinker's tools. We decide we should turn in the rest of our quests before shopping, so we head to talk to [[Rosetta Thorne|Miss Rosie]] at the [[The Protective Association for Wayward and Neglected Strays|orphanage]], and see if the dolls "count" as [[Voices in the Grates|finding the kids]].
+[[Maximilius Adkins|Max]] needs painter's supplies, a flute, or calligrapher's tools. [[Dorian Caldwell|Dorian]] would also like some painter's supplies. And [[Katriel Buchanon|Kat]] could use some tinker's tools. We decide we should turn in the rest of our quests before shopping, so we head to talk to [[Rosetta Thorne|Miss Rosie]] at the [[Protective Association for Wayward and Neglected Strays|orphanage]], and see if the dolls "count" as [[Voices in the Grates|finding the kids]].
 
 ![[location_hoodstation_pawns.webp]]
 
@@ -48,7 +48,7 @@ As we approach the room, [[Rosetta Thorne|Rosetta]] reveals herself. It seems li
 
 She accepts the quest, pays us, and starts trying to kick us out.
 
-Before we go, [[Keena O'Malley|Keena]] asks Rosetta about "the wicked" from her [[Keena O'Malley#Candle Vision|vision]] and if there's anyone specific around [[Locations/Hood Station|Hood Station]] or the [[BB Megatower]] that we might want to keep an eye out for. Rosetta says she takes care of any problematic elements around the Station, but calls the Tower, which is run by the [[The Bellanova Family|Bellanovas]], a "hive of scum and villainy."
+Before we go, [[Keena O'Malley|Keena]] asks Rosetta about "the wicked" from her [[Keena O'Malley#Candle Vision|vision]] and if there's anyone specific around [[Locations/Hood Station|Hood Station]] or the [[BB Megatower]] that we might want to keep an eye out for. Rosetta says she takes care of any problematic elements around the Station, but calls the Tower, which is run by the [[Bellanova Family|Bellanovas]], a "hive of scum and villainy."
 
 Keena does have to clarify that she won't be a hitman but Silas says he and Dorian will *definitely* take those kinds of missions.
 
@@ -152,7 +152,7 @@ While he's working on that, Dorian goes over and threatens the elevator. Max and
 
 ![[location_bbmegatower_elevatorbottom.webp]]
 
-We see [[Malcolm Oublier|Malcolm]] begging a group of [[The Bellanova Family|Bellanovas]] for another week and to "tell Brassjaw it's cool" - he gets the one more week but then they're going to take his skin. They also threaten his family - [[Gideon Oublier|Gideon]] and [[Morrgen Oublier|Morrgen]] and their dad.
+We see [[Malcolm Oublier|Malcolm]] begging a group of [[Bellanova Family|Bellanovas]] for another week and to "tell Brassjaw it's cool" - he gets the one more week but then they're going to take his skin. They also threaten his family - [[Gideon Oublier|Gideon]] and [[Morrgen Oublier|Morrgen]] and their dad.
 
 The Bellanovas leave and Malcolm slumps to the floor.
 

@@ -1,27 +1,31 @@
 ---
 title: Gorax
-draft: false
 aliases:
 type: npc
 cover: "[[npc_Gorax.webp]]"
 created: 2026-05-25
-modified: 2026-06-22
+modified: 2026-07-06
+status:
+  - unknown
+draft: false
 disposition:
   - enemy
 organizations:
-  - "[[The West Valence Saints]]"
-  - "[[The Dominion Crew]]"
+  - "[[West Valence Saints]]"
+  - "[[Dominion Crew]]"
 locations:
-  - "[[Westreach]]"
+  - unknown
 associates:
   - "[[Hadrian Buchanon]]"
 brief: Leader of the Dominion Crew of the West Valence Saints
 tags:
 ---
+
 ![[npc_Gorax.webp]]
 
 # Description
 
+Leader of the Dominion Crew of the West Valence Saints.
 
 # Notes
 

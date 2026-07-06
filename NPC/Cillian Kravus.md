@@ -1,15 +1,18 @@
 ---
 title: Cillian Kravus
-draft: false
 aliases:
   - Cillian
 type: npc
 cover: "[[npc_CillianKravus.webp]]"
 created: 2026-05-21
-modified: 2026-06-22
+modified: 2026-07-06
+draft: false
+status:
+  - alive
 disposition:
   - friendly
 organizations:
+  - "[[Locations/Hood Station|Hood Station]]"
   - "[[The Redacted]]"
 locations:
   - "[[Locations/Hood Station|Hood Station]]"
@@ -18,6 +21,7 @@ associates:
 brief: Max's friend and fellow member of The Redacted.
 tags:
 ---
+
 ![[npc_CillianKravus.webp]]
 
 

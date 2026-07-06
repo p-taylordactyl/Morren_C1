@@ -43,10 +43,11 @@ views:
       note.quest_location: 270
       note.quest_giver: 272
   - type: table
-    name: Active
+    name: In Progress
     filters:
-      and:
+      or:
         - quest_status == "active"
+        - quest_status == "turn in"
     order:
       - file.name
       - quest_location
@@ -58,3 +59,42 @@ views:
     columnSize:
       note.quest_giver: 160
       note.quest_location: 270
+  - type: table
+    name: Available
+    filters:
+      and:
+        - quest_status == "available"
+    order:
+      - file.name
+      - quest_location
+      - quest_giver
+      - quest_status
+      - expires
+      - reward
+      - tags
+    columnSize:
+      note.quest_giver: 160
+      note.quest_location: 270
+  - type: table
+    name: By NPC
+    filters:
+      and:
+        - file.hasLink(this.file)
+    groupBy:
+      property: quest_status
+      direction: ASC
+    order:
+      - file.name
+      - quest_status
+      - quest_location
+      - quest_giver
+      - expires
+      - reward
+      - tags
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: due_date
+        direction: ASC
+    columnSize:
+      note.quest_location: 154

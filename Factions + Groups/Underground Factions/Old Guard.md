@@ -34,7 +34,7 @@ To outsiders, the Old Guard appears to be a relic pretending the war never ended
 
 # NPCs
 
-![[NPC Index.base#Faction - embedonly]]
+![[NPC Index.base#Organizations - embedonly]]
 
 
 

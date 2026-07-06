@@ -1,12 +1,14 @@
 ---
 title: Memaw Shoe
-draft: false
 aliases:
   - Memaw
 type: npc
 cover: "[[npc_MemawShoe.webp]]"
 created: 2026-05-25
-modified: 2026-06-22
+modified: 2026-07-06
+status:
+  - alive
+draft: false
 disposition:
   - friendly
 organizations:
@@ -17,7 +19,8 @@ associates:
 brief: Founder and Leader of Hood Station
 tags:
 ---
-![[npc_memawshoe.webp]]
+
+![[npc_memawshoe.webp|640]]
 
 
 # Description
@@ -31,3 +34,8 @@ Once a custodian of [[Locations/Hood Station|Hood Station]] - upon its retiring 
 # Session Mentions
 
 ![[0 Session Index.base#Encounters]]
+
+
+# Quests
+
+![[0 Quest Index.base#By NPC]]

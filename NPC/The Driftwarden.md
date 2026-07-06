@@ -1,11 +1,13 @@
 ---
 title: The Driftwarden
-draft: false
 aliases:
 type: npc
 cover: "[[npc_TheDriftwarden.webp]]"
 created: 2026-05-01
-modified: 2026-05-29
+modified: 2026-07-06
+draft: false
+status:
+  - unknown
 disposition:
   - unknown
 organizations:
@@ -16,6 +18,7 @@ associates:
 brief: Mysterious leader of an unknown group of people living in the Not Far Sewer
 tags:
 ---
+
 ![[npc_TheDriftwarden.webp]]
 
 

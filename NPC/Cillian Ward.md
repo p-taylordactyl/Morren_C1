@@ -1,15 +1,19 @@
 ---
 title: Cillian Ward
-draft: false
 aliases:
   - Cillian
 type: npc
 cover: "[[npc_CillianWard.webp]]"
 created: 2026-05-21
-modified: 2026-06-22
+modified: 2026-07-06
+draft: false
+status:
+  - alive
 disposition:
   - friendly
-organizations: "[[Iron Form Dojo]]"
+organizations:
+  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+  - "[[Iron Form Dojo]]"
 locations:
   - "[[Locations/Hood Station|Hood Station]]"
 associates:
@@ -18,6 +22,7 @@ associates:
 brief: Keena's uncle and owner of the Iron Form Dojo
 tags:
 ---
+
 ![[npc_cillianward.webp|590]]
 
 
@@ -28,6 +33,12 @@ A human man in his late 40s/early 50s, originally from [[Westreach]]. Although h
 # Notes
 
 
+
 # Session Mentions
 
 ![[0 Session Index.base#Encounters]]
+
+
+# Quests
+
+![[0 Quest Index.base#By NPC]]

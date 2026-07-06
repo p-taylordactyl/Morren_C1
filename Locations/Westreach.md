@@ -9,7 +9,7 @@ created: 2026-05-25
 modified: 2026-06-01
 parent:
 associations:
-  - "[[The West Valence Saints]]"
+  - "[[West Valence Saints]]"
 tags:
 ---
 

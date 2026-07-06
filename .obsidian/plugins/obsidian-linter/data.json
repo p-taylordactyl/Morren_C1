@@ -1,7 +1,7 @@
 {
   "ruleConfigs": {
     "add-blank-line-after-yaml": {
-      "enabled": false
+      "enabled": true
     },
     "dedupe-yaml-array-values": {
       "enabled": false,
@@ -31,8 +31,8 @@
       "force-multi-line-array-style": ""
     },
     "insert-yaml-attributes": {
-      "enabled": true,
-      "text-to-insert": "title:\ndraft:"
+      "enabled": false,
+      "text-to-insert": "status: alive"
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -52,8 +52,8 @@
       "sort-order": "Ascending Alphabetical"
     },
     "yaml-key-sort": {
-      "enabled": false,
-      "yaml-key-priority-sort-order": "",
+      "enabled": true,
+      "yaml-key-priority-sort-order": "title:\npublish:\naliases:\ntype:\ncover:\ncreated:\nmodified:",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "None"
     },
@@ -70,7 +70,7 @@
       "update-on-file-contents-updated": "never"
     },
     "yaml-title": {
-      "enabled": true,
+      "enabled": false,
       "title-key": "title",
       "mode": "filename"
     },
@@ -145,7 +145,7 @@
       "list-end-style": "."
     },
     "proper-ellipsis": {
-      "enabled": false
+      "enabled": true
     },
     "quote-style": {
       "enabled": false,
@@ -205,7 +205,7 @@
       "enabled": false
     },
     "heading-blank-lines": {
-      "enabled": false,
+      "enabled": true,
       "bottom": true,
       "empty-line-after-yaml": true
     },
@@ -283,7 +283,9 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "additionalFileExtensions": [],
-  "foldersToIgnore": [],
+  "foldersToIgnore": [
+    ""
+  ],
   "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",

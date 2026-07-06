@@ -71,7 +71,7 @@ A random is a dick about it because there are literally signs. Silas takes the o
 
 Max and Kat see a little drone in the background that seems to be watching them but it quickly zooms off. We can't tell who it belongs to.
 
-Gideon gets a text from an unknown number with a video attachment. It's a video of two separate pairs (us) approaching a [[The Box Boys|Box Boys]] Orc as well as a private conversation between the pairs off to the side, which the Box Boy never saw. The message says "I know what you did" followed by another clip of a headline about the Box Boys taking the [[Pumping Station]]. 
+Gideon gets a text from an unknown number with a video attachment. It's a video of two separate pairs (us) approaching a [[Box Boys|Box Boys]] Orc as well as a private conversation between the pairs off to the side, which the Box Boy never saw. The message says "I know what you did" followed by another clip of a headline about the Box Boys taking the [[Pumping Station]]. 
 
 Another video comes in - footage of us in [[Pipe Junction]] dropping [[Prospera Bellanova]]'s name.
 
@@ -158,7 +158,7 @@ He says we can call him Vinny. He basically wants to know what we're up to in hi
 
 He's received some videos that corroborate our stalker story. We explain the Box Boys thing.
 
-Silas tries to suss out what Brassjaw is after and if he's with the [[The Bellanova Family|Bellanovas]]. 
+Silas tries to suss out what Brassjaw is after and if he's with the [[Bellanova Family|Bellanovas]]. 
 
 Brassjaw clearly did some research on us and knows quite a bit, though it's unclear if he's aware of [[Factions + Groups/Hood Station/Hood Station|Hood Station]].
 

@@ -16,6 +16,7 @@
     "type": "text",
     "organizations": "multitext",
     "session_number": "number",
-    "quest_status": "text"
+    "quest_status": "text",
+    "status": "multitext"
   }
 }

@@ -1,22 +1,26 @@
 ---
 title: Kelm
-draft: false
 aliases:
 type: npc
 cover: "[[npc_Kelm.webp]]"
 created: 2026-05-25
-modified: 2026-06-22
+modified: 2026-07-06
+status:
+  - unknown
+draft: false
 disposition:
   - neutral
   - friendly
 organizations:
   - "[[Titan Corporation]]"
 locations:
+  - "[[Not Far Sewer]]"
   - "[[Pumping Station]]"
 associates:
 brief: Mechanic working for the Titan Corporation at the Not Far Sewer's Pumping Station
 tags:
 ---
+
 ![[npc_Kelm.webp]]
 
 # Description
@@ -27,7 +31,7 @@ Mechanic working for the Titan Corporation at the Not Far Sewer's Pumping Statio
 # Notes
 
 - Guarded by two constructs who prevent him from redirecting any water flow
-- Current status unknown after the [[The Box Boys|Box Boys]] took the [[Pumping Station]].
+- Current status unknown after the [[Box Boys|Box Boys]] took the [[Pumping Station]].
 
 # Session Mentions
 

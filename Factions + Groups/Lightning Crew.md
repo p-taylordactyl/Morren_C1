@@ -1,20 +1,20 @@
 ---
 aliases:
   - Lightning Crew
-type: group
+type: underground group
 cover:
 created: 2026-06-29
-modified: 2026-06-29
-parent: "[[The West Valence Saints]]"
+modified: 2026-07-05
+parent: "[[West Valence Saints]]"
 associations:
-  - "[[The Dominion Crew]]"
+  - "[[Dominion Crew]]"
 locations:
 tags:
   - under_construction
 ---
 # Notes
 
-A crew of the [[The West Valence Saints|Saints]] who follow principles similar to [[The Dominion Crew]]. 
+A crew of the [[West Valence Saints|Saints]] who follow principles similar to [[Dominion Crew]]. 
 
 [[Kieran Graves]] was a member of the crew until he failed his initiation by refusing to kill someone. 
 

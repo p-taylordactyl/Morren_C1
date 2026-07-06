@@ -2,6 +2,14 @@ filters:
   and:
     - type == "npc"
     - file.folder != "admin/templates"
+formulas:
+  Org test: organizations.unique().sort()[0]
+  Org test 2: formula["Org test"].slice(0,1)
+properties:
+  formula.Org test 2:
+    displayName: Org 1
+  formula.Org test:
+    displayName: Primary Org
 views:
   - type: cards
     name: All NPCs
@@ -17,8 +25,10 @@ views:
       note.brief: 454
     image: note.cover
     imageAspectRatio: 1.05
+    imageFit: contain
+    cardSize: 240
   - type: cards
-    name: Faction - embedonly
+    name: Organizations - embedonly
     filters:
       and:
         - organizations.contains(link(this.file.name))
@@ -28,6 +38,8 @@ views:
       - locations
       - associates
     image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
   - type: cards
     name: Location - embedonly
     filters:
@@ -43,14 +55,5 @@ views:
     name: Groups - embedonly
     filters:
       and:
-        - associations.contains(link(this.file.name))
-    image: note.img
-  - type: cards
-    name: NPC by Organization
-    order:
-      - file.name
-      - brief
-      - locations
-      - organizations
+        - organizations.contains(link(this.file.name))
     image: note.cover
-    imageAspectRatio: 1.25

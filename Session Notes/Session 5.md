@@ -59,7 +59,7 @@ He explains he used to work for them and covered the [[Flooded Zone]]. He starte
 
 As we're discussing, we see a [[Crownlight Media]] helicopter flying past through the sewer, stopping just outside our planned point of egress on the western side of the sewer.
 
-We're sneakily approaching the exit point to see what Crownlight is up to, but on the way we see a group of [[The West Valence Saints|Saints]] beating the shit out of an [[Brug|orc]]. The orc is insisting he's there for an "art project" and not trying to claim their turf.
+We're sneakily approaching the exit point to see what Crownlight is up to, but on the way we see a group of [[West Valence Saints|Saints]] beating the shit out of an [[Brug|orc]]. The orc is insisting he's there for an "art project" and not trying to claim their turf.
 
 ![[npc_brug.webp]]
 
@@ -83,7 +83,7 @@ Max offers 25(20?) gold. Keena pulls out a pouch and dangles it to help with per
 
 The scarred orc nods. Keena gives Max the pouch and he gives it to the Saints and they leave.
 
-The orc seems to have been working on spray paint graffiti of a cargo shipping container. Clearly trying to mark this as territory for [[The Box Boys]].
+The orc seems to have been working on spray paint graffiti of a cargo shipping container. Clearly trying to mark this as territory for [[Box Boys]].
 
 Kat wishes we hadn't stepped into a simple territorial dispute but Keena reminds her that any blowback should be towards Titan, not us.
 

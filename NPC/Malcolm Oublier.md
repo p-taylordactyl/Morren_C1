@@ -1,12 +1,15 @@
 ---
 title: Malcolm Oublier
-draft: false
 aliases:
   - Malcolm
 type: npc
 cover: "[[npc_malcolmoublier.webp]]"
 created: 2026-05-28
-modified: 2026-06-22
+modified: 2026-07-06
+status:
+  - alive
+  - captured
+draft: false
 disposition:
   - friendly
   - annoying
@@ -19,12 +22,13 @@ associates:
 brief: Gideon's twin brother and an absolute twerp
 tags:
 ---
+
 ![[npc_malcolmoublier.webp]]
 
 
 # Description
 
-[[Gideon Oublier|Gideon]]'s twin brother and favorite child of their father.
+[[Gideon Oublier|Gideon]]'s twin brother and favorite child of their father. Also an absolute twerp.
 
 # Notes
 

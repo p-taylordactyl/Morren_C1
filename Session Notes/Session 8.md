@@ -62,7 +62,7 @@ There's an arcane lock on the door, so it will relock after a few minutes. We go
 
 The area still seems pretty bad, just less bad than the lower floors and more locked down.
 
-Lots of probable drug dens. Some residential areas, some industrial. Little watchtowers with [[The Bellanova Family|Bellanova]] snipers on each corner. Notably we aren't the only folks keeping our faces covered around here.
+Lots of probable drug dens. Some residential areas, some industrial. Little watchtowers with [[Bellanova Family|Bellanova]] snipers on each corner. Notably we aren't the only folks keeping our faces covered around here.
 
 We find an alley to park the car and get some rest. [[Gideon Oublier|Gideon]] and Silas are on watch.  They talk about costumes and being vigilantes.  Silas thinks it's all just different flavors of thug, and it's better to have at least some good people doing it. Gideon says the last 24 hours have kind of messed him up, mentally.
 
@@ -102,7 +102,7 @@ He tells us he didn't see the thieves at all but could hear that they left on fo
 
 Jack hides in the trunk of the car while we follow the tracks.
 
-As we discuss the ethics of murder, we see a group of [[The West Valence Saints|Saints]] beating the shit out of the grappling hook kid we saw before. Another priest, another scarred guy, and several lower level types. They toss his package over the edge. 
+As we discuss the ethics of murder, we see a group of [[West Valence Saints|Saints]] beating the shit out of the grappling hook kid we saw before. Another priest, another scarred guy, and several lower level types. They toss his package over the edge. 
 
 They push one of their own forward, telling him to finish the job. The [[Kieran Graves|kid]] looks to be 18 and is very hesitant. 
 

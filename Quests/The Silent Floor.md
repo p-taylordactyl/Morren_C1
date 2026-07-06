@@ -32,7 +32,7 @@ Gain access to the affected floors via maintenance shafts or external climb rout
 # Notes
 
 - While exploring the middle tier of the [[BB Megatower]], we encountered [[Jack Mercer]] who was looking for a copy of a cursed video game known as The Hamlet Keeper
-- After we recovered his stolen game tracking device from a group of [[The West Valence Saints|Saints]], Jack helped us locate the "Silent Floor"
+- After we recovered his stolen game tracking device from a group of [[West Valence Saints|Saints]], Jack helped us locate the "Silent Floor"
 - We found the [[Quiet Place]] past the [[Relay Shrine]] on the middle tier -  the cursed game was inside, ready to play
 - playing the game trapped us in the game, where we had to win to escape
 - We survived X rounds of combat and half the party was nearly killed
