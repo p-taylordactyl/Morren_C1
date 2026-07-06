@@ -49,7 +49,7 @@ views:
       - file.name
       - brief
     image: note.cover
-    cardSize: 170
+    cardSize: 240
     imageAspectRatio: 1.15
   - type: cards
     name: Groups - embedonly

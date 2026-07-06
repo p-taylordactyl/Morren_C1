@@ -1,32 +1,27 @@
 ---
 title: Neon Corridor
-draft: false
+publish: true
 aliases:
 type: location
-district:
+district: "[[Cloud District]]"
 cover: "[[location_NeonCorridor.webp]]"
-created:
-modified:
-parent:
+created: 2026-06-22
+modified: 2026-07-06
+parent: "[[BB Megatower]]"
 associations:
 tags:
-  - under_construction
 ---
 
 
 
 # Notes
 
-
-
-
+Area of Tier 2 of the [[BB Megatower]] controlled by an orc named [[Bron]].
 
 
 # NPCs
 
 ![[NPC Index.base#Location - embedonly]]
-
-
 
 
 # Maps

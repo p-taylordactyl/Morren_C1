@@ -1,9 +1,9 @@
 ---
 title: Session 2
-draft: false
+publish: false
 type: session_note
 created: 2026-04-27
-modified: 2026-06-30
+modified: 2026-07-06
 session_number: 2
 session_date: 04/27/2026
 players:
@@ -84,7 +84,7 @@ Kat learns that this is the [[Sludge Farm]]. The farmer's name is [[Mira Sporeha
 
 She assures us the fungus situation is really due to the filter being bad and not a problem with the mushrooms themselves. They've been told so by someone called the "[[The Driftwarden]]"
 
-Machine Spirit people did at some point also send inquisitors to the sludge farm to deal with the filter problem. They agreed the issue is actually that the filter needs to be replaced.
+The [[Cult of the Machine God|Machine Spirit people]] did at some point also send inquisitors to the sludge farm to deal with the filter problem. They agreed the issue is actually that the filter needs to be replaced.
 
 We get clear on the problem but are undecided on the solution. We discuss the possibility of migrating the farm to Hood Station.
 
@@ -98,8 +98,6 @@ After further discussion we realize this is all solved if we can divert the outf
 
 Gideon asks about kids and Mira talks abouts hearing rumors of kids in the sewers.
 
-Leader of the sewer people is Rusk?
-
 Much debate on the best way to deal with the mushroom issue.
 
-Gideon is able to 
+Gideon is able to convince the Mira and the [[Sludge Farmers]] to move the farm to Hood Station after the next harvest.

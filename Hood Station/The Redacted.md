@@ -1,15 +1,15 @@
 ---
 title: The Redacted
-draft: false
+publish: true
 aliases:
 type: group
 cover:
 created: 2026-05-25
 modified: 2026-07-06
-parent: "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+parent: "[[Hood Station/Hood Station|Hood Station]]"
 associations:
 locations:
-  - "[[Locations/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
 tags:
 ---
 # Description
@@ -28,7 +28,7 @@ Rather than opposing censorship with counter-propaganda, they operate through di
 
 Their work creates unintended pathways: people who recognize themselves in what they see, people displaced by the same systems being documented, and people searching for somewhere that reflects the truth they already suspect.
 
-[[Locations/Hood Station|Hood Station]] becomes one of those pathways.
+[[Hood Station/Hood Station|Hood Station]] becomes one of those pathways.
 
 ### Leadership
 

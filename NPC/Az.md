@@ -7,14 +7,13 @@ created: 2026-05-25
 modified: 2026-07-06
 status:
   - alive
-draft: false
+publish: true
 disposition:
   - friendly
 organizations:
-  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
   - "[[The Troupe]]"
 locations:
-  - "[[Locations/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
 associates:
   - "[[Dorian Caldwell|Dorian]]"
 brief: Dorian's friend and de facto leader of The Troupe, he/they

@@ -1,9 +1,9 @@
 ---
 title: Session 3
-draft: false
+publish: false
 type: session_note
 created: 2026-05-04
-modified: 2026-07-02
+modified: 2026-07-06
 session_number: 3
 session_date: 05/04/2026
 players:
@@ -95,7 +95,7 @@ We walk up to the Pipe Junction entrance and they ask for the password.
 
 Kat tries to remember what she knows about how the Bellanovas work and as nothing.
 
-Dorian name-drops that we're here on orders of [[Prospero]]. 
+Dorian name-drops that we're here on orders of [[Prospera Bellanova]]. 
 
 They'll let us in but we need to leave our weapons and spell focuses outside.
 
@@ -113,9 +113,9 @@ We proceed further into Pipe Junction.
 
 A dwarf summons us over and says we made some pretty big claims, and he hopes we aren't lying.
 
-Dorian and Silas sign to each other in 
+Dorian and Silas sign to each other in Thieves Cant.
 
-Silas asks for the dwarf's name and age and he'll only give us his name, which is Rusk.
+Silas asks for the dwarf's name and age and he'll only give us his name, which is [[Rusk]].
 
 ![[npc_rusk.webp]]
 

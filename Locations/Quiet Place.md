@@ -1,6 +1,6 @@
 ---
 title: Quiet Place
-draft: false
+publish: false
 aliases:
 type: location
 district:

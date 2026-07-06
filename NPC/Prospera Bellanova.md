@@ -8,7 +8,7 @@ created: 2026-05-25
 modified: 2026-07-06
 status:
   - alive
-draft: false
+publish: true
 disposition:
   - unknown
 organizations:

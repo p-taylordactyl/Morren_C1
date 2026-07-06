@@ -1,13 +1,14 @@
 ---
 title: Kieran Graves
 aliases:
+  - Kieran
 type: npc
 cover: "[[npc_Kieran.webp]]"
 created: 2026-06-22
 modified: 2026-07-06
 status:
   - alive
-draft: false
+publish: true
 disposition:
   - friendly
 organizations:
@@ -15,9 +16,8 @@ organizations:
 locations:
   - "[[Westreach]]"
 associates:
-brief: Former Saint who failed his initiation
+brief: Former Saint who failed his initiation into the Lightning Crew
 tags:
-  - under_construction
 ---
 
 ![[npc_Kieran.webp]]
@@ -30,7 +30,7 @@ Former [[West Valence Saints|Saint]] ([[Lightning Crew]]) who failed his initiat
 # Notes
 
 - fought with the party against the [[West Valence Saints|Saints]] after [[Katriel Buchanon|Kat]] interrupted his initiation
-- was okay with us handing the defeated crew over to the [[Enforcers]] as long as we could help protect his family. Kat offered them a place at [[Locations/Hood Station|Hood Station]]
+- was okay with us handing the defeated crew over to the [[Enforcers]] as long as we could help protect his family. Kat offered them a place at [[Hood Station/Hood Station|Hood Station]]
 - exchanged numbers with Kat so she can help coordinate getting his family out of [[Westreach]] before the [[West Valence Saints|Saints]] find out what happened
 
 # Session Mentions

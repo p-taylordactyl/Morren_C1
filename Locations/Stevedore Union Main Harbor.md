@@ -1,23 +1,23 @@
 ---
 title: Stevedore Union Main Harbor
-draft: false
+publish: false
 aliases:
 type: location
-district:
+district: "[[Westreach]]"
 cover: "[[location_StevedoreUnionMainHarbor.webp]]"
-created:
-modified:
+created: 2026-06-01
+modified: 2026-07-06
 parent:
 associations:
+  - "[[Old Valence Stevedore Union]]"
 tags:
-  - under_construction
 ---
 
 
 
-# Description
+# Notes
 
-
+Headquarters of the [[Old Valence Stevedore Union]].
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Katriel Buchanon
-draft: false
+publish: true
 aliases:
   - Kat
   - Kat Buchanon
@@ -9,7 +9,7 @@ type: player_character
 created: 2026-04-21
 modified: 2026-07-06
 organizations:
-  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
   - "[[Endline Garage]]"
 tags:
 ---
@@ -23,8 +23,8 @@ tags:
 > | **Race** | [[human-xphb\|Human]] |
 > | **Class** | [[monk-xphb\|Monk]] \| [[monk-xphb-warrior-of-the-elements-xphb\|Warrior of the Elements]] |
 > | **Languages** | Common, Dwarvish, Infernal
-> | **Location**| [[Locations/Hood Station\|Hood Station]] |
-> | **Factions** | [[Factions + Groups/Hood Station/Hood Station\|Hood Station]], [[Endline Garage]] |
+> | **Location**| [[Hood Station/Hood Station\|Hood Station]] |
+> | **Factions** | [[Hood Station/Hood Station\|Hood Station]], [[Endline Garage]] |
 > 
 
 # Backstory
@@ -35,7 +35,7 @@ In addition to the normal Saints rules, the Dominion had their own additional ru
 
 As she grew up, she started to notice inconsistencies in Hadrian and the other Dominion members' practice of the many rules, but pointing it out only ever resulted in being told to square up against grown men twice her age, the resulting beatdown reinforcing her own weakness. More and more, she began to catch herself empathizing with the residents on her block, and began privately questioning if their treatment at the hands of the Saints was truly deserved. 
  
-Kat fled Westreach at age 19, having failed her initiation ritual to become a ranking member of the Dominion by refusing to kill a man who wouldn't work for the gang. She narrowly made it into the Cloud District, injured and her motorcycle nearly totaled. Fortunately, [[Gideon Oublier|Gideon]] found her and, eager to be a hero, brought her to [[Locations/Hood Station|Hood Station]].
+Kat fled Westreach at age 19, having failed her initiation ritual to become a ranking member of the Dominion by refusing to kill a man who wouldn't work for the gang. She narrowly made it into the Cloud District, injured and her motorcycle nearly totaled. Fortunately, [[Gideon Oublier|Gideon]] found her and, eager to be a hero, brought her to [[Hood Station/Hood Station|Hood Station]].
 
 At the [[Morrgen's Community Center|Community Center]], the [[Morrgen Oublier|Oublier family]] welcomed Kat to Hood Station with open arms, helping her get acquainted with the station and adjust to life outside the strict hierarchy of the Dominion Saints. She got a job working at [[Endline Garage]] under the tutelage of [[Thorbin Sprake]] and actually likes her life now, fixing autos and helping people instead of beating and extorting them. However, despite having found this little pocket of good in the hellscape, Kat can't help but wonder when the other shoe is going to drop. 
 

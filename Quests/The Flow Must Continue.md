@@ -1,6 +1,6 @@
 ---
 title: The Flow Must Continue
-draft: false
+publish: false
 aliases:
 created: 2026-06-01
 modified: 2026-07-05
@@ -23,7 +23,7 @@ The lower runoff channels beneath the station have slowed to a crawl. Wastewater
 
 Clear the blockage and ensure water flow is fully restored. If a creature is present, remove it or drive it off.
 
-If the sewer fails, disease follows. [[Factions + Groups/Hood Station/Hood Station|Hood Station]] cannot afford an outbreak, and rerouting waste would cripple water reserves needed for drinking and hydroponics.
+If the sewer fails, disease follows. [[Hood Station/Hood Station|Hood Station]] cannot afford an outbreak, and rerouting waste would cripple water reserves needed for drinking and hydroponics.
 
 ### Completion Requirements
 

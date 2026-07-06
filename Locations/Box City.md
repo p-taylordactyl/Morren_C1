@@ -1,25 +1,23 @@
 ---
 title: Box City
-draft: false
+publish: true
 aliases:
 type: location
-district:
+district: "[[The Rust Yards]]"
 cover: "[[location_BoxCity.webp]]"
-created:
-modified:
+created: 2026-06-01
+modified: 2026-07-06
 parent:
 associations:
+  - "[[Box Boys]]"
 tags:
-  - under_construction
 ---
 
 
 
-# Description
+# Notes
 
-
-
-
+Headquarters of the [[Box Boys]].
 
 
 # NPCs

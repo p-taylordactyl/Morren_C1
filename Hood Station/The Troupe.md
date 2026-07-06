@@ -1,22 +1,22 @@
 ---
 title: The Troupe
-draft: false
+publish: true
 aliases:
   - Troupe
 type: group
 cover:
 created: 2026-05-25
-modified: 2026-06-22
-parent: "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+modified: 2026-07-06
+parent: "[[Hood Station/Hood Station|Hood Station]]"
 associations:
 locations:
-  - "[[Locations/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
 tags:
   - under_construction
 ---
 # Description
 
-A menagerie of writers, actors, poets, musicians from many previous walks of life who collectively wandered through Old Valence for a while. Originally formed from a small band of actors down on their luck who were unhappy with the overbearing nature of Crownlight Media and Paragon Soundworks sought to put their own voice into the world. As they traveled they gathered more people to The Troupe; street artists, buskers, the like. Through their travels they heard about [[Locations/Hood Station|Hood Station]] through a rumor and decided to make it their permanent residence. 
+A menagerie of writers, actors, poets, musicians from many previous walks of life who collectively wandered through Old Valence for a while. Originally formed from a small band of actors down on their luck who were unhappy with the overbearing nature of Crownlight Media and Paragon Soundworks sought to put their own voice into the world. As they traveled they gathered more people to The Troupe; street artists, buskers, the like. Through their travels they heard about [[Hood Station/Hood Station|Hood Station]] through a rumor and decided to make it their permanent residence. 
 
 **What they do for station:** In Hood Station they paint murals, put on shows, play music, but also teach the people of the station of the arts in whichever medium they wish to pursue. Occasionally a group of them will head up to the park in the Heart of Valance to perform music/plays in the bandshell for tips or sell art, using the funds to help get things for the commune which could only be bought from the rest of the city. 
 

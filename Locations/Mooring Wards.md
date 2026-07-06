@@ -1,26 +1,22 @@
 ---
 title: Mooring Wards
-draft: false
+publish: true
 aliases:
 type: district
 district:
 cover: "[[location_MooringWards.webp]]"
 created: 2026-06-01
-modified: 2026-06-01
-parent:
+modified: 2026-07-06
+parent: "[[Old Valence]]"
 associations:
   - "[[Mariner's Reach]]"
 tags:
   - under_construction
 ---
 
+# Notes
 
-
-# Description
-
-
-
-
+District home to [[Mariner's Reach]].
 
 
 # NPCs

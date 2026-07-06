@@ -7,13 +7,14 @@ created: 2026-06-01
 modified: 2026-07-06
 status:
   - alive
-draft: false
+publish: true
 disposition:
   - neutral
 organizations:
   - "[[Box Boys]]"
 locations:
   - "[[Not Far Sewer]]"
+  - "[[Box City]]"
 associates:
 brief: A member of the Box Boys we met in the Not Far Sewer
 tags:

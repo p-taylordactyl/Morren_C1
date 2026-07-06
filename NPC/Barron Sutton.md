@@ -6,7 +6,7 @@ type: npc
 cover: "[[npc_BarronSutton.webp]]"
 created: 2026-05-21
 modified: 2026-07-06
-draft: false
+publish: true
 status:
   - alive
 disposition:
@@ -14,7 +14,7 @@ disposition:
 organizations:
   - "[[Crownlight Media]]"
 locations:
-  - "[[Crownlight Strip]]"
+  - "[[Crownlight Media Studio Lot]]"
   - "[[Not Far Sewer]]"
 associates:
   - "[[Maximilius Adkins|Max]]"

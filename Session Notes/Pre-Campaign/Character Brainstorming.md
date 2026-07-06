@@ -1,6 +1,6 @@
 ---
 title: Character Brainstorming
-draft: true
+publish: true
 type: pregame
 modified: 2026-07-01
 created: 2026-04-07

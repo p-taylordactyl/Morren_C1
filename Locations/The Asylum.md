@@ -1,24 +1,19 @@
 ---
 title: The Asylum
-draft: false
+publish: false
 aliases:
 type: location
 district: "[[Westreach]]"
 cover: "[[location_TheAsylum.webp]]"
 created: 2026-06-01
-modified: 2026-06-01
+modified: 2026-07-06
 parent:
 associations:
   - "[[Cael Foundation]]"
 tags:
-  - under_construction
 ---
 
-
-
-# Description
-
-
+# Notes
 
 
 

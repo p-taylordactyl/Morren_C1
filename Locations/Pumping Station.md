@@ -1,27 +1,27 @@
 ---
 title: Pumping Station
-draft: false
+publish: true
 aliases:
   - Hot Pipe
 type: location
 cover: "[[location_PumpingStation.webp]]"
 created: 2026-05-25
-modified: 2026-06-08
+modified: 2026-07-06
 district: "[[Westreach]]"
 parent: "[[Not Far Sewer]]"
 associations:
   - "[[Titan Corporation]]"
+  - "[[Box Boys]]"
 tags:
-  - under_construction
 ---
 
 
 
-# Description
+# Notes
 
-
-
-
+- controls the water flow to various locations near the [[Not Far Sewer]]
+- The party defeated a nasty orange slime that was blocking a pipe underneath the station causing significant flow issues
+- Previously controlled by the [[Titan Corporation]] until the party convinced the [[Box Boys]] to take it over in the hopes they could then negotiate to further improve [[Hood Station]]'s water flow.
 
 
 # NPCs

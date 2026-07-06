@@ -5,15 +5,15 @@ type: npc
 cover: "[[npc_Drogrash.webp]]"
 created: 2026-04-23
 modified: 2026-07-06
-draft: false
+publish: true
 status:
   - alive
 disposition:
   - friendly
 organizations:
-  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
 locations:
-  - "[[Locations/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
 associates:
 brief: The bartender at the Station House Hood Station's only bar
 tags:
@@ -24,7 +24,7 @@ tags:
 
 # Description
 
-Drogrash is the bartender at The Station House, [[Locations/Hood Station|Hood Station]]'s premier (and only) bar.
+Drogrash is the bartender at The Station House, [[Hood Station/Hood Station|Hood Station]]'s premier (and only) bar.
 
 # Notes
 

@@ -6,15 +6,15 @@ type: npc
 cover: "[[npc_róisínward.webp]]"
 created: 2026-05-21
 modified: 2026-07-06
-draft: false
+publish: true
 status:
   - alive
 disposition:
   - friendly
 organizations:
-  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
 locations:
-  - "[[Locations/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
   - "[[BB Megatower]]"
 associates:
   - "[[Keena O'Malley|Keena]]"

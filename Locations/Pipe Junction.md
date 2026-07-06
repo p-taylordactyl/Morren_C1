@@ -1,10 +1,10 @@
 ---
 title: Pipe Junction
-draft: false
+publish: true
 type: location
 cover:
 created: 2026-04-29
-modified: 2026-05-25
+modified: 2026-07-06
 district: "[[Westreach]]"
 parent: "[[Not Far Sewer]]"
 associations:
@@ -14,13 +14,11 @@ tags:
 
 
 
-# Description
+# Notes
 
-A Point of Interest in the [[Not Far Sewer]] controlled by smugglers associated with the [[Bellanova Family|Bellanovas]]. 
+A Point of Interest in the [[Not Far Sewer]] controlled by smugglers associated with the [[Bellanova Family|Bellanovas]] and run by [[Rusk]].
 
 - Contains a computer terminal that controls the forcefield surrounding the [[Filter Shrine]].
-
-
 
 # NPCs
 

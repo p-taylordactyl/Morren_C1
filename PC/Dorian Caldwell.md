@@ -1,6 +1,6 @@
 ---
 title: Dorian Caldwell
-draft: false
+publish: true
 aliases:
   - Dorian
   - Franklin Marvelous II
@@ -8,7 +8,7 @@ aliases:
 cover: "[[pc_doriancaldwell.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-01
+modified: 2026-07-06
 tags:
   - under_construction
 ---
@@ -22,15 +22,15 @@ tags:
 > | **Race** | [[human-xphb\|Human]] |
 > | **Class** | [[rogue-xphb\|Rogue]] \| ? |
 > | **Languages** | Common, CSL, Elvish, Infernal, Thieves Cant
-> | **Location**| [[Locations/Hood Station\|Hood Station]] |
-> | **Factions** | [[Factions + Groups/Hood Station/Hood Station\|Hood Station]], [[The Troupe]] |
+> | **Location**| [[Hood Station/Hood Station\|Hood Station]] |
+> | **Factions** | [[Hood Station/Hood Station\|Hood Station]], [[The Troupe]] |
 
 
 # Backstory
 
 Dorian is a human man in his mid-20's. Born to a family of upper class wine makers Dorian lived with his parents and helped with winemaking. At one point an oligarch by the name of [[Custis Delavide]] took a particular interest in wine makers and invested in them. It was good for a while but eventually Custis was dissatisfied with how the business was being run and wanted to take over. Naturally Dorian's parents refused as the business has been in the family for generations. Though Dorian was quick to find out that you don't just refuse an Oligarch, if they can't take something through negotiations, they’ll just take it by force. Shortly thereafter Dorian watched his parents die by a hit squad, no doubt sent by Custis. After managing to hide, he ran away to the lower west parts of the city. 
 
-After running away Dorian survived by scrounging around for scraps and pickpocketing people. Eventually making his way down to the [[Cloud District]], there in his desperation to survive he pickpocketed an older woman and almost immediately got caught by her and was pushed to the ground. Seeing his potential as a useful tool she offered him a deal, she would give him a place to stay in exchange for doing jobs for her. Dorian seeing no other option took the deal, the old lady then introduced herself as [[Rosetta Thorne]]. During the years while working for Rosetta, Dorian in his free time took up painting and drawing. On one occasion while walking about sketching on a notepad Dorian found himself in the presence of a pop-up art show. There he caught the attention of a tiefling by the name of [[Az]]. The two talked for a while with Dorian showing Az some of his sketches. Seeing a like minded individual in the way of the arts, he asked Dorian if he was living anywhere which Dorian responded he was couch surfing at the time. To which Az asked if he would like a couch of his own and invited Dorian to a commune that they heard about and were going to set up shop there with a bunch of other artists. Within the following week, Dorian packed up what little he had and headed off to [[Locations/Hood Station|Hood Station]]. But unbeknownst to him with Rosetta in tow. 
+After running away Dorian survived by scrounging around for scraps and pickpocketing people. Eventually making his way down to the [[Cloud District]], there in his desperation to survive he pickpocketed an older woman and almost immediately got caught by her and was pushed to the ground. Seeing his potential as a useful tool she offered him a deal, she would give him a place to stay in exchange for doing jobs for her. Dorian seeing no other option took the deal, the old lady then introduced herself as [[Rosetta Thorne]]. During the years while working for Rosetta, Dorian in his free time took up painting and drawing. On one occasion while walking about sketching on a notepad Dorian found himself in the presence of a pop-up art show. There he caught the attention of a tiefling by the name of [[Az]]. The two talked for a while with Dorian showing Az some of his sketches. Seeing a like minded individual in the way of the arts, he asked Dorian if he was living anywhere which Dorian responded he was couch surfing at the time. To which Az asked if he would like a couch of his own and invited Dorian to a commune that they heard about and were going to set up shop there with a bunch of other artists. Within the following week, Dorian packed up what little he had and headed off to [[Hood Station/Hood Station|Hood Station]]. But unbeknownst to him with Rosetta in tow. 
 
 **Themes**: Revenge, independence, trust, truth vs lies, nature vs nurture, ambition, survival
 

@@ -6,7 +6,7 @@ type: npc
 cover: "[[npc_mirasporehand.webp]]"
 created: 2026-04-27
 modified: 2026-07-06
-draft: false
+publish: true
 status:
   - alive
 disposition:
@@ -31,7 +31,7 @@ Elfin farmer at the [[Sludge Farm]]. Friendly and generous, even before she foun
 
 # Notes
 
-- Agreed to move the Sludge Farm to [[Locations/Hood Station|Hood Station]] after the next harvest 
+- Agreed to move the Sludge Farm to [[Hood Station/Hood Station|Hood Station]] after the next harvest 
 - first person to mention the [[The Driftwarden]]
 
 

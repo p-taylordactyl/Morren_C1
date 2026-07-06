@@ -6,7 +6,7 @@ type: npc
 cover: "[[npc_HadrianBuchanon.webp]]"
 created: 2026-04-23
 modified: 2026-07-06
-draft: false
+publish: true
 status: unknown
 disposition:
   - unknown

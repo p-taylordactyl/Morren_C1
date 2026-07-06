@@ -1,12 +1,12 @@
 ---
 title: Paragon Soundworks
-draft: false
+publish: true
 aliases:
   - Paragon
 type: corporate faction
 cover: "[[faction_paragonsoundworks.webp]]"
 created: 2026-04-23
-modified: 2026-06-01
+modified: 2026-07-06
 associations:
 locations:
   - "[[Locations/Paragon Soundworks|Paragon Soundworks]]"

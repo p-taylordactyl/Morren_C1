@@ -1,12 +1,12 @@
 ---
-title: Location
-draft: true
+title: <% tp.file.title %>
+publish: false
 aliases:
 type: location
-district:
 cover: "[[location_<% tp.file.title.replace(/ /g, '') %>.webp]]"
 created:
 modified:
+district:
 parent:
 associations:
 tags:

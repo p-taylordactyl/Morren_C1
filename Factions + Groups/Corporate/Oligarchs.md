@@ -1,15 +1,16 @@
 ---
 title: Oligarchs
+publish: true
 aliases:
   - oligarch
-draft: false
 type: corporate faction
 cover: "[[faction_oligarchs.webp]]"
 created: 2026-03-06
 modified: 2026-07-06
 associations:
+locations:
+  - "[[Energy Siphon Tower]]"
 tags:
-  - under_construction
 ---
 ![[faction_oligarchs.webp||banner p+t]]
 

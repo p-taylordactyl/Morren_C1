@@ -1,6 +1,6 @@
 ---
 title: Enforcers
-draft: false
+publish: true
 aliases:
 type: corporate group
 cover:

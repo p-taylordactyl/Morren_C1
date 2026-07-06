@@ -1,6 +1,6 @@
 ---
 title: Maximilius Adkins
-draft: false
+publish: true
 aliases:
   - Max Adkins
   - Max
@@ -11,10 +11,9 @@ type: player_character
 created: 2026-04-23
 modified: 2026-07-06
 organizations:
-  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
   - "[[The Redacted]]"
 tags:
-  - under_construction
 ---
 
 > [!infobox]
@@ -24,11 +23,11 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Age** | 25 |
-> | **Race** | [[human-xphb\|Human]] |
-> | **Class** | [[bard-xphb\|Bard]] \| ? |
+> | **Race** | Human |
+> | **Class** | Bard \| ? |
 > | **Languages** | Common, CSL, Elvish
-> | **Location**| [[Locations/Hood Station\|Hood Station]] |
-> | **Factions** | [[Factions + Groups/Hood Station/Hood Station\|Hood Station]], [[The Redacted]] |
+> | **Location**| [[Hood Station/Hood Station\|Hood Station]] |
+> | **Factions** | [[The Redacted]] |
 > 
 
 # Backstory
@@ -39,7 +38,7 @@ Not long after, he left Crownlight and began working independently across [[Old 
 
 As that network grew, Max’s work shifted into a combination of structured informational pieces and raw field recordings, some edited and contextualized, others intentionally unfiltered. The goal wasn’t to control interpretation, but to make real conditions harder to ignore or fully erase. These materials circulated through informal channels and slowly built a loose, decentralized information web connected to his efforts.
 
-One of those connections, [[Ren Calder]], passed along a lead involving [[Keena O'Malley|Keena]], who had lost her brother in an unreported incident at a Titan Corporation facility. Keena herself was from [[Locations/Hood Station|Hood Station]], and through her, Max was first introduced to the settlement and the conditions people were living under there.
+One of those connections, [[Ren Calder]], passed along a lead involving [[Keena O'Malley|Keena]], who had lost her brother in an unreported incident at a Titan Corporation facility. Keena herself was from [[Hood Station/Hood Station|Hood Station]], and through her, Max was first introduced to the settlement and the conditions people were living under there.
 
 The lack of accountability and official denial around the [[Titan Corporation]] case led Max and Keena to investigate together. As they worked through the details, they identified [[Augustin Devereaux]] as responsible for both the incident and its suppression. When they confronted him, the situation escalated and ended with Devereaux left in a coma. Afterward, Max and Keena continued working together on similar cases, focused on exposing unreported incidents and pushing against corporate impunity.
 

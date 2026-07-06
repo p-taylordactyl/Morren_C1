@@ -1,7 +1,7 @@
 ---
 aliases:
-title: Quest
-draft: "true"
+title: <% tp.file.title %>
+publish: false
 created: 2026-06-01
 modified: 2026-06-01
 cover: "[[quest_<% tp.file.title.replace(/ /g, '') %>.webp]]"

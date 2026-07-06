@@ -1,6 +1,6 @@
 ---
 title: Session 9
-draft: false
+publish: false
 type: session_note
 created: 2026-06-22
 modified: 2026-07-05

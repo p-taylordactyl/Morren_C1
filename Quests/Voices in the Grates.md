@@ -1,10 +1,10 @@
 ---
 title: Voices in the Grates
-draft: false
+publish: false
 aliases:
   - missing kids
 created: 2026-06-01
-modified: 2026-07-05
+modified: 2026-07-06
 cover: "[[quest_voicesinthegrates.webp]]"
 type: quest
 quest_status: completed

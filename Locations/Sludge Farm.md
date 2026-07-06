@@ -1,6 +1,6 @@
 ---
 title: Sludge Farm
-draft: false
+publish: true
 type: location
 cover:
 created: 2026-04-29
@@ -13,18 +13,14 @@ tags:
 ---
 
 
-
 # Notes
 
-
-
-
-
+- A Point of Interest in the [[Not Far Sewer]] where they [[Sludge Farmers|farm sludge]].
+- will move to [[Hood Station]] after the next harvest
 
 # NPCs
 
 ![[NPC Index.base#Location - embedonly]]
-
 
 
 

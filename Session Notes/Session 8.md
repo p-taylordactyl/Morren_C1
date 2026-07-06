@@ -1,6 +1,6 @@
 ---
 title: Session 8
-draft: false
+publish: false
 type: session_note
 created: 2026-06-15
 modified: 2026-07-01

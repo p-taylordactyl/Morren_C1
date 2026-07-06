@@ -7,9 +7,9 @@ type: npc
 cover: "[[npc_KaliTorreo.webp]]"
 created: 2026-05-25
 modified: 2026-07-06
+publish: true
 status:
   - alive
-draft: false
 disposition:
   - unknown
 organizations:
@@ -18,6 +18,7 @@ locations:
   - "[[Flooded Zone]]"
 associates:
   - "[[Silas Sorelli|Silas]]"
+  - "[[Vinny Brassjaw|Brassjaw]]"
 brief: Silas's childhood friend who joined the Ghosts of the Flooded Zone
 tags:
   - under_construction

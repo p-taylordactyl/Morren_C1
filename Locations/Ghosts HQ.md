@@ -1,25 +1,23 @@
 ---
 title: Ghosts HQ
-draft: false
+publish: false
 aliases:
 type: location
-district:
+district: "[[Flooded Zone]]"
 cover: "[[location_GhostsHQ.webp]]"
-created:
-modified:
+created: 2026-06-01
+modified: 2026-07-06
 parent:
 associations:
+  - "[[Ghosts of the Flooded Zone]]"
 tags:
-  - under_construction
 ---
 
 
 
-# Description
+# Notes
 
-
-
-
+Headquarters of the [[Ghosts of the Flooded Zone]].
 
 
 # NPCs

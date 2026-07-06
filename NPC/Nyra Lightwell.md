@@ -6,16 +6,16 @@ type: npc
 cover: "[[npc_NyraLightwell.webp]]"
 created: 2026-05-21
 modified: 2026-07-06
-draft: false
+publish: true
 status:
   - alive
 disposition:
   - friendly
 organizations:
-  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
   - "[[Iron Form Dojo]]"
 locations:
-  - "[[Locations/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
 associates:
   - "[[Keena O'Malley|Keena]]"
   - "[[Kairo Voss|Kairo]]"

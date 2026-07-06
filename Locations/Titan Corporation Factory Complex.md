@@ -1,24 +1,21 @@
 ---
 title: Titan Corporation Factory Complex
-draft: false
+publish: false
 aliases:
 type: location
 district: "[[Cloud District]]"
 cover: "[[location_TitanCorporationFactoryComplex.webp]]"
 created: 2026-06-01
-modified: 2026-06-01
+modified: 2026-07-06
 parent:
 associations:
   - "[[Titan Corporation]]"
 tags:
-  - under_construction
 ---
 
+# Notes
 
-
-# Description
-
-
+Primary location of [[Titan Corporation]] factories. Site of the accident that led to many deaths and injuries, including  [[Lorcan O'Malley]], the loss of [[Róisín Ward]]'s arm, and the subsequent beating of [[Augustin Devereaux]] (the responsible party)  into a coma.
 
 
 

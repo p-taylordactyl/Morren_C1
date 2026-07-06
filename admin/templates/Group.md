@@ -1,6 +1,6 @@
 ---
-title: Group
-draft: true
+title: <% tp.file.title %>
+publish: false
 aliases:
 type: group
 cover:
@@ -12,10 +12,11 @@ locations:
 tags:
   - under_construction
 ---
+# Description
+
+
+
 # Notes
-
-
-
 
 
 

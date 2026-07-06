@@ -7,7 +7,7 @@ created: 2026-06-29
 modified: 2026-07-06
 status:
   - alive
-draft: false
+publish: true
 disposition:
   - neutral
   - friendly
@@ -19,7 +19,6 @@ associates:
   - "[[Dex]]"
 brief: One of the priests at the Relay Shrine
 tags:
-  - under_construction
 ---
 
 ![[npc_Arden.webp]]

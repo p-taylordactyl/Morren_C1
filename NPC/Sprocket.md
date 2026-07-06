@@ -5,7 +5,7 @@ type: npc
 cover: "[[npc_sprocket.webp]]"
 created: 2026-04-27
 modified: 2026-07-06
-draft: false
+publish: true
 status:
   - alive
 disposition:

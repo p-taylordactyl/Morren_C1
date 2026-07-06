@@ -1,6 +1,6 @@
 ---
 title: Session 4
-draft: false
+publish: false
 type: session_note
 created: 2026-05-19
 modified: 2026-06-30

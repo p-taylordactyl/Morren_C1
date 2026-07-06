@@ -1,9 +1,9 @@
 ---
 title: The Bloom Below
-draft: false
+publish: false
 aliases:
 created: 2026-06-01
-modified: 2026-07-05
+modified: 2026-07-06
 cover: "[[quest_thebloombelow.webp]]"
 type: quest
 quest_status: completed

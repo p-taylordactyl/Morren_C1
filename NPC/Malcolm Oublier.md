@@ -9,14 +9,14 @@ modified: 2026-07-06
 status:
   - alive
   - captured
-draft: false
+publish: true
 disposition:
   - friendly
   - annoying
 organizations:
-  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
 locations:
-  - "[[Locations/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
 associates:
   - "[[Gideon Oublier|Gideon]]"
 brief: Gideon's twin brother and an absolute twerp

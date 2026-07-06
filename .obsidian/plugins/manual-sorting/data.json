@@ -5,6 +5,7 @@
         "Index.md",
         "admin",
         "PC",
+        "Hood Station",
         "NPC",
         "Factions + Groups",
         "Locations",
@@ -34,7 +35,7 @@
         "admin/assets/location_notfarsewer_slimefight.webp",
         "admin/assets/session1_map2.webp",
         "admin/assets/npc_sprocket.webp",
-        "admin/assets/location_notfarsewer_bazaar.webp",
+        "admin/assets/location_notfarsewer_floodgatebazaar.webp",
         "admin/assets/pc_katbuchanon.webp",
         "admin/assets/session1_map1.webp",
         "admin/assets/session2_map1.webp",
@@ -183,10 +184,10 @@
     "Factions + Groups": {
       "children": [
         "Factions + Groups/Faction Index.base",
-        "Factions + Groups/Hood Station",
         "Factions + Groups/Corporate",
         "Factions + Groups/Underground",
-        "Factions + Groups/Misc"
+        "Factions + Groups/Misc",
+        "Factions + Groups/Religious"
       ],
       "sortOrder": "custom"
     },
@@ -205,22 +206,16 @@
       ],
       "sortOrder": "custom"
     },
-    "Factions + Groups/Hood Station": {
-      "children": [
-        "Factions + Groups/Hood Station/Hood Station.md",
-        "Factions + Groups/Hood Station/Endline Garage.md",
-        "Factions + Groups/Hood Station/Iron Form Dojo.md",
-        "Factions + Groups/Hood Station/Morrgen's Community Center.md",
-        "Factions + Groups/Hood Station/Protective Association for Wayward and Neglected Strays.md",
-        "Factions + Groups/Hood Station/The Redacted.md",
-        "Factions + Groups/Hood Station/The Troupe.md"
-      ],
-      "sortOrder": "custom"
-    },
     "Factions + Groups/Misc": {
       "children": [
         "Factions + Groups/Misc/Sewer Goblins.md",
         "Factions + Groups/Misc/Sludge Farmers.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Factions + Groups/Religious": {
+      "children": [
+        "Factions + Groups/Religious/Cult of the Machine God.md"
       ],
       "sortOrder": "custom"
     },
@@ -233,8 +228,20 @@
         "Factions + Groups/Underground/Old Guard.md",
         "Factions + Groups/Underground/Old Valence Stevedore Union.md",
         "Factions + Groups/Underground/West Valence Saints.md",
-        "Factions + Groups/Underground/Lightning Crew.md",
-        "Factions + Groups/Underground/Dominion Crew.md"
+        "Factions + Groups/Underground/Dominion Crew.md",
+        "Factions + Groups/Underground/Lightning Crew.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Hood Station": {
+      "children": [
+        "Hood Station/Hood Station.md",
+        "Hood Station/Endline Garage.md",
+        "Hood Station/Iron Form Dojo.md",
+        "Hood Station/Morrgen's Community Center.md",
+        "Hood Station/Protective Association for Wayward and Neglected Strays.md",
+        "Hood Station/The Redacted.md",
+        "Hood Station/The Troupe.md"
       ],
       "sortOrder": "custom"
     },
@@ -242,7 +249,6 @@
       "children": [
         "Locations/Location Index.base",
         "Locations/Old Valence.md",
-        "Locations/Hood Station.md",
         "Locations/Not Far Sewer.md",
         "Locations/Sludge Farm.md",
         "Locations/Pipe Junction.md",
@@ -317,6 +323,7 @@
         "NPC/Gorax.md",
         "NPC/Kelm.md",
         "NPC/Memaw Shoe.md",
+        "NPC/Rusk.md",
         "NPC/Prospera Bellanova.md",
         "NPC/Malcolm Oublier.md",
         "NPC/Brug.md",

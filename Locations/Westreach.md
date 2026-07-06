@@ -1,13 +1,12 @@
 ---
 title: Westreach
-draft: false
+publish: true
 aliases:
 type: district
-district:
 cover: "[[location_Westreach.webp]]"
 created: 2026-05-25
-modified: 2026-06-01
-parent:
+modified: 2026-07-06
+parent: "[[Old Valence]]"
 associations:
   - "[[West Valence Saints]]"
 tags:
@@ -15,11 +14,9 @@ tags:
 
 
 
-# Description
+# Notes
 
-
-
-
+District notably under the control of the [[West Valence Saints]] - though the harbor area belongs to the [[Old Valence Stevedore Union]].
 
 
 # NPCs

@@ -1,12 +1,12 @@
 ---
 title: Crownlight Strip
-draft: false
+publish: true
 aliases:
 type: district
 cover: "[[location_CrownlightStrip.webp]]"
 created: 2026-06-01
-modified: 2026-06-01
-parent:
+modified: 2026-07-06
+parent: "[[Old Valence]]"
 associations:
   - "[[Crownlight Media]]"
   - "[[NovaStyle Group]]"
@@ -19,11 +19,15 @@ tags:
 
 
 
-# Description
+# Notes
 
+District home to the majority of the Corporate Factions.
 
-
-
+- [[Crownlight Media]]
+- [[NovaStyle Group]]
+- [[Locations/Paragon Soundworks|Paragon Soundworks]]
+- [[Infinity Plaza Mall]]
+- [[Valencian Seahorses]]
 
 
 # NPCs

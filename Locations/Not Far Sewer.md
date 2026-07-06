@@ -1,7 +1,8 @@
 ---
 title: Not Far Sewer
-draft: false
-type: location
+publish: true
+type:
+  - main location
 cover:
 district: "[[Westreach]]"
 parent:

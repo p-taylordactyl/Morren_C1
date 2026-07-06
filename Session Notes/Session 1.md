@@ -1,6 +1,6 @@
 ---
 title: Session 1
-draft: false
+publish: false
 type: session_note
 created: 2026-04-20
 modified: 2026-06-30
@@ -19,7 +19,7 @@ level: "1"
 ingame_start: 1/1/2012
 ingame_finish: 1/2/2012
 locations:
-  - "[[Locations/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
   - "[[Not Far Sewer]]"
 quests: "[[The Bloom Below]]"
 tags:
@@ -31,7 +31,7 @@ tags:
 
 ## Initial Meeting
 
-We start with [[Dorian Caldwell|Dorian]] at the [[Locations/Hood Station|Station House]].
+We start with [[Dorian Caldwell|Dorian]] at the [[Hood Station/Hood Station|Station House]].
 
 ![[location_hoodstation_stationhouse.webp]]
 
@@ -94,7 +94,7 @@ Keena and Kat have a conversation about dealing with Gideon.
 
 We roll up to the bazaar.
 
-![[location_notfarsewer_bazaar.webp]]
+![[location_notfarsewer_floodgatebazaar.webp]]
 
 The shopkeeper is a goblin named "[[Sprocket]]?" tells us there's a bunch of people that worship the water filter behind the forcefielded door. Recently they were saying the Machine God is sick. Sounds like one of our missions.
 

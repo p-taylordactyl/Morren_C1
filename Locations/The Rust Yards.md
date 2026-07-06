@@ -1,13 +1,12 @@
 ---
 title: The Rust Yards
-draft: false
+publish: true
 aliases:
 type: district
 cover: "[[location_TheRustYards.webp]]"
 created: 2026-06-01
-modified: 2026-06-01
-district:
-parent:
+modified: 2026-07-06
+parent: "[[Old Valence]]"
 associations:
   - "[[Box Boys]]"
 tags:
@@ -16,11 +15,9 @@ tags:
 
 
 
-# Description
+# Notes
 
-
-
-
+District home to the [[Box Boys]].
 
 
 # NPCs

@@ -10,18 +10,18 @@ type: npc
 cover: "[[npc_RosettaThorne.webp]]"
 created: 2026-05-25
 modified: 2026-07-06
+publish: true
 status:
   - alive
-draft: false
 disposition:
   - neutral
   - friendly
   - unknown
 organizations:
-  - "[[Locations/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
   - "[[Protective Association for Wayward and Neglected Strays]]"
 locations:
-  - "[[Locations/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
 associates:
   - "[[Silas Sorelli|Silas]]"
   - "[[Dorian Caldwell|Dorian]]"

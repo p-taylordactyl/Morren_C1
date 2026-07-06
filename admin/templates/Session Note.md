@@ -1,6 +1,6 @@
 ---
-title: Session Note
-draft: true
+title: <% tp.file.title %>
+publish: false
 type: session_note
 created:
 modified:

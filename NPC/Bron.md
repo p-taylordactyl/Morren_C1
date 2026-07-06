@@ -7,7 +7,7 @@ created: 2026-06-22
 modified: 2026-07-06
 status:
   - alive
-draft: false
+publish: true
 disposition:
   - neutral
   - friendly
@@ -15,9 +15,9 @@ organizations:
 locations:
   - "[[Neon Corridor]]"
 associates:
+  - "[[Paintbrush Gnome]]"
 brief: A pawn broker of sorts who runs the Neon Corridor
 tags:
-  - under_construction
 ---
 
 ![[npc_Bron.webp]]

@@ -1,6 +1,6 @@
 ---
 title: Penthouse
-draft: false
+publish: false
 aliases:
   - penthouse
 type: location

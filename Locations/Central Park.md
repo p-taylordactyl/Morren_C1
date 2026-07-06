@@ -1,22 +1,20 @@
 ---
 title: Central Park
-draft: false
+publish: false
 aliases:
 type: location
-district:
+district: "[[Heart of Valence]]"
 cover: "[[location_CentralPark.webp]]"
-created:
-modified:
+created: 2026-06-01
+modified: 2026-07-06
 parent:
 associations:
 tags:
-  - under_construction
 ---
 
 
 
-# Description
-
+# Notes
 
 
 

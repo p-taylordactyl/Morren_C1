@@ -1,6 +1,6 @@
 ---
 title: Protective Association for Wayward and Neglected Strays
-draft: false
+publish: true
 aliases:
   - PAWNS
   - Association
@@ -9,11 +9,11 @@ type: group
 cover:
 created: 2026-05-25
 modified: 2026-07-06
-parent: "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+parent: "[[Hood Station/Hood Station|Hood Station]]"
 associations:
   - "[[Silas Sorelli]]"
 locations:
-  - "[[Locations/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
 tags:
 ---
 # Description

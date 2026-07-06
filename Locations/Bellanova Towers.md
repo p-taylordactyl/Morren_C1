@@ -1,24 +1,24 @@
 ---
 title: Bellanova Towers
-draft: false
+publish: false
 aliases:
 type: location
-district:
+district: "[[Cloud District]]"
 cover: "[[location_BellanovaTowers.webp]]"
-created:
-modified:
+created: 2026-06-01
+modified: 2026-07-06
 parent:
 associations:
+  - "[[Bellanova Family]]"
 tags:
   - under_construction
 ---
 
 
 
-# Description
+# Notes
 
-
-
+Massive towers of tenement housing owned and controlled by the [[Bellanova Family]].
 
 
 

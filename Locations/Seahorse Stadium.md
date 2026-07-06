@@ -1,26 +1,23 @@
 ---
 title: Seahorse Stadium
-draft: false
+publish: false
 aliases:
 type: location
 district: "[[Crownlight Strip]]"
 cover: "[[location_SeahourseStadium.webp]]"
 created: 2026-06-01
-modified: 2026-06-01
+modified: 2026-07-06
 parent:
 associations:
   - "[[Valencian Seahorses]]"
 tags:
-  - under_construction
 ---
 
 
 
-# Description
+# Notes
 
-
-
-
+Stadium where the [[Valencian Seahorses]] play.
 
 
 # NPCs

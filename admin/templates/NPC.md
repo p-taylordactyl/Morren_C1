@@ -1,11 +1,12 @@
 ---
-title: NPC
-draft: true
+title: <% tp.file.title %>
+publish: false
 aliases:
 type: npc
 cover: "[[npc_<% tp.file.title.replace(/ /g, '') %>.webp]]"
 created:
 modified:
+status:
 disposition:
   - enemy
   - unfriendly

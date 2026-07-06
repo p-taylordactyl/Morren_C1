@@ -1,23 +1,24 @@
 ---
 title: The Old Fort
-draft: false
+publish: false
 aliases:
 type: location
-district:
+district: "[[The Scar]]"
 cover: "[[location_TheOldFort.webp]]"
-created:
-modified:
+created: 2026-06-01
+modified: 2026-07-06
 parent:
 associations:
+  - "[[Old Guard]]"
 tags:
   - under_construction
 ---
 
 
 
-# Description
+# Notes
 
-
+Headquarters of the [[Old Guard]].
 
 
 

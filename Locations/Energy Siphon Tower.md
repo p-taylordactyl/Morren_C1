@@ -1,26 +1,21 @@
 ---
 title: Energy Siphon Tower
-draft: false
+publish: true
 aliases:
 type: location
 district: "[[Crownlight Strip]]"
 cover: "[[location_EnergySiphonTower.webp]]"
 created: 2026-06-01
-modified: 2026-06-01
-parent:
+modified: 2026-07-06
+parent: "[[Old Valence]]"
 associations:
   - "[[Oligarchs]]"
 tags:
-  - under_construction
 ---
 
+# Notes
 
-
-# Description
-
-
-
-
+A massive tower siphoning energy from [[Old Valence]] up to the floating cities above, where the [[Oligarchs]] live.
 
 
 # NPCs

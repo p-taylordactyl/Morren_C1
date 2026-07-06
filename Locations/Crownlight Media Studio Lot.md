@@ -1,25 +1,23 @@
 ---
 title: Crownlight Media Studio Lot
-draft: false
+publish: true
 aliases:
 type: location
-district:
+district: "[[Crownlight Strip]]"
 cover: "[[location_CrownlightMediaStudioLot.webp]]"
-created:
-modified:
+created: 2026-06-01
+modified: 2026-07-06
 parent:
 associations:
+  - "[[Crownlight Media]]"
 tags:
-  - under_construction
 ---
 
 
 
-# Description
+# Notes
 
-
-
-
+Headquarters of [[Crownlight Media]].
 
 
 # NPCs

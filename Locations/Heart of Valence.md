@@ -1,26 +1,22 @@
 ---
 title: Heart of Valence
-draft: false
+publish: true
 aliases:
 type: district
-district:
 cover: "[[location_HeartofValence.webp]]"
 created: 2026-06-01
-modified: 2026-06-01
-parent:
+modified: 2026-07-06
+parent: "[[Old Valence]]"
 associations:
   - "[[Cael Foundation]]"
 tags:
-  - under_construction
 ---
 
 
 
-# Description
+# Notes
 
-
-
-
+District home to the main campus of the [[Cael Foundation]].
 
 
 # NPCs

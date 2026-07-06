@@ -6,16 +6,16 @@ type: npc
 cover: "[[npc_MorrgenOublier.webp]]"
 created: 2026-05-08
 modified: 2026-07-06
-draft: false
+publish: true
 status:
   - alive
 disposition:
   - friendly
 organizations:
-  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
   - "[[Morrgen's Community Center]]"
 locations:
-  - "[[Locations/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
 associations:
   - "[[Gideon Oublier]]"
   - "[[Katriel Buchanon|Kat Buchanon]]"

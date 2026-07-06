@@ -1,6 +1,6 @@
 ---
 title: Timers
-draft: true
+publish: true
 modified: 2026-07-02
 created: 2026-06-08
 ---

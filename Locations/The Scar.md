@@ -1,26 +1,20 @@
 ---
 title: The Scar
-draft: false
+publish: true
 aliases:
 type: district
-district:
 cover: "[[location_TheScar.webp]]"
 created: 2026-06-01
-modified: 2026-06-01
-parent:
+modified: 2026-07-06
+parent: "[[Old Valence]]"
 associations:
   - "[[Old Guard]]"
 tags:
   - under_construction
 ---
+# Notes
 
-
-
-# Description
-
-
-
-
+Home of the [[Old Guard]].
 
 
 # NPCs

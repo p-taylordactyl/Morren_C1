@@ -1,6 +1,6 @@
 ---
 title: Aegis Response Group
-draft: false
+publish: true
 aliases:
   - ARG
 type: corporate faction

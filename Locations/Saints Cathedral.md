@@ -1,25 +1,23 @@
 ---
 title: Saints Cathedral
-draft: false
+publish: false
 aliases:
 type: location
-district:
+district: "[[Westreach]]"
 cover: "[[location_SaintsCathedral.webp]]"
-created:
-modified:
+created: 2026-06-01
+modified: 2026-07-06
 parent:
 associations:
+  - "[[West Valence Saints]]"
 tags:
-  - under_construction
 ---
 
 
 
-# Description
+# Notes
 
-
-
-
+Headquarters of the [[West Valence Saints]].
 
 
 # NPCs

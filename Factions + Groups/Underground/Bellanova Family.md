@@ -1,6 +1,6 @@
 ---
 title: Bellanova Family
-draft: false
+publish: true
 aliases:
   - Bellanovas
   - Bellanova
@@ -10,8 +10,9 @@ created: 2026-04-23
 modified: 2026-07-06
 associations:
 locations:
-  - "[[Cloud District]]"
+  - "[[Bellanova Towers]]"
   - "[[BB Megatower]]"
+  - "[[Pipe Junction]]"
 tags:
 ---
 

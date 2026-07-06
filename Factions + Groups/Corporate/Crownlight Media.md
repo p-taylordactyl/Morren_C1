@@ -1,6 +1,6 @@
 ---
 title: Crownlight Media
-draft: false
+publish: true
 aliases:
   - Crownlight
 type: corporate faction
@@ -11,7 +11,6 @@ associations:
 locations:
   - "[[Crownlight Media Studio Lot]]"
 tags:
-  - under_construction
 ---
 ![[faction_crownlightmedia.webp||banner p+t]]
 

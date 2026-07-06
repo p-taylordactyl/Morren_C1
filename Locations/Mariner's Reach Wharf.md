@@ -1,25 +1,21 @@
 ---
-title: "Mariner's Reach Wharf"
-draft: false
+title: Mariner's Reach Wharf
+publish: false
 aliases:
 type: location
-district:
+district: "[[Mooring Wards]]"
 cover: "[[location_Mariner'sReachWharf.webp]]"
-created:
-modified:
+created: 2026-06-01
+modified: 2026-07-06
 parent:
 associations:
+  - "[[Mariner's Reach]]"
 tags:
-  - under_construction
 ---
 
+# Notes
 
-
-# Description
-
-
-
-
+Headquarters of [[Mariner's Reach]].
 
 
 # NPCs

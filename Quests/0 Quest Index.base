@@ -98,3 +98,21 @@ views:
         direction: ASC
     columnSize:
       note.quest_location: 154
+  - type: table
+    name: location -embedonly
+    filters:
+      and:
+        - quest_location.contains(link(this.file.name))
+    order:
+      - file.name
+      - quest_status
+      - quest_giver
+      - quest_location
+      - expires
+      - reward
+      - tags
+    sort:
+      - property: quest_location
+        direction: ASC
+    columnSize:
+      note.quest_location: 154

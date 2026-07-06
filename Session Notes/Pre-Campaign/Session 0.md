@@ -1,6 +1,6 @@
 ---
 title: Session 0
-draft: true
+publish: true
 type: pregame
 created: 2026-04-06
 modified: 2026-07-01

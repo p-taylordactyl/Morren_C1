@@ -1,15 +1,14 @@
 ---
 title: Cloud District
-draft: false
+publish: true
 aliases:
 type: district
-district:
 cover: "[[location_CloudDistrict.webp]]"
 created: 2026-05-25
-modified: 2026-06-01
-parent:
+modified: 2026-07-06
+parent: "[[Old Valence]]"
 associations:
-  - "[[Factions + Groups/Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station/Hood Station|Hood Station]]"
   - "[[Titan Corporation]]"
   - "[[Bellanova Family]]"
 tags:
@@ -18,10 +17,9 @@ tags:
 
 
 
-# Description
+# Notes
 
-
-
+District home to [[Hood Station]], the [[Titan Corporation]], and the [[Bellanova Family]].
 
 
 

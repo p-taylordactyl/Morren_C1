@@ -5,7 +5,7 @@ type: npc
 cover: "[[npc_TheDriftwarden.webp]]"
 created: 2026-05-01
 modified: 2026-07-06
-draft: false
+publish: true
 status:
   - unknown
 disposition:

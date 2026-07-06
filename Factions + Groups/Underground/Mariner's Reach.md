@@ -1,13 +1,13 @@
 ---
-title: "Mariner's Reach"
-draft: false
+title: Mariner's Reach
+publish: true
 aliases:
   - Mariners
   - Reach
 type: corporate faction
 cover: "[[faction_marinersreach.webp]]"
 created: 2026-04-23
-modified: 2026-06-01
+modified: 2026-07-06
 associations:
 locations:
   - "[[Mariner's Reach Wharf]]"

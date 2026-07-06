@@ -1,12 +1,12 @@
 ---
 title: NovaStyle Group
-draft: false
+publish: true
 aliases:
   - Novastyle
 type: corporate faction
 cover: "[[faction_novastylegroup.webp]]"
 created: 2026-04-23
-modified: 2026-06-01
+modified: 2026-07-06
 associations:
 locations:
   - "[[NovaStyle Group Galleria]]"

@@ -24,8 +24,9 @@ views:
   - type: cards
     name: Undergound
     filters:
-      and:
+      or:
         - type == "underground faction"
+        - type == "underground group"
     order:
       - file.name
       - locations

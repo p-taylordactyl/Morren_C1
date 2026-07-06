@@ -1,12 +1,12 @@
 ---
 title: Relay Shrine
-draft: false
+publish: false
 aliases:
 type: location
-district:
 cover: "[[location_RelayShrine.webp]]"
 created: 2026-06-29
-modified: 2026-06-30
+modified: 2026-07-06
+district: "[[Cloud District]]"
 parent: "[[BB Megatower]]"
 associations:
 tags:
@@ -17,9 +17,9 @@ tags:
 
 # Notes
 
-A shrine located on Tier 2 of the BB Megatower
+A shrine to the [[Cult of the Machine God|Machine God]] located on Tier 2 of the [[BB Megatower]].
 
-
+- the priests here helped us
 
 
 # NPCs

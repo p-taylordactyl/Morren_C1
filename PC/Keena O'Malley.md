@@ -1,12 +1,12 @@
 ---
 title: Keena O'Malley
-draft: false
+publish: true
 aliases:
   - Keena
 cover: "[[pc_keenaomalley.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-01
+modified: 2026-07-06
 tags:
   - under_construction
 ---
@@ -20,8 +20,8 @@ tags:
 > | **Race** | [[human-xphb\|Human]] |
 > | **Class** | [[warlock-xphb\|Warlock]] \| [[warlock-xphb-great-old-one-patron-xphb\|Great Old One Patron]] |
 > | **Languages** | Common, Abyssal, CSL, Deep Speech, Goblin
-> | **Location**| [[Locations/Hood Station\|Hood Station]] |
-> | **Factions** | [[Factions + Groups/Hood Station/Hood Station\|Hood Station]], [[Iron Form Dojo]] |
+> | **Location**| [[Hood Station/Hood Station\|Hood Station]] |
+> | **Factions** | [[Hood Station/Hood Station\|Hood Station]], [[Iron Form Dojo]] |
 
 # Backstory
 

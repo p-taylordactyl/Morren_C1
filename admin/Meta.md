@@ -1,6 +1,6 @@
 ---
-title: Meta
-draft: true
+title:
+publish: false
 type: meta
 modified: 2026-03-21
 created: 2026-02-27
