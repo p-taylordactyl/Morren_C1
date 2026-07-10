@@ -1,14 +1,16 @@
 ---
 title: Penthouse Signal Rehearsal
-publish: false
+publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-05
+modified: 2026-07-09
 cover: "[[quest_penthousesignalrehearsal.webp]]"
 type: quest
 quest_status: turn in
 quest_giver: "[[Az]]"
-quest_location: "[[BB Megatower]]"
+quest_location:
+  - "[[BB Megatower]]"
+  - "[[Penthouse]]"
 reward: 30 platinum
 date_accepted: 1/1/2012
 expires: 1/14/2012

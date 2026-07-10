@@ -17,7 +17,10 @@ tags:
 
 # Notes
 
+### Points of Interest
 
+
+![[Location Index.base#Sublocations]]
 
 
 

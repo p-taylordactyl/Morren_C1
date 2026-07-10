@@ -1,12 +1,12 @@
 ---
 title: Crownlight Heights
-publish: false
+publish: true
 aliases:
 type: location
 district:
 cover: "[[location_CrownlightHeights.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
 tags:

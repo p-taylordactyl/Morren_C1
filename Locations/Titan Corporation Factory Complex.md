@@ -1,12 +1,13 @@
 ---
 title: Titan Corporation Factory Complex
-publish: false
+publish: true
 aliases:
+  - Titan Complex
 type: location
 district: "[[Cloud District]]"
 cover: "[[location_TitanCorporationFactoryComplex.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
   - "[[Titan Corporation]]"
@@ -15,9 +16,7 @@ tags:
 
 # Notes
 
-Primary location of [[Titan Corporation]] factories. Site of the accident that led to many deaths and injuries, including  [[Lorcan O'Malley]], the loss of [[Róisín Ward]]'s arm, and the subsequent beating of [[Augustin Devereaux]] (the responsible party)  into a coma.
-
-
+Primary location of [[Titan Corporation]] factories. Site of the accident that led to many deaths and injuries, including  [[Lorcan O'Malley]], the loss of [[Róisín Ward]]'s arm, and the subsequent beating of [[Augustin Devereaux]] (the responsible party) into a coma.
 
 
 # NPCs

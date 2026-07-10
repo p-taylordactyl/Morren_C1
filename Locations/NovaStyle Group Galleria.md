@@ -1,12 +1,12 @@
 ---
 title: NovaStyle Group Galleria
-publish: false
+publish: true
 aliases:
 type: location
 district: "[[Crownlight Strip]]"
 cover: "[[location_NovaStyleGroupGalleria.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
   - "[[NovaStyle Group]]"

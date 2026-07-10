@@ -1,6 +1,6 @@
 ---
 title: Cael Foundation Station
-publish: false
+publish: true
 aliases:
   - CF Station
   - Handler Station
@@ -8,7 +8,7 @@ type: location
 district: "[[Heart of Valence]]"
 cover: "[[location_CaelFoundationStation.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
   - "[[Cael Foundation]]"

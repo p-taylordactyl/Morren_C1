@@ -1,14 +1,16 @@
 ---
 title: The Flow Must Continue
-publish: false
+publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-05
+modified: 2026-07-09
 cover: "[[quest_theflowmustcontinue.webp]]"
 type: quest
 quest_status: completed
 quest_giver: "[[Thorbin Sprake]]"
-quest_location: "[[Not Far Sewer]]"
+quest_location:
+  - "[[Not Far Sewer]]"
+  - "[[Pumping Station]]"
 reward: 30 platinum
 date_accepted: 1/1/2012
 expires: 1/14/2012

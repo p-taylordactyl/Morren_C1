@@ -1,12 +1,12 @@
 ---
 title: The Prison
-publish: false
+publish: true
 aliases:
 type: location
-district:
+district: "[[The Scar]]"
 cover: "[[location_ThePrison.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
 tags:

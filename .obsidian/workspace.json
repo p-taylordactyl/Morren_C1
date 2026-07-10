@@ -52,9 +52,50 @@
               "icon": "lucide-layout-grid",
               "title": "NPC Index"
             }
+          },
+          {
+            "id": "dd490ee863b91169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ransom Location.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ransom Location"
+            }
+          },
+          {
+            "id": "0badb54ae644296a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Districts/Cloud District.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud District"
+            }
+          },
+          {
+            "id": "d5f75097264bee22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Districts/Cloud District.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud District"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "24040b1b427fcb26",
@@ -121,8 +162,7 @@
               "title": "Keena O'Malley"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"quest_location\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -207,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NPC/NPC Index.base",
+                "file": "Session Notes/0 Session Index.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +257,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for NPC Index"
+              "title": "Backlinks for 0 Session Index"
             }
           },
           {
@@ -226,12 +266,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NPC/NPC Index.base",
+                "file": "Session Notes/0 Session Index.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from NPC Index"
+              "title": "Outgoing links from 0 Session Index"
             }
           },
           {
@@ -279,20 +319,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NPC/NPC Index.base",
+                "file": "Session Notes/0 Session Index.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of NPC Index"
+              "title": "Outline of 0 Session Index"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,28 +346,39 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "d7d9c79a92e6b4b1",
+  "active": "31efc69d17e92a30",
   "lastOpenFiles": [
-    "NPC/Bron.md",
-    "NPC/Jax Riven.md",
-    "NPC/Solomon Hexley.md",
-    "NPC/Lightning Leroy.md",
-    "NPC/Mystery Burger Man.md",
-    "NPC/Beggar from Keena's Vision.md",
-    "NPC/Styx.md",
-    "NPC/Nyx.md",
-    "Session Notes/Session 11.md",
-    "NPC/Animator.md",
-    "NPC/Orgo.md",
-    "NPC/Morgo.md",
-    "NPC/Stu.md",
     "Locations/Ransom Location.md",
-    "admin/assets/npc_keenavisionbeggar.webp",
-    "PC/Keena O'Malley.md",
-    "Session Notes/Session 7.md",
-    "NPC/Augustin Devereaux.md",
+    "Locations/Tier 3.md",
+    "Locations/The Kitchen.md",
+    "Locations/Quiet Place.md",
+    "Locations/Relay Shrine.md",
+    "Locations/Neon Corridor.md",
+    "Locations/Tier 2.md",
+    "Locations/Penthouse.md",
+    "Locations/BB Megatower.md",
+    "Locations/Not Far Sewer.md",
+    "Locations/Box City.md",
+    "Locations/Aegis Response Group.md",
+    "Locations/The Prison.md",
+    "Locations/The Old Fort.md",
+    "Locations/Paragon Soundworks.md",
+    "Locations/Crownlight Media Studio Lot.md",
+    "Locations/NovaStyle Group Galleria.md",
+    "Locations/Crownlight Heights.md",
+    "Locations/Central Park.md",
+    "Locations/Mariner's Reach Wharf.md",
+    "Locations/Stevedore Union Main Harbor.md",
+    "Locations/Saints Cathedral.md",
+    "Locations/Ghosts HQ.md",
+    "Locations/Bellanova Towers.md",
+    "Locations/Titan Corporation Factory Complex.md",
+    "Locations/The Asylum.md",
     "NPC/NPC Index.base",
-    "Session Notes/Session 6.md",
+    "Locations/Districts/Cloud District",
+    "Locations/Districts",
+    "Session Notes/0 Session Index.base",
+    "admin/assets/npc_keenavisionbeggar.webp",
     "admin/assets/session5_newcar.webp",
     "admin/assets/location_oldvalence_districts.webp",
     "admin/assets/npc_rencalder.webp",
@@ -337,23 +388,12 @@
     "admin/assets/location_hoodstation_pawns.webp",
     "admin/assets/session6_endlinegarage.webp",
     "admin/assets/session6_map1.webp",
-    "Session Notes/Session 9.md",
-    "Session Notes/Session 5.md",
-    "Locations/Quiet Place.md",
-    "Locations/The Kitchen.md",
-    "Session Notes/Session 10.md",
-    "Locations/Tier 2.md",
-    "Locations/Tier 3.md",
-    "Locations/Floodgate Bazaar.md",
     "Locations/Location Index.base",
     "Factions + Groups/Religious",
     "Factions + Groups/Faction Index.base",
     "Factions + Groups/Misc",
     "Quests/0 Quest Index.base",
-    "Session Notes/0 Session Index.base",
     "Public",
-    "test",
-    "admin/assets/misc",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas"
   ]

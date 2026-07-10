@@ -1,27 +1,26 @@
 ---
-title: Cloud District
+title: Mooring Wards
 publish: true
 aliases:
 type: district
-cover: "[[location_CloudDistrict.webp]]"
-created: 2026-05-25
-modified: 2026-07-06
+district:
+cover: "[[location_MooringWards.webp]]"
+created: 2026-06-01
+modified: 2026-07-09
 parent: "[[Old Valence]]"
 associations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
-  - "[[Titan Corporation]]"
-  - "[[Bellanova Family]]"
+  - "[[Mariner's Reach]]"
 tags:
   - under_construction
 ---
 
-
-
 # Notes
 
-District home to [[Hood Station]], the [[Titan Corporation]], and the [[Bellanova Family]].
+District home to [[Mariner's Reach]].
 
+### Points of Interest
 
+![[Location Index.base#District]]
 
 # NPCs
 
@@ -33,13 +32,16 @@ District home to [[Hood Station]], the [[Titan Corporation]], and the [[Bellanov
 # Maps
 
 ```dataviewjs
+/** Query to embed all webp images starting with location_filename (converted to lowercase, spaces removed). */
+
 const placeTitle = dv.current().file.name.toLowerCase().replace(/\s/g, "");
 
 const imgFiles = app.vault.getFiles()
   .filter(file => 
     file.extension === 'webp' && 
-    file.name.startsWith("location_" + placeTitle)
-  );
+    file.name.startsWith("location_") &&
+    file.name.includes(placeTitle))
 
 imgFiles.forEach(file => dv.paragraph(`![[${file.path}]]`));
+
 ```

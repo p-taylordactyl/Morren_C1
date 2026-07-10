@@ -1,33 +1,34 @@
 ---
 title: Stonespear
-publish: false
+publish: true
 aliases:
 type: npc
 cover: "[[npc_Stonespear.webp]]"
-created:
-modified:
+created: 2026-07-06
+modified: 2026-07-09
 status:
+  - alive
 disposition:
-  - enemy
-  - unfriendly
-  - neutral
   - friendly
-  - ally
-  - unknown
 organizations:
 locations:
+  - "[[BB Megatower]]"
+  - "[[Tier 2]]"
+  - "[[Quiet Place]]"
 associates:
-brief:
+brief: A huge man who Kat helped rob an ATM outside the Quiet Place
 tags:
-  - under_construction
 ---
+
 ![[npc_Stonespear.webp]]
 
 # Description
 
+A huge man we found bonking the shit out of an ATM outside the [[Quiet Place]] after escaping the cursed Hamlet Keeper game. [[Katriel Buchanon|Kat]] helped him rob the [[Cael Foundation]] ATM by hacking it, mostly so the bonking would stop. 
 
 # Notes
 
+- Per Stonespear he will contact Kat to do crime together again in the future and rather than getting her phone number, he will find her by scent
 
 # Session Mentions
 

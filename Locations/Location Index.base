@@ -23,6 +23,9 @@ views:
         - parent.contains(link(this.file.name))
   - type: table
     name: District
+    filters:
+      and:
+        - district.contains(link(this.file.name))
     groupBy:
       property: district
       direction: ASC

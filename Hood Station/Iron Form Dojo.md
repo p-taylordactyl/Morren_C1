@@ -1,19 +1,18 @@
 ---
 title: Iron Form Dojo
-publish: false
+publish: true
 aliases:
   - Dojo
   - Chojo
 type: group
 cover:
 created: 2026-05-25
-modified: 2026-07-06
+modified: 2026-07-09
 parent: "[[Hood Station/Hood Station|Hood Station]]"
 associations:
 locations:
   - "[[Hood Station/Hood Station|Hood Station]]"
 tags:
-  - under_construction
 ---
 # Description
 
@@ -25,7 +24,7 @@ The Iron Form Dojo initially started as something a bit more informal -- [[Cilli
 
 ### Leadership
 
-Cillian Ward. A human man in his late 40s/early 50s, originally from Westreach. Although he looks severe, he is a rather jovial man, and always has a kind word to spare for someone who needs some encouragement, though he isn't above a bit of tough love if someone needs it. He's a master martial artist and enjoys learning and practicing new disciplines. His guiding tenets in both the dojo and his own life are Courtesy, Integrity, Perseverance, Self-Control, and Indomitable Spirit.
+Cillian Ward. A human man in his late 40s/early 50s, originally from [[Westreach]]. Although he looks severe, he is a rather jovial man, and always has a kind word to spare for someone who needs some encouragement, though he isn't above a bit of tough love if someone needs it. He's a master martial artist and enjoys learning and practicing new disciplines. His guiding tenets in both the dojo and his own life are Courtesy, Integrity, Perseverance, Self-Control, and Indomitable Spirit.
 
 # NPCs
 

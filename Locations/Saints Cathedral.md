@@ -1,12 +1,13 @@
 ---
 title: Saints Cathedral
-publish: false
+publish: true
 aliases:
+  - Cathedral
 type: location
 district: "[[Westreach]]"
 cover: "[[location_SaintsCathedral.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
   - "[[West Valence Saints]]"

@@ -1,13 +1,14 @@
 ---
 title: Cael Foundation Academy
-publish: false
+publish: true
 aliases:
   - CF Academy
+  - Academy
 type: location
 district: "[[Heart of Valence]]"
 cover: "[[location_CaelFoundationAcademy.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
   - "[[Cael Foundation]]"

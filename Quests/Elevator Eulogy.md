@@ -1,10 +1,9 @@
 ---
 title: Elevator Eulogy
-publish: false
+publish: true
 aliases:
-  - fix the elevator
 created: 2026-06-01
-modified: 2026-07-05
+modified: 2026-07-09
 cover: "[[quest_elevatoreulogy.webp]]"
 type: quest
 quest_status: turn in

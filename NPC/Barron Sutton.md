@@ -5,7 +5,7 @@ aliases:
 type: npc
 cover: "[[npc_BarronSutton.webp]]"
 created: 2026-05-21
-modified: 2026-07-06
+modified: 2026-07-09
 publish: true
 status:
   - alive
@@ -20,7 +20,6 @@ associates:
   - "[[Maximilius Adkins|Max]]"
 brief: Max's former colleague at Crownlight Media
 tags:
-  - under_construction
 ---
 
 ![[npc_BarronSutton.webp]]

@@ -1,26 +1,22 @@
 ---
 title: The Kitchen
-publish: false
+publish: true
 aliases:
 type: location
 cover: "[[location_TheKitchen.webp]]"
-created:
-modified:
-district:
-parent:
+created: 2026-07-09
+modified: 2026-07-09
+district: "[[Cloud District]]"
+parent: "[[Tier 3]]"
 associations:
 tags:
-  - under_construction
 ---
 
 
 
 # Notes
 
-
-
-
-
+- supposed location on [[Tier 3]] of the [[BB Megatower]] where a man named [[Morgo]] makes the drug known as Red Thunder
 
 # NPCs
 

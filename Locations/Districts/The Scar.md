@@ -1,23 +1,25 @@
 ---
-title: Mooring Wards
+title: The Scar
 publish: true
 aliases:
+  - Scar
 type: district
-district:
-cover: "[[location_MooringWards.webp]]"
+cover: "[[location_TheScar.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent: "[[Old Valence]]"
 associations:
-  - "[[Mariner's Reach]]"
+  - "[[Old Guard]]"
 tags:
   - under_construction
 ---
-
 # Notes
 
-District home to [[Mariner's Reach]].
+Home of the [[Old Guard]].
 
+### Points of Interest
+
+![[Location Index.base#District]]
 
 # NPCs
 

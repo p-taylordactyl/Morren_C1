@@ -1,13 +1,13 @@
 ---
 title: Tier 3
-publish: false
+publish: true
 aliases:
 type: location
 cover: "[[location_Tier3.webp]]"
-created:
-modified:
-district:
-parent:
+created: 2026-07-09
+modified: 2026-07-09
+district: "[[Cloud District]]"
+parent: "[[BB Megatower]]"
 associations:
 tags:
   - under_construction
@@ -16,6 +16,11 @@ tags:
 
 
 # Notes
+
+### Points of Interest
+
+![[Location Index.base#Sublocations]]
+
 
 
 

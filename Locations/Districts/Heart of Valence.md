@@ -1,34 +1,26 @@
 ---
-title: Crownlight Strip
+title: Heart of Valence
 publish: true
 aliases:
 type: district
-cover: "[[location_CrownlightStrip.webp]]"
+cover: "[[location_HeartofValence.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent: "[[Old Valence]]"
 associations:
-  - "[[Crownlight Media]]"
-  - "[[NovaStyle Group]]"
-  - "[[Factions + Groups/Corporate/Paragon Soundworks|Paragon Soundworks]]"
-  - "[[Infinity Plaza Mall]]"
-  - "[[Valencian Seahorses]]"
+  - "[[Cael Foundation]]"
 tags:
-  - under_construction
 ---
 
 
 
 # Notes
 
-District home to the majority of the Corporate Factions.
+District home to the main campus of the [[Cael Foundation]].
 
-- [[Crownlight Media]]
-- [[NovaStyle Group]]
-- [[Locations/Paragon Soundworks|Paragon Soundworks]]
-- [[Infinity Plaza Mall]]
-- [[Valencian Seahorses]]
+### Points of Interest
 
+![[Location Index.base#District]]
 
 # NPCs
 

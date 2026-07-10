@@ -5,12 +5,12 @@ aliases:
   - Dorian
   - Franklin Marvelous II
   - Dors
+  - Windows
 cover: "[[pc_doriancaldwell.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-08
+modified: 2026-07-09
 tags:
-  - under_construction
 ---
 
 > [!infobox]
@@ -20,8 +20,8 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Age** | 24 |
-> | **Race** | [[human-xphb\|Human]] |
-> | **Class** | [[rogue-xphb\|Rogue]] \| ? |
+> | **Race** | Human |
+> | **Class** | Rogue \| ? |
 > | **Languages** | Common, CSL, Elvish, Infernal, Thieves Cant
 > | **Location**| [[Hood Station/Hood Station\|Hood Station]] |
 > | **Factions** | [[Hood Station/Hood Station\|Hood Station]], [[The Troupe]] |

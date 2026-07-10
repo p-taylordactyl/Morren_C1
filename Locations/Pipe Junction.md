@@ -16,7 +16,7 @@ tags:
 
 # Notes
 
-A Point of Interest in the [[Not Far Sewer]] controlled by smugglers associated with the [[Bellanova Family|Bellanovas]] and run by [[Rusk]].
+A Point of Interest in the [[Not Far Sewer]] controlled by smugglers associated with the [[Bellanova Family|Bellanovas]] and run by [[Rusk Ironline]].
 
 - Contains a computer terminal that controls the forcefield surrounding the [[Filter Shrine]].
 

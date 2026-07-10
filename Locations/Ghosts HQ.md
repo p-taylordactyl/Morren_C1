@@ -1,12 +1,12 @@
 ---
 title: Ghosts HQ
-publish: false
+publish: true
 aliases:
 type: location
 district: "[[Flooded Zone]]"
 cover: "[[location_GhostsHQ.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
   - "[[Ghosts of the Flooded Zone]]"

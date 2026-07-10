@@ -1,12 +1,13 @@
 ---
 title: Stevedore Union Main Harbor
-publish: false
+publish: true
 aliases:
+  - Harbor
 type: location
 district: "[[Westreach]]"
 cover: "[[location_StevedoreUnionMainHarbor.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
   - "[[Old Valence Stevedore Union]]"

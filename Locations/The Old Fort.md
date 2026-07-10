@@ -1,12 +1,12 @@
 ---
 title: The Old Fort
-publish: false
+publish: true
 aliases:
 type: location
 district: "[[The Scar]]"
 cover: "[[location_TheOldFort.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
   - "[[Old Guard]]"

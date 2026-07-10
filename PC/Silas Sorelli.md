@@ -6,9 +6,8 @@ aliases:
 cover: "[[pc_silassorelli.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-06
+modified: 2026-07-09
 tags:
-  - under_construction
 ---
 > [!infobox]
 > # Silas Sorelli
@@ -17,8 +16,8 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Age** | - |
-> | **Race** | [[tiefling-xphb\|Tiefling]] \| Cthonic |
-> | **Class** | [[wizard-xphb\|Wizard]] \| [[wizard-xphb-illusionist-xphb\|Illusionist]] |
+> | **Race** | Tiefling \| Cthonic |
+> | **Class** | Wizard \| Illusionist |
 > | **Languages** | Common, CSL, Infernal, Thieves Cant
 > | **Location**| [[Hood Station/Hood Station\|Hood Station]] |
 > | **Factions** | [[Hood Station/Hood Station\|Hood Station]], [[Protective Association for Wayward and Neglected Strays]] |

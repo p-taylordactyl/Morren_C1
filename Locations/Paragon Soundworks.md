@@ -1,12 +1,12 @@
 ---
 title: Paragon Soundworks
-publish: false
+publish: true
 aliases:
 type: location
 district: "[[Crownlight Strip]]"
 cover: "[[location_ParagonSoundworks.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
   - "[[Factions + Groups/Corporate/Paragon Soundworks|Paragon Soundworks]]"

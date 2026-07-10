@@ -6,12 +6,11 @@ aliases:
 type: corporate faction
 cover: "[[faction_titancorporation.webp]]"
 created: 2026-04-23
-modified: 2026-07-06
+modified: 2026-07-09
 associations:
 locations:
   - "[[Titan Corporation Factory Complex]]"
 tags:
-  - under_construction
 ---
 
 ![[faction_titancorporation.webp||banner p+t]]

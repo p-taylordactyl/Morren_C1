@@ -8,7 +8,6 @@ type: player_character
 created: 2026-04-23
 modified: 2026-07-09
 tags:
-  - under_construction
 ---
 > [!infobox]
 > # Keena O'Malley
@@ -17,10 +16,10 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Age** | 19 |
-> | **Race** | [[human-xphb\|Human]] |
-> | **Class** | [[warlock-xphb\|Warlock]] \| [[warlock-xphb-great-old-one-patron-xphb\|Great Old One Patron]] |
+> | **Race** | Human |
+> | **Class** | Warlock \| ? |
 > | **Languages** | Common, Abyssal, CSL, Deep Speech, Goblin
-> | **Location**| [[Hood Station/Hood Station\|Hood Station]] |
+> | **Location**| [[Hood Station]] |
 > | **Factions** | [[Hood Station/Hood Station\|Hood Station]], [[Iron Form Dojo]] |
 
 # Backstory
@@ -52,14 +51,14 @@ In her free time, she studies martial arts and various fighting styles with her 
 Family:
 - Siobhán O'Malley, her mother
 - Declan O'Malley, her father
-- Lorcan O'Malley, her brother who died in an accident at the Titan Corporation Factory Complex
+- [[Lorcan O'Malley]], her brother who died in an accident at the Titan Corporation Factory Complex
 - **[[Cillian Ward]]**, her uncle on her mother's side
 - Orla Ward, her aunt
 - **[[Róisín Ward]]**, her cousin who lost her arm in the accident at the Titan Corporation Factory Complex
 - Ronan Ward, her other cousin
 
 
-# Messages from "Morronel"
+# Visions and Messages
 
 ## Candle Vision
 

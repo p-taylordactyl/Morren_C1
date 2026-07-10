@@ -1,13 +1,12 @@
 ---
 title: Penthouse
-publish: false
+publish: true
 aliases:
-  - penthouse
 type: location
 district: "[[Cloud District]]"
 cover: "[[location_ThePenthouse.webp]]"
 created: 2026-06-08
-modified: 2026-06-22
+modified: 2026-07-09
 parent: "[[BB Megatower]]"
 associations:
 tags:
@@ -18,7 +17,7 @@ tags:
 # Notes
 
 - Top of the BB Megatower, visited for quest [[Penthouse Signal Rehearsal]]
-- space was supposed to be abandoned but very much is not
+- space was supposed to be abandoned but actually appears to be some kind of bougie OogBnB/rental situation 
 
 
 # NPCs

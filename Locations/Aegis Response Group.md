@@ -1,12 +1,12 @@
 ---
 title: Aegis Response Group
-publish: false
+publish: true
 aliases:
 type: location
-district:
+district: "[[Flooded Zone]]"
 cover: "[[location_AegisResponseGroup.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
 tags:

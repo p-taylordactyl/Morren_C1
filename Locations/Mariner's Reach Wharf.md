@@ -1,12 +1,13 @@
 ---
 title: Mariner's Reach Wharf
-publish: false
+publish: true
 aliases:
+  - Wharf
 type: location
 district: "[[Mooring Wards]]"
 cover: "[[location_Mariner'sReachWharf.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
   - "[[Mariner's Reach]]"

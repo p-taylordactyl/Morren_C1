@@ -1,13 +1,13 @@
 ---
 title: Ransom Location
-publish: false
+publish: true
 aliases:
 type: location
 cover: "[[location_ransomlocation.webp]]"
 created: 2026-07-09
 modified: 2026-07-09
 district: "[[Cloud District]]"
-parent: "[[BB Megatower]]"
+parent: "[[Tier 2]]"
 associations:
   - "[[Stalker]]"
 tags:

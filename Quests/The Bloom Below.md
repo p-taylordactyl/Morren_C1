@@ -1,14 +1,17 @@
 ---
 title: The Bloom Below
-publish: false
+publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 cover: "[[quest_thebloombelow.webp]]"
 type: quest
 quest_status: completed
 quest_giver: "[[Morrgen Oublier]]"
-quest_location: "[[Not Far Sewer]]"
+quest_location:
+  - "[[Not Far Sewer]]"
+  - "[[Sludge Farm]]"
+  - "[[Filter Shrine]]"
 reward: 30 platinum
 date_accepted: 1/1/2012
 expires: 1/14/2012

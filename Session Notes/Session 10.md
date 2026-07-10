@@ -116,5 +116,5 @@ Kat has until the end of the week to surrender, which is really end of day tomor
 
 Gideon peeks out the window and sees this guy bonking the shit out of an ATM with his giant spear.
 
-![[npc_caveman.webp]]
+![[npc_stonespear.webp|669]]
 

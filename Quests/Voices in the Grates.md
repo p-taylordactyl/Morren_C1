@@ -1,15 +1,16 @@
 ---
 title: Voices in the Grates
-publish: false
+publish: true
 aliases:
-  - missing kids
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 cover: "[[quest_voicesinthegrates.webp]]"
 type: quest
 quest_status: completed
 quest_giver: "[[Rosetta Thorne|Miss Rosie]]"
-quest_location: "[[Not Far Sewer]]"
+quest_location:
+  - "[[Not Far Sewer]]"
+  - "[[Bone Culvert]]"
 reward: 30 platinum
 date_accepted: 1/1/2012
 expires: 1/14/2012

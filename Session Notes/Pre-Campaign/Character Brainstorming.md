@@ -1,11 +1,10 @@
 ---
 title: Character Brainstorming
-publish: true
+publish: false
 type: pregame
-modified: 2026-07-01
+modified: 2026-07-09
 created: 2026-04-07
 tags:
-  - under_construction
 ---
 
 ### Name Ideas

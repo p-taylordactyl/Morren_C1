@@ -1,12 +1,12 @@
 ---
 title: Bellanova Towers
-publish: false
+publish: true
 aliases:
 type: location
 district: "[[Cloud District]]"
 cover: "[[location_BellanovaTowers.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-09
 parent:
 associations:
   - "[[Bellanova Family]]"

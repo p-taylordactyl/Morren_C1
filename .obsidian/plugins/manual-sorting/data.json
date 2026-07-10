@@ -129,7 +129,7 @@
         "admin/assets/hamletkeeper_2_itsrealbad.webp",
         "admin/assets/npc_rescueteamlady.webp",
         "admin/assets/npc_broadcastsaint.webp",
-        "admin/assets/npc_caveman.webp",
+        "admin/assets/npc_stonespear.webp",
         "admin/assets/pc_katrielbuchanon_firstdisguise.webp",
         "admin/assets/pc_keenaomalley_firstdisguise.webp",
         "admin/assets/pc_maxadkins_thetickler.webp",
@@ -258,21 +258,14 @@
       "children": [
         "Locations/Location Index.base",
         "Locations/Old Valence.md",
+        "Locations/Districts",
         "Locations/Not Far Sewer.md",
         "Locations/Sludge Farm.md",
         "Locations/Pipe Junction.md",
         "Locations/Floodgate Bazaar.md",
         "Locations/Filter Shrine.md",
         "Locations/Bone Culvert.md",
-        "Locations/Westreach.md",
-        "Locations/Cloud District.md",
-        "Locations/Flooded Zone.md",
         "Locations/Pumping Station.md",
-        "Locations/The Scar.md",
-        "Locations/Heart of Valence.md",
-        "Locations/The Rust Yards.md",
-        "Locations/Mooring Wards.md",
-        "Locations/Crownlight Strip.md",
         "Locations/Energy Siphon Tower.md",
         "Locations/Cael Foundation Academy.md",
         "Locations/Cael Foundation Station.md",
@@ -296,14 +289,32 @@
         "Locations/Box City.md",
         "Locations/BB Megatower.md",
         "Locations/Penthouse.md",
+        "Locations/Tier 2.md",
         "Locations/Neon Corridor.md",
         "Locations/Relay Shrine.md",
         "Locations/Quiet Place.md",
-        "Locations/Ransom Location.md",
         "Locations/Tier 3.md",
-        "Locations/Tier 2.md",
-        "Locations/The Kitchen.md"
+        "Locations/The Kitchen.md",
+        "Locations/Ransom Location.md"
       ],
+      "sortOrder": "custom"
+    },
+    "Locations/Districts": {
+      "children": [
+        "Locations/Districts/Crownlight Strip.md",
+        "Locations/Districts/Flooded Zone.md",
+        "Locations/Districts/Heart of Valence.md",
+        "Locations/Districts/Mooring Wards.md",
+        "Locations/Districts/The Rust Yards.md",
+        "Locations/Districts/The Scar.md",
+        "Locations/Districts/Westreach.md",
+        "Locations/Districts/Cloud District",
+        "Locations/Districts/Cloud District.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Locations/Districts/Cloud District": {
+      "children": [],
       "sortOrder": "custom"
     },
     "NPC": {
@@ -336,7 +347,7 @@
         "NPC/Gorax.md",
         "NPC/Kelm.md",
         "NPC/Memaw Shoe.md",
-        "NPC/Rusk.md",
+        "NPC/Rusk Ironline.md",
         "NPC/Prospera Bellanova.md",
         "NPC/Malcolm Oublier.md",
         "NPC/Brug.md",
@@ -360,7 +371,8 @@
         "NPC/Nyx.md",
         "NPC/Styx.md",
         "NPC/Beggar from Keena's Vision.md",
-        "NPC/Mystery Burger Man.md"
+        "NPC/Mystery Burger Man.md",
+        "NPC/Stu.md"
       ],
       "sortOrder": "custom"
     },

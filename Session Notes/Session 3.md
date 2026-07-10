@@ -115,7 +115,7 @@ A dwarf summons us over and says we made some pretty big claims, and he hopes we
 
 Dorian and Silas sign to each other in Thieves Cant.
 
-Silas asks for the dwarf's name and age and he'll only give us his name, which is [[Rusk]].
+Silas asks for the dwarf's name and age and he'll only give us his name, which is [[Rusk Ironline]].
 
 ![[npc_rusk.webp]]
 

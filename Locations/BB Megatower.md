@@ -1,13 +1,13 @@
 ---
 title: BB Megatower
-publish: false
+publish: true
 aliases:
 type:
   - main location
 district: "[[Cloud District]]"
 cover: "[[location_BBMegatower.webp]]"
 created: 2026-06-03
-modified: 2026-07-06
+modified: 2026-07-09
 parent: "[[Bellanova Towers]]"
 associations:
   - "[[Bellanova Family|Bellanova Family]]"
@@ -18,13 +18,13 @@ tags:
 
 - Megatower owned by the [[Bellanova Family|Bellanovas]]
 
-# Quests
+### Points of Interest
+
+![[Location Index.base#Sublocations]]
+### # Quests
 
 ![[0 Quest Index.base#location -embedonly]]
 
-# Points of Interest
-
-![[Location Index.base#Sublocations]]
 
 # NPCs
 

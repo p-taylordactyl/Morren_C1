@@ -1,11 +1,11 @@
 ---
 title: Tier 2
-publish: false
+publish: true
 aliases:
 type: location
 cover: "[[location_Tier2.webp]]"
-created:
-modified:
+created: 2026-07-09
+modified: 2026-07-09
 district:
 parent:
 associations:
@@ -14,12 +14,11 @@ tags:
 ---
 
 
-
 # Notes
 
+### Points of Interest
 
-
-
+![[Location Index.base#Sublocations]]
 
 
 # NPCs
