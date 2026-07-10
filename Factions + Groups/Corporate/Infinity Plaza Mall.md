@@ -29,7 +29,7 @@ In the Modern Age, Infinity Plaza Mall continues to consolidate retail influence
 
 # NPCs
 
-![[0 NPC Index.base#Organizations - embedonly]]
+![[0 NPC Index.base#Organizations-embedonly]]
 
 
 

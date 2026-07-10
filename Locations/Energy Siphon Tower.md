@@ -20,7 +20,7 @@ A massive tower siphoning energy from [[Old Valence]] up to the floating cities 
 
 # NPCs
 
-![[0 NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location-embedonly]]
 
 
 

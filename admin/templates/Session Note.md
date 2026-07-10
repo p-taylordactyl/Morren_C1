@@ -23,7 +23,7 @@ tags:
   - under_construction
 ---
 
-![[0 Session Index.base#Prev and Next Sessions]]
+![[0 Session Index.base#Prev-and-Next-Sessions]]
 
 # 
 

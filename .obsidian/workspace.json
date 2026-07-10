@@ -4,41 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "4926aafa37c55690",
+        "id": "b59eeb0b0be000b5",
         "type": "tabs",
         "children": [
           {
-            "id": "31efc69d17e92a30",
+            "id": "3c642b8cf4804608",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "bases",
               "state": {
-                "file": "Session Notes/0 Session Index.base",
-                "viewName": "All Sessions"
+                "file": "Quests/0 Quest Index.base",
+                "viewName": "All Quests"
               },
               "pinned": true,
               "icon": "lucide-table",
-              "title": "0 Session Index"
+              "title": "0 Quest Index"
             }
           },
           {
-            "id": "6f50d9046c1b23b4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Factions + Groups/0 Faction Index.base",
-                "viewName": "All Factions + Groups"
-              },
-              "pinned": true,
-              "icon": "lucide-layout-grid",
-              "title": "0 Faction Index"
-            }
-          },
-          {
-            "id": "d7d9c79a92e6b4b1",
+            "id": "20c3a0cd05f9f740",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -53,35 +38,35 @@
             }
           },
           {
-            "id": "5b376d9d2dee12fa",
+            "id": "2c192798ec642280",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "NPC/Stu.md",
-                "mode": "source",
-                "source": false
+                "file": "Session Notes/0 Session Index.base",
+                "viewName": "All Sessions"
               },
-              "icon": "lucide-file",
-              "title": "Stu"
+              "pinned": true,
+              "icon": "lucide-table",
+              "title": "0 Session Index"
             }
           },
           {
-            "id": "b1affa6f2bd41c78",
+            "id": "76e2033fa9c3590b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
+                "file": "Quests/0 Quest Index.base",
+                "viewName": "location-embedonly"
               },
-              "icon": "lucide-file",
-              "title": "Index"
+              "icon": "lucide-table",
+              "title": "0 Quest Index"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -166,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Quests/0 Quest Index.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Index"
+              "title": "Backlinks for 0 Quest Index"
             }
           },
           {
@@ -185,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Quests/0 Quest Index.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Index"
+              "title": "Outgoing links from 0 Quest Index"
             }
           },
           {
@@ -238,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md",
+                "file": "Quests/0 Quest Index.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Index"
+              "title": "Outline of 0 Quest Index"
             }
           }
         ]
@@ -265,9 +250,18 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b1affa6f2bd41c78",
+  "active": "5281df3ab5f0459f",
   "lastOpenFiles": [
+    "Session Notes/0 Session Index.base",
     "Locations/0 Location Index.base",
+    "Factions + Groups/0 Faction Index.base",
+    "NPC/0 NPC Index.base",
+    "Quests/0 Quest Index.base",
+    "Index.md",
+    "NPC/Stu.md",
+    "NPC/Sprocket.md",
+    "NPC/Hadrian Buchanon.md",
+    "admin/assets/placeholder-1.webp",
     "Locations/Not Far Sewer.md",
     "Locations/Sludge Farm.md",
     "Hood Station/Hood Station.md",
@@ -277,8 +271,6 @@
     "Quests/The Flow Must Continue.md",
     "Session Notes/Session 10.md",
     "Session Notes/Session 11.md",
-    "NPC/0 NPC Index.base",
-    "NPC/Stu.md",
     "NPC/Mystery Burger Man.md",
     "NPC/Beggar from Keena's Vision.md",
     "NPC/Styx.md",
@@ -291,9 +283,6 @@
     "NPC/Lightning Leroy.md",
     "NPC/Solomon Hexley.md",
     "NPC/Dex.md",
-    "NPC/Dex Dad.md",
-    "NPC/Arden.md",
-    "NPC/Bron.md",
     "admin/assets/placeholder.webp",
     "Locations/1  Districts/Cloud District",
     "Locations/1  Districts",
@@ -305,12 +294,9 @@
     "admin/assets/npc_animator.webp",
     "admin/assets/session11_map2.webp",
     "admin/assets/npc_keenavisionbeggar.webp",
-    "admin/assets/session11_combat1.webp",
-    "Session Notes/0 Session Index.base",
     "Locations/1 Districts/Cloud District",
     "Locations/1 Districts",
     "Factions + Groups/Religious",
-    "Factions + Groups/0 Faction Index.base",
     "Factions + Groups/Misc",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas"

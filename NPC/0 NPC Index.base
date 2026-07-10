@@ -28,7 +28,7 @@ views:
     imageFit: contain
     cardSize: 240
   - type: cards
-    name: Organizations - embedonly
+    name: Organizations-embedonly
     filters:
       and:
         - organizations.contains(link(this.file))
@@ -41,7 +41,7 @@ views:
     cardSize: 240
     imageAspectRatio: 1.1
   - type: cards
-    name: Location - embedonly
+    name: Location-embedonly
     filters:
       and:
         - locations.contains(link(this.file.name))
@@ -52,7 +52,7 @@ views:
     cardSize: 240
     imageAspectRatio: 1.15
   - type: cards
-    name: Groups - embedonly
+    name: Groups-embedonly
     filters:
       and:
         - organizations.contains(link(this.file.name))

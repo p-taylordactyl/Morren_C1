@@ -47,4 +47,4 @@ A goblin that seems to be some kind of crime boss in the [[BB Megatower]].
 
 # Quests
 
-![[0 Quest Index.base#By NPC]]
+![[0 Quest Index.base#ByNPC]]

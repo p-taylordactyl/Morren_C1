@@ -34,7 +34,7 @@ In the Modern Age, Titan Corporation continues to dominate industrial production
 
 # NPCs
 
-![[0 NPC Index.base#Organizations - embedonly]]
+![[0 NPC Index.base#Organizations-embedonly]]
 
 
 

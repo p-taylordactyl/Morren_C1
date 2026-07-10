@@ -21,7 +21,7 @@ A group that can be called out to come pick up criminals and take them to some k
 
 # NPCs
 
-![[0 NPC Index.base#Groups - embedonly]]
+![[0 NPC Index.base#Groups-embedonly]]
 
 
 

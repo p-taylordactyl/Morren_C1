@@ -18,7 +18,7 @@ A group of goblins who live in the [[Not Far Sewer]] and run the [[Floodgate Baz
 
 # NPCs
 
-![[0 NPC Index.base#Groups - embedonly]]
+![[0 NPC Index.base#Groups-embedonly]]
 
 
 

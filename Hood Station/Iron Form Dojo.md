@@ -28,7 +28,7 @@ Cillian Ward. A human man in his late 40s/early 50s, originally from [[Westreach
 
 # NPCs
 
-![[0 NPC Index.base#Groups - embedonly]]
+![[0 NPC Index.base#Groups-embedonly]]
 
 
 

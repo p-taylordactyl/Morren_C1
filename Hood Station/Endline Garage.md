@@ -27,7 +27,7 @@ Endline Garage started (and remains at its core) the workshop of [[Thorbin Sprak
 
 # NPCs
 
-![[0 NPC Index.base#Groups - embedonly]]
+![[0 NPC Index.base#Groups-embedonly]]
 
 
 
@@ -45,7 +45,7 @@ Thorbin Sprake was a mechanic for the [[Titan Corporation]], until he lost his l
 
 # NPCs
 
-![[0 NPC Index.base#Groups - embedonly]]
+![[0 NPC Index.base#Groups-embedonly]]
 
 
 

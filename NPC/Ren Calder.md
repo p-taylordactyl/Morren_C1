@@ -39,4 +39,4 @@ An active member of [[The Redacted]] who is constantly searching for leads and o
 
 # Quests
 
-![[0 Quest Index.base#By NPC]]
+![[0 Quest Index.base#ByNPC]]

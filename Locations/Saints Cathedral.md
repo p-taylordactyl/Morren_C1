@@ -23,7 +23,7 @@ Headquarters of the [[West Valence Saints]].
 
 # NPCs
 
-![[0 NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location-embedonly]]
 
 
 

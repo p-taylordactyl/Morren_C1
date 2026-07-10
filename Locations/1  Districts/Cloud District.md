@@ -26,7 +26,7 @@ District home to [[Hood Station]], the [[Titan Corporation]], and the [[Bellanov
 
 # NPCs
 
-![[0 NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location-embedonly]]
 
 
 

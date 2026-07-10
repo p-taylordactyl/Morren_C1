@@ -4,7 +4,7 @@ filters:
     - file.folder != "admin/templates"
 views:
   - type: table
-    name: All Locations
+    name: All
     groupBy:
       property: factions
       direction: ASC

@@ -25,7 +25,7 @@ A shrine to the [[Cult of the Machine God|Machine God]] located on [[Tier 2]] of
 
 # NPCs
 
-![[0 NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location-embedonly]]
 
 
 

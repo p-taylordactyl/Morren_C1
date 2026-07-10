@@ -24,7 +24,7 @@ tags:
 
 # NPCs
 
-![[0 NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location-embedonly]]
 
 
 

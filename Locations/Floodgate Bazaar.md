@@ -22,7 +22,7 @@ Market run by the [[Sewer Goblins|goblins]] living in the [[Not Far Sewer]].
 
 # NPCs
 
-![[0 NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location-embedonly]]
 
 
 

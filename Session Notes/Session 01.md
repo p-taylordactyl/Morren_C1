@@ -25,7 +25,7 @@ quests: "[[The Bloom Below]]"
 tags:
 ---
 
-![[0 Session Index.base#Prev and Next Sessions]]
+![[0 Session Index.base#Prev-and-Next-Sessions]]
 
 # Winter 1, 2012
 

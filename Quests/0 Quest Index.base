@@ -4,7 +4,7 @@ filters:
     - file.folder != "admin/templates"
 views:
   - type: table
-    name: All Quests
+    name: All
     groupBy:
       property: quest_status
       direction: ASC
@@ -43,7 +43,7 @@ views:
       note.quest_location: 270
       note.quest_giver: 272
   - type: table
-    name: In Progress
+    name: In-Progress
     filters:
       or:
         - quest_status == "active"
@@ -76,7 +76,7 @@ views:
       note.quest_giver: 160
       note.quest_location: 270
   - type: table
-    name: By NPC
+    name: ByNPC
     filters:
       and:
         - file.hasLink(this.file)
@@ -99,7 +99,7 @@ views:
     columnSize:
       note.quest_location: 154
   - type: table
-    name: location -embedonly
+    name: location-embedonly
     filters:
       and:
         - quest_location.contains(link(this.file.name))

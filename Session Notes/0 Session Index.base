@@ -12,7 +12,7 @@ properties:
     displayName: session locations
 views:
   - type: table
-    name: All Sessions
+    name: All
     order:
       - file.name
       - session_date
@@ -32,7 +32,7 @@ views:
       - property: file.name
         direction: ASC
   - type: cards
-    name: Prev and Next Sessions
+    name: Prev-and-Next-Sessions
     filters:
       or:
         - session_number == this.session_number - 01

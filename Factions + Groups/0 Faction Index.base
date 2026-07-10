@@ -7,7 +7,7 @@ formulas:
   backlinks: "if "
 views:
   - type: cards
-    name: All Factions + Groups
+    name: All
     order:
       - file.name
       - locations

@@ -22,7 +22,7 @@ A Point of Interest in the [[Not Far Sewer]] controlled by smugglers associated 
 
 # NPCs
 
-![[0 NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location-embedonly]]
 
 
 

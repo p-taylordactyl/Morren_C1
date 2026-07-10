@@ -24,7 +24,7 @@ locations:
 tags:
 ---
 
-![[0 Session Index.base#Prev and Next Sessions]]
+![[0 Session Index.base#Prev-and-Next-Sessions]]
 
 # 1/11/2012
 

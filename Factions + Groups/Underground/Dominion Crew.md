@@ -18,7 +18,7 @@ A militant religious sect of the [[West Valence Saints]] who practice their own 
 
 # NPCs
 
-![[0 NPC Index.base#Groups - embedonly]]
+![[0 NPC Index.base#Groups-embedonly]]
 
 
 

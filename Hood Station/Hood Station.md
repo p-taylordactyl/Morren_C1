@@ -36,7 +36,7 @@ _**Themes:**_ Survival, Creating One's Place in the World, Lost/Found, Ingenuity
 
 # NPCs
 
-![[0 NPC Index.base#Organizations - embedonly]]
+![[0 NPC Index.base#Organizations-embedonly]]
 
 
 

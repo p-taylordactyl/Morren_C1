@@ -21,7 +21,7 @@ Place where [[Cult of the Machine God|Cultists of the Machine God]] worship the 
 
 # NPCs
 
-![[0 NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location-embedonly]]
 
 
 

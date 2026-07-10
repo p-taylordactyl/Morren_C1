@@ -24,7 +24,7 @@ Massive towers of tenement housing owned and controlled by the [[Bellanova Famil
 
 # NPCs
 
-![[0 NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location-embedonly]]
 
 
 

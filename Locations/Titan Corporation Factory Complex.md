@@ -21,7 +21,7 @@ Primary location of [[Titan Corporation]] factories. Site of the accident that l
 
 # NPCs
 
-![[0 NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location-embedonly]]
 
 
 

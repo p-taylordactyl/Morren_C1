@@ -21,7 +21,7 @@ Area of [[Tier 2]] of the [[BB Megatower]] controlled by an orc named [[Bron]].
 
 # NPCs
 
-![[0 NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location-embedonly]]
 
 
 # Maps

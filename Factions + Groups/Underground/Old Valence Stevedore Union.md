@@ -35,7 +35,7 @@ To the public, the Old Valence Stevedore Union is a necessary institution that k
 
 # NPCs
 
-![[0 NPC Index.base#Organizations - embedonly]]
+![[0 NPC Index.base#Organizations-embedonly]]
 
 
 

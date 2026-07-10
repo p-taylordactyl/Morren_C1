@@ -22,12 +22,12 @@ tags:
 ![[0 Location Index.base#Sublocations]]
 ### # Quests
 
-![[0 Quest Index.base#location -embedonly]]
+![[0 Quest Index.base#location-embedonly]]
 
 
 # NPCs
 
-![[0 NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location-embedonly]]
 
 
 

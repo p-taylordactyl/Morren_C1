@@ -24,7 +24,7 @@ District home to [[Mariner's Reach]].
 
 # NPCs
 
-![[0 NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location-embedonly]]
 
 
 
