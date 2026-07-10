@@ -1,9 +1,9 @@
 ---
 title: Session 1
-publish: false
+publish: true
 type: session_note
 created: 2026-04-20
-modified: 2026-06-30
+modified: 2026-07-06
 session_number: 1
 session_date: 04/20/2026
 players:

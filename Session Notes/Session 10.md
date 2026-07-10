@@ -1,9 +1,9 @@
 ---
 title: Session 10
-publish: false
+publish: true
 type: session_note
 created: 2026-06-29
-modified: 2026-07-06
+modified: 2026-07-09
 session_date: 06/29/2026
 session_number: 10
 players:
@@ -20,6 +20,7 @@ ingame_start: 1/11/2012
 ingame_finish: 1/11/2012
 locations:
   - "[[BB Megatower]]"
+  - "[[Tier 2]]"
   - "[[Quiet Place]]"
 tags:
 ---
@@ -30,15 +31,15 @@ tags:
 
 We resume just outside the [[Quiet Place]].
 
-Gideon is bee-ed back into existence.
+[[Gideon Oublier|Gideon]] is bee-ed back into existence.
 
-We tell him about the [[Titan Corporation]] and he starts saying he wants to take out the entire corporation and kill them all. The rest of the party expresses varying concerns about this sentiment and we all encourage him to think much, much smaller for the time being.
+We tell him about the [[Titan Corporation]] and he starts saying he wants to take out the entire corporation and kill them all. We have to explain that pre-emptive strikes are in fact just murder. The rest of the party expresses varying concerns about this sentiment and we all encourage him to think much, much smaller for the time being.
 
-We get a text from our [[Stalker]] that says it's time to meet, with a GPS coordinate for the meeting location. It's not far past the [[Quiet Place]].
+We get a text from our [[Stalker]] that says it's time to meet, with  GPS coordinates for the meeting location. It's southwest, not far past the [[Quiet Place]].
 
 ![[session10_map1.webp]]
 
-Keena and Max confirm that our stalker is likely someone related to [[Augustin Devereaux]]. Silas is annoyed that he's gotten dragged into something from their past, as he thinks it should be their problem alone to deal with.
+[[Keena O'Malley|Keena]] and [[Maximilius Adkins|Max]] confirm that our stalker is likely someone related to [[Augustin Devereaux]]. Silas is annoyed that he's gotten dragged into something from their past, as he thinks it should be their problem alone to deal with.
 
 Keena and Max play Rock Paper Scissors, winner gets to be traded for Malcolm.
 
@@ -68,7 +69,7 @@ We can still see each other but no one can hear anything. Gideon finds a little 
 
 We go into the game room and it's an auditorium type setup. Hamlet Keeper is up on the Super Oogtendo 64 
 
-Kat looks for a case for the game but can't find one. Keena also looks around but can't find anything.
+Kat looks for a case for the game but can't find one. Keena also looks around for signs of a struggle but can't find anything.
 
 Kat gets Gideon to go through the controls on the whiteboard.
 
@@ -82,7 +83,7 @@ We get an "Enter Team Name" prompt.
 
 It's decided that we're "Hood's Watch"
 
-We find ourselves in the game
+We find ourselves in the game.
 
 ![[hamletkeeper.webp]]
 
@@ -99,7 +100,7 @@ First wave is abyssal hyenas.
 
 ![[hamletkeeper_2_itsrealbad.webp]]
 
-At great cost, like half the party almost forreal dead type of cost, we win and get spit back out into the Quiet Place along with a large group of people, including this woman who I think is from the team that disappeared. Notably one of the team members is dead.
+At great cost, like half the party almost forreal dead type of cost, we win and get spit back out into the Quiet Place along with a large group of people, including this tiefling, and also the rescue team we were supposed to find. Notably one of the team members is dead.
 
 ![[npc_rescueteamlady.webp]]
 

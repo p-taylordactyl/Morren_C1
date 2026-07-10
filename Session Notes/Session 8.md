@@ -1,9 +1,9 @@
 ---
 title: Session 8
-publish: false
+publish: true
 type: session_note
 created: 2026-06-15
-modified: 2026-07-01
+modified: 2026-07-06
 session_date: 06/15/2026
 session_number: 8
 players:
@@ -56,7 +56,7 @@ We make it back to the elevator without incident and try to figure out our next 
 
 Kat tries and fails to hack the top level tier. Maybe the weird little bobblehead isn't so lucky after all.
 
-We go down to Tier 2, the only one she hasn't tried yet. Again Kat can't manage to hack in. Silas offers to cast knock, and after weighing the risk and our options we decide to do it.
+We go down to [[Tier 2]], the only one she hasn't tried yet. Again Kat can't manage to hack in. Silas offers to cast knock, and after weighing the risk and our options we decide to do it.
 
 There's an arcane lock on the door, so it will relock after a few minutes. We go in.
 

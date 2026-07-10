@@ -6,7 +6,7 @@ aliases:
 cover: "[[pc_keenaomalley.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-06
+modified: 2026-07-09
 tags:
   - under_construction
 ---
@@ -72,3 +72,12 @@ Keena sees an image of a candle, along with the following message:
 No imagery, but Keena hears the words:
 
 "A sinner walks among you. Do with them what you will. Reap the harvest which you have sown."
+
+
+## Betrayer Vision
+
+Keena sees this man (who she does not recognize) and hears the words: "Betrayer. Sinner. He must die."
+
+![[npc_keenavisionbeggar.webp|508]]
+
+

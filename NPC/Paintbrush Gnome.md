@@ -24,7 +24,7 @@ tags:
 
 # Description
 
-Gnome who jumped in front of the party's car on Tier 2 of the [[BB Megatower]] to ask for help recovering his magic paintbrush
+Gnome who jumped in front of the party's car on [[Tier 2]] of the [[BB Megatower]] to ask for help recovering his magic paintbrush
 
 # Notes
 

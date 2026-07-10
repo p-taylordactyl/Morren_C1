@@ -16,7 +16,7 @@ tags:
 
 # Notes
 
-Area of Tier 2 of the [[BB Megatower]] controlled by an orc named [[Bron]].
+Area of [[Tier 2]] of the [[BB Megatower]] controlled by an orc named [[Bron]].
 
 
 # NPCs

@@ -1,9 +1,9 @@
 ---
 title: Session 7
-publish: false
+publish: true
 type: session_note
 created: 2026-06-08
-modified: 2026-07-02
+modified: 2026-07-09
 session_number: 7
 session_date: 06/08/2026
 players:
@@ -51,9 +51,9 @@ We chat about the mall. Max loves cocaine and pretzels and both can be found at 
 
 The area we're in is some sort of semi-commercial street. The street we're on now has a little restaurant called Krystal's that sells burgers/sliders.
 
-We're lingering outside the burger shop and this guy comes out with a bag of burgers.
+We're lingering outside the burger shop and this [[Mystery Burger Man|this guy]] comes out with a bag of burgers.
 
-![[npc_burgerguy.webp|549]]
+![[npc_mysteryburgerman.webp|549]]
 
 He says the burger will treat you how you treat it. 
 
@@ -77,7 +77,7 @@ Another video comes in - footage of us in [[Pipe Junction]] dropping [[Prospera 
 
 Another video of Max wolfing 30 burgers just now, which Max insists is AI because he only had a couple burgers.
 
-Another picture. Someone in a hospital bed - completely wrapped in bandages, hard to tell who it is, along with the word "Devereaux." They almost look like a mummy and seem to be heavily supported by various braces and casts. This one confuses us all at first.
+Another picture. Someone in a hospital bed - completely wrapped in bandages, hard to tell who it is, along with the word "[[Augustin Devereaux|Devereaux]]." They almost look like a mummy and seem to be heavily supported by various braces and casts. This one confuses us all at first.
 
 Kat asks Dorian what we should do. 
 

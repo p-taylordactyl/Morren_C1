@@ -83,22 +83,22 @@
         "admin/assets/quest_thesilentfloor.webp",
         "admin/assets/quest_elevatoreulogy.webp",
         "admin/assets/quest_penthousesignalrehearsal.webp",
-        "admin/assets/session6_map1.webp",
+        "admin/assets/session6_endlinegarage.webp",
         "admin/assets/location_hoodstation_pawns.webp",
         "admin/assets/npc_rosettathorne.webp",
         "admin/assets/npc_dorianparents.webp",
         "admin/assets/location_hoodstation_communitycenter.webp",
         "admin/assets/location_hoodstation_thetroupe.webp",
-        "admin/assets/session6_map2.webp",
-        "admin/assets/session6_bbmegatower_crawlmap1.webp",
+        "admin/assets/session6_oldvalence.webp",
+        "admin/assets/session6_map1.webp",
         "admin/assets/npc_vinnybrassjaw.webp",
         "admin/assets/npc_róisínward.webp",
         "admin/assets/npc_ghostdriver.webp",
-        "admin/assets/location_bbmegatower_elevatorbottom.webp",
+        "admin/assets/location_bbmegatower_krystals.webp",
         "admin/assets/npc_malcolmoublier.webp",
         "admin/assets/session7_map1.webp",
         "admin/assets/npc_jaxriven.webp",
-        "admin/assets/npc_burgerguy.webp",
+        "admin/assets/npc_mysteryburgerman.webp",
         "admin/assets/session7_saints_spellcaster.webp",
         "admin/assets/session7_saintscombat.webp",
         "admin/assets/npc_residentialorc.webp",
@@ -136,7 +136,16 @@
         "admin/assets/pc_silassorelli_firstdisguise.webp",
         "admin/assets/pc_gideonoublier_firstdisguise.webp",
         "admin/assets/pc_doriancaldwell_firstdisguise.webp",
-        "admin/assets/npc_missrosie.webp"
+        "admin/assets/npc_missrosie.webp",
+        "admin/assets/session11_combat1.webp",
+        "admin/assets/npc_keenavisionbeggar.webp",
+        "admin/assets/session11_map2.webp",
+        "admin/assets/npc_animator.webp",
+        "admin/assets/image.webp",
+        "admin/assets/image-1.webp",
+        "admin/assets/session11_map3.webp",
+        "admin/assets/location_bbmegatower_tier2_ransomlocation.webp",
+        "admin/assets/npc_stu.webp"
       ],
       "sortOrder": "custom"
     },
@@ -289,7 +298,11 @@
         "Locations/Penthouse.md",
         "Locations/Neon Corridor.md",
         "Locations/Relay Shrine.md",
-        "Locations/Quiet Place.md"
+        "Locations/Quiet Place.md",
+        "Locations/Ransom Location.md",
+        "Locations/Tier 3.md",
+        "Locations/Tier 2.md",
+        "Locations/The Kitchen.md"
       ],
       "sortOrder": "custom"
     },
@@ -339,7 +352,15 @@
         "NPC/Dex.md",
         "NPC/Solomon Hexley.md",
         "NPC/Lightning Leroy.md",
-        "NPC/Paintbrush Gnome.md"
+        "NPC/Paintbrush Gnome.md",
+        "NPC/Stonespear.md",
+        "NPC/Morgo.md",
+        "NPC/Orgo.md",
+        "NPC/Animator.md",
+        "NPC/Nyx.md",
+        "NPC/Styx.md",
+        "NPC/Beggar from Keena's Vision.md",
+        "NPC/Mystery Burger Man.md"
       ],
       "sortOrder": "custom"
     },
@@ -381,7 +402,8 @@
         "Session Notes/Session 7.md",
         "Session Notes/Session 8.md",
         "Session Notes/Session 9.md",
-        "Session Notes/Session 10.md"
+        "Session Notes/Session 10.md",
+        "Session Notes/Session 11.md"
       ],
       "sortOrder": "custom"
     },

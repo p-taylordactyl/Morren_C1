@@ -1,9 +1,9 @@
 ---
 title: Session 6
-publish: false
+publish: true
 type: session_note
 created: 2026-06-01
-modified: 2026-07-02
+modified: 2026-07-09
 session_number: 6
 session_date: 06/01/2026
 players:
@@ -30,7 +30,7 @@ tags:
 
 [[Silas Sorelli|Silas]] pops back into existence in the garage as we're talking to [[Thorbin Sprake|Thorbin]]. As we're chatting, we hear a newscast on the TV that says the [[Box Boys|Box Boys]] have attacked the [[Pumping Station]] and taken control from the [[Titan Corporation]].
 
-![[session6_map1.webp]]
+![[session6_endlinegarage.webp]]
 
 We talk through our next moves. 
 
@@ -86,11 +86,11 @@ Az pretends they can't read but immediately messes up the bit. They then offer u
 
 As we're heading out, Az hands Silas some money. He intended it to be payment for Dorian for the books, but they misspoke, and instead Silas decides to distribute it amongst the party members who took drugs. 
 
-![[session6_map2.webp]]
+![[session6_oldvalence.webp]]
 
 Off we go to the [[BB Megatower]]. 
 
-![[session6_bbmegatower_crawlmap1.webp]]
+![[session6_map1.webp]]
 
 On our way in, Gideon texts Malcolm to ask where he is.
 
@@ -100,7 +100,7 @@ As we make our way in, we see this [[Vinny Brassjaw|goblin]] in a suit with a me
 
 ![[npc_vinnybrassjaw.webp|690]]
 
-![[npc_róisínward.webp|851]]
+![[npc_róisínward.webp|690]]
 
 The goblin hands her a package that seems like at least a kilo.
 
@@ -150,7 +150,7 @@ As we ponder whether ball bearings would an effective threat, an orc comes over 
 
 While he's working on that, Dorian goes over and threatens the elevator. Max and Keena stay to watch the orc while the rest go with Dorian. As soon as he finishes his threat, the floor opens up and we all fall down a weird metal slide. After a long fall, we find ourselves stuck in some kind of vent a little ways above a meeting that seems to be occurring below.
 
-![[location_bbmegatower_elevatorbottom.webp]]
+![[location_bbmegatower_krystals.webp]]
 
 We see [[Malcolm Oublier|Malcolm]] begging a group of [[Bellanova Family|Bellanovas]] for another week and to "tell Brassjaw it's cool" - he gets the one more week but then they're going to take his skin. They also threaten his family - [[Gideon Oublier|Gideon]] and [[Morrgen Oublier|Morrgen]] and their dad.
 

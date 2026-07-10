@@ -19,7 +19,7 @@ views:
       - locations
       - organizations
     sort:
-      - property: file.backlinks
+      - property: file.ctime
         direction: DESC
     columnSize:
       note.brief: 454

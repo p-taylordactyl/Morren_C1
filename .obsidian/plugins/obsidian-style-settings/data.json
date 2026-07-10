@@ -12,5 +12,6 @@
   "ITS@@default-callout-quote": true,
   "ITS@@file-explorer-flat": false,
   "ITS@@bases-notion-cards": false,
-  "ITS@@bases-non-its-styling": false
+  "ITS@@bases-non-its-styling": false,
+  "ITS@@heading-indicator": false
 }

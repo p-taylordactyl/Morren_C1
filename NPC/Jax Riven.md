@@ -30,7 +30,7 @@ Courier working in the [[BB Megatower]]. Specializes in navigating collapsed sec
 
 - first met super briefly outside of Krystal's when he fell through the ceiling and then immediately grappled away
 - got his grappling hook at the [[Infinity Plaza Mall]]
-- Later on Tier 2 of the Megatower, the party rescued him from being killed by a group of [[West Valence Saints|Saints]] from the [[Lightning Crew]]
+- Later on [[Tier 2]] of the Megatower, the party rescued him from being killed by a group of [[West Valence Saints|Saints]] from the [[Lightning Crew]]
 
 # Session Mentions
 
