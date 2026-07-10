@@ -30,7 +30,7 @@ In the Modern Age, Paragon Soundworks has shifted from overt psychological warfa
 
 # NPCs
 
-![[NPC Index.base#Organizations - embedonly]]
+![[0 NPC Index.base#Organizations - embedonly]]
 
 
 

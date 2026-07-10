@@ -24,7 +24,7 @@ People who worship the Machine God and tend to the Machine Spirits they believe 
 
 # NPCs
 
-![[NPC Index.base#Groups - embedonly]]
+![[0 NPC Index.base#Groups - embedonly]]
 
 
 # Session Mentions

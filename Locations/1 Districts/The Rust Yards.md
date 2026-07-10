@@ -25,7 +25,7 @@ District home to the [[Box Boys]].
 
 # NPCs
 
-![[NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location - embedonly]]
 
 
 

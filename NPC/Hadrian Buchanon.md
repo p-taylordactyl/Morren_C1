@@ -3,9 +3,9 @@ title: Hadrian Buchanon
 aliases:
   - Hadrian
 type: npc
-cover: "[[npc_HadrianBuchanon.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-04-23
-modified: 2026-07-06
+modified: 2026-07-10
 publish: true
 status: unknown
 disposition:

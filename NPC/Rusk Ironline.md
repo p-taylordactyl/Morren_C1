@@ -4,9 +4,9 @@ publish: true
 aliases:
   - Rusk
 type: npc
-cover: "[[npc_Rusk.webp]]"
+cover: "[[npc_ruskironline.webp]]"
 created: 2026-07-06
-modified: 2026-07-09
+modified: 2026-07-10
 status:
   - alive
 disposition:
@@ -20,7 +20,7 @@ associates:
 brief: Dwarf who runs Pipe Junction for the Bellanovas
 tags:
 ---
-![[npc_Rusk.webp]]
+![[npc_ruskironline.webp]]
 
 # Description
 

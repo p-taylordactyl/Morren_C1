@@ -5,7 +5,7 @@ aliases:
 type: district
 cover: "[[location_CloudDistrict.webp]]"
 created: 2026-05-25
-modified: 2026-07-09
+modified: 2026-07-10
 parent: "[[Old Valence]]"
 associations:
   - "[[Hood Station/Hood Station|Hood Station]]"
@@ -26,7 +26,7 @@ District home to [[Hood Station]], the [[Titan Corporation]], and the [[Bellanov
 
 # NPCs
 
-![[NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location - embedonly]]
 
 
 

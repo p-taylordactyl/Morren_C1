@@ -3,9 +3,9 @@ title: Orgo
 publish: true
 aliases:
 type: npc
-cover: "[[npc_Orgo.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-07-06
-modified: 2026-07-09
+modified: 2026-07-10
 status:
   - alive
 disposition:

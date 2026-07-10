@@ -3,9 +3,9 @@ title: Cillian Kravus
 aliases:
   - Cillian
 type: npc
-cover: "[[npc_CillianKravus.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-05-21
-modified: 2026-07-06
+modified: 2026-07-10
 publish: true
 status:
   - alive

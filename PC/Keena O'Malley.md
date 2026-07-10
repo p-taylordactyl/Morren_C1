@@ -6,7 +6,7 @@ aliases:
 cover: "[[pc_keenaomalley.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-09
+modified: 2026-07-10
 tags:
 ---
 > [!infobox]
@@ -26,7 +26,7 @@ tags:
 
 Keena is a human woman in her late teens/early twenties. She's originally from [[Westreach]] and for most of her youth, lived in a small apartment with her parents, brother, aunt, uncle, and two cousins. However, her mother was sickly and couldn't hold a steady job, and usually had to stay home with other family members. [[West Valence Saints]] eventually forced them out of their home and drafted her father, brother, and uncle into gang labor. Afraid of the conditions of gang labor, the violence and control of the Saints, and their lack of housing, the adults made an escape plan and moved the family into the nearby [[Cloud District]].
 
-Conditions were tough, with the family back to living together in a small apartment and working grueling hours at the nearby [[Titan Corporation]] Factory Complex. However, in an accident that would end up injuring or killing over 50 people at the factory, her cousin [[Róisín Ward]] would lose her arm and her brother [[Lorcan O'Malley]] would lose his life. The Titan Corporation downplayed the accident as a "small-scale mishap" and blamed the workers for negligence, refusing to pay any compensation for those injured or killed in the accident and firing anyone who didn't show up for their next shift. The O'Malley-Ward family ended up losing their home again, as they were down two more wage-earners, and moved into Hood Station where her uncle, [[Cillian Ward]], would open a dojo.
+Conditions were tough, with the family back to living together in a small apartment and working grueling hours at the nearby [[Titan Corporation]] Factory Complex. However, in an accident that would end up injuring or killing over 50 people at the factory, her cousin [[Róisín Ward]] would lose her arm and her brother Lorcan O'Malley would lose his life. The Titan Corporation downplayed the accident as a "small-scale mishap" and blamed the workers for negligence, refusing to pay any compensation for those injured or killed in the accident and firing anyone who didn't show up for their next shift. The O'Malley-Ward family ended up losing their home again, as they were down two more wage-earners, and moved into Hood Station where her uncle, [[Cillian Ward]], would open a dojo.
 
 Angry and lost without her dear older brother, she was visiting his grave/talking to him at the small memorial shrine for him at their dojo when he appeared before her. He revealed himself as an aspect of [[Morrenel]], and told her what had happened at the factory was a perversion of justice and those responsible must pay. He told her if she promised to hunt down the unrighteous in his name, to repair the broken chain of justice, he would gift her with power. Desperate to avenge her brother and right the wrongs, she agreed.
 
@@ -51,7 +51,7 @@ In her free time, she studies martial arts and various fighting styles with her 
 Family:
 - Siobhán O'Malley, her mother
 - Declan O'Malley, her father
-- [[Lorcan O'Malley]], her brother who died in an accident at the Titan Corporation Factory Complex
+- Lorcan O'Malley, her brother who died in an accident at the Titan Corporation Factory Complex
 - **[[Cillian Ward]]**, her uncle on her mother's side
 - Orla Ward, her aunt
 - **[[Róisín Ward]]**, her cousin who lost her arm in the accident at the Titan Corporation Factory Complex

@@ -7,7 +7,7 @@ type:
   - location
 cover:
 created: 2026-05-20
-modified: 2026-07-06
+modified: 2026-07-10
 district: "[[Cloud District]]"
 parent:
 associations:
@@ -36,7 +36,7 @@ _**Themes:**_ Survival, Creating One's Place in the World, Lost/Found, Ingenuity
 
 # NPCs
 
-![[NPC Index.base#Organizations - embedonly]]
+![[0 NPC Index.base#Organizations - embedonly]]
 
 
 

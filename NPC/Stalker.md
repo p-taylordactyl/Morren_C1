@@ -3,9 +3,9 @@ title: Stalker
 aliases:
   - stalker
 type: npc
-cover: "[[npc_Stalker.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-06-22
-modified: 2026-07-06
+modified: 2026-07-10
 status:
   - alive
 publish: true

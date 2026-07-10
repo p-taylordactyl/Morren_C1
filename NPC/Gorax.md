@@ -2,9 +2,9 @@
 title: Gorax
 aliases:
 type: npc
-cover: "[[npc_Gorax.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-05-25
-modified: 2026-07-06
+modified: 2026-07-10
 status:
   - unknown
 publish: true

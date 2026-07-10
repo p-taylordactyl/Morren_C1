@@ -3,9 +3,9 @@ title: Lightning Leroy
 aliases:
   - Leroy
 type: npc
-cover: "[[npc_LightningLeroy.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-06-29
-modified: 2026-07-06
+modified: 2026-07-10
 status:
   - alive
 publish: true

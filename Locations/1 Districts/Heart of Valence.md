@@ -24,7 +24,7 @@ District home to the main campus of the [[Cael Foundation]].
 
 # NPCs
 
-![[NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location - embedonly]]
 
 
 

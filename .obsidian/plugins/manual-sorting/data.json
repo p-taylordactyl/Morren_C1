@@ -53,7 +53,7 @@
         "admin/assets/npc_lumenveil.webp",
         "admin/assets/session3_map4.webp",
         "admin/assets/location_notfarsewer_pipejunction.webp",
-        "admin/assets/npc_rusk.webp",
+        "admin/assets/npc_ruskironline.webp",
         "admin/assets/session3_map5.webp",
         "admin/assets/session3_map6.webp",
         "admin/assets/location_notfarsewer_filtershrine.webp",
@@ -127,7 +127,7 @@
         "admin/assets/session10_map2.webp",
         "admin/assets/hamletkeeper.webp",
         "admin/assets/hamletkeeper_2_itsrealbad.webp",
-        "admin/assets/npc_rescueteamlady.webp",
+        "admin/assets/npc_nyx.webp",
         "admin/assets/npc_broadcastsaint.webp",
         "admin/assets/npc_stonespear.webp",
         "admin/assets/pc_katrielbuchanon_firstdisguise.webp",
@@ -141,11 +141,10 @@
         "admin/assets/npc_keenavisionbeggar.webp",
         "admin/assets/session11_map2.webp",
         "admin/assets/npc_animator.webp",
-        "admin/assets/image.webp",
-        "admin/assets/image-1.webp",
         "admin/assets/session11_map3.webp",
         "admin/assets/location_bbmegatower_tier2_ransomlocation.webp",
-        "admin/assets/npc_stu.webp"
+        "admin/assets/npc_stu.webp",
+        "admin/assets/placeholder.webp"
       ],
       "sortOrder": "custom"
     },
@@ -295,7 +294,9 @@
         "Locations/Quiet Place.md",
         "Locations/Tier 3.md",
         "Locations/The Kitchen.md",
-        "Locations/Ransom Location.md"
+        "Locations/Ransom Location.md",
+        "Locations/Krystal's.md",
+        "Locations/1  Districts"
       ],
       "sortOrder": "custom"
     },
@@ -319,7 +320,7 @@
     },
     "NPC": {
       "children": [
-        "NPC/NPC Index.base",
+        "NPC/0 NPC Index.base",
         "NPC/Hadrian Buchanon.md",
         "NPC/Sprocket.md",
         "NPC/Drogrash.md",
@@ -335,7 +336,6 @@
         "NPC/Kairo Voss.md",
         "NPC/Vesh Hollowbone.md",
         "NPC/Róisín Ward.md",
-        "NPC/Lorcan O'Malley.md",
         "NPC/Cillian Ward.md",
         "NPC/Cillian Kravus.md",
         "NPC/Nyra Lightwell.md",
@@ -424,6 +424,24 @@
         "Session Notes/Pre-Campaign/Session 0.md",
         "Session Notes/Pre-Campaign/Character Brainstorming.md"
       ],
+      "sortOrder": "custom"
+    },
+    "Locations/1  Districts": {
+      "children": [
+        "Locations/1  Districts/Cloud District.md",
+        "Locations/1  Districts/Crownlight Strip.md",
+        "Locations/1  Districts/Flooded Zone.md",
+        "Locations/1  Districts/Heart of Valence.md",
+        "Locations/1  Districts/Mooring Wards.md",
+        "Locations/1  Districts/The Rust Yards.md",
+        "Locations/1  Districts/The Scar.md",
+        "Locations/1  Districts/Westreach.md",
+        "Locations/1  Districts/Cloud District"
+      ],
+      "sortOrder": "custom"
+    },
+    "Locations/1  Districts/Cloud District": {
+      "children": [],
       "sortOrder": "custom"
     }
   },

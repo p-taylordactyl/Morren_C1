@@ -3,9 +3,9 @@ title: Styx
 publish: true
 aliases:
 type: npc
-cover: "[[npc_Styx.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-07-08
-modified: 2026-07-09
+modified: 2026-07-10
 status:
   - unknown
 disposition:

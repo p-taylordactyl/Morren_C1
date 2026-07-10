@@ -4,7 +4,7 @@ publish: true
 type: location
 cover:
 created: 2026-04-29
-modified: 2026-07-06
+modified: 2026-07-10
 district: "[[Westreach]]"
 parent: "[[Not Far Sewer]]"
 associations:
@@ -27,27 +27,20 @@ tags:
 # Maps
 
 ```dataviewjs
-
-const locationName = dv.current()
-  .file.name
+const locationName = dv.current().file.name
   .toLowerCase()
   .replace(/\s/g, "")
   .replace(/[^a-z0-9]/g, "");
 
-const imgFolder = app.vault.getAbstractFileByPath("admin/assets");
-
-/*
- Find all location images that belong to this location or its children.
- */
-
-const locationImgs = imgFolder.children
+const locationImgs = dv.app.vault.getFiles()
   .filter(file =>
+    file.path.startsWith("admin/assets/") &&
     file.extension === "webp" &&
     file.name.startsWith("location_") &&
     file.name.toLowerCase().includes(locationName)
   );
 
-if (!locationImgs) { dv.paragraph("No images for this location"); } else {
+if (locationImgs.length === 0) { dv.paragraph("No images for this location"); } else {
 
 /*
  Convert filename into hierarchy information.
@@ -195,7 +188,7 @@ ${data._images
     )
   )
   .map(file =>
-    `<img src="${file.path}" alt="${file.basename}">`
+    `<img src="/${file.path}" alt="/${file.basename}">`
   )
   .join("\n")}
 

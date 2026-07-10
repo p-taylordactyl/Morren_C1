@@ -2,9 +2,9 @@
 title: Pipey
 aliases:
 type: npc
-cover: "[[npc_Pipey.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-04-29
-modified: 2026-07-06
+modified: 2026-07-10
 publish: true
 status:
   - alive

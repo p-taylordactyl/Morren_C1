@@ -36,7 +36,7 @@ To the rest of Morren, the Ghosts are treated as an urban myth, a cautionary rum
 
 # NPCs
 
-![[NPC Index.base#Organizations - embedonly]]
+![[0 NPC Index.base#Organizations - embedonly]]
 
 
 

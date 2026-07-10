@@ -4,9 +4,9 @@ aliases:
   - Augustin
   - Devereaux
 type: npc
-cover: "[[npc_AugustinDevereaux.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-05-04
-modified: 2026-07-09
+modified: 2026-07-10
 publish: true
 status:
   - comatose

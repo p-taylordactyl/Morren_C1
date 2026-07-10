@@ -3,9 +3,9 @@ title: Kairo Voss
 aliases:
   - Kairo
 type: npc
-cover: "[[npc_KairoVoss.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-05-08
-modified: 2026-07-06
+modified: 2026-07-10
 publish: true
 status:
   - alive

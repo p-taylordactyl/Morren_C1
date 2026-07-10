@@ -10,8 +10,9 @@ views:
       direction: ASC
     order:
       - file.name
+      - district
+      - parent
       - associations
-      - cover
     image: note.cover
     columnSize:
       file.name: 186

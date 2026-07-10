@@ -6,7 +6,7 @@ aliases:
 type: corporate faction
 cover: "[[faction_titancorporation.webp]]"
 created: 2026-04-23
-modified: 2026-07-09
+modified: 2026-07-10
 associations:
 locations:
   - "[[Titan Corporation Factory Complex]]"
@@ -27,14 +27,14 @@ In the Modern Age, Titan Corporation continues to dominate industrial production
 
 ## Notes
 
-- [[Keena O'Malley]] and [[Maximilius Adkins]] investigated an unreported accident that killed or injured a significant number Titan employees, including Keena's brother [[Lorcan O'Malley]], who died, and her cousin [[Róisín Ward|Róisín]], who lost an arm. They found that [[Augustin Devereaux]] both caused and covered up the accident and subsequently beat the man into a coma.
+- [[Keena O'Malley]] and [[Maximilius Adkins]] investigated an unreported accident that killed or injured a significant number Titan employees, including Keena's brother Lorcan O'Malley, who died, and her cousin [[Róisín Ward|Róisín]], who lost an arm. They found that [[Augustin Devereaux]] both caused and covered up the accident and subsequently beat the man into a coma.
 - Max has now impersonated a Titan Corporation employee on multiple occasions
 - The party found out at the [[Relay Shrine]] that the person stalking them is somehow affiliated with Titan
 
 
 # NPCs
 
-![[NPC Index.base#Organizations - embedonly]]
+![[0 NPC Index.base#Organizations - embedonly]]
 
 
 

@@ -3,9 +3,9 @@ title: Custis Delavide
 aliases:
   - Custis
 type: npc
-cover: "[[npc_CustisDelavide.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-05-25
-modified: 2026-07-06
+modified: 2026-07-10
 status:
   - unknown
 publish: true

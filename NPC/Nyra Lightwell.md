@@ -3,9 +3,9 @@ title: Nyra Lightwell
 aliases:
   - Nyra
 type: npc
-cover: "[[npc_NyraLightwell.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-05-21
-modified: 2026-07-06
+modified: 2026-07-10
 publish: true
 status:
   - alive

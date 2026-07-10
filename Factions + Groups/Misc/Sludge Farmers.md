@@ -20,7 +20,7 @@ A group of people who formed the [[Sludge Farm]] in the [[Not Far Sewer]] to far
 
 # NPCs
 
-![[NPC Index.base#Groups - embedonly]]
+![[0 NPC Index.base#Groups - embedonly]]
 
 
 # Session Mentions

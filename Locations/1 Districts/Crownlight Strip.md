@@ -39,7 +39,7 @@ District home to the majority of the Corporate Factions.
 
 # NPCs
 
-![[NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location - embedonly]]
 
 
 

@@ -4,9 +4,9 @@ publish: true
 aliases:
   - the chef
 type: npc
-cover: "[[npc_Morgo.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-07-06
-modified: 2026-07-09
+modified: 2026-07-10
 status:
 disposition:
   - enemy

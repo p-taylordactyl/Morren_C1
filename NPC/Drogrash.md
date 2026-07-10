@@ -2,9 +2,9 @@
 title: Drogrash
 aliases:
 type: npc
-cover: "[[npc_Drogrash.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-04-23
-modified: 2026-07-06
+modified: 2026-07-10
 publish: true
 status:
   - alive

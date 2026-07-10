@@ -2,9 +2,9 @@
 title: The Driftwarden
 aliases:
 type: npc
-cover: "[[npc_TheDriftwarden.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-05-01
-modified: 2026-07-06
+modified: 2026-07-10
 publish: true
 status:
   - unknown

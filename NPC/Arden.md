@@ -2,9 +2,9 @@
 title: Arden
 aliases:
 type: npc
-cover: "[[npc_Arden.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-06-29
-modified: 2026-07-06
+modified: 2026-07-10
 status:
   - alive
 publish: true

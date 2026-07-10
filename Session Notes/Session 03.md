@@ -117,7 +117,7 @@ Dorian and Silas sign to each other in Thieves Cant.
 
 Silas asks for the dwarf's name and age and he'll only give us his name, which is [[Rusk Ironline]].
 
-![[npc_rusk.webp]]
+![[npc_ruskironline.webp]]
 
 
 Silas says we need the age to verify for Prospero and somehow manages to convince him. He'll only tell one person. We decide Gideon is the most trustworthy.

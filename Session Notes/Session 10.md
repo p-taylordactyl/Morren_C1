@@ -3,7 +3,7 @@ title: Session 10
 publish: true
 type: session_note
 created: 2026-06-29
-modified: 2026-07-09
+modified: 2026-07-10
 session_date: 06/29/2026
 session_number: 10
 players:
@@ -102,7 +102,7 @@ First wave is abyssal hyenas.
 
 At great cost, like half the party almost forreal dead type of cost, we win and get spit back out into the Quiet Place along with a large group of people, including this tiefling, and also the rescue team we were supposed to find. Notably one of the team members is dead.
 
-![[npc_rescueteamlady.webp]]
+![[npc_nyx.webp]]
 
 The game flickers off the screen and it flips back to live TV, where we see this guy.
 

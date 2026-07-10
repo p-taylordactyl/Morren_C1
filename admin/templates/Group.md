@@ -22,7 +22,7 @@ tags:
 
 # NPCs
 
-![[NPC Index.base#Groups - embedonly]]
+![[0 NPC Index.base#Groups - embedonly]]
 
 
 

@@ -5,9 +5,9 @@ aliases:
   - Kali
   - Commander Torreo
 type: npc
-cover: "[[npc_KaliTorreo.webp]]"
+cover: "[[placeholder.webp]]"
 created: 2026-05-25
-modified: 2026-07-09
+modified: 2026-07-10
 status:
   - alive
 disposition:

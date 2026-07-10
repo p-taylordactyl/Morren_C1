@@ -32,7 +32,7 @@ In the Modern Age, the Box Boys maintain control by remaining small, mobile, and
 
 # NPCs
 
-![[NPC Index.base#Organizations - embedonly]]
+![[0 NPC Index.base#Organizations - embedonly]]
 
 
 

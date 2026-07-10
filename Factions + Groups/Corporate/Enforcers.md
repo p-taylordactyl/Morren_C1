@@ -3,9 +3,9 @@ title: Enforcers
 publish: true
 aliases:
 type: corporate group
-cover:
+cover: "[[placeholder.webp]]"
 created: 2026-06-29
-modified: 2026-07-06
+modified: 2026-07-10
 parent: "[[Oligarchs]]"
 associations:
 locations:
@@ -21,7 +21,7 @@ A group that can be called out to come pick up criminals and take them to some k
 
 # NPCs
 
-![[NPC Index.base#Groups - embedonly]]
+![[0 NPC Index.base#Groups - embedonly]]
 
 
 

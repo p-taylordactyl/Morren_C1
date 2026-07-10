@@ -23,7 +23,7 @@ Home of the [[Old Guard]].
 
 # NPCs
 
-![[NPC Index.base#Location - embedonly]]
+![[0 NPC Index.base#Location - embedonly]]
 
 
 

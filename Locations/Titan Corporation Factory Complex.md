@@ -7,7 +7,7 @@ type: location
 district: "[[Cloud District]]"
 cover: "[[location_TitanCorporationFactoryComplex.webp]]"
 created: 2026-06-01
-modified: 2026-07-09
+modified: 2026-07-10
 parent:
 associations:
   - "[[Titan Corporation]]"
@@ -16,7 +16,7 @@ tags:
 
 # Notes
 
-Primary location of [[Titan Corporation]] factories. Site of the accident that led to many deaths and injuries, including  [[Lorcan O'Malley]], the loss of [[Róisín Ward]]'s arm, and the subsequent beating of [[Augustin Devereaux]] (the responsible party) into a coma.
+Primary location of [[Titan Corporation]] factories. Site of the accident that led to many deaths and injuries, including [[Keena O'Malley|Keena's]] brother Lorcan O'Malley, the loss of [[Róisín Ward]]'s arm, and the subsequent beating of [[Augustin Devereaux]] (the responsible party) into a coma.
 
 
 # NPCs
@@ -29,27 +29,20 @@ Primary location of [[Titan Corporation]] factories. Site of the accident that l
 # Maps
 
 ```dataviewjs
-
-const locationName = dv.current()
-  .file.name
+const locationName = dv.current().file.name
   .toLowerCase()
   .replace(/\s/g, "")
   .replace(/[^a-z0-9]/g, "");
 
-const imgFolder = app.vault.getAbstractFileByPath("admin/assets");
-
-/*
- Find all location images that belong to this location or its children.
- */
-
-const locationImgs = imgFolder.children
+const locationImgs = dv.app.vault.getFiles()
   .filter(file =>
+    file.path.startsWith("admin/assets/") &&
     file.extension === "webp" &&
     file.name.startsWith("location_") &&
     file.name.toLowerCase().includes(locationName)
   );
 
-if (!locationImgs) { dv.paragraph("No images for this location"); } else {
+if (locationImgs.length === 0) { dv.paragraph("No images for this location"); } else {
 
 /*
  Convert filename into hierarchy information.
@@ -197,7 +190,7 @@ ${data._images
     )
   )
   .map(file =>
-    `<img src="${file.path}" alt="${file.basename}">`
+    `<img src="/${file.path}" alt="/${file.basename}">`
   )
   .join("\n")}
 
