@@ -3,6 +3,7 @@
   "textFontFamily": "Verdana",
   "enabledCssSnippets": [
     "bases_briefproperty",
-    "grid-container"
+    "grid-container",
+    "locationimages"
   ]
 }

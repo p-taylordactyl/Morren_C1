@@ -81,35 +81,21 @@
             }
           },
           {
-            "id": "d5f75097264bee22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/1 Districts/Cloud District.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cloud District"
-            }
-          },
-          {
             "id": "e8eee6d485303f83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 10.md",
+                "file": "Locations/Not Far Sewer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 10"
+              "title": "Not Far Sewer"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -194,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session 10.md",
+                "file": "Locations/Not Far Sewer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +190,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 10"
+              "title": "Backlinks for Not Far Sewer"
             }
           },
           {
@@ -213,12 +199,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session 10.md",
+                "file": "Locations/Not Far Sewer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 10"
+              "title": "Outgoing links from Not Far Sewer"
             }
           },
           {
@@ -266,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session 10.md",
+                "file": "Locations/Not Far Sewer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 10"
+              "title": "Outline of Not Far Sewer"
             }
           }
         ]
@@ -293,54 +279,54 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e8eee6d485303f83",
+  "active": "d0eb348edd8804a0",
   "lastOpenFiles": [
+    "Locations/1  Districts/Cloud District",
+    "Locations/1  Districts/Westreach.md",
+    "Locations/1  Districts/The Scar.md",
+    "Locations/1  Districts/The Rust Yards.md",
+    "Locations/1  Districts/Mooring Wards.md",
+    "Locations/1  Districts/Heart of Valence.md",
+    "Locations/1  Districts/Flooded Zone.md",
+    "Locations/1  Districts/Crownlight Strip.md",
+    "Locations/1  Districts/Cloud District.md",
+    "Locations/1  Districts",
+    "Locations/Krystal's.md",
+    "admin/assets/image.webp",
+    "admin/assets/image-1.webp",
+    "Locations/Not Far Sewer.md",
+    "Index.md",
+    "admin/assets/npc_stu.webp",
+    "admin/assets/location_bbmegatower_tier2_ransomlocation.webp",
+    "admin/assets/session11_map3.webp",
+    "admin/assets/npc_animator.webp",
+    "admin/assets/session11_map2.webp",
+    "admin/assets/npc_keenavisionbeggar.webp",
+    "admin/assets/session11_combat1.webp",
+    "admin/assets/npc_missrosie.webp",
+    "Locations/Penthouse.md",
+    "Locations/NovaStyle Group Galleria.md",
+    "Locations/Crownlight Media Studio Lot.md",
+    "Locations/Central Park.md",
+    "Locations/Mariner's Reach Wharf.md",
+    "Locations/Ghosts HQ.md",
+    "Locations/The Asylum.md",
+    "Locations/Energy Siphon Tower.md",
+    "Locations/Floodgate Bazaar.md",
+    "PC/Katriel Buchanon.md",
+    "Locations/1 Districts/Cloud District.md",
+    "Session Notes/Session 10.md",
     "Session Notes/Session 09.md",
     "Session Notes/Session 08.md",
-    "Session Notes/Session 07.md",
-    "Session Notes/Session 06.md",
-    "Session Notes/Session 04.md",
-    "Index.md",
     "Session Notes/0 Session Index.base",
-    "false-life-xphb.md",
     "Locations/1 Districts/Cloud District",
-    "Locations/Ransom Location.md",
-    "Locations/Tier 3.md",
-    "Locations/The Kitchen.md",
-    "Locations/Quiet Place.md",
-    "Locations/Relay Shrine.md",
-    "Locations/Neon Corridor.md",
-    "Locations/Tier 2.md",
-    "Locations/Penthouse.md",
-    "Locations/BB Megatower.md",
-    "Locations/Not Far Sewer.md",
-    "Locations/Box City.md",
-    "Locations/Aegis Response Group.md",
-    "Locations/The Prison.md",
-    "Locations/The Old Fort.md",
-    "Locations/Paragon Soundworks.md",
-    "Locations/Crownlight Media Studio Lot.md",
-    "Locations/NovaStyle Group Galleria.md",
-    "Locations/Crownlight Heights.md",
-    "Locations/Central Park.md",
     "NPC/NPC Index.base",
     "Locations/1 Districts",
-    "admin/assets/npc_keenavisionbeggar.webp",
-    "admin/assets/session5_newcar.webp",
-    "admin/assets/location_oldvalence_districts.webp",
-    "admin/assets/npc_rencalder.webp",
-    "admin/assets/quest_thebloombelow.webp",
-    "admin/assets/quest_elevatoreulogy.webp",
-    "admin/assets/quest_penthousesignalrehearsal.webp",
-    "admin/assets/location_hoodstation_pawns.webp",
-    "admin/assets/session6_endlinegarage.webp",
-    "admin/assets/session6_map1.webp",
     "Locations/0 Location Index.base",
     "Factions + Groups/Religious",
     "Factions + Groups/0 Faction Index.base",
     "Factions + Groups/Misc",
     "Quests/0 Quest Index.base",
-    "Public",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas"
   ]

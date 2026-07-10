@@ -26,5 +26,5 @@ Now in the 21st century - Old Valence remains a shadow of its former self, as ri
 
 ![[location_oldvalence_districts.webp]]
 
-![[session6_oldvalence.webp]]
+![[session06_oldvalence.webp]]
 

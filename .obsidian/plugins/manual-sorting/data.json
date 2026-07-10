@@ -299,6 +299,24 @@
       ],
       "sortOrder": "custom"
     },
+    "Locations/1 Districts": {
+      "children": [
+        "Locations/1 Districts/Crownlight Strip.md",
+        "Locations/1 Districts/Flooded Zone.md",
+        "Locations/1 Districts/Heart of Valence.md",
+        "Locations/1 Districts/Mooring Wards.md",
+        "Locations/1 Districts/The Rust Yards.md",
+        "Locations/1 Districts/The Scar.md",
+        "Locations/1 Districts/Westreach.md",
+        "Locations/1 Districts/Cloud District.md",
+        "Locations/1 Districts/Cloud District"
+      ],
+      "sortOrder": "custom"
+    },
+    "Locations/1 Districts/Cloud District": {
+      "children": [],
+      "sortOrder": "custom"
+    },
     "NPC": {
       "children": [
         "NPC/NPC Index.base",
@@ -406,24 +424,6 @@
         "Session Notes/Pre-Campaign/Session 0.md",
         "Session Notes/Pre-Campaign/Character Brainstorming.md"
       ],
-      "sortOrder": "custom"
-    },
-    "Locations/1 Districts": {
-      "children": [
-        "Locations/1 Districts/Crownlight Strip.md",
-        "Locations/1 Districts/Flooded Zone.md",
-        "Locations/1 Districts/Heart of Valence.md",
-        "Locations/1 Districts/Mooring Wards.md",
-        "Locations/1 Districts/The Rust Yards.md",
-        "Locations/1 Districts/The Scar.md",
-        "Locations/1 Districts/Westreach.md",
-        "Locations/1 Districts/Cloud District.md",
-        "Locations/1 Districts/Cloud District"
-      ],
-      "sortOrder": "custom"
-    },
-    "Locations/1 Districts/Cloud District": {
-      "children": [],
       "sortOrder": "custom"
     }
   },
