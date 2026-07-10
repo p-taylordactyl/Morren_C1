@@ -1,26 +1,26 @@
 ---
-title: Mooring Wards
+title: Heart of Valence
 publish: true
 aliases:
 type: district
-district:
-cover: "[[location_MooringWards.webp]]"
+cover: "[[location_HeartofValence.webp]]"
 created: 2026-06-01
 modified: 2026-07-09
 parent: "[[Old Valence]]"
 associations:
-  - "[[Mariner's Reach]]"
+  - "[[Cael Foundation]]"
 tags:
-  - under_construction
 ---
+
+
 
 # Notes
 
-District home to [[Mariner's Reach]].
+District home to the main campus of the [[Cael Foundation]].
 
 ### Points of Interest
 
-![[Location Index.base#District]]
+![[0 Location Index.base#District]]
 
 # NPCs
 

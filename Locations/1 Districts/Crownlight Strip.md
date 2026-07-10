@@ -1,25 +1,41 @@
 ---
-title: The Scar
+title: Crownlight Strip
 publish: true
 aliases:
-  - Scar
 type: district
-cover: "[[location_TheScar.webp]]"
+cover: "[[location_CrownlightStrip.webp]]"
 created: 2026-06-01
 modified: 2026-07-09
 parent: "[[Old Valence]]"
 associations:
-  - "[[Old Guard]]"
+  - "[[Crownlight Media]]"
+  - "[[NovaStyle Group]]"
+  - "[[Factions + Groups/Corporate/Paragon Soundworks|Paragon Soundworks]]"
+  - "[[Infinity Plaza Mall]]"
+  - "[[Valencian Seahorses]]"
 tags:
   - under_construction
 ---
+
+
+
 # Notes
 
-Home of the [[Old Guard]].
+District home to the majority of the Corporate Factions.
+
+- [[Crownlight Media]]
+- [[NovaStyle Group]]
+- [[Locations/Paragon Soundworks|Paragon Soundworks]]
+- [[Infinity Plaza Mall]]
+- [[Valencian Seahorses]]
+
 
 ### Points of Interest
 
-![[Location Index.base#District]]
+![[0 Location Index.base#District]]
+
+
+
 
 # NPCs
 

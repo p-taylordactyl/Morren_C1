@@ -192,7 +192,7 @@
     },
     "Factions + Groups": {
       "children": [
-        "Factions + Groups/Faction Index.base",
+        "Factions + Groups/0 Faction Index.base",
         "Factions + Groups/Corporate",
         "Factions + Groups/Underground",
         "Factions + Groups/Misc",
@@ -256,9 +256,9 @@
     },
     "Locations": {
       "children": [
-        "Locations/Location Index.base",
+        "Locations/0 Location Index.base",
         "Locations/Old Valence.md",
-        "Locations/Districts",
+        "Locations/1 Districts",
         "Locations/Not Far Sewer.md",
         "Locations/Sludge Farm.md",
         "Locations/Pipe Junction.md",
@@ -297,24 +297,6 @@
         "Locations/The Kitchen.md",
         "Locations/Ransom Location.md"
       ],
-      "sortOrder": "custom"
-    },
-    "Locations/Districts": {
-      "children": [
-        "Locations/Districts/Crownlight Strip.md",
-        "Locations/Districts/Flooded Zone.md",
-        "Locations/Districts/Heart of Valence.md",
-        "Locations/Districts/Mooring Wards.md",
-        "Locations/Districts/The Rust Yards.md",
-        "Locations/Districts/The Scar.md",
-        "Locations/Districts/Westreach.md",
-        "Locations/Districts/Cloud District",
-        "Locations/Districts/Cloud District.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Locations/Districts/Cloud District": {
-      "children": [],
       "sortOrder": "custom"
     },
     "NPC": {
@@ -424,6 +406,24 @@
         "Session Notes/Pre-Campaign/Session 0.md",
         "Session Notes/Pre-Campaign/Character Brainstorming.md"
       ],
+      "sortOrder": "custom"
+    },
+    "Locations/1 Districts": {
+      "children": [
+        "Locations/1 Districts/Crownlight Strip.md",
+        "Locations/1 Districts/Flooded Zone.md",
+        "Locations/1 Districts/Heart of Valence.md",
+        "Locations/1 Districts/Mooring Wards.md",
+        "Locations/1 Districts/The Rust Yards.md",
+        "Locations/1 Districts/The Scar.md",
+        "Locations/1 Districts/Westreach.md",
+        "Locations/1 Districts/Cloud District.md",
+        "Locations/1 Districts/Cloud District"
+      ],
+      "sortOrder": "custom"
+    },
+    "Locations/1 Districts/Cloud District": {
+      "children": [],
       "sortOrder": "custom"
     }
   },

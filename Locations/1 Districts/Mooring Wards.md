@@ -1,26 +1,26 @@
 ---
-title: Flooded Zone
+title: Mooring Wards
 publish: true
 aliases:
 type: district
-cover: "[[location_FloodedZone.webp]]"
-created: 2026-05-25
+district:
+cover: "[[location_MooringWards.webp]]"
+created: 2026-06-01
 modified: 2026-07-09
 parent: "[[Old Valence]]"
 associations:
-  - "[[Ghosts of the Flooded Zone]]"
+  - "[[Mariner's Reach]]"
 tags:
+  - under_construction
 ---
-
-
 
 # Notes
 
-Home of the [[Ghosts of the Flooded Zone]].
+District home to [[Mariner's Reach]].
 
 ### Points of Interest
 
-![[Location Index.base#District]]
+![[0 Location Index.base#District]]
 
 # NPCs
 

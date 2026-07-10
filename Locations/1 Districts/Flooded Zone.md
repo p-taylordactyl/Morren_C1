@@ -1,15 +1,14 @@
 ---
-title: The Rust Yards
+title: Flooded Zone
 publish: true
 aliases:
-  - rust yards
 type: district
-cover: "[[location_TheRustYards.webp]]"
-created: 2026-06-01
+cover: "[[location_FloodedZone.webp]]"
+created: 2026-05-25
 modified: 2026-07-09
 parent: "[[Old Valence]]"
 associations:
-  - "[[Box Boys]]"
+  - "[[Ghosts of the Flooded Zone]]"
 tags:
 ---
 
@@ -17,11 +16,11 @@ tags:
 
 # Notes
 
-District home to the [[Box Boys]].
+Home of the [[Ghosts of the Flooded Zone]].
 
 ### Points of Interest
 
-![[Location Index.base#District]]
+![[0 Location Index.base#District]]
 
 # NPCs
 

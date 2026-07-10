@@ -19,7 +19,7 @@ tags:
 
 ### Points of Interest
 
-![[Location Index.base#Sublocations]]
+![[0 Location Index.base#Sublocations]]
 
 
 

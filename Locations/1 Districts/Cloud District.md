@@ -22,7 +22,7 @@ District home to [[Hood Station]], the [[Titan Corporation]], and the [[Bellanov
 
 ### Points of Interest
 
-![[Location Index.base#District]]
+![[0 Location Index.base#District]]
 
 # NPCs
 
@@ -44,4 +44,4 @@ const imgFiles = app.vault.getFiles()
 
 imgFiles.forEach(file => dv.paragraph(`![[${file.path}]]`));
 ```
-![[Location Index.base#District]]
+![[0 Location Index.base#District]]
