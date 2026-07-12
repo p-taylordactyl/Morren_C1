@@ -12,7 +12,7 @@ properties:
     displayName: Primary Org
 views:
   - type: cards
-    name: All NPCs
+    name: All
     order:
       - file.name
       - brief

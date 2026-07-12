@@ -56,13 +56,14 @@
             "id": "76e2033fa9c3590b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "split-diff-view",
               "state": {
-                "file": "Quests/0 Quest Index.base",
-                "viewName": "location-embedonly"
+                "aFile": "Factions + Groups/Underground/Old Guard.md",
+                "bFile": "Factions + Groups/Underground/Old Guard.md",
+                "aRef": ""
               },
-              "icon": "lucide-table",
-              "title": "0 Quest Index"
+              "icon": "diff",
+              "title": "Diff: Old Guard  (Working Tree)"
             }
           }
         ],
@@ -151,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quests/0 Quest Index.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0 Quest Index"
+              "title": "Backlinks"
             }
           },
           {
@@ -170,12 +170,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quests/0 Quest Index.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0 Quest Index"
+              "title": "Outgoing links"
             }
           },
           {
@@ -223,13 +222,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/0 Quest Index.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0 Quest Index"
+              "title": "Outline"
             }
           }
         ]
@@ -250,42 +248,46 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "5281df3ab5f0459f",
+  "active": "76e2033fa9c3590b",
   "lastOpenFiles": [
+    "NPC/0 NPC Index.base",
+    "Factions and Groups/Underground/West Valence Saints.md",
+    "Factions and Groups/Underground/Old Valence Stevedore Union.md",
+    "Factions and Groups/Underground/Old Guard.md",
+    "Factions and Groups/Underground/Mariner's Reach.md",
+    "Factions and Groups/Underground/Ghosts of the Flooded Zone.md",
+    "Factions and Groups/Underground/Lightning Crew.md",
+    "Factions and Groups/Underground/Dominion Crew.md",
+    "Factions and Groups/Underground/Box Boys.md",
+    "Factions and Groups/Underground/Bellanova Family.md",
+    "Factions and Groups/Misc/Sludge Farmers.md",
+    "Factions and Groups/Religious/Cult of the Machine God.md",
+    "Factions and Groups/Misc/Sewer Goblins.md",
+    "Factions and Groups/Corporate/Valencian Seahorses.md",
+    "Factions and Groups/Corporate/Titan Corporation.md",
+    "Factions and Groups/Corporate/Paragon Soundworks.md",
+    "Factions and Groups/Corporate/Oligarchs.md",
+    "Factions and Groups/Corporate/NovaStyle Group.md",
+    "Factions and Groups/Corporate/Infinity Plaza Mall.md",
+    "Factions and Groups/Corporate/Enforcers.md",
+    "Factions and Groups/Corporate/Crownlight Media.md",
+    "Factions and Groups/Corporate/Cael Foundation.md",
+    "Factions and Groups/Corporate/Aegis Response Group.md",
+    "Factions and Groups/Underground",
+    "Factions and Groups/Misc",
+    "Factions and Groups/Religious",
+    "Factions and Groups/Corporate",
+    "Factions and Groups/0 Faction Index.base",
+    "Factions and Groups",
+    "Quests/0 Quest Index.base",
     "Session Notes/0 Session Index.base",
     "Locations/0 Location Index.base",
     "Factions + Groups/0 Faction Index.base",
-    "NPC/0 NPC Index.base",
-    "Quests/0 Quest Index.base",
     "Index.md",
     "NPC/Stu.md",
     "NPC/Sprocket.md",
-    "NPC/Hadrian Buchanon.md",
     "admin/assets/placeholder-1.webp",
-    "Locations/Not Far Sewer.md",
-    "Locations/Sludge Farm.md",
-    "Hood Station/Hood Station.md",
-    "Factions + Groups/Corporate/Paragon Soundworks.md",
-    "Factions + Groups/Corporate/Enforcers.md",
-    "Factions + Groups/Corporate/Aegis Response Group.md",
-    "Quests/The Flow Must Continue.md",
-    "Session Notes/Session 10.md",
-    "Session Notes/Session 11.md",
-    "NPC/Mystery Burger Man.md",
-    "NPC/Beggar from Keena's Vision.md",
-    "NPC/Styx.md",
-    "NPC/Nyx.md",
-    "NPC/Animator.md",
-    "NPC/Orgo.md",
-    "NPC/Morgo.md",
-    "NPC/Stonespear.md",
-    "NPC/Paintbrush Gnome.md",
-    "NPC/Lightning Leroy.md",
-    "NPC/Solomon Hexley.md",
-    "NPC/Dex.md",
     "admin/assets/placeholder.webp",
-    "Locations/1  Districts/Cloud District",
-    "Locations/1  Districts",
     "admin/assets/image.webp",
     "admin/assets/image-1.webp",
     "admin/assets/npc_stu.webp",
@@ -294,10 +296,6 @@
     "admin/assets/npc_animator.webp",
     "admin/assets/session11_map2.webp",
     "admin/assets/npc_keenavisionbeggar.webp",
-    "Locations/1 Districts/Cloud District",
-    "Locations/1 Districts",
-    "Factions + Groups/Religious",
-    "Factions + Groups/Misc",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas"
   ]
