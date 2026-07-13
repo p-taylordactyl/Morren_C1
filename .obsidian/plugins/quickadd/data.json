@@ -46,8 +46,9 @@
                 "mode": "live",
                 "focus": false
               },
-              "fileExistsMode": "Append to the bottom of the file",
-              "setFileExistsBehavior": false
+              "fileExistsBehavior": {
+                "kind": "prompt"
+              }
             }
           }
         ]
@@ -128,8 +129,10 @@
         "mode": "live",
         "focus": true
       },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": true
+      "fileExistsBehavior": {
+        "kind": "apply",
+        "mode": "increment"
+      }
     },
     {
       "id": "a3268790-60b4-4f01-9cf5-35a331da4536",
@@ -163,8 +166,9 @@
         "mode": "live",
         "focus": false
       },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
     },
     {
       "id": "1f8ea46a-22ab-4bd9-9009-5aa9166f107d",
@@ -245,8 +249,9 @@
         "mode": "default",
         "focus": true
       },
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
     },
     {
       "id": "41705a4a-42a4-407a-8c99-ac5c5655c6a5",
@@ -302,7 +307,7 @@
   "devMode": false,
   "templateFolderPath": "admin/templates",
   "announceUpdates": "major",
-  "version": "2.12.0",
+  "version": "2.12.3",
   "globalVariables": {
     "NewVar": ""
   },
@@ -408,6 +413,9 @@
     "migrateFileOpeningSettings": true,
     "backfillFileOpeningDefaults": true,
     "setProviderModelDiscoveryMode": true,
-    "migrateProviderApiKeysToSecretStorage": true
-  }
+    "migrateProviderApiKeysToSecretStorage": true,
+    "consolidateFileExistsBehavior": true,
+    "repairTemplateFileExistsBehavior": true
+  },
+  "macros": []
 }

@@ -55,6 +55,32 @@
           {
             "id": "473fb76614d4a729",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 11.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 11"
+            }
+          },
+          {
+            "id": "acbccb521ba7c151",
+            "type": "leaf",
+            "state": {
+              "type": "digital-garden-publication-center",
+              "state": {},
+              "icon": "book-up",
+              "title": "Publication Center"
+            }
+          },
+          {
+            "id": "13a4b640c45740ee",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -67,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -257,12 +283,17 @@
   "active": "5281df3ab5f0459f",
   "lastOpenFiles": [
     "Locations/0 Location Index.base",
+    "PC/Katriel Buchanon.md",
+    "Hood Station/Endline Garage.md",
+    "Hood Station/Hood Station.md",
+    "Home.md",
+    "Session Notes/Session 11.md",
     "Locations/Old Valence.md",
+    "Session Notes/Session 1.md",
     "Factions and Groups/0 Faction Index.base",
     "Session Notes/0 Session Index.base",
     "Session Notes/Session 01.md",
     "admin/templates/Quest.md",
-    "Home.md",
     "Quests/0 Quest Index.base",
     "NPC/0 NPC Index.base",
     "Factions and Groups/Underground/West Valence Saints.md",
@@ -281,11 +312,6 @@
     "Factions and Groups/Corporate/Titan Corporation.md",
     "Factions and Groups/Corporate/Paragon Soundworks.md",
     "Factions and Groups/Corporate/Oligarchs.md",
-    "Factions and Groups/Corporate/NovaStyle Group.md",
-    "Factions and Groups/Corporate/Infinity Plaza Mall.md",
-    "Factions and Groups/Corporate/Enforcers.md",
-    "Factions and Groups/Corporate/Crownlight Media.md",
-    "Factions and Groups/Corporate/Cael Foundation.md",
     "Factions and Groups/Underground",
     "Factions and Groups/Misc",
     "Factions and Groups/Religious",
