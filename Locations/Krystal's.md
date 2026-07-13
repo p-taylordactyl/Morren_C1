@@ -1,6 +1,6 @@
 ---
 title: Untitled
-publish: true
+dg-publish: true
 aliases:
 type: location
 cover: "[[location_Untitled.webp]]"

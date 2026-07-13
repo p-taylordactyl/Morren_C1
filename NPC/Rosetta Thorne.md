@@ -10,7 +10,7 @@ type: npc
 cover: "[[npc_RosettaThorne.webp]]"
 created: 2026-05-25
 modified: 2026-07-06
-publish: true
+dg-publish: true
 status:
   - alive
 disposition:

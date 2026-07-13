@@ -1,6 +1,6 @@
 ---
 title: The Scar
-publish: true
+dg-publish: true
 aliases:
   - Scar
 type: district

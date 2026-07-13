@@ -1,6 +1,6 @@
 ---
 title: NovaStyle Group Galleria
-publish: true
+dg-publish: true
 aliases:
 type: location
 district: "[[Crownlight Strip]]"

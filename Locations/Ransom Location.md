@@ -1,6 +1,6 @@
 ---
 title: Ransom Location
-publish: true
+dg-publish: true
 aliases:
 type: location
 cover: "[[location_ransomlocation.webp]]"

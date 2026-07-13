@@ -1,8 +1,9 @@
 ---
 title: Welcome to Hood Station!
-modified: 2026-07-10
+modified: 2026-07-13
 created: 2026-06-30
-publish: true
+dg-publish: true
+dg-home: true
 ---
 
 <img src="/admin/assets/location_hoodstation_0.webp">

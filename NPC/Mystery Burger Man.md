@@ -1,6 +1,6 @@
 ---
 title: Mystery Burger Man
-publish: true
+dg-publish: true
 aliases:
 type: npc
 cover: "[[npc_mysteryburgerman.webp]]"

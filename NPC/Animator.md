@@ -1,6 +1,6 @@
 ---
 title: stall guy
-publish: true
+dg-publish: true
 aliases:
 type: npc
 cover: "[[npc_animator.webp]]"

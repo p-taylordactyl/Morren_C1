@@ -15,7 +15,7 @@
               "type": "bases",
               "state": {
                 "file": "Quests/0 Quest Index.base",
-                "viewName": "All Quests"
+                "viewName": "All"
               },
               "pinned": true,
               "icon": "lucide-table",
@@ -30,7 +30,7 @@
               "type": "bases",
               "state": {
                 "file": "NPC/0 NPC Index.base",
-                "viewName": "All NPCs"
+                "viewName": "All"
               },
               "pinned": true,
               "icon": "lucide-layout-grid",
@@ -45,7 +45,7 @@
               "type": "bases",
               "state": {
                 "file": "Session Notes/0 Session Index.base",
-                "viewName": "All Sessions"
+                "viewName": "All"
               },
               "pinned": true,
               "icon": "lucide-table",
@@ -53,17 +53,17 @@
             }
           },
           {
-            "id": "76e2033fa9c3590b",
+            "id": "473fb76614d4a729",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Factions + Groups/Underground/Old Guard.md",
-                "bFile": "Factions + Groups/Underground/Old Guard.md",
-                "aRef": ""
+                "file": "Locations/Old Valence.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Old Guard  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Old Valence"
             }
           }
         ],
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"publish\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,6 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quests/0 Quest Index.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +162,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 0 Quest Index"
             }
           },
           {
@@ -170,11 +171,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quests/0 Quest Index.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 0 Quest Index"
             }
           },
           {
@@ -197,9 +199,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Locations/Old Valence.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Old Valence"
             }
           },
           {
@@ -222,12 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Quests/0 Quest Index.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 0 Quest Index"
             }
           }
         ]
@@ -245,11 +250,20 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "76e2033fa9c3590b",
+  "active": "5281df3ab5f0459f",
   "lastOpenFiles": [
+    "Locations/0 Location Index.base",
+    "Locations/Old Valence.md",
+    "Factions and Groups/0 Faction Index.base",
+    "Session Notes/0 Session Index.base",
+    "Session Notes/Session 01.md",
+    "admin/templates/Quest.md",
+    "Home.md",
+    "Quests/0 Quest Index.base",
     "NPC/0 NPC Index.base",
     "Factions and Groups/Underground/West Valence Saints.md",
     "Factions and Groups/Underground/Old Valence Stevedore Union.md",
@@ -272,20 +286,11 @@
     "Factions and Groups/Corporate/Enforcers.md",
     "Factions and Groups/Corporate/Crownlight Media.md",
     "Factions and Groups/Corporate/Cael Foundation.md",
-    "Factions and Groups/Corporate/Aegis Response Group.md",
     "Factions and Groups/Underground",
     "Factions and Groups/Misc",
     "Factions and Groups/Religious",
     "Factions and Groups/Corporate",
-    "Factions and Groups/0 Faction Index.base",
     "Factions and Groups",
-    "Quests/0 Quest Index.base",
-    "Session Notes/0 Session Index.base",
-    "Locations/0 Location Index.base",
-    "Factions + Groups/0 Faction Index.base",
-    "Index.md",
-    "NPC/Stu.md",
-    "NPC/Sprocket.md",
     "admin/assets/placeholder-1.webp",
     "admin/assets/placeholder.webp",
     "admin/assets/image.webp",

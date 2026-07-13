@@ -1,6 +1,6 @@
 ---
 title: Ghosts of the Flooded Zone
-publish: true
+dg-publish: true
 aliases:
   - Ghosts
 type: underground faction

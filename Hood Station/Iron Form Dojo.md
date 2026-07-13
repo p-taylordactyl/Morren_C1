@@ -1,6 +1,6 @@
 ---
 title: Iron Form Dojo
-publish: true
+dg-publish: true
 aliases:
   - Dojo
   - Chojo

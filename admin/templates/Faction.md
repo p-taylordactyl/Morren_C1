@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
-publish: false
+dg-publish: false
 aliases:
 type: faction
 cover: "[[faction_<% tp.file.title.replace(/ /g, '') %>.webp]]"

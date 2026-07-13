@@ -1,6 +1,6 @@
 ---
 title: Saints Cathedral
-publish: true
+dg-publish: true
 aliases:
   - Cathedral
 type: location

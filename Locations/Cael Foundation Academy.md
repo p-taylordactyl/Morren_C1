@@ -1,6 +1,6 @@
 ---
 title: Cael Foundation Academy
-publish: true
+dg-publish: true
 aliases:
   - CF Academy
   - Academy

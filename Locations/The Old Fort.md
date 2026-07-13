@@ -1,6 +1,6 @@
 ---
 title: The Old Fort
-publish: true
+dg-publish: true
 aliases:
 type: location
 district: "[[The Scar]]"

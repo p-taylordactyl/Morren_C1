@@ -1,6 +1,6 @@
 ---
 title: Morgo
-publish: true
+dg-publish: true
 aliases:
   - the chef
 type: npc

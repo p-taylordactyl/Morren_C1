@@ -9,7 +9,7 @@ created: 2026-06-08
 modified: 2026-07-06
 status:
   - alive
-publish: true
+dg-publish: true
 disposition:
   - neutral
   - friendly

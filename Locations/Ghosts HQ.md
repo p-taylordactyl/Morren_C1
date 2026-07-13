@@ -1,6 +1,6 @@
 ---
 title: Ghosts HQ
-publish: true
+dg-publish: true
 aliases:
 type: location
 district: "[[Flooded Zone]]"

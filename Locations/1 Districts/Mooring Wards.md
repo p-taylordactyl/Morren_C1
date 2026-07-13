@@ -1,6 +1,6 @@
 ---
 title: Mooring Wards
-publish: true
+dg-publish: true
 aliases:
 type: district
 district:

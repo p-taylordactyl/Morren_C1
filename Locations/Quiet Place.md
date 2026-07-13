@@ -1,6 +1,6 @@
 ---
 title: Quiet Place
-publish: true
+dg-publish: true
 aliases:
 type: location
 cover: "[[location_QuietPlace.webp]]"

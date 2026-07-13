@@ -1,6 +1,6 @@
 ---
 title: Mega Mall
-publish: true
+dg-publish: true
 aliases:
 type: location
 district: "[[Crownlight Strip]]"

@@ -6,7 +6,7 @@ type: npc
 cover: "[[npc_MorrgenOublier.webp]]"
 created: 2026-05-08
 modified: 2026-07-06
-publish: true
+dg-publish: true
 status:
   - alive
 disposition:

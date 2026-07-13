@@ -1,6 +1,6 @@
 ---
 title: Mariner's Reach
-publish: true
+dg-publish: true
 aliases:
   - Mariners
   - Reach

@@ -18,8 +18,9 @@
     "session_number": "number",
     "quest_status": "text",
     "status": "multitext",
-    "publish": "checkbox",
     "district": "text",
-    "quest_location": "multitext"
+    "quest_location": "multitext",
+    "dg-publish": "checkbox",
+    "dg-home": "checkbox"
   }
 }

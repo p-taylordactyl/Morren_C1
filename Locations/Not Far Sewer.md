@@ -1,6 +1,6 @@
 ---
 title: Not Far Sewer
-publish: true
+dg-publish: true
 type: main location
 cover:
 district: "[[Westreach]]"

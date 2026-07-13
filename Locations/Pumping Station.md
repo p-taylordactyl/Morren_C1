@@ -1,6 +1,6 @@
 ---
 title: Pumping Station
-publish: true
+dg-publish: true
 aliases:
   - Hot Pipe
 type: location

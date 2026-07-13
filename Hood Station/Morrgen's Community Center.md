@@ -1,6 +1,6 @@
 ---
 title: Morrgen's Community Center
-publish: true
+dg-publish: true
 aliases:
   - Community Center
 type: group

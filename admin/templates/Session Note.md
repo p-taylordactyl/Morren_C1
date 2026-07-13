@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
-publish: false
+dg-publish: false
 type: session_note
 created:
 modified:

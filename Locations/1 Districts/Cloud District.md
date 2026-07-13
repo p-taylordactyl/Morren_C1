@@ -1,6 +1,6 @@
 ---
 title: Cloud District
-publish: true
+dg-publish: true
 aliases:
 type: district
 cover: "[[location_CloudDistrict.webp]]"

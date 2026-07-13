@@ -1,6 +1,6 @@
 ---
 title: Silas Sorelli
-publish: true
+dg-publish: true
 aliases:
   - Silas
 cover: "[[pc_silassorelli.webp]]"

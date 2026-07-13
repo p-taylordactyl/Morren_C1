@@ -1,6 +1,6 @@
 ---
 title: Central Park
-publish: true
+dg-publish: true
 aliases:
 type: location
 district: "[[Heart of Valence]]"

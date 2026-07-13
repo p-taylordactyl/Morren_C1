@@ -1,6 +1,6 @@
 ---
 title: The Kitchen
-publish: true
+dg-publish: true
 aliases:
 type: location
 cover: "[[location_TheKitchen.webp]]"

@@ -1,6 +1,6 @@
 ---
 title: Dorian Caldwell
-publish: true
+dg-publish: true
 aliases:
   - Dorian
   - Franklin Marvelous II

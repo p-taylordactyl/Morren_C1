@@ -1,6 +1,6 @@
 ---
 title: Dominion Crew
-publish: true
+dg-publish: true
 type: underground group
 cover:
 created: 2026-04-29

@@ -6,7 +6,7 @@ type: npc
 cover: "[[placeholder.webp]]"
 created: 2026-04-23
 modified: 2026-07-10
-publish: true
+dg-publish: true
 status: unknown
 disposition:
   - unknown

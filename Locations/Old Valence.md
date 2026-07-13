@@ -1,6 +1,6 @@
 ---
 title: Old Valence
-publish: true
+dg-publish: true
 type: city
 cover:
 parent:

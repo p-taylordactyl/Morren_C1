@@ -1,6 +1,6 @@
 ---
 title:
-publish: true
+dg-publish: true
 aliases:
   - Machine God worshippers
 type: religious group

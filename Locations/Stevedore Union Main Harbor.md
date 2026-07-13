@@ -1,6 +1,6 @@
 ---
 title: Stevedore Union Main Harbor
-publish: true
+dg-publish: true
 aliases:
   - Harbor
 type: location

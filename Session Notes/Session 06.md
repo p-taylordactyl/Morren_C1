@@ -1,6 +1,6 @@
 ---
 title: Session 6
-publish: true
+dg-publish: true
 type: session_note
 created: 2026-06-01
 modified: 2026-07-09

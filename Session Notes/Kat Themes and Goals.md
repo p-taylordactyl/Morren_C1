@@ -1,6 +1,6 @@
 ---
 title: Kat Themes and Goals
-publish: false
+dg-publish: false
 modified: 2026-07-09
 created: 2026-04-27
 ---

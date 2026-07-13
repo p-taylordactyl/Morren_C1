@@ -1,6 +1,6 @@
 ---
 title: Enforcers
-publish: true
+dg-publish: true
 aliases:
 type: corporate group
 cover: "[[placeholder.webp]]"

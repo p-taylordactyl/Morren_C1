@@ -1,6 +1,6 @@
 ---
 title: Box City
-publish: true
+dg-publish: true
 aliases:
 type: location
 district: "[[The Rust Yards]]"

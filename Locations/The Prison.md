@@ -1,6 +1,6 @@
 ---
 title: The Prison
-publish: true
+dg-publish: true
 aliases:
 type: location
 district: "[[The Scar]]"

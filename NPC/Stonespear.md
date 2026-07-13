@@ -1,6 +1,6 @@
 ---
 title: Stonespear
-publish: true
+dg-publish: true
 aliases:
 type: npc
 cover: "[[npc_Stonespear.webp]]"

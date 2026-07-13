@@ -1,6 +1,6 @@
 ---
 title: Relay Shrine
-publish: true
+dg-publish: true
 aliases:
 type: location
 cover: "[[location_RelayShrine.webp]]"

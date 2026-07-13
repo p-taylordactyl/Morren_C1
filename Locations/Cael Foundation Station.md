@@ -1,6 +1,6 @@
 ---
 title: Cael Foundation Station
-publish: true
+dg-publish: true
 aliases:
   - CF Station
   - Handler Station

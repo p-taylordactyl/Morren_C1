@@ -1,6 +1,6 @@
 ---
 title: Session 4
-publish: true
+dg-publish: true
 type: session_note
 created: 2026-05-19
 modified: 2026-07-06

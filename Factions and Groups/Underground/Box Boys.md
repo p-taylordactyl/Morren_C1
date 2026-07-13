@@ -1,6 +1,6 @@
 ---
 title: The Box Boys
-publish: true
+dg-publish: true
 aliases:
   - Box Boys
   - Box Boy

@@ -1,6 +1,6 @@
 ---
 title: The Old Guard
-publish: true
+dg-publish: true
 aliases:
   - Old Guard
   - Guard

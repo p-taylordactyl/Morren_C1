@@ -1,6 +1,6 @@
 ---
 title: Penthouse
-publish: true
+dg-publish: true
 aliases:
 type: location
 district: "[[Cloud District]]"

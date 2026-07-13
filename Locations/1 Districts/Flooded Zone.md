@@ -1,6 +1,6 @@
 ---
 title: Flooded Zone
-publish: true
+dg-publish: true
 aliases:
 type: district
 cover: "[[location_FloodedZone.webp]]"

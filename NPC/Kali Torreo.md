@@ -1,6 +1,6 @@
 ---
 title: Kali Torreo
-publish: true
+dg-publish: true
 aliases:
   - Kali
   - Commander Torreo

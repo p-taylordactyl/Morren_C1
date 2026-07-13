@@ -1,6 +1,6 @@
 ---
 title: Mariner's Reach Wharf
-publish: true
+dg-publish: true
 aliases:
   - Wharf
 type: location

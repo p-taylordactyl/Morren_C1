@@ -1,6 +1,6 @@
 ---
 title: The West Valence Saints
-publish: true
+dg-publish: true
 aliases:
   - Saints
   - West Valence Saints

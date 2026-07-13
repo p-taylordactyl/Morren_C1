@@ -1,6 +1,6 @@
 ---
 title: Sludge Farm
-publish: true
+dg-publish: true
 type: location
 cover:
 created: 2026-04-29

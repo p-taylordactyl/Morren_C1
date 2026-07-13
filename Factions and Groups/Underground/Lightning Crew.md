@@ -1,6 +1,6 @@
 ---
 title: Lightning Crew
-publish: true
+dg-publish: true
 aliases:
   - Lightning Crew
 type: underground group

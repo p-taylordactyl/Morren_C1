@@ -1,6 +1,6 @@
 ---
 title: Hood Station
-publish: true
+dg-publish: true
 aliases:
 type:
   - faction

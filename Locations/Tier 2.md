@@ -1,6 +1,6 @@
 ---
 title: Tier 2
-publish: true
+dg-publish: true
 aliases:
 type: location
 cover: "[[location_Tier2.webp]]"

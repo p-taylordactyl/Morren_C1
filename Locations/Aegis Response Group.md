@@ -1,6 +1,6 @@
 ---
 title: Aegis Response Group
-publish: true
+dg-publish: true
 aliases:
 type: location
 district: "[[Flooded Zone]]"

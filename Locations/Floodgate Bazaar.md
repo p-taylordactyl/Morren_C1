@@ -1,6 +1,6 @@
 ---
 title: Floodgate Bazaar
-publish: true
+dg-publish: true
 aliases:
   - bazaar
 type: location

@@ -9,7 +9,7 @@ modified: 2026-07-06
 status:
   - alive
   - captured
-publish: true
+dg-publish: true
 disposition:
   - friendly
   - annoying

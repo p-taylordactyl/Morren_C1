@@ -1,6 +1,6 @@
 ---
 title: Keena O'Malley
-publish: true
+dg-publish: true
 aliases:
   - Keena
 cover: "[[pc_keenaomalley.webp]]"

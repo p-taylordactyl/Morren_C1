@@ -1,6 +1,6 @@
 ---
 title: The Asylum
-publish: true
+dg-publish: true
 aliases:
   - Asylum
 type: location

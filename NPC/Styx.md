@@ -1,6 +1,6 @@
 ---
 title: Styx
-publish: true
+dg-publish: true
 aliases:
 type: npc
 cover: "[[placeholder.webp]]"

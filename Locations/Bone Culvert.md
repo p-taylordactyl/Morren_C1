@@ -1,6 +1,6 @@
 ---
 title: Bone Culvert
-publish: true
+dg-publish: true
 type: location
 cover: "[[location_BoneCulvert.webp]]"
 created: 2026-05-21

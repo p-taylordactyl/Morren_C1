@@ -1,6 +1,6 @@
 ---
 title: The Rust Yards
-publish: true
+dg-publish: true
 aliases:
   - rust yards
 type: district

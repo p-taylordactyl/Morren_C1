@@ -1,6 +1,6 @@
 ---
 title: Paragon Soundworks
-publish: true
+dg-publish: true
 aliases:
   - Paragon
 type: corporate faction

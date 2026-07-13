@@ -1,6 +1,6 @@
 ---
 title: <% tp.file.title %>
-publish: false
+dg-publish: false
 aliases:
 type: npc
 cover: "[[npc_<% tp.file.title.replace(/ /g, '') %>.webp]]"

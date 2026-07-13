@@ -1,6 +1,6 @@
 ---
 title: The Troupe
-publish: true
+dg-publish: true
 aliases:
   - Troupe
 type: group

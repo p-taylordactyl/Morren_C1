@@ -6,7 +6,7 @@ type: npc
 cover: "[[npc_BarronSutton.webp]]"
 created: 2026-05-21
 modified: 2026-07-09
-publish: true
+dg-publish: true
 status:
   - alive
 disposition:

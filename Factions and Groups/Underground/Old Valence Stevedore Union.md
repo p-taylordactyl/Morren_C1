@@ -1,6 +1,6 @@
 ---
 title: The Old Valence Stevedore Union
-publish: true
+dg-publish: true
 aliases:
   - Stevedores
   - Old Valence Stevedore Union

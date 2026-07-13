@@ -1,6 +1,6 @@
 ---
 title: Crownlight Heights
-publish: true
+dg-publish: true
 aliases:
 type: location
 district:

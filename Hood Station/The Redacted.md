@@ -1,6 +1,6 @@
 ---
 title: The Redacted
-publish: true
+dg-publish: true
 aliases:
 type: group
 cover:

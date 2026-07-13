@@ -1,6 +1,6 @@
 ---
 title: Keena Vision Beggar
-publish: true
+dg-publish: true
 aliases:
   - beggar
 type: npc

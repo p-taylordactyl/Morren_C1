@@ -1,6 +1,6 @@
 ---
 title: Bellanova Family
-publish: true
+dg-publish: true
 aliases:
   - Bellanovas
   - Bellanova

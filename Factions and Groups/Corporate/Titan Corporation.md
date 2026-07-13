@@ -1,6 +1,6 @@
 ---
 title: Titan Corporation
-publish: true
+dg-publish: true
 aliases:
   - Titan
 type: corporate faction

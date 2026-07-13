@@ -2,15 +2,15 @@
   "customOrder": {
     "/": {
       "children": [
-        "Index.md",
+        "Home.md",
         "admin",
         "PC",
         "Hood Station",
         "NPC",
-        "Factions + Groups",
         "Locations",
         "Session Notes",
-        "Quests"
+        "Quests",
+        "Factions and Groups"
       ],
       "sortOrder": "custom"
     },
@@ -190,55 +190,55 @@
       ],
       "sortOrder": "custom"
     },
-    "Factions + Groups": {
+    "Factions and Groups": {
       "children": [
-        "Factions + Groups/0 Faction Index.base",
-        "Factions + Groups/Corporate",
-        "Factions + Groups/Underground",
-        "Factions + Groups/Misc",
-        "Factions + Groups/Religious"
+        "Factions and Groups/Corporate",
+        "Factions and Groups/Misc",
+        "Factions and Groups/Religious",
+        "Factions and Groups/Underground",
+        "Factions and Groups/0 Faction Index.base"
       ],
       "sortOrder": "custom"
     },
-    "Factions + Groups/Corporate": {
+    "Factions and Groups/Corporate": {
       "children": [
-        "Factions + Groups/Corporate/Aegis Response Group.md",
-        "Factions + Groups/Corporate/Crownlight Media.md",
-        "Factions + Groups/Corporate/Cael Foundation.md",
-        "Factions + Groups/Corporate/Infinity Plaza Mall.md",
-        "Factions + Groups/Corporate/NovaStyle Group.md",
-        "Factions + Groups/Corporate/Oligarchs.md",
-        "Factions + Groups/Corporate/Enforcers.md",
-        "Factions + Groups/Corporate/Paragon Soundworks.md",
-        "Factions + Groups/Corporate/Titan Corporation.md",
-        "Factions + Groups/Corporate/Valencian Seahorses.md"
+        "Factions and Groups/Corporate/Aegis Response Group.md",
+        "Factions and Groups/Corporate/Cael Foundation.md",
+        "Factions and Groups/Corporate/Crownlight Media.md",
+        "Factions and Groups/Corporate/Enforcers.md",
+        "Factions and Groups/Corporate/Infinity Plaza Mall.md",
+        "Factions and Groups/Corporate/NovaStyle Group.md",
+        "Factions and Groups/Corporate/Oligarchs.md",
+        "Factions and Groups/Corporate/Paragon Soundworks.md",
+        "Factions and Groups/Corporate/Titan Corporation.md",
+        "Factions and Groups/Corporate/Valencian Seahorses.md"
       ],
       "sortOrder": "custom"
     },
-    "Factions + Groups/Misc": {
+    "Factions and Groups/Misc": {
       "children": [
-        "Factions + Groups/Misc/Sewer Goblins.md",
-        "Factions + Groups/Misc/Sludge Farmers.md"
+        "Factions and Groups/Misc/Sewer Goblins.md",
+        "Factions and Groups/Misc/Sludge Farmers.md"
       ],
       "sortOrder": "custom"
     },
-    "Factions + Groups/Religious": {
+    "Factions and Groups/Religious": {
       "children": [
-        "Factions + Groups/Religious/Cult of the Machine God.md"
+        "Factions and Groups/Religious/Cult of the Machine God.md"
       ],
       "sortOrder": "custom"
     },
-    "Factions + Groups/Underground": {
+    "Factions and Groups/Underground": {
       "children": [
-        "Factions + Groups/Underground/Bellanova Family.md",
-        "Factions + Groups/Underground/Box Boys.md",
-        "Factions + Groups/Underground/Ghosts of the Flooded Zone.md",
-        "Factions + Groups/Underground/Mariner's Reach.md",
-        "Factions + Groups/Underground/Old Guard.md",
-        "Factions + Groups/Underground/Old Valence Stevedore Union.md",
-        "Factions + Groups/Underground/West Valence Saints.md",
-        "Factions + Groups/Underground/Dominion Crew.md",
-        "Factions + Groups/Underground/Lightning Crew.md"
+        "Factions and Groups/Underground/Bellanova Family.md",
+        "Factions and Groups/Underground/Box Boys.md",
+        "Factions and Groups/Underground/Dominion Crew.md",
+        "Factions and Groups/Underground/Ghosts of the Flooded Zone.md",
+        "Factions and Groups/Underground/Lightning Crew.md",
+        "Factions and Groups/Underground/Mariner's Reach.md",
+        "Factions and Groups/Underground/Old Guard.md",
+        "Factions and Groups/Underground/Old Valence Stevedore Union.md",
+        "Factions and Groups/Underground/West Valence Saints.md"
       ],
       "sortOrder": "custom"
     },
@@ -299,6 +299,24 @@
         "Locations/Krystal's.md",
         "Locations/1  Districts"
       ],
+      "sortOrder": "custom"
+    },
+    "Locations/1  Districts": {
+      "children": [
+        "Locations/1  Districts/Cloud District.md",
+        "Locations/1  Districts/Crownlight Strip.md",
+        "Locations/1  Districts/Flooded Zone.md",
+        "Locations/1  Districts/Heart of Valence.md",
+        "Locations/1  Districts/Mooring Wards.md",
+        "Locations/1  Districts/The Rust Yards.md",
+        "Locations/1  Districts/The Scar.md",
+        "Locations/1  Districts/Westreach.md",
+        "Locations/1  Districts/Cloud District"
+      ],
+      "sortOrder": "custom"
+    },
+    "Locations/1  Districts/Cloud District": {
+      "children": [],
       "sortOrder": "custom"
     },
     "Locations/1 Districts": {
@@ -425,24 +443,6 @@
         "Session Notes/Pre-Campaign/Session 0.md",
         "Session Notes/Pre-Campaign/Character Brainstorming.md"
       ],
-      "sortOrder": "custom"
-    },
-    "Locations/1  Districts": {
-      "children": [
-        "Locations/1  Districts/Cloud District.md",
-        "Locations/1  Districts/Crownlight Strip.md",
-        "Locations/1  Districts/Flooded Zone.md",
-        "Locations/1  Districts/Heart of Valence.md",
-        "Locations/1  Districts/Mooring Wards.md",
-        "Locations/1  Districts/The Rust Yards.md",
-        "Locations/1  Districts/The Scar.md",
-        "Locations/1  Districts/Westreach.md",
-        "Locations/1  Districts/Cloud District"
-      ],
-      "sortOrder": "custom"
-    },
-    "Locations/1  Districts/Cloud District": {
-      "children": [],
       "sortOrder": "custom"
     }
   },

@@ -6,7 +6,7 @@ type: npc
 cover: "[[npc_veshhollowbone.webp]]"
 created: 2026-05-21
 modified: 2026-07-06
-publish: true
+dg-publish: true
 status: deceased
 disposition:
   - friendly

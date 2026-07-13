@@ -1,6 +1,6 @@
 ---
 title: Seahorse Stadium
-publish: true
+dg-publish: true
 aliases:
   - stadium
 type: location

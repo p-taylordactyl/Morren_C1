@@ -1,6 +1,6 @@
 ---
 title: Westreach
-publish: true
+dg-publish: true
 aliases:
 type: district
 cover: "[[location_Westreach.webp]]"

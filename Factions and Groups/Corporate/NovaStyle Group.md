@@ -1,6 +1,6 @@
 ---
 title: NovaStyle Group
-publish: true
+dg-publish: true
 aliases:
   - Novastyle
 type: corporate faction

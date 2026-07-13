@@ -1,6 +1,6 @@
 ---
 title: Elevator Eulogy
-publish: true
+dg-publish: true
 aliases:
 created: 2026-06-01
 modified: 2026-07-09

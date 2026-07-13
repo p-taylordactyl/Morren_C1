@@ -1,6 +1,6 @@
 ---
 title: Titan Corporation Factory Complex
-publish: true
+dg-publish: true
 aliases:
   - Titan Complex
 type: location

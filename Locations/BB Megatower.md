@@ -1,6 +1,6 @@
 ---
 title: BB Megatower
-publish: true
+dg-publish: true
 aliases:
 type: main location
 district: "[[Cloud District]]"

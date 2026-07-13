@@ -1,6 +1,6 @@
 ---
 title: Stu
-publish: true
+dg-publish: true
 aliases:
 type: npc
 cover: "[[npc_Stu.webp]]"

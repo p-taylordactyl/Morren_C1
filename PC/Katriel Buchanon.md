@@ -1,6 +1,6 @@
 ---
 title: Katriel Buchanon
-publish: true
+dg-publish: true
 aliases:
   - Kat
   - Kat Buchanon

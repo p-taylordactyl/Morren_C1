@@ -1,6 +1,6 @@
 ---
 title: Endline Garage
-publish: true
+dg-publish: true
 aliases:
   - garage
 type: group

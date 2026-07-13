@@ -1,6 +1,6 @@
 ---
 title: Oligarchs
-publish: true
+dg-publish: true
 aliases:
   - oligarch
 type: corporate faction

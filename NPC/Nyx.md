@@ -1,6 +1,6 @@
 ---
 title: Nyx
-publish: true
+dg-publish: true
 aliases:
 type: npc
 cover: "[[npc_Nyx.webp]]"

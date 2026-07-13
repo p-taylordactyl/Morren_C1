@@ -1,6 +1,6 @@
 ---
 title: Gideon Oublier
-publish: true
+dg-publish: true
 aliases:
   - Gideon
   - The Nutblaster

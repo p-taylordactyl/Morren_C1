@@ -1,6 +1,6 @@
 ---
 title: Rusk Ironline
-publish: true
+dg-publish: true
 aliases:
   - Rusk
 type: npc

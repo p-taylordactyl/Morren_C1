@@ -8,7 +8,7 @@ created: 2026-06-22
 modified: 2026-07-10
 status:
   - alive
-publish: true
+dg-publish: true
 disposition:
   - enemy
 organizations:
