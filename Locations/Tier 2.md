@@ -5,7 +5,7 @@ aliases:
 type: location
 cover: "[[location_Tier2.webp]]"
 created: 2026-07-09
-modified: 2026-07-10
+modified: 2026-07-14
 district:
 parent: "[[BB Megatower]]"
 associations:
@@ -24,7 +24,25 @@ tags:
 
 # NPCs
 
-![[0 NPC Index.base#Location-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Location-embedonly
+    filters:
+      and:
+        - locations.contains("Tier 2")
+    order:
+      - file.name
+      - brief
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.15
+
+```
 
 
 

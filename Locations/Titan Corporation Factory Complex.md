@@ -7,7 +7,7 @@ type: location
 district: "[[Cloud District]]"
 cover: "[[location_TitanCorporationFactoryComplex.webp]]"
 created: 2026-06-01
-modified: 2026-07-10
+modified: 2026-07-14
 parent:
 associations:
   - "[[Titan Corporation]]"
@@ -21,9 +21,25 @@ Primary location of [[Titan Corporation]] factories. Site of the accident that l
 
 # NPCs
 
-![[0 NPC Index.base#Location-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Location-embedonly
+    filters:
+      and:
+        - locations.contains("Titan Corporation Factory Complex")
+    order:
+      - file.name
+      - brief
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.15
 
-
+```
 
 
 # Maps

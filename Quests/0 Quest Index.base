@@ -76,7 +76,7 @@ views:
       note.quest_giver: 160
       note.quest_location: 270
   - type: table
-    name: ByNPC
+    name: NPC-embedonly
     filters:
       and:
         - file.hasLink(this.file)

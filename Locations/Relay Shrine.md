@@ -5,7 +5,7 @@ aliases:
 type: location
 cover: "[[location_RelayShrine.webp]]"
 created: 2026-06-29
-modified: 2026-07-09
+modified: 2026-07-14
 district: "[[Cloud District]]"
 parent: "[[Tier 2]]"
 associations:
@@ -25,7 +25,25 @@ A shrine to the [[Cult of the Machine God|Machine God]] located on [[Tier 2]] of
 
 # NPCs
 
-![[0 NPC Index.base#Location-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Location-embedonly
+    filters:
+      and:
+        - locations.contains("Relay Shrine")
+    order:
+      - file.name
+      - brief
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.15
+
+```
 
 
 

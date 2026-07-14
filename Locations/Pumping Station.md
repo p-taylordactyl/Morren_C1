@@ -6,7 +6,7 @@ aliases:
 type: location
 cover: "[[location_PumpingStation.webp]]"
 created: 2026-05-25
-modified: 2026-07-06
+modified: 2026-07-14
 district: "[[Westreach]]"
 parent: "[[Not Far Sewer]]"
 associations:
@@ -26,9 +26,25 @@ tags:
 
 # NPCs
 
-![[0 NPC Index.base#Location-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Location-embedonly
+    filters:
+      and:
+        - locations.contains("Pumping Station")
+    order:
+      - file.name
+      - brief
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.15
 
-
+```
 
 
 # Maps

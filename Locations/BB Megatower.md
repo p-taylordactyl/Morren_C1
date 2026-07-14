@@ -1,25 +1,26 @@
 ---
 title: BB Megatower
-dg-publish: true
+dg-publish: false
 aliases:
-type: main location
+type: location
 district: "[[Cloud District]]"
 cover: "[[location_BBMegatower.webp]]"
 created: 2026-06-03
-modified: 2026-07-10
+modified: 2026-07-14
 parent: "[[Bellanova Towers]]"
 associations:
   - "[[Bellanova Family|Bellanova Family]]"
 tags:
+  - under_construction
 ---
 
 # Notes
 
-- Megatower owned by the [[Bellanova Family|Bellanovas]]
+- Megatower owned by the [[Bellanova Family]] and run by [[Vinny Brassjaw|Brassjaw]].
 
 ### Points of Interest
 
-![[0 Location Index.base#Sublocations]]
+![[0 Location Index.base#Sublocations-embed]]
 ### # Quests
 
 ![[0 Quest Index.base#location-embedonly]]
@@ -27,9 +28,25 @@ tags:
 
 # NPCs
 
-![[0 NPC Index.base#Location-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Location-embedonly
+    filters:
+      and:
+        - locations.contains("BB Megatower")
+    order:
+      - file.name
+      - brief
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.15
 
-
+```
 
 
 # Maps
@@ -236,4 +253,92 @@ ${renderTree(tree)}
 dv.paragraph(locationQuartz);
 
 }
+```
+
+
+
+# Base Test
+
+
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Location-embed
+    filters:
+      and:
+        - locations.contains([[BB Megatower]])
+    order:
+      - file.name
+      - brief
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.15
+```
+
+
+
+# Notes
+
+### Points of Interest
+
+
+![[0 Location Index.base#Sublocations-embed]]
+
+
+
+
+# NPCs
+
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains(link(undefined))
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+  - type: cards
+    name: Location-embedonly
+    filters:
+      and:
+        - locations.contains(link(undefined))
+    order:
+      - file.name
+      - brief
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.15
+```
+
+
+# Maps
+
+```dataviewjs
+/** Query to embed all webp images starting with location_filename (converted to lowercase, spaces removed). */
+
+const placeTitle = dv.current().file.name.toLowerCase().replace(/\s/g, "");
+
+const imgFiles = app.vault.getFiles()
+  .filter(file => 
+    file.extension === 'webp' && 
+    file.name.startsWith("location_") &&
+    file.name.includes(placeTitle))
+
+imgFiles.forEach(file => dv.paragraph(`![[${file.path}]]`));
+
 ```

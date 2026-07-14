@@ -7,7 +7,7 @@ type: location
 district: "[[Mooring Wards]]"
 cover: "[[location_Mariner'sReachWharf.webp]]"
 created: 2026-06-01
-modified: 2026-07-09
+modified: 2026-07-14
 parent:
 associations:
   - "[[Mariner's Reach]]"
@@ -21,7 +21,25 @@ Headquarters of [[Mariner's Reach]].
 
 # NPCs
 
-![[0 NPC Index.base#Location-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Location-embedonly
+    filters:
+      and:
+        - locations.contains("Mariner's Reach Wharf")
+    order:
+      - file.name
+      - brief
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.15
+
+```
 
 
 

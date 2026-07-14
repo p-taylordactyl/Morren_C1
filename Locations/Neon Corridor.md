@@ -6,7 +6,7 @@ type: location
 district: "[[Cloud District]]"
 cover: "[[location_NeonCorridor.webp]]"
 created: 2026-06-22
-modified: 2026-07-09
+modified: 2026-07-14
 parent: "[[Tier 2]]"
 associations:
 tags:
@@ -21,7 +21,25 @@ Area of [[Tier 2]] of the [[BB Megatower]] controlled by an orc named [[Bron]].
 
 # NPCs
 
-![[0 NPC Index.base#Location-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Location-embedonly
+    filters:
+      and:
+        - locations.contains("Neon Corridor")
+    order:
+      - file.name
+      - brief
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.15
+
+```
 
 
 # Maps

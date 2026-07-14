@@ -24,7 +24,7 @@ tags:
 
 # Description
 
-A blind and mute beggar living on [[Tier 2]] of the [[BB Megatower]]. The night before encountering him, [[Keena O'Malley|Keena]] had a [[keena o'malley#Betrayer Vision|vision]] of the beggar with the message: "Betrayer. Sinner. He must die." 
+A blind and mute beggar living on [[Tier 2]] of the [[BB Megatower]]. The night before encountering him, [[Keena O'Malley|Keena]] had a [[Keena O'Malley#Betrayer Vision|vision]] of the beggar with the message: "Betrayer. Sinner. He must die." 
 
 # Notes
 

@@ -4,7 +4,7 @@ aliases:
 type: npc
 cover: "[[npc_Brug.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-14
 status:
   - alive
 dg-publish: true
@@ -15,6 +15,7 @@ organizations:
 locations:
   - "[[Not Far Sewer]]"
   - "[[Box City]]"
+  - Incarcerated
 associates:
 brief: A member of the Box Boys we met in the Not Far Sewer
 tags:

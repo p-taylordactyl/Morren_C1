@@ -6,7 +6,7 @@ type: location
 district: "[[Cloud District]]"
 cover: "[[location_ThePenthouse.webp]]"
 created: 2026-06-08
-modified: 2026-07-09
+modified: 2026-07-14
 parent: "[[BB Megatower]]"
 associations:
 tags:
@@ -22,9 +22,25 @@ tags:
 
 # NPCs
 
-![[0 NPC Index.base#Location-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Location-embedonly
+    filters:
+      and:
+        - locations.contains("Penthouse")
+    order:
+      - file.name
+      - brief
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.15
 
-
+```
 
 
 # Maps

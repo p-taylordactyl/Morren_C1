@@ -18,12 +18,13 @@ views:
       file.name: 186
     rowHeight: tall
   - type: list
-    name: Sublocations
+    name: Sublocations-embed
     filters:
       and:
         - parent.contains(link(this.file.name))
+    indentProperties: true
   - type: table
-    name: District
+    name: District-embedonly
     filters:
       and:
         - district.contains(link(this.file.name))

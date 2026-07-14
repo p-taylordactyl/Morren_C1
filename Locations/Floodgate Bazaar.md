@@ -6,7 +6,7 @@ aliases:
 type: location
 cover: "[[location_Bazaar]]"
 created: 2026-05-08
-modified: 2026-07-06
+modified: 2026-07-14
 district: "[[Westreach]]"
 parent: "[[Not Far Sewer]]"
 associations:
@@ -22,8 +22,25 @@ Market run by the [[Sewer Goblins|goblins]] living in the [[Not Far Sewer]].
 
 # NPCs
 
-![[0 NPC Index.base#Location-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Location-embedonly
+    filters:
+      and:
+        - locations.contains("Floodgate Bazaar")
+    order:
+      - file.name
+      - brief
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.15
 
+```
 
 
 

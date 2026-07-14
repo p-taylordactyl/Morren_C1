@@ -3,7 +3,7 @@ title: Session 8
 dg-publish: true
 type: session_note
 created: 2026-06-15
-modified: 2026-07-06
+modified: 2026-07-14
 session_date: 06/15/2026
 session_number: 8
 players:
@@ -78,7 +78,9 @@ Gideon asks Silas if he knows about Mercer and about the game. Silas does.
 
 Gideon thinks the cursed game might be tied to the missing floors of the building - like if enough people watched the game being played at once. Silas doesn't seem to buy it but humors him.
 
-After realizing that Mercer was close enough for Gideon to be in the background of a livestream earlier, we decide to try and find him to talk to him.
+# Winter 10, 2012
+
+After the party wakes up and we realize that Mercer was close enough for Gideon to be in the background of a livestream earlier, we decide to try and find him to talk to him.
 
 We locate him fairly quickly but he's in bad shape. It looks like he's been robbed and beaten.
 
@@ -178,6 +180,8 @@ Somewhere in here (or maybe before the neon corridor) is a conversation about ho
 Kat and Gideon are on watch. During the first part, Malcolm texts Gideon from a casino and says it's so easy to make money. Lol. Kat says he's such a twerp.
 
 Gideon and Kat chat about murder and how Gideon isn't messed up about killing someone the way Kat was. Kat talks about how she feels like it's really important to have a line you aren't willing to cross. Because once you let yourself justify crossing it once, the justifications come easier until suddenly the line is fuzzy, and eventually starts to move. 
+
+# Winter 11, 2012
 
 Gideon gets a text from the stalker showing the outside of the casino where Malcolm is.
 

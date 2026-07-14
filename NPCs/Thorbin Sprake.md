@@ -5,7 +5,7 @@ aliases:
 type: npc
 cover: "[[npc_ThorbinSprake.webp]]"
 created: 2026-05-08
-modified: 2026-07-06
+modified: 2026-07-14
 dg-publish: true
 status:
   - alive
@@ -20,6 +20,7 @@ associates:
   - "[[Katriel Buchanon]]"
 brief: Kat's boss/mentor and owner of the Endline Garage
 tags:
+  - pcbond/kat
 ---
 
 ![[npc_ThorbinSprake.webp]]

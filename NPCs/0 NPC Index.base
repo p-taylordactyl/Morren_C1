@@ -2,14 +2,6 @@ filters:
   and:
     - type == "npc"
     - file.folder != "admin/templates"
-formulas:
-  Org test: organizations.unique().sort()[0]
-  Org test 2: formula["Org test"].slice(0,1)
-properties:
-  formula.Org test 2:
-    displayName: Org 1
-  formula.Org test:
-    displayName: Primary Org
 views:
   - type: cards
     name: All

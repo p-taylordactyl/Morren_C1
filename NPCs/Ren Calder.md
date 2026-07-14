@@ -5,7 +5,7 @@ aliases:
 type: npc
 cover: "[[npc_rencalder.webp]]"
 created: 2026-05-04
-modified: 2026-07-06
+modified: 2026-07-14
 dg-publish: true
 status:
   - alive
@@ -20,6 +20,7 @@ associates:
   - "[[Maximilius Adkins|Max]]"
 brief: Max's friend and fellow member of The Redacted.
 tags:
+  - pcbond/max
 ---
 
 ![[npc_rencalder.webp|508]]

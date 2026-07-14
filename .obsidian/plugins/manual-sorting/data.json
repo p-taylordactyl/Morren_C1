@@ -4,13 +4,14 @@
       "children": [
         "Home.md",
         "admin",
-        "PC",
         "Hood Station",
-        "NPC",
+        "Hood's Watch",
+        "NPCs",
+        "Factions and Groups",
         "Locations",
         "Session Notes",
         "Quests",
-        "Factions and Groups"
+        "Timeline.md"
       ],
       "sortOrder": "custom"
     },
@@ -185,6 +186,10 @@
       ],
       "sortOrder": "custom"
     },
+    "admin/scripts": {
+      "children": [],
+      "sortOrder": "custom"
+    },
     "admin/templates": {
       "children": [
         "admin/templates/Quest.md",
@@ -262,6 +267,17 @@
       ],
       "sortOrder": "custom"
     },
+    "Hood's Watch": {
+      "children": [
+        "Hood's Watch/Katriel Buchanon.md",
+        "Hood's Watch/Maximilius Adkins.md",
+        "Hood's Watch/Silas Sorelli.md",
+        "Hood's Watch/Gideon Oublier.md",
+        "Hood's Watch/Keena O'Malley.md",
+        "Hood's Watch/Dorian Caldwell.md"
+      ],
+      "sortOrder": "custom"
+    },
     "Locations": {
       "children": [
         "Locations/0 Location Index.base",
@@ -321,76 +337,6 @@
       ],
       "sortOrder": "custom"
     },
-    "NPC": {
-      "children": [
-        "NPC/0 NPC Index.base",
-        "NPC/Hadrian Buchanon.md",
-        "NPC/Sprocket.md",
-        "NPC/Drogrash.md",
-        "NPC/Mira Sporehand.md",
-        "NPC/Pipey.md",
-        "NPC/The Driftwarden.md",
-        "NPC/Augustin Devereaux.md",
-        "NPC/Ren Calder.md",
-        "NPC/Lumen Veil.md",
-        "NPC/Sister Hera.md",
-        "NPC/Thorbin Sprake.md",
-        "NPC/Morrgen Oublier.md",
-        "NPC/Kairo Voss.md",
-        "NPC/Vesh Hollowbone.md",
-        "NPC/Róisín Ward.md",
-        "NPC/Cillian Ward.md",
-        "NPC/Cillian Kravus.md",
-        "NPC/Nyra Lightwell.md",
-        "NPC/Barron Sutton.md",
-        "NPC/Rosetta Thorne.md",
-        "NPC/Kali Torreo.md",
-        "NPC/Az.md",
-        "NPC/Custis Delavide.md",
-        "NPC/Gorax.md",
-        "NPC/Kelm.md",
-        "NPC/Memaw Shoe.md",
-        "NPC/Rusk Ironline.md",
-        "NPC/Prospera Bellanova.md",
-        "NPC/Malcolm Oublier.md",
-        "NPC/Brug.md",
-        "NPC/Vinny Brassjaw.md",
-        "NPC/Elyra Sol.md",
-        "NPC/Jack Mercer.md",
-        "NPC/Stalker.md",
-        "NPC/Kieran Graves.md",
-        "NPC/Jax Riven.md",
-        "NPC/Bron.md",
-        "NPC/Arden.md",
-        "NPC/Dex Dad.md",
-        "NPC/Dex.md",
-        "NPC/Solomon Hexley.md",
-        "NPC/Lightning Leroy.md",
-        "NPC/Paintbrush Gnome.md",
-        "NPC/Stonespear.md",
-        "NPC/Morgo.md",
-        "NPC/Orgo.md",
-        "NPC/Animator.md",
-        "NPC/Nyx.md",
-        "NPC/Styx.md",
-        "NPC/Beggar from Keena's Vision.md",
-        "NPC/Mystery Burger Man.md",
-        "NPC/Stu.md",
-        "NPC/Ozwin Wicker.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "PC": {
-      "children": [
-        "PC/Katriel Buchanon.md",
-        "PC/Maximilius Adkins.md",
-        "PC/Silas Sorelli.md",
-        "PC/Gideon Oublier.md",
-        "PC/Keena O'Malley.md",
-        "PC/Dorian Caldwell.md"
-      ],
-      "sortOrder": "custom"
-    },
     "Quests": {
       "children": [
         "Quests/0 Quest Index.base",
@@ -431,8 +377,63 @@
       ],
       "sortOrder": "custom"
     },
-    "admin/scripts": {
-      "children": [],
+    "NPCs": {
+      "children": [
+        "NPCs/0 NPC Index.base",
+        "NPCs/Hadrian Buchanon.md",
+        "NPCs/Sprocket.md",
+        "NPCs/Drogrash.md",
+        "NPCs/Mira Sporehand.md",
+        "NPCs/Pipey.md",
+        "NPCs/The Driftwarden.md",
+        "NPCs/Augustin Devereaux.md",
+        "NPCs/Ren Calder.md",
+        "NPCs/Lumen Veil.md",
+        "NPCs/Sister Hera.md",
+        "NPCs/Thorbin Sprake.md",
+        "NPCs/Morrgen Oublier.md",
+        "NPCs/Kairo Voss.md",
+        "NPCs/Vesh Hollowbone.md",
+        "NPCs/Róisín Ward.md",
+        "NPCs/Cillian Ward.md",
+        "NPCs/Cillian Kravus.md",
+        "NPCs/Nyra Lightwell.md",
+        "NPCs/Barron Sutton.md",
+        "NPCs/Rosetta Thorne.md",
+        "NPCs/Kali Torreo.md",
+        "NPCs/Az.md",
+        "NPCs/Custis Delavide.md",
+        "NPCs/Gorax.md",
+        "NPCs/Kelm.md",
+        "NPCs/Memaw Shoe.md",
+        "NPCs/Rusk Ironline.md",
+        "NPCs/Prospera Bellanova.md",
+        "NPCs/Malcolm Oublier.md",
+        "NPCs/Brug.md",
+        "NPCs/Vinny Brassjaw.md",
+        "NPCs/Elyra Sol.md",
+        "NPCs/Jack Mercer.md",
+        "NPCs/Stalker.md",
+        "NPCs/Kieran Graves.md",
+        "NPCs/Jax Riven.md",
+        "NPCs/Bron.md",
+        "NPCs/Arden.md",
+        "NPCs/Dex Dad.md",
+        "NPCs/Dex.md",
+        "NPCs/Solomon Hexley.md",
+        "NPCs/Lightning Leroy.md",
+        "NPCs/Paintbrush Gnome.md",
+        "NPCs/Stonespear.md",
+        "NPCs/Morgo.md",
+        "NPCs/Orgo.md",
+        "NPCs/Animator.md",
+        "NPCs/Nyx.md",
+        "NPCs/Styx.md",
+        "NPCs/Beggar from Keena's Vision.md",
+        "NPCs/Mystery Burger Man.md",
+        "NPCs/Stu.md",
+        "NPCs/Ozwin Wicker.md"
+      ],
       "sortOrder": "custom"
     }
   },
