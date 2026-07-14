@@ -20,7 +20,7 @@ District home to [[Mariner's Reach]].
 
 ### Points of Interest
 
-![[0 Location Index.base#District]]
+![[0 Location Index.base#District-embedonly]]
 
 # NPCs
 

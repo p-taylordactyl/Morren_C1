@@ -32,7 +32,7 @@ District home to the majority of the Corporate Factions.
 
 ### Points of Interest
 
-![[0 Location Index.base#District]]
+![[0 Location Index.base#District-embedonly]]
 
 
 

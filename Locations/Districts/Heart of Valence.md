@@ -20,7 +20,7 @@ District home to the main campus of the [[Cael Foundation]].
 
 ### Points of Interest
 
-![[0 Location Index.base#District]]
+![[0 Location Index.base#District-embedonly]]
 
 # NPCs
 

@@ -1,11 +1,11 @@
 ---
-title: stall guy
+title: Animator
 dg-publish: true
 aliases:
 type: npc
 cover: "[[npc_animator.webp]]"
 created: 2026-07-06
-modified: 2026-07-09
+modified: 2026-07-13
 status:
   - alive
 disposition:

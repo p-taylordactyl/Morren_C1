@@ -3,7 +3,7 @@ title: Penthouse Signal Rehearsal
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-09
+modified: 2026-07-13
 cover: "[[quest_penthousesignalrehearsal.webp]]"
 type: quest
 quest_status: turn in
@@ -41,4 +41,4 @@ Reach the penthouse and locate the source of the broadcast. Determine whether it
 # To Do
 
 - [x]  Reach the [[Penthouse|Penthouse]]
-- [ ] turn into [[Az]]
+- [x] turn into [[Az]]

@@ -16,11 +16,13 @@
     },
     "admin": {
       "children": [
+        "admin/Home 1.md",
         "admin/assets",
         "admin/templates",
         "admin/Useful Bits.md",
         "admin/Meta.md",
-        "admin/In-Session New Note Automation.md"
+        "admin/In-Session New Note Automation.md",
+        "admin/scripts"
       ],
       "sortOrder": "custom"
     },
@@ -145,7 +147,12 @@
         "admin/assets/location_bbmegatower_tier2_ransomlocation.webp",
         "admin/assets/npc_stu.webp",
         "admin/assets/placeholder.webp",
-        "admin/assets/placeholder-1.webp"
+        "admin/assets/placeholder-1.webp",
+        "admin/assets/session12_map1.webp",
+        "admin/assets/npc_ghostsquadleader.webp",
+        "admin/assets/location_hoodstation_ironformdojo.webp",
+        "admin/assets/npc_kairovoss.webp",
+        "admin/assets/npc_nyralightwell.webp"
       ],
       "sortOrder": "custom"
     },
@@ -186,7 +193,8 @@
         "admin/templates/NPC.md",
         "admin/templates/Player Character.md",
         "admin/templates/Session Note.md",
-        "admin/templates/Group.md"
+        "admin/templates/Group.md",
+        "admin/templates/Loc Base fix.md"
       ],
       "sortOrder": "custom"
     },
@@ -300,6 +308,19 @@
       ],
       "sortOrder": "custom"
     },
+    "Locations/Districts": {
+      "children": [
+        "Locations/Districts/Crownlight Strip.md",
+        "Locations/Districts/Flooded Zone.md",
+        "Locations/Districts/Heart of Valence.md",
+        "Locations/Districts/Mooring Wards.md",
+        "Locations/Districts/The Rust Yards.md",
+        "Locations/Districts/The Scar.md",
+        "Locations/Districts/Westreach.md",
+        "Locations/Districts/Cloud District.md"
+      ],
+      "sortOrder": "custom"
+    },
     "NPC": {
       "children": [
         "NPC/0 NPC Index.base",
@@ -354,7 +375,8 @@
         "NPC/Styx.md",
         "NPC/Beggar from Keena's Vision.md",
         "NPC/Mystery Burger Man.md",
-        "NPC/Stu.md"
+        "NPC/Stu.md",
+        "NPC/Ozwin Wicker.md"
       ],
       "sortOrder": "custom"
     },
@@ -397,7 +419,8 @@
         "Session Notes/Session 08.md",
         "Session Notes/Session 09.md",
         "Session Notes/Session 10.md",
-        "Session Notes/Session 11.md"
+        "Session Notes/Session 11.md",
+        "Session Notes/Session 12.md"
       ],
       "sortOrder": "custom"
     },
@@ -408,17 +431,8 @@
       ],
       "sortOrder": "custom"
     },
-    "Locations/Districts": {
-      "children": [
-        "Locations/Districts/Crownlight Strip.md",
-        "Locations/Districts/Flooded Zone.md",
-        "Locations/Districts/Heart of Valence.md",
-        "Locations/Districts/Mooring Wards.md",
-        "Locations/Districts/The Rust Yards.md",
-        "Locations/Districts/The Scar.md",
-        "Locations/Districts/Westreach.md",
-        "Locations/Districts/Cloud District.md"
-      ],
+    "admin/scripts": {
+      "children": [],
       "sortOrder": "custom"
     }
   },

@@ -20,7 +20,7 @@ tags:
 ### Points of Interest
 
 
-![[0 Location Index.base#Sublocations]]
+![[0 Location Index.base#Sublocations-embed]]
 
 
 # NPCs

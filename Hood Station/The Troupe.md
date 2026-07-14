@@ -3,10 +3,11 @@ title: The Troupe
 dg-publish: true
 aliases:
   - Troupe
+  - The Stage
 type: group
 cover:
 created: 2026-05-25
-modified: 2026-07-09
+modified: 2026-07-13
 parent: "[[Hood Station/Hood Station|Hood Station]]"
 associations:
 locations:

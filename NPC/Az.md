@@ -40,4 +40,4 @@ They emphasize that art is supposed to be messy and confusing. They encourage ot
 
 # Quests
 
-![[0 Quest Index.base#ByNPC]]
+![[0 Quest Index.base#NPC-embedonly]]

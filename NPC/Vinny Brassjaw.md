@@ -6,7 +6,7 @@ aliases:
 type: npc
 cover: "[[npc_vinnybrassjaw.webp]]"
 created: 2026-06-08
-modified: 2026-07-06
+modified: 2026-07-13
 status:
   - alive
 dg-publish: true
@@ -22,7 +22,7 @@ associates:
   - "[[Kali Torreo]]"
   - "[[Róisín Ward]]"
   - "[[Malcolm Oublier]]"
-brief: A goblin that seems to be some kind of crime boss in the BB Megatower.
+brief: A goblin that seems to be the Bellanova boss in the BB Megatower.
 tags:
 ---
 
@@ -47,4 +47,4 @@ A goblin that seems to be some kind of crime boss in the [[BB Megatower]].
 
 # Quests
 
-![[0 Quest Index.base#ByNPC]]
+![[0 Quest Index.base#NPC-embedonly]]

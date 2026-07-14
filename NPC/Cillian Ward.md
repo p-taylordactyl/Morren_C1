@@ -41,4 +41,4 @@ A human man in his late 40s/early 50s, originally from [[Westreach]]. Although h
 
 # Quests
 
-![[0 Quest Index.base#ByNPC]]
+![[0 Quest Index.base#NPC-embedonly]]

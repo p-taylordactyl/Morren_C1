@@ -20,7 +20,7 @@ Home of the [[Ghosts of the Flooded Zone]].
 
 ### Points of Interest
 
-![[0 Location Index.base#District]]
+![[0 Location Index.base#District-embedonly]]
 
 # NPCs
 

@@ -52,4 +52,4 @@ Rosetta "the Thorn" Thorne, Queen of the [[Protective Association for Wayward an
 
 # Quests
 
-![[0 Quest Index.base#ByNPC]]
+![[0 Quest Index.base#NPC-embedonly]]

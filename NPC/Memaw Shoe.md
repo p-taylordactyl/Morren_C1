@@ -38,4 +38,4 @@ Once a custodian of [[Hood Station/Hood Station|Hood Station]] - upon its retiri
 
 # Quests
 
-![[0 Quest Index.base#ByNPC]]
+![[0 Quest Index.base#NPC-embedonly]]

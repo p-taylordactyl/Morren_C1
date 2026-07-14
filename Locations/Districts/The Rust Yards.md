@@ -21,7 +21,7 @@ District home to the [[Box Boys]].
 
 ### Points of Interest
 
-![[0 Location Index.base#District]]
+![[0 Location Index.base#District-embedonly]]
 
 # NPCs
 

@@ -20,7 +20,7 @@ District notably under the control of the [[West Valence Saints]] - though the h
 
 ### Points of Interest
 
-![[0 Location Index.base#District]]
+![[0 Location Index.base#District-embedonly]]
 
 # NPCs
 

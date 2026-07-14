@@ -1,10 +1,10 @@
 ---
-title: NPC
+title: Paintbrush Gnome
 aliases:
 type: npc
 cover: "[[npc_PaintbrushGnome.webp]]"
 created: 2026-07-06
-modified: 2026-07-06
+modified: 2026-07-13
 status:
   - alive
 dg-publish: true

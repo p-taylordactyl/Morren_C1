@@ -3,7 +3,7 @@ title: Elevator Eulogy
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-09
+modified: 2026-07-13
 cover: "[[quest_elevatoreulogy.webp]]"
 type: quest
 quest_status: turn in
@@ -37,4 +37,4 @@ Enter the central elevator shaft, inspect the lift mechanisms, and restore safe 
 - [x] Go to the [[BB Megatower]] and locate the elevator
 - [x] Find our way back to the elevator/shaft so we can inspect for issues
 - [x] fix the elevator
-- [ ] turn in to [[Cillian Ward]] 
+- [x] turn in to [[Cillian Ward]] 

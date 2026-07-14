@@ -1,12 +1,12 @@
 ---
-title: Keena Vision Beggar
+title: Beggar from Keena's Vision
 dg-publish: true
 aliases:
   - beggar
 type: npc
 cover: "[[npc_KeenaVisionBeggar.webp]]"
 created: 2026-07-09
-modified: 2026-07-09
+modified: 2026-07-13
 status:
   - alive
 disposition:

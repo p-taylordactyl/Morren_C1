@@ -7,7 +7,7 @@ type:
   - location
 cover:
 created: 2026-05-20
-modified: 2026-07-10
+modified: 2026-07-13
 district: "[[Cloud District]]"
 parent:
 associations:
@@ -20,6 +20,7 @@ associations:
 locations:
   - "[[Hood Station/Hood Station|Hood Station]]"
 tags:
+dg-home: false
 ---
 # Description
 

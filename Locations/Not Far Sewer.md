@@ -6,7 +6,7 @@ cover:
 district: "[[Westreach]]"
 parent:
 created: 2026-04-23
-modified: 2026-07-10
+modified: 2026-07-14
 associations:
   - "[[Sludge Farmers]]"
   - "[[Bellanova Family|Bellanovas]]"
@@ -23,7 +23,7 @@ tags:
 
 ### Points of Interest
 
-![[0 Location Index.base#Sublocations]]
+![[0 Location Index.base#Sublocations-embed]]
 
 ### # Quests
 
@@ -32,7 +32,25 @@ tags:
 
 # NPCs
 
-![[0 NPC Index.base#Location-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Location-embedonly
+    filters:
+      and:
+        - locations.contains("Not Far Sewer")
+    order:
+      - file.name
+      - brief
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.15
+
+```
 
 # Maps
 
