@@ -1,9 +1,9 @@
 ---
 aliases:
 type: group
-cover:
+cover: "[[npc_sprocket.webp]]"
 created: 2026-06-01
-modified: 2026-07-06
+modified: 2026-07-14
 parent:
 associations:
 locations:
@@ -18,7 +18,26 @@ A group of goblins who live in the [[Not Far Sewer]] and run the [[Floodgate Baz
 
 # NPCs
 
-![[0 NPC Index.base#Groups-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("Sewer Goblins")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 

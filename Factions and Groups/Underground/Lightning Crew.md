@@ -6,7 +6,7 @@ aliases:
 type: underground group
 cover:
 created: 2026-06-29
-modified: 2026-07-06
+modified: 2026-07-14
 parent: "[[West Valence Saints]]"
 associations:
   - "[[Dominion Crew]]"
@@ -28,8 +28,26 @@ While helping Kieran, the party disabled several crew members (and killed one on
 
 # NPCs
 
-![[0 NPC Index.base#Groups-embedonly]]
-
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("Lightning Crew")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 

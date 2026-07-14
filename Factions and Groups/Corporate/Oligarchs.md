@@ -6,7 +6,7 @@ aliases:
 type: corporate faction
 cover: "[[faction_oligarchs.webp]]"
 created: 2026-03-06
-modified: 2026-07-06
+modified: 2026-07-14
 associations:
 locations:
   - "[[Energy Siphon Tower]]"
@@ -29,8 +29,26 @@ To the average citizen, the Oligarchs are more rumor than reality: a distant pow
 
 # Associated NPCs
 
-![[0 NPC Index.base#Organizations-embedonly]]
-
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("Oligarchs")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 # Session Mentions

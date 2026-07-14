@@ -5,7 +5,7 @@ aliases:
 type: corporate group
 cover: "[[placeholder.webp]]"
 created: 2026-06-29
-modified: 2026-07-10
+modified: 2026-07-14
 parent: "[[Oligarchs]]"
 associations:
 locations:
@@ -21,9 +21,26 @@ A group that can be called out to come pick up criminals and take them to some k
 
 # NPCs
 
-![[0 NPC Index.base#Groups-embedonly]]
-
-
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("Enforcers")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 # Session Mentions

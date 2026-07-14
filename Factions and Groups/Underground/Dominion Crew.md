@@ -4,7 +4,7 @@ dg-publish: true
 type: underground group
 cover:
 created: 2026-04-29
-modified: 2026-07-06
+modified: 2026-07-14
 parent: "[[West Valence Saints]]"
 associations:
   - "[[Hadrian Buchanon]]"
@@ -18,8 +18,26 @@ A militant religious sect of the [[West Valence Saints]] who practice their own 
 
 # NPCs
 
-![[0 NPC Index.base#Groups-embedonly]]
-
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("Dominion Crew")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 # Session Mentions

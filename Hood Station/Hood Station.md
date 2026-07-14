@@ -7,7 +7,7 @@ type:
   - location
 cover:
 created: 2026-05-20
-modified: 2026-07-13
+modified: 2026-07-14
 district: "[[Cloud District]]"
 parent:
 associations:

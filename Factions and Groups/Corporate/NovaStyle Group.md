@@ -6,7 +6,7 @@ aliases:
 type: corporate faction
 cover: "[[faction_novastylegroup.webp]]"
 created: 2026-04-23
-modified: 2026-07-06
+modified: 2026-07-14
 associations:
 locations:
   - "[[NovaStyle Group Galleria]]"
@@ -29,9 +29,26 @@ In the Modern Age, NovaStyle Group remains the definitive arbiter of appearance 
 
 # NPCs
 
-![[0 NPC Index.base#Organizations-embedonly]]
-
-
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("NovaStyle Group")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 # Session Mentions

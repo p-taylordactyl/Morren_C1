@@ -6,7 +6,7 @@ aliases:
 type: corporate faction
 cover: "[[faction_paragonsoundworks.webp]]"
 created: 2026-04-23
-modified: 2026-07-06
+modified: 2026-07-14
 associations:
 locations:
   - "[[Locations/Paragon Soundworks|Paragon Soundworks]]"
@@ -30,7 +30,26 @@ In the Modern Age, Paragon Soundworks has shifted from overt psychological warfa
 
 # NPCs
 
-![[0 NPC Index.base#Organizations-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("Paragon Soundworks")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 

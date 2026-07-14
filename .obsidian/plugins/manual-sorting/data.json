@@ -199,7 +199,7 @@
         "admin/templates/Player Character.md",
         "admin/templates/Session Note.md",
         "admin/templates/Group.md",
-        "admin/templates/Loc Base fix.md"
+        "admin/templates/Base Fixes.md"
       ],
       "sortOrder": "custom"
     },
@@ -337,46 +337,6 @@
       ],
       "sortOrder": "custom"
     },
-    "Quests": {
-      "children": [
-        "Quests/0 Quest Index.base",
-        "Quests/The Flow Must Continue.md",
-        "Quests/Voices in the Grates.md",
-        "Quests/The Bloom Below.md",
-        "Quests/The Silent Floor.md",
-        "Quests/Elevator Eulogy.md",
-        "Quests/Penthouse Signal Rehearsal.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Session Notes": {
-      "children": [
-        "Session Notes/Kat Themes and Goals.md",
-        "Session Notes/Pre-Campaign",
-        "Session Notes/Timers.md",
-        "Session Notes/0 Session Index.base",
-        "Session Notes/Session 01.md",
-        "Session Notes/Session 02.md",
-        "Session Notes/Session 03.md",
-        "Session Notes/Session 04.md",
-        "Session Notes/Session 05.md",
-        "Session Notes/Session 06.md",
-        "Session Notes/Session 07.md",
-        "Session Notes/Session 08.md",
-        "Session Notes/Session 09.md",
-        "Session Notes/Session 10.md",
-        "Session Notes/Session 11.md",
-        "Session Notes/Session 12.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Session Notes/Pre-Campaign": {
-      "children": [
-        "Session Notes/Pre-Campaign/Session 0.md",
-        "Session Notes/Pre-Campaign/Character Brainstorming.md"
-      ],
-      "sortOrder": "custom"
-    },
     "NPCs": {
       "children": [
         "NPCs/0 NPC Index.base",
@@ -433,6 +393,46 @@
         "NPCs/Mystery Burger Man.md",
         "NPCs/Stu.md",
         "NPCs/Ozwin Wicker.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Quests": {
+      "children": [
+        "Quests/0 Quest Index.base",
+        "Quests/The Flow Must Continue.md",
+        "Quests/Voices in the Grates.md",
+        "Quests/The Bloom Below.md",
+        "Quests/The Silent Floor.md",
+        "Quests/Elevator Eulogy.md",
+        "Quests/Penthouse Signal Rehearsal.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Session Notes": {
+      "children": [
+        "Session Notes/Kat Themes and Goals.md",
+        "Session Notes/Pre-Campaign",
+        "Session Notes/Timers.md",
+        "Session Notes/0 Session Index.base",
+        "Session Notes/Session 01.md",
+        "Session Notes/Session 02.md",
+        "Session Notes/Session 03.md",
+        "Session Notes/Session 04.md",
+        "Session Notes/Session 05.md",
+        "Session Notes/Session 06.md",
+        "Session Notes/Session 07.md",
+        "Session Notes/Session 08.md",
+        "Session Notes/Session 09.md",
+        "Session Notes/Session 10.md",
+        "Session Notes/Session 11.md",
+        "Session Notes/Session 12.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Session Notes/Pre-Campaign": {
+      "children": [
+        "Session Notes/Pre-Campaign/Session 0.md",
+        "Session Notes/Pre-Campaign/Character Brainstorming.md"
       ],
       "sortOrder": "custom"
     }

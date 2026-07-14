@@ -6,7 +6,7 @@ aliases:
 type: corporate faction
 cover: "[[faction_valencianseahorses.webp]]"
 created: 2026-03-05
-modified: 2026-07-09
+modified: 2026-07-14
 associations:
 locations:
   - "[[Crownlight Strip]]"
@@ -33,7 +33,26 @@ Over time, this ecosystem has transformed the “love of Ball” into a genuine 
 
 # NPCs
 
-![[0 NPC Index.base#Organizations-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("Valencian Seahorses")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 

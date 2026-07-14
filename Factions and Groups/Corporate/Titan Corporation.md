@@ -6,7 +6,7 @@ aliases:
 type: corporate faction
 cover: "[[faction_titancorporation.webp]]"
 created: 2026-04-23
-modified: 2026-07-10
+modified: 2026-07-14
 associations:
 locations:
   - "[[Titan Corporation Factory Complex]]"
@@ -34,7 +34,26 @@ In the Modern Age, Titan Corporation continues to dominate industrial production
 
 # NPCs
 
-![[0 NPC Index.base#Organizations-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("Titan Corporation")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 

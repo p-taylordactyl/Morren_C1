@@ -8,7 +8,7 @@ aliases:
 type: underground faction
 cover: "[[faction_westvalencesaints.webp]]"
 created: 2026-04-23
-modified: 2026-07-06
+modified: 2026-07-14
 associations:
   - "[[Dominion Crew]]"
   - "[[Lightning Crew]]"
@@ -37,12 +37,32 @@ In the Modern Age, the Saints maintain careful boundaries. They do not expand ag
 
 ## Additional Information
 
-[[Katriel Buchanon|Kat]]
+
+-placeholder to add Kat info
+
 
 # NPCs
 
-![[0 NPC Index.base#Organizations-embedonly]]
-
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("West Valence Saints")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 

@@ -11,7 +11,6 @@ parent: "[[Bellanova Towers]]"
 associations:
   - "[[Bellanova Family|Bellanova Family]]"
 tags:
-  - under_construction
 ---
 
 # Notes

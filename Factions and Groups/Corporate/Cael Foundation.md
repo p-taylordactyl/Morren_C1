@@ -6,7 +6,7 @@ aliases:
 type: corporate faction
 cover: "[[faction_caelfoundation.webp]]"
 created: 2026-03-05
-modified: 2026-07-06
+modified: 2026-07-14
 associations:
 locations:
   - "[[The Asylum]]"
@@ -35,7 +35,26 @@ Once Rookie Heroes accumulate enough influence and wealth, they may enroll in th
 
 # NPCs
 
-![[0 NPC Index.base#Organizations-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("Cael Foundation")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 # Session Mentions
