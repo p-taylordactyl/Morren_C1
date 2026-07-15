@@ -7,15 +7,16 @@ type: group
 cover:
 created: 2026-05-08
 modified: 2026-07-14
-parent: "[[Hood Station/Hood Station|Hood Station]]"
+parent: "[[Hood Station]]"
 associations:
+  - "[[Katriel Buchanon|Kat Buchanon]]"
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 tags:
 ---
 # Description
 
-Endline Garage started (and remains at its core) the workshop of [[Thorbin Sprake]], a mechanical genius and [[Hood Station/Hood Station|Hood Station]]'s resident tall dwarf. After he quite literally fell into the [[Hood Station/Hood Station|station]] horribly, he set up a workshop space - at first just to build himself some prosthetics, but ultimately using it as a home base for ongoing maintenance work around the station. As the station started to grow, the garage grew with it, and eventually Thorbin expanded his projects, creating a community auto-share as well as an apprenticeship program. In his free time, he works on inventions to improve the lives of the station and its residents.
+Endline Garage started (and remains at its core) the workshop of [[Thorbin Sprake]], a mechanical genius and [[Hood Station]]'s resident tall dwarf. After he quite literally fell into the [[Hood Station|station]] horribly, he set up a workshop space - at first just to build himself some prosthetics, but ultimately using it as a home base for ongoing maintenance work around the station. As the station started to grow, the garage grew with it, and eventually Thorbin expanded his projects, creating a community auto-share as well as an apprenticeship program. In his free time, he works on inventions to improve the lives of the station and its residents.
 
 **What they do for Hood Station**: The shop builds and maintains a small fleet of community scrap autos, providing Hood Stations' residents with reliable transport, as well as offering build and repair services for residents on a pay/barter-what-you-can basis. Thorbin also offers shop apprenticeships for the youth and/or unemployed, where he teaches the skills needed to keep the lights on and the engines running in the community.
 
@@ -27,7 +28,26 @@ Thorbin Sprake was a mechanic for the [[Titan Corporation]], until he lost his l
 
 # NPCs
 
-![[0 NPC Index.base#Groups-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("Endline Garage")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 # Session Mentions

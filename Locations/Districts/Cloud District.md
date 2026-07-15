@@ -5,10 +5,10 @@ aliases:
 type: district
 cover: "[[location_CloudDistrict.webp]]"
 created: 2026-05-25
-modified: 2026-07-10
+modified: 2026-07-14
 parent: "[[Old Valence]]"
 associations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
   - "[[Titan Corporation]]"
   - "[[Bellanova Family]]"
 tags:
@@ -22,7 +22,19 @@ District home to [[Hood Station]], the [[Titan Corporation]], and the [[Bellanov
 
 ### Points of Interest
 
-![[0 Location Index.base#District-embedonly]]
+```base
+filters:
+  and:
+    - type.contains("location")
+    - file.folder != "admin/templates"
+views:
+  - type: table
+    name: District-embed
+    filters:
+      and:
+        - district.contains("Cloud District")
+        - parent.isEmpty()
+```
 
 # NPCs
 
@@ -44,4 +56,3 @@ const imgFiles = app.vault.getFiles()
 
 imgFiles.forEach(file => dv.paragraph(`![[${file.path}]]`));
 ```
-![[0 Location Index.base#District-embedonly]]

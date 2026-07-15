@@ -6,7 +6,7 @@ aliases:
 type: district
 cover: "[[location_TheScar.webp]]"
 created: 2026-06-01
-modified: 2026-07-09
+modified: 2026-07-14
 parent: "[[Old Valence]]"
 associations:
   - "[[Old Guard]]"
@@ -19,7 +19,19 @@ Home of the [[Old Guard]].
 
 ### Points of Interest
 
-![[0 Location Index.base#District-embedonly]]
+```base
+filters:
+  and:
+    - type.contains("location")
+    - file.folder != "admin/templates"
+views:
+  - type: table
+    name: District-embed
+    filters:
+      and:
+        - district.contains("The Scar")
+        - parent.isEmpty()
+```
 
 # NPCs
 

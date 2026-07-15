@@ -13,7 +13,7 @@ disposition:
 organizations:
   - "[[The Troupe]]"
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 associates:
   - "[[Dorian Caldwell|Dorian]]"
 brief: Dorian's friend and de facto leader of The Troupe, he/they

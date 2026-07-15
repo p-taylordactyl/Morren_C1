@@ -16,7 +16,7 @@ A group of people who formed the [[Sludge Farm]] in the [[Not Far Sewer]] to far
 
 # Notes
 
-- Due to concerns about the fungi clogging up filters used for the drinking water supply of [[Hood Station/Hood Station|Hood Station]] among others, the party convinced [[Mira Sporehand]] that it would be mutually beneficial to move the Sludge Farm to the Station after the next harvest
+- Due to concerns about the fungi clogging up filters used for the drinking water supply of [[Hood Station]] among others, the party convinced [[Mira Sporehand]] that it would be mutually beneficial to move the Sludge Farm to the Station after the next harvest
 
 # NPCs
 

@@ -112,6 +112,8 @@ views:
       - reward
       - tags
     sort:
+      - property: reward
+        direction: ASC
       - property: quest_location
         direction: ASC
     columnSize:

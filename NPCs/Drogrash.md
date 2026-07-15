@@ -11,9 +11,9 @@ status:
 disposition:
   - friendly
 organizations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 associates:
 brief: The bartender at the Station House Hood Station's only bar
 tags:
@@ -24,7 +24,7 @@ tags:
 
 # Description
 
-Drogrash is the bartender at The Station House, [[Hood Station/Hood Station|Hood Station]]'s premier (and only) bar.
+Drogrash is the bartender at The Station House, [[Hood Station]]'s premier (and only) bar.
 
 # Notes
 

@@ -5,11 +5,12 @@ aliases:
 type: group
 cover:
 created: 2026-05-25
-modified: 2026-07-06
-parent: "[[Hood Station/Hood Station|Hood Station]]"
+modified: 2026-07-14
+parent: "[[Hood Station]]"
 associations:
+  - "[[Maximilius Adkins|Max Adkins]]"
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 tags:
 ---
 # Description
@@ -28,7 +29,7 @@ Rather than opposing censorship with counter-propaganda, they operate through di
 
 Their work creates unintended pathways: people who recognize themselves in what they see, people displaced by the same systems being documented, and people searching for somewhere that reflects the truth they already suspect.
 
-[[Hood Station/Hood Station|Hood Station]] becomes one of those pathways.
+[[Hood Station]] becomes one of those pathways.
 
 ### Leadership
 
@@ -41,7 +42,26 @@ Influence within The Redacted is fluid and situational. Authority is not assigne
 
 # NPCs
 
-![[0 NPC Index.base#Groups-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("The Redacted")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 

@@ -31,7 +31,7 @@ Elfin farmer at the [[Sludge Farm]]. Friendly and generous, even before she foun
 
 # Notes
 
-- Agreed to move the Sludge Farm to [[Hood Station/Hood Station|Hood Station]] after the next harvest 
+- Agreed to move the Sludge Farm to [[Hood Station]] after the next harvest 
 - first person to mention the [[The Driftwarden]]
 
 

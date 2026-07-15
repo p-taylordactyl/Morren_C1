@@ -12,14 +12,14 @@ dg-home: true
 # Hood's Watch
 
 > [!cards] 
-> **[[Katriel Buchanon|Kat Buchanon]]**
+> ** [[Katriel Buchanon|Kat Buchanon]]**
 > ![[pc_katrielbuchanon_firstdisguise.webp|center portrait]]
 >
 > **[[Gideon Oublier]]**
 > ![[pc_gideonoublier_firstdisguise.webp|center portrait]]
 > 
 > **[[Dorian Caldwell]]**
-> ![[pc_doriancaldwell_firstdisguise.webp|center wfull]]
+> ![[pc_doriancaldwell_firstdisguisealt.webp| center portrait]]
 > 
 > **[[Silas Sorelli]]**
 > ![[pc_silassorelli_firstdisguise.webp|center portrait]]

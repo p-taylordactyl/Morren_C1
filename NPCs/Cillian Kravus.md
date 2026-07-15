@@ -12,10 +12,10 @@ status:
 disposition:
   - friendly
 organizations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
   - "[[The Redacted]]"
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 associates:
   - "[[Maximilius Adkins|Max]]"
 brief: Max's friend and fellow member of The Redacted.

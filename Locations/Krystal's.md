@@ -17,10 +17,6 @@ tags:
 
 # Notes
 
-### Points of Interest
-
-
-![[0 Location Index.base#Sublocations-embed]]
 
 
 # NPCs

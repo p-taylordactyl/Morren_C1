@@ -16,7 +16,7 @@ created: 2026-04-27
 ## Goals
 
 - Keep Hood Station safe
-- Deal with the constructs down in the [[Pumping Station]] so [[Hood Station/Hood Station|Hood Station]] gets the proper amount of water.
+- Deal with the constructs down in the [[Pumping Station]] so [[Hood Station]] gets the proper amount of water.
 - 
 
 ## Ideas

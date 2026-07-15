@@ -12,7 +12,7 @@ status:
 disposition:
   - friendly
 organizations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
   - "[[Morrgen's Community Center]]"
 locations:
   - unknown

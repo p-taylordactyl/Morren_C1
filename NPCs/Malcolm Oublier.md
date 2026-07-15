@@ -14,9 +14,9 @@ disposition:
   - friendly
   - annoying
 organizations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 associates:
   - "[[Gideon Oublier|Gideon]]"
 brief: Gideon's twin brother and an absolute twerp

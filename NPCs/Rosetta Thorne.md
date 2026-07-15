@@ -18,10 +18,10 @@ disposition:
   - friendly
   - unknown
 organizations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
   - "[[Protective Association for Wayward and Neglected Strays]]"
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 associates:
   - "[[Silas Sorelli|Silas]]"
   - "[[Dorian Caldwell|Dorian]]"

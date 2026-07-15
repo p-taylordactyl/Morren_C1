@@ -3,19 +3,19 @@ title: Nyra Lightwell
 aliases:
   - Nyra
 type: npc
-cover: "[[placeholder.webp]]"
+cover: "[[npc_nyralightwell.webp]]"
 created: 2026-05-21
-modified: 2026-07-10
+modified: 2026-07-14
 dg-publish: true
 status:
   - alive
 disposition:
   - friendly
 organizations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
   - "[[Iron Form Dojo]]"
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 associates:
   - "[[Keena O'Malley|Keena]]"
   - "[[Kairo Voss|Kairo]]"

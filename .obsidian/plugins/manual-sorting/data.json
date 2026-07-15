@@ -11,7 +11,8 @@
         "Locations",
         "Session Notes",
         "Quests",
-        "Timeline.md"
+        "Timeline.md",
+        "Updates.md"
       ],
       "sortOrder": "custom"
     },
@@ -20,6 +21,7 @@
         "admin/Home 1.md",
         "admin/assets",
         "admin/templates",
+        "admin/Base Embeds.md",
         "admin/Useful Bits.md",
         "admin/Meta.md",
         "admin/In-Session New Note Automation.md",
@@ -198,8 +200,7 @@
         "admin/templates/NPC.md",
         "admin/templates/Player Character.md",
         "admin/templates/Session Note.md",
-        "admin/templates/Group.md",
-        "admin/templates/Base Fixes.md"
+        "admin/templates/Group.md"
       ],
       "sortOrder": "custom"
     },

@@ -5,7 +5,7 @@ aliases:
 type: location
 cover: "[[location_Tier3.webp]]"
 created: 2026-07-09
-modified: 2026-07-09
+modified: 2026-07-14
 district: "[[Cloud District]]"
 parent: "[[BB Megatower]]"
 associations:
@@ -19,7 +19,19 @@ tags:
 
 ### Points of Interest
 
-![[0 Location Index.base#Sublocations-embed]]
+```base
+filters:
+  and:
+    - type.contains("location")
+    - file.folder != "admin/templates"
+views:
+  - type: list
+    name: Sublocations-embed
+    filters:
+      and:
+        - parent.contains("Tier 3")
+    indentProperties: true
+```
 
 
 

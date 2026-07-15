@@ -20,7 +20,7 @@ tags:
 > | **Class** | Warlock \| ? |
 > | **Languages** | Common, Abyssal, CSL, Deep Speech, Goblin
 > | **Location**| [[Hood Station]] |
-> | **Factions** | [[Hood Station/Hood Station\|Hood Station]], [[Iron Form Dojo]] |
+> | **Factions** | Hood Station\|Hood Station]], [[Iron Form Dojo]] |
 
 # Backstory
 

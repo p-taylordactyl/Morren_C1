@@ -5,7 +5,7 @@ aliases:
 type: district
 cover: "[[location_FloodedZone.webp]]"
 created: 2026-05-25
-modified: 2026-07-09
+modified: 2026-07-14
 parent: "[[Old Valence]]"
 associations:
   - "[[Ghosts of the Flooded Zone]]"
@@ -20,7 +20,19 @@ Home of the [[Ghosts of the Flooded Zone]].
 
 ### Points of Interest
 
-![[0 Location Index.base#District-embedonly]]
+```base
+filters:
+  and:
+    - type.contains("location")
+    - file.folder != "admin/templates"
+views:
+  - type: table
+    name: District-embed
+    filters:
+      and:
+        - district.contains("Flooded Zone")
+        - parent.isEmpty()
+```
 
 # NPCs
 
@@ -29,7 +41,7 @@ Home of the [[Ghosts of the Flooded Zone]].
 
 
 
-# Maps
+# Map
 
 ```dataviewjs
 /** Query to embed all webp images starting with location_filename (converted to lowercase, spaces removed). */

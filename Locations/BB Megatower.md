@@ -19,8 +19,21 @@ tags:
 
 ### Points of Interest
 
-![[0 Location Index.base#Sublocations-embed]]
-### # Quests
+```base
+filters:
+  and:
+    - type.contains("location")
+    - file.folder != "admin/templates"
+views:
+  - type: list
+    name: Sublocations-embed
+    filters:
+      and:
+        - parent.contains("BB Megatower")
+    indentProperties: true
+```
+
+### Quests
 
 ![[0 Quest Index.base#location-embedonly]]
 
@@ -256,88 +269,3 @@ dv.paragraph(locationQuartz);
 
 
 
-# Base Test
-
-
-```base
-filters:
-  and:
-    - type == "npc"
-    - file.folder != "admin/templates"
-views:
-  - type: cards
-    name: Location-embed
-    filters:
-      and:
-        - locations.contains([[BB Megatower]])
-    order:
-      - file.name
-      - brief
-    image: note.cover
-    cardSize: 240
-    imageAspectRatio: 1.15
-```
-
-
-
-# Notes
-
-### Points of Interest
-
-
-![[0 Location Index.base#Sublocations-embed]]
-
-
-
-
-# NPCs
-
-```base
-filters:
-  and:
-    - type == "npc"
-    - file.folder != "admin/templates"
-views:
-  - type: cards
-    name: Organizations-embedonly
-    filters:
-      and:
-        - organizations.contains(link(undefined))
-    order:
-      - file.name
-      - brief
-      - locations
-      - associates
-    image: note.cover
-    cardSize: 240
-    imageAspectRatio: 1.1
-  - type: cards
-    name: Location-embedonly
-    filters:
-      and:
-        - locations.contains(link(undefined))
-    order:
-      - file.name
-      - brief
-    image: note.cover
-    cardSize: 240
-    imageAspectRatio: 1.15
-```
-
-
-# Maps
-
-```dataviewjs
-/** Query to embed all webp images starting with location_filename (converted to lowercase, spaces removed). */
-
-const placeTitle = dv.current().file.name.toLowerCase().replace(/\s/g, "");
-
-const imgFiles = app.vault.getFiles()
-  .filter(file => 
-    file.extension === 'webp' && 
-    file.name.startsWith("location_") &&
-    file.name.includes(placeTitle))
-
-imgFiles.forEach(file => dv.paragraph(`![[${file.path}]]`));
-
-```

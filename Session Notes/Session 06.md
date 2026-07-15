@@ -18,7 +18,7 @@ level: 2 > 3
 ingame_start: 1/7/2012
 ingame_finish: 1/8/2012
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
   - "[[BB Megatower]]"
 tags:
 ---
@@ -48,7 +48,7 @@ As we approach the room, [[Rosetta Thorne|Rosetta]] reveals herself. It seems li
 
 She accepts the quest, pays us, and starts trying to kick us out.
 
-Before we go, [[Keena O'Malley|Keena]] asks Rosetta about "the wicked" from her [[Keena O'Malley#Candle Vision|vision]] and if there's anyone specific around [[Hood Station/Hood Station|Hood Station]] or the [[BB Megatower]] that we might want to keep an eye out for. Rosetta says she takes care of any problematic elements around the Station, but calls the Tower, which is run by the [[Bellanova Family|Bellanovas]], a "hive of scum and villainy."
+Before we go, [[Keena O'Malley|Keena]] asks Rosetta about "the wicked" from her [[Keena O'Malley#Candle Vision|vision]] and if there's anyone specific around [[Hood Station]] or the [[BB Megatower]] that we might want to keep an eye out for. Rosetta says she takes care of any problematic elements around the Station, but calls the Tower, which is run by the [[Bellanova Family|Bellanovas]], a "hive of scum and villainy."
 
 Keena does have to clarify that she won't be a hitman but Silas says he and Dorian will *definitely* take those kinds of missions.
 

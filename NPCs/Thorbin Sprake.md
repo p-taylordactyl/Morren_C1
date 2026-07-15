@@ -12,10 +12,10 @@ status:
 disposition:
   - friendly
 organizations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
   - "[[Endline Garage]]"
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 associates:
   - "[[Katriel Buchanon]]"
 brief: Kat's boss/mentor and owner of the Endline Garage

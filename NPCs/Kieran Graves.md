@@ -30,7 +30,7 @@ Former [[West Valence Saints|Saint]] ([[Lightning Crew]]) who failed his initiat
 # Notes
 
 - fought with the party against the [[West Valence Saints|Saints]] after [[Katriel Buchanon|Kat]] interrupted his initiation
-- was okay with us handing the defeated crew over to the [[Enforcers]] as long as we could help protect his family. Kat offered them a place at [[Hood Station/Hood Station|Hood Station]]
+- was okay with us handing the defeated crew over to the [[Enforcers]] as long as we could help protect his family. Kat offered them a place at [[Hood Station]]
 - exchanged numbers with Kat so she can help coordinate getting his family out of [[Westreach]] before the [[West Valence Saints|Saints]] find out what happened
 
 # Session Mentions

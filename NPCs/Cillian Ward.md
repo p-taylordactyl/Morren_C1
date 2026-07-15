@@ -12,10 +12,10 @@ status:
 disposition:
   - friendly
 organizations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
   - "[[Iron Form Dojo]]"
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 associates:
   - "[[Róisín Ward|Róisín]]"
   - "[[Keena O'Malley|Keena]]"

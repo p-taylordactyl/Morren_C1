@@ -19,7 +19,7 @@ level: "1"
 ingame_start: 1/1/2012
 ingame_finish: 1/2/2012
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
   - "[[Not Far Sewer]]"
 quests: "[[The Bloom Below]]"
 tags:
@@ -31,7 +31,7 @@ tags:
 
 ## Initial Meeting
 
-We start with [[Dorian Caldwell|Dorian]] at the [[Hood Station/Hood Station|Station House]].
+We start with [[Dorian Caldwell|Dorian]] at the [[Hood Station|Station House]].
 
 ![[location_hoodstation_stationhouse.webp]]
 

@@ -18,7 +18,6 @@ associations:
   - "[[Protective Association for Wayward and Neglected Strays|PAWNS]]"
   - "[[Iron Form Dojo]]"
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
 tags:
 dg-home: false
 ---
@@ -37,7 +36,26 @@ _**Themes:**_ Survival, Creating One's Place in the World, Lost/Found, Ingenuity
 
 # NPCs
 
-![[0 NPC Index.base#Organizations-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("Hood Station")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 

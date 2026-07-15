@@ -3,19 +3,19 @@ title: Kairo Voss
 aliases:
   - Kairo
 type: npc
-cover: "[[placeholder.webp]]"
+cover: "[[npc_kairovoss.webp]]"
 created: 2026-05-08
-modified: 2026-07-10
+modified: 2026-07-14
 dg-publish: true
 status:
   - alive
 disposition:
   - friendly
 organizations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
   - "[[Iron Form Dojo]]"
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 associates:
   - "[[Keena O'Malley|Keena]]"
   - "[[Katriel Buchanon|Kat]]"
@@ -24,7 +24,7 @@ brief: Keena's friend, who both works out and attends church sessions at the Iro
 tags:
 ---
 
-![[npc_KairoVoss.webp]]
+![[npc_KairoVoss.webp|821]]
 
 
 # Description

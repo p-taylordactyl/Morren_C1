@@ -22,11 +22,11 @@ tags:
 > | **Class** | Sorcerer \| ? |
 > | **Languages** | Common, Elvish, Dwarvish, Goblin, Halfling
 > | **Location**| [[Hood Station]] |
-> | **Factions** | [[Hood Station/Hood Station\|Hood Station]], [[Morrgen's Community Center]] |
+> | **Factions** | Hood Station\|Hood Station]], [[Morrgen's Community Center]] |
 
 # Backstory
 
-Gideon and his family moved around the city for as long as he can remember before settling down in [[Hood Station/Hood Station|Hood Station]]. His small family consisted of him, his [[Morrgen Oublier|mother]]'s favorite, and his twin brother [[Malcolm Oublier]], his father's favorite. They started the [[Morrgen's Community Center|Community Center]] together and even though his mom is the star of the show, his father carries his weight from the more administrative aspects. Though the parents have favorites there is a lot of love in the family. From time to time Gideon would over hear his father's protest that he is too much of a mama's boy. Morrgen would sometimes fire back saying Malcolm is too much of a bookworm and not worldly enough. When their parents were too busy Gideon and Malcolm would often read comics and play super heroes. Gideon always chose to be the symbol of justice, while Malcolm always wanted to be the cool and calculating hero.
+Gideon and his family moved around the city for as long as he can remember before settling down in [[Hood Station]]. His small family consisted of him, his [[Morrgen Oublier|mother]]'s favorite, and his twin brother [[Malcolm Oublier]], his father's favorite. They started the [[Morrgen's Community Center|Community Center]] together and even though his mom is the star of the show, his father carries his weight from the more administrative aspects. Though the parents have favorites there is a lot of love in the family. From time to time Gideon would over hear his father's protest that he is too much of a mama's boy. Morrgen would sometimes fire back saying Malcolm is too much of a bookworm and not worldly enough. When their parents were too busy Gideon and Malcolm would often read comics and play super heroes. Gideon always chose to be the symbol of justice, while Malcolm always wanted to be the cool and calculating hero.
 
 **Themes**: Justice, Pride, Doing the right thing, Heroism, Golden Child, Rising Above
 

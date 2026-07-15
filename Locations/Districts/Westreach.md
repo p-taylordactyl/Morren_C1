@@ -5,7 +5,7 @@ aliases:
 type: district
 cover: "[[location_Westreach.webp]]"
 created: 2026-05-25
-modified: 2026-07-09
+modified: 2026-07-14
 parent: "[[Old Valence]]"
 associations:
   - "[[West Valence Saints]]"
@@ -20,7 +20,20 @@ District notably under the control of the [[West Valence Saints]] - though the h
 
 ### Points of Interest
 
-![[0 Location Index.base#District-embedonly]]
+```base
+filters:
+  and:
+    - type.contains("location")
+    - file.folder != "admin/templates"
+views:
+  - type: table
+    name: District-embed
+    filters:
+      and:
+        - district.contains("Westreach")
+        - parent.isEmpty()
+
+```
 
 # NPCs
 

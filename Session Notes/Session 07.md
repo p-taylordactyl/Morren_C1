@@ -160,7 +160,7 @@ He's received some videos that corroborate our stalker story. We explain the Box
 
 Silas tries to suss out what Brassjaw is after and if he's with the [[Bellanova Family|Bellanovas]]. 
 
-Brassjaw clearly did some research on us and knows quite a bit, though it's unclear if he's aware of [[Hood Station/Hood Station|Hood Station]].
+Brassjaw clearly did some research on us and knows quite a bit, though it's unclear if he's aware of [[Hood Station]].
 
 Silas asks directly about Brassjaw working with the [[Ghosts of the Flooded Zone|Ghosts]]. He refers to Commander Torreo as a "he" and when Brassjaw corrects it to "she," Silas puts together the pieces that the Ghosts Commander Torreo is his childhood friend [[Kali Torreo]].
 

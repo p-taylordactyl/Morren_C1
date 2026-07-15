@@ -7,16 +7,17 @@ aliases:
 type: group
 cover:
 created: 2026-05-25
-modified: 2026-07-13
-parent: "[[Hood Station/Hood Station|Hood Station]]"
+modified: 2026-07-14
+parent: "[[Hood Station]]"
 associations:
+  - "[[Dorian Caldwell]]"
 locations:
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 tags:
 ---
 # Description
 
-A menagerie of writers, actors, poets, musicians from many previous walks of life who collectively wandered through Old Valence for a while. Originally formed from a small band of actors down on their luck who were unhappy with the overbearing nature of Crownlight Media and Paragon Soundworks sought to put their own voice into the world. As they traveled they gathered more people to The Troupe; street artists, buskers, the like. Through their travels they heard about [[Hood Station/Hood Station|Hood Station]] through a rumor and decided to make it their permanent residence. 
+A menagerie of writers, actors, poets, musicians from many previous walks of life who collectively wandered through Old Valence for a while. Originally formed from a small band of actors down on their luck who were unhappy with the overbearing nature of Crownlight Media and Paragon Soundworks sought to put their own voice into the world. As they traveled they gathered more people to The Troupe; street artists, buskers, the like. Through their travels they heard about [[Hood Station]] through a rumor and decided to make it their permanent residence. 
 
 **What they do for station:** In Hood Station they paint murals, put on shows, play music, but also teach the people of the station of the arts in whichever medium they wish to pursue. Occasionally a group of them will head up to the park in the Heart of Valance to perform music/plays in the bandshell for tips or sell art, using the funds to help get things for the commune which could only be bought from the rest of the city. 
 
@@ -32,7 +33,26 @@ They emphasize that art is supposed to be messy and confusing. They encourage ot
 
 # NPCs
 
-![[0 NPC Index.base#Groups-embedonly]]
+```base
+filters:
+  and:
+    - type == "npc"
+    - file.folder != "admin/templates"
+views:
+  - type: cards
+    name: Organizations-embedonly
+    filters:
+      and:
+        - organizations.contains("The Troupe")
+    order:
+      - file.name
+      - brief
+      - locations
+      - associates
+    image: note.cover
+    cardSize: 240
+    imageAspectRatio: 1.1
+```
 
 
 

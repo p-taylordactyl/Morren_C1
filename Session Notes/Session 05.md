@@ -19,7 +19,7 @@ ingame_finish: 1/7/2012
 locations:
   - "[[Not Far Sewer]]"
   - "[[Pumping Station]]"
-  - "[[Hood Station/Hood Station|Hood Station]]"
+  - "[[Hood Station]]"
 tags:
 ---
 
@@ -49,7 +49,7 @@ The blockage is cleared and the water flow is usable for now, but lower than it 
 
 We go upstairs and [[Maximilius Adkins|Max]] introduces himself to [[Kelm]], who vaguely recognizes him from [[Crownlight Media|Crownlight]]. He sort of implies Max is a conspiracy theorist but they connect.
 
-We head back out to the main sewer and discuss our next move. Kat feels the doll issue is unresolved and the "wicked" from Keena's [[Keena O'Malley#Candle Vision|revelation]] is likely somewhere in the sewer, but Keena thinks we have time since we got the dolls, and wants to get back to [[Hood Station/Hood Station|Hood Station]] and onward to the tower so we can finish the other quests.
+We head back out to the main sewer and discuss our next move. Kat feels the doll issue is unresolved and the "wicked" from Keena's [[Keena O'Malley#Candle Vision|revelation]] is likely somewhere in the sewer, but Keena thinks we have time since we got the dolls, and wants to get back to [[Hood Station]] and onward to the tower so we can finish the other quests.
 
 ![[session5_map1.webp]]
 
@@ -143,7 +143,7 @@ We wait out the media storm.
 
 On the way out, the helicopter clips a pipe and we gotta dodge fast. Max and Dorian each get hit and take a level of exhaustion.
 
-We head back to [[Hood Station/Hood Station|Hood Station]].
+We head back to [[Hood Station]].
 
 ![[session5_map5.webp]]
 
