@@ -1,27 +1,25 @@
 ---
-title: Az
-aliases:
-type: npc
-cover: "[[npc_Az.webp]]"
-created: 2026-05-25
-modified: 2026-07-06
-status:
-  - alive
 dg-publish: true
+type: npc
+aliases:
+cover: "[[npc_az.webp]]"
+created: 2026-05-25
+modified: 2026-07-16
 disposition:
   - friendly
 organizations:
   - "[[The Troupe]]"
-locations:
-  - "[[Hood Station]]"
 associates:
   - "[[Dorian Caldwell|Dorian]]"
 brief: Dorian's friend and de facto leader of The Troupe, he/they
 tags:
+status:
+  - alive
+locations:
+  - "[[Hood Station]]"
 ---
 
 ![[npc_az.webp|453]]
-
 
 # Description
 
@@ -36,7 +34,6 @@ They emphasize that art is supposed to be messy and confusing. They encourage ot
 # Session Mentions
 
 ![[0 Session Index.base#Encounters]]
-
 
 # Quests
 

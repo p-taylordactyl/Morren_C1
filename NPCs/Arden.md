@@ -1,24 +1,23 @@
 ---
-title: Arden
-aliases:
-type: npc
-cover: "[[placeholder.webp]]"
-created: 2026-06-29
-modified: 2026-07-10
-status:
-  - alive
 dg-publish: true
+type: npc
+aliases:
+cover: "[[placeholder2.webp]]"
+created: 2026-06-29
+modified: 2026-07-16
 disposition:
   - neutral
   - friendly
 organizations:
-locations:
-  - "[[Relay Shrine]]"
 associates:
   - "[[Dex Dad]]"
   - "[[Dex]]"
 brief: One of the priests at the Relay Shrine
 tags:
+status:
+  - alive
+locations:
+  - "[[Relay Shrine]]"
 ---
 
 ![[npc_Arden.webp]]

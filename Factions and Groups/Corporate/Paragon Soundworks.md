@@ -6,7 +6,7 @@ aliases:
 type: corporate faction
 cover: "[[faction_paragonsoundworks.webp]]"
 created: 2026-04-23
-modified: 2026-07-14
+modified: 2026-07-16
 associations:
 locations:
   - "[[Locations/Paragon Soundworks|Paragon Soundworks]]"
@@ -35,20 +35,23 @@ filters:
   and:
     - type == "npc"
     - file.folder != "admin/templates"
+formulas:
+  organization_names: organizations.join(", ")
+  cover_url: 'if(cover.contains("("), cover.split("(")[1].replace(")", "").trim(), cover)'
 views:
   - type: cards
-    name: Organizations-embedonly
+    name: Organization-embed
     filters:
       and:
-        - organizations.contains("Paragon Soundworks")
+        - formula.organization_names.contains("Paragon Soundworks")
     order:
       - file.name
       - brief
       - locations
-      - associates
-    image: note.cover
+    image: formula.cover_url
     cardSize: 240
-    imageAspectRatio: 1.1
+    imageAspectRatio: 1.3
+    imageFit: contain
 ```
 
 

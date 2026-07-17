@@ -1,25 +1,24 @@
 ---
-title: Lightning Leroy
+dg-publish: true
+type: npc
 aliases:
   - Leroy
-type: npc
-cover: "[[placeholder.webp]]"
+cover: "[[placeholder2.webp]]"
 created: 2026-06-29
-modified: 2026-07-10
-status:
-  - alive
-dg-publish: true
+modified: 2026-07-16
 disposition:
   - enemy
   - unfriendly
 organizations:
   - "[[West Valence Saints]]"
   - "[[Lightning Crew]]"
-locations:
 associates:
   - Jerry
 brief: Leader of the Lightning Crew of the West Valence Saints.
 tags:
+status:
+  - alive
+locations:
 ---
 
 ![[npc_LightningLeroy.webp]]

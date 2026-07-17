@@ -1,25 +1,24 @@
 ---
-title: Dex
-aliases:
-type: npc
-cover: "[[npc_Dex.webp]]"
-created: 2026-06-29
-modified: 2026-07-06
-status:
-  - alive
 dg-publish: true
+type: npc
+aliases:
+cover: "[[npc_dex.webp]]"
+created: 2026-06-29
+modified: 2026-07-16
 disposition:
   - neutral
   - friendly
 organizations:
   - "[[Cult of the Machine God]]"
-locations:
-  - "[[Relay Shrine]]"
 associates:
   - "[[Arden]]"
   - "[[Dex Dad]]"
 brief: Adoptive son of a tech priest living at the Relay Shrine
 tags:
+status:
+  - alive
+locations:
+  - "[[Relay Shrine]]"
 ---
 
 ![[npc_Dex.webp]]

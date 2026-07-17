@@ -1,9 +1,10 @@
 {
   "cssTheme": "ITS Theme",
-  "textFontFamily": "Verdana",
+  "textFontFamily": "Pilgrim,Noto Sans,Inter,Verdana",
   "enabledCssSnippets": [
     "bases_briefproperty",
     "grid-container",
     "locationimages"
-  ]
+  ],
+  "baseFontSize": 16
 }

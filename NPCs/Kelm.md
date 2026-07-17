@@ -1,24 +1,23 @@
 ---
-title: Kelm
-aliases:
-type: npc
-cover: "[[npc_Kelm.webp]]"
-created: 2026-05-25
-modified: 2026-07-06
-status:
-  - unknown
 dg-publish: true
+type: npc
+aliases:
+cover: "[[npc_kelm.webp]]"
+created: 2026-05-25
+modified: 2026-07-16
 disposition:
   - neutral
   - friendly
 organizations:
   - "[[Titan Corporation]]"
-locations:
-  - "[[Not Far Sewer]]"
-  - "[[Pumping Station]]"
 associates:
 brief: Mechanic working for the Titan Corporation at the Not Far Sewer's Pumping Station
 tags:
+status:
+  - unknown
+locations:
+  - "[[Not Far Sewer]]"
+  - "[[Pumping Station]]"
 ---
 
 ![[npc_Kelm.webp]]
@@ -26,7 +25,6 @@ tags:
 # Description
 
 Mechanic working for the Titan Corporation at the Not Far Sewer's Pumping Station
-
 
 # Notes
 

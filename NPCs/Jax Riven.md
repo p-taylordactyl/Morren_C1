@@ -1,23 +1,22 @@
 ---
-title: Jax Riven
+dg-publish: true
+type: npc
 aliases:
   - Jax
-type: npc
-cover: "[[npc_JaxRiven.webp]]"
+cover: "[[npc_jaxriven.webp]]"
 created: 2026-06-22
-modified: 2026-07-06
-status:
-  - alive
-dg-publish: true
+modified: 2026-07-16
 disposition:
   - neutral
   - friendly
 organizations:
-locations:
-  - "[[BB Megatower]]"
 associates:
 brief: Courier in the BB Megatower
 tags:
+status:
+  - alive
+locations:
+  - "[[BB Megatower]]"
 ---
 
 ![[npc_JaxRiven.webp]]

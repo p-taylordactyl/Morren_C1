@@ -1,28 +1,26 @@
 ---
-title: Augustin Devereaux
+dg-publish: true
+type: npc
 aliases:
   - Augustin
   - Devereaux
-type: npc
-cover: "[[placeholder.webp]]"
+cover:
 created: 2026-05-04
-modified: 2026-07-10
-dg-publish: true
-status:
-  - comatose
+modified: 2026-07-16
 disposition:
   - enemy
 organizations:
   - "[[Titan Corporation]]"
-locations:
-  - unknown
 associates:
 brief: The man Keena and Max beat into a coma for causing and covering up the Titan Line Incident.
 tags:
+status:
+  - comatose
+locations:
+  - unknown
 ---
 
 ![[npc_AugustinDevereaux.webp]]
-
 
 # Description
 
@@ -32,7 +30,6 @@ Individual responsible for accident at the [[Titan Corporation]] that killed ove
 
 - Our mysterious [[Stalker]] texted [[Gideon Oublier|Gideon]] a picture of Devereaux in a coma along with his last name
 - based on the Stalker's fixation with Max and Keena, may be a close friend or relative
-
 
 # Session Mentions
 

@@ -1,31 +1,29 @@
 ---
-title: Kieran Graves
+dg-publish: true
+type: npc
 aliases:
   - Kieran
-type: npc
-cover: "[[npc_Kieran.webp]]"
+cover: "[[npc_kierangraves.webp]]"
 created: 2026-06-22
-modified: 2026-07-06
-status:
-  - alive
-dg-publish: true
+modified: 2026-07-16
 disposition:
   - friendly
 organizations:
   - "[[West Valence Saints]]"
-locations:
-  - "[[Westreach]]"
 associates:
 brief: Former Saint who failed his initiation into the Lightning Crew
 tags:
+status:
+  - alive
+locations:
+  - "[[Westreach]]"
 ---
 
-![[npc_Kieran.webp]]
+![[npc_kierangraves.webp]]
 
 # Description
 
 Former [[West Valence Saints|Saint]] ([[Lightning Crew]]) who failed his initiation in the [[BB Megatower]] by refusing to kill a badly beaten [[Jax Riven]].
-
 
 # Notes
 

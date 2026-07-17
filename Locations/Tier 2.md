@@ -1,11 +1,10 @@
 ---
-title: Tier 2
 dg-publish: true
-aliases:
 type: location
+aliases:
 cover: "[[location_Tier2.webp]]"
 created: 2026-07-09
-modified: 2026-07-14
+modified: 2026-07-16
 district:
 parent: "[[BB Megatower]]"
 associations:
@@ -13,7 +12,6 @@ associations:
   - "[[Cult of the Machine God]]"
 tags:
 ---
-
 
 # Notes
 
@@ -30,9 +28,11 @@ views:
     filters:
       and:
         - parent.contains("Tier 2")
+    order:
+      - file.name
     indentProperties: true
-```
 
+```
 
 # NPCs
 
@@ -41,23 +41,24 @@ filters:
   and:
     - type == "npc"
     - file.folder != "admin/templates"
+formulas:
+  location_names: locations.join(", ")
+  cover_url: if(cover.contains("("), cover.split("(")[1].replace(")", "").trim(), cover)
 views:
   - type: cards
     name: Location-embedonly
     filters:
       and:
-        - locations.contains("Tier 2")
+        - formula.location_names.contains("Tier 2")
     order:
       - file.name
       - brief
-    image: note.cover
+    image: formula.cover_url
     cardSize: 240
-    imageAspectRatio: 1.15
+    imageAspectRatio: 1.3
+    imageFit: contain
 
 ```
-
-
-
 
 # Maps
 

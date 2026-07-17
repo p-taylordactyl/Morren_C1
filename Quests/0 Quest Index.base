@@ -23,6 +23,7 @@ views:
         direction: ASC
     columnSize:
       note.quest_location: 154
+    rowHeight: medium
   - type: table
     name: Completed
     filters:

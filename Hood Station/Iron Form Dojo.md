@@ -1,5 +1,4 @@
 ---
-title: Iron Form Dojo
 dg-publish: true
 aliases:
   - Dojo

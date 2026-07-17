@@ -1,6 +1,6 @@
 ---
 title: Welcome to Hood Station!
-modified: 2026-07-14
+modified: 2026-07-16
 created: 2026-06-30
 dg-publish: true
 dg-home: true
@@ -12,7 +12,7 @@ dg-home: true
 # Hood's Watch
 
 > [!cards] 
-> ** [[Katriel Buchanon|Kat Buchanon]]**
+>  **[[Katriel Buchanon|Kat Buchanon]]**
 > ![[pc_katrielbuchanon_firstdisguise.webp|center portrait]]
 >
 > **[[Gideon Oublier]]**

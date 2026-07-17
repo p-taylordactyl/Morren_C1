@@ -1,24 +1,24 @@
 ---
-title: Mystery Burger Man
 dg-publish: true
-aliases:
 type: npc
+aliases:
 cover: "[[npc_mysteryburgerman.webp]]"
 created: 2026-07-09
 modified: 2026-07-09
-status:
-  - alive
 disposition:
   - neutral
   - friendly
   - unknown
 organizations:
-locations:
-  - "[[BB Megatower]]"
 associates:
 brief: A mysterious connoisseur of the various burgers available in the BB Megatower
 tags:
+status:
+  - alive
+locations:
+  - "[[BB Megatower]]"
 ---
+
 ![[npc_mysteryburgerman.webp]]
 
 # Description

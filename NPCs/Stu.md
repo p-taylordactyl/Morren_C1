@@ -1,26 +1,26 @@
 ---
-title: Stu
 dg-publish: true
-aliases:
 type: npc
-cover: "[[npc_Stu.webp]]"
+aliases:
+cover: "[[npc_stu.webp]]"
 created: 2026-07-09
-modified: 2026-07-09
-status:
-  - alive
+modified: 2026-07-16
 disposition:
   - unfriendly
   - neutral
 organizations:
-locations:
-  - "[[BB Megatower]]"
-  - "[[Tier 2]]"
-  - "[[Ransom Location]]"
 associates:
   - "[[Stalker]]"
 brief: A hired thug working for the Stalker
 tags:
+status:
+  - alive
+locations:
+  - "[[BB Megatower]]"
+  - "[[Tier 2]]"
+  - "[[Ransom Location]]"
 ---
+
 ![[npc_Stu.webp]]
 
 # Description

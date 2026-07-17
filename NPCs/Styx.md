@@ -1,22 +1,22 @@
 ---
-title: Styx
 dg-publish: true
-aliases:
 type: npc
-cover: "[[placeholder.webp]]"
+aliases:
+cover: "[[placeholder2.webp]]"
 created: 2026-07-08
-modified: 2026-07-10
-status:
-  - unknown
+modified: 2026-07-16
 disposition:
   - unknown
 organizations:
-locations:
 associates:
   - "[[Nyx]]"
 brief: Nyx's missing brother who is presumed to be trapped in a cursed Hamlet Keeper game
 tags:
+status:
+  - unknown
+locations:
 ---
+
 ![[npc_Styx.webp]]
 
 # Description
@@ -26,7 +26,6 @@ tags:
 # Notes
 
 - Styx was not trapped in the OG Hamlet Keeper 
-
 
 # Session Mentions
 

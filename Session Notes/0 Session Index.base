@@ -20,6 +20,8 @@ views:
       - ingame_start
       - ingame_finish
       - locations
+    columnSize:
+      file.name: 111
   - type: table
     name: Encounters
     filters:

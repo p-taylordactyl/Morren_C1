@@ -1,25 +1,25 @@
 ---
-title: Rusk Ironline
 dg-publish: true
+type: npc
 aliases:
   - Rusk
-type: npc
 cover: "[[npc_ruskironline.webp]]"
 created: 2026-07-06
 modified: 2026-07-10
-status:
-  - alive
 disposition:
   - neutral
 organizations:
   - "[[Bellanova Family]]"
-locations:
-  - "[[Not Far Sewer]]"
-  - "[[Pipe Junction]]"
 associates:
 brief: Dwarf who runs Pipe Junction for the Bellanovas
 tags:
+status:
+  - alive
+locations:
+  - "[[Not Far Sewer]]"
+  - "[[Pipe Junction]]"
 ---
+
 ![[npc_ruskironline.webp]]
 
 # Description

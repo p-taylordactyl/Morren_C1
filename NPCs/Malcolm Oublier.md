@@ -1,30 +1,28 @@
 ---
-title: Malcolm Oublier
+dg-publish: true
+type: npc
 aliases:
   - Malcolm
-type: npc
 cover: "[[npc_malcolmoublier.webp]]"
 created: 2026-05-28
 modified: 2026-07-06
-status:
-  - alive
-  - captured
-dg-publish: true
 disposition:
   - friendly
   - annoying
 organizations:
   - "[[Hood Station]]"
-locations:
-  - "[[Hood Station]]"
 associates:
   - "[[Gideon Oublier|Gideon]]"
 brief: Gideon's twin brother and an absolute twerp
 tags:
+status:
+  - alive
+  - captured
+locations:
+  - "[[Hood Station]]"
 ---
 
 ![[npc_malcolmoublier.webp]]
-
 
 # Description
 
@@ -35,7 +33,6 @@ tags:
 - Malcolm currently owes [[Vinny Brassjaw|Brassjaw]] 100 platinum, plus interest - due 1/15/26
 - He was at a casino trying to win big to pay the debt
 - [[Stalker]] texted Gideon a picture of the outside of the casino, and then a picture of Malcolm tied up, asking whether we would give up [[Keena O'Malley|Keena]] or [[Maximilius Adkins|Max]] in trade.
-
 
 # Session Mentions
 

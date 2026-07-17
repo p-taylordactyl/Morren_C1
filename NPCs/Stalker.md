@@ -1,23 +1,22 @@
 ---
-title: Stalker
+dg-publish: true
+type: npc
 aliases:
   - stalker
-type: npc
-cover: "[[placeholder.webp]]"
+cover: "[[placeholder2.webp]]"
 created: 2026-06-22
-modified: 2026-07-10
-status:
-  - alive
-dg-publish: true
+modified: 2026-07-16
 disposition:
   - enemy
 organizations:
   - "[[Titan Corporation]]"
-locations:
-  - unknown
 associates:
 brief: A mysterious individual or group that keeps sending Gideon blackmail material against the party
 tags:
+status:
+  - alive
+locations:
+  - unknown
 ---
 
 ![[npc_Stalker.webp]]

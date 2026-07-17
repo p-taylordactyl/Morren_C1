@@ -108,7 +108,7 @@ As we discuss the ethics of murder, we see a group of [[West Valence Saints|Sain
 
 They push one of their own forward, telling him to finish the job. The [[Kieran Graves|kid]] looks to be 18 and is very hesitant. 
 
-![[npc_kieran.webp]]
+![[npc_kierangraves.webp]]
 
 Kat steps out immediately and tells him he doesn't have to do this. She says that she didn't and she made it out. The priest calls her a traitor, but Kat's words were enough to keep the kid from going through with it. The Saints attack and the kid fights with us.
 

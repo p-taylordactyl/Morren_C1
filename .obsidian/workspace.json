@@ -8,48 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3c642b8cf4804608",
+            "id": "13a4b640c45740ee",
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Quests/0 Quest Index.base",
-                "viewName": "All"
+                "file": "Home.md",
+                "mode": "source",
+                "source": false
               },
               "pinned": true,
-              "icon": "lucide-table",
-              "title": "0 Quest Index"
-            }
-          },
-          {
-            "id": "20c3a0cd05f9f740",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "NPC/0 NPC Index.base",
-                "viewName": "All"
-              },
-              "pinned": true,
-              "icon": "lucide-layout-grid",
-              "title": "0 NPC Index"
-            }
-          },
-          {
-            "id": "2c192798ec642280",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Session Notes/0 Session Index.base",
-                "viewName": "All"
-              },
-              "pinned": true,
-              "icon": "lucide-table",
-              "title": "0 Session Index"
+              "icon": "lucide-file",
+              "title": "Home"
             }
           },
           {
@@ -64,44 +35,6 @@
                 "source": false
               },
               "pinned": true,
-              "icon": "lucide-file",
-              "title": "Session 11"
-            }
-          },
-          {
-            "id": "acbccb521ba7c151",
-            "type": "leaf",
-            "state": {
-              "type": "digital-garden-publication-center",
-              "state": {},
-              "icon": "book-up",
-              "title": "Publication Center"
-            }
-          },
-          {
-            "id": "13a4b640c45740ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "323738d926bba922",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 11.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
               "title": "Session 11"
             }
@@ -123,17 +56,41 @@
             }
           },
           {
+            "id": "acbccb521ba7c151",
+            "type": "leaf",
+            "state": {
+              "type": "digital-garden-publication-center",
+              "state": {},
+              "icon": "book-up",
+              "title": "Publication Center"
+            }
+          },
+          {
+            "id": "323738d926bba922",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Districts/Cloud District.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cloud District"
+            }
+          },
+          {
             "id": "c8b850488354fe7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Updates.md",
+                "file": "Hood Station/Hood Station.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Updates"
+              "title": "Hood Station"
             }
           },
           {
@@ -142,16 +99,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Not Far Sewer.md",
+                "file": "NPCs/The Driftwarden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Not Far Sewer"
+              "title": "The Driftwarden"
+            }
+          },
+          {
+            "id": "b836dafa275983ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NPCs/Cillian Ward.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cillian Ward"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -208,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 206.5
   },
   "right": {
     "id": "75db2d57aea98827",
@@ -284,10 +255,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Updates.md"
+                "file": "Hood Station/Hood Station.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Updates"
+              "title": "File properties for Hood Station"
             }
           },
           {
@@ -338,54 +309,92 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
+  "floating": {
+    "id": "96d7fa130cb3ba0d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f23c47cb07bfddcb",
+        "type": "window",
+        "children": [
+          {
+            "id": "45d291c28d03aa7b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ce44509fe44dca14",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "admin/Base Embeds.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Base Embeds"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1440,
+        "y": -618,
+        "width": 1440,
+        "height": 1256,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "c8b850488354fe7c",
   "lastOpenFiles": [
-    "admin/Base Embeds.md",
-    "Locations/Not Far Sewer.md",
-    "Locations/Districts/Crownlight Strip.md",
-    "Locations/Districts/The Rust Yards.md",
-    "Locations/Districts/Mooring Wards.md",
-    "Locations/Districts/Heart of Valence.md",
-    "Locations/Districts/Flooded Zone.md",
-    "Locations/Districts/The Scar.md",
-    "Locations/Districts/Westreach.md",
-    "Locations/Districts/Cloud District.md",
-    "Locations/BB Megatower.md",
-    "admin/templates/Location.md",
-    "Locations/Krystal's.md",
-    "Locations/Ransom Location.md",
-    "Locations/The Kitchen.md",
-    "Locations/Tier 3.md",
-    "Locations/Quiet Place.md",
-    "Locations/Relay Shrine.md",
-    "Locations/Neon Corridor.md",
-    "Locations/Tier 2.md",
-    "Locations/Penthouse.md",
-    "Locations/NovaStyle Group Galleria.md",
-    "Locations/Crownlight Media Studio Lot.md",
-    "Locations/Crownlight Heights.md",
-    "Locations/Central Park.md",
-    "Locations/Mariner's Reach Wharf.md",
-    "Locations/0 Location Index.base",
-    "admin/scripts",
-    "NPCs/0 NPC Index.base",
-    "Factions and Groups/0 Faction Index.base",
-    "Quests/0 Quest Index.base",
     "Session Notes/0 Session Index.base",
-    "admin/assets/pc_doriancaldwell.webp",
-    "admin/assets/npc_nyralightwell.webp",
-    "admin/assets/npc_kairovoss.webp",
-    "admin/assets/location_hoodstation_ironformdojo.webp",
-    "admin/assets/npc_ghostsquadleader.webp",
-    "admin/assets/session12_map1.webp",
+    "Hood Station/Hood Station.md",
+    "NPCs/0 NPC Index.base",
+    "Factions and Groups/Religious/Cult of the Machine God.md",
+    "admin/Base Embeds.md",
+    "admin/templates/Group.md",
+    "admin/templates/Faction.md",
+    "Factions and Groups/Corporate/Aegis Response Group.md",
+    "Factions and Groups/Underground/West Valence Saints.md",
+    "Factions and Groups/Underground/Old Valence Stevedore Union.md",
+    "Factions and Groups/Underground/Old Guard.md",
+    "Factions and Groups/Underground/Mariner's Reach.md",
+    "Factions and Groups/Underground/Lightning Crew.md",
+    "Factions and Groups/Underground/Ghosts of the Flooded Zone.md",
+    "Factions and Groups/Underground/Dominion Crew.md",
+    "Factions and Groups/Underground/Box Boys.md",
+    "Factions and Groups/Underground/Bellanova Family.md",
+    "Factions and Groups/Misc/Sludge Farmers.md",
+    "Factions and Groups/Misc/Sewer Goblins.md",
+    "Factions and Groups/Corporate/Valencian Seahorses.md",
+    "Factions and Groups/Corporate/Titan Corporation.md",
+    "Factions and Groups/Corporate/Paragon Soundworks.md",
+    "Factions and Groups/Corporate/Oligarchs.md",
+    "Factions and Groups/Corporate/NovaStyle Group.md",
+    "Factions and Groups/Corporate/Infinity Plaza Mall.md",
+    "Factions and Groups/Corporate/Enforcers.md",
+    "Factions and Groups/Corporate/Crownlight Media.md",
+    "Locations/0 Location Index.base",
+    "admin/assets/placeholder2.webp",
+    "admin/assets/placeholder2.webp",
+    "admin/assets/placeholder.webp",
+    "admin/assets/placeholder1.webp",
+    "admin/assets/hamletkeeper_2_itsrealbad.webp",
+    "admin/assets/npc_nyx.webp",
+    "admin/assets/hamletkeeper.webp",
+    "admin/assets/session10_map2.webp",
+    "admin/assets/misc/primer_cover.webp",
+    "admin/assets/factions/faction_westvalencesaints.webp",
+    "Quests/0 Quest Index.base",
+    "admin/scripts",
+    "Factions and Groups/0 Faction Index.base",
     "Factions and Groups/Underground",
     "Factions and Groups/Misc",
     "Factions and Groups/Religious",
     "Factions and Groups/Corporate",
-    "admin/assets/placeholder-1.webp",
-    "admin/assets/placeholder.webp",
-    "admin/assets/image-1.webp",
-    "admin/assets/npc_stu.webp",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas"
   ]

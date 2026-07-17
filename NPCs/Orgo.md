@@ -1,28 +1,28 @@
 ---
-title: Orgo
 dg-publish: true
-aliases:
 type: npc
-cover: "[[placeholder.webp]]"
+aliases:
+cover: "[[placeholder2.webp]]"
 created: 2026-07-06
-modified: 2026-07-10
-status:
-  - alive
+modified: 2026-07-16
 disposition:
   - neutral
 organizations:
+associates:
+  - "[[Morgo]]"
+brief: A drug addict the party encountered outside the Quiet Place
+tags:
+  - drugs
+status:
+  - alive
 locations:
   - "[[BB Megatower]]"
   - "[[Tier 2]]"
   - "[[Quiet Place]]"
   - "[[Tier 3]]"
   - "[[The Kitchen]]"
-associates:
-  - "[[Morgo]]"
-brief: A drug addict the party encountered outside the Quiet Place
-tags:
-  - drugs
 ---
+
 ![[npc_Orgo.webp]]
 
 # Description

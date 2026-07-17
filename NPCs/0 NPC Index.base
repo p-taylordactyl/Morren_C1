@@ -16,7 +16,7 @@ views:
     columnSize:
       note.brief: 454
     image: note.cover
-    imageAspectRatio: 1.05
+    imageAspectRatio: 1.3
     imageFit: contain
     cardSize: 240
   - type: cards

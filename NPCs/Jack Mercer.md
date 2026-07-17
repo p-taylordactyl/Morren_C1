@@ -1,24 +1,23 @@
 ---
-title: Jack Mercer
+dg-publish: true
+type: npc
 aliases:
   - Jack
-type: npc
-cover: "[[npc_JackMercer.webp]]"
+cover: "[[npc_jackmercer.webp]]"
 created: 2026-06-22
-modified: 2026-07-06
-status:
-  - alive
-dg-publish: true
+modified: 2026-07-16
 disposition:
   - neutral
   - friendly
   - unknown
 organizations:
-locations:
-  - "[[BB Megatower]]"
 associates:
 brief: A popular Oogtuber who collects rare media and comic books
 tags:
+status:
+  - alive
+locations:
+  - "[[BB Megatower]]"
 ---
 
 ![[npc_JackMercer.webp]]

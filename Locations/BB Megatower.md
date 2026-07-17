@@ -1,12 +1,11 @@
 ---
-title: BB Megatower
-dg-publish: false
-aliases:
+dg-publish: true
 type: location
-district: "[[Cloud District]]"
+aliases:
 cover: "[[location_BBMegatower.webp]]"
 created: 2026-06-03
-modified: 2026-07-14
+modified: 2026-07-16
+district: "[[Cloud District]]"
 parent: "[[Bellanova Towers]]"
 associations:
   - "[[Bellanova Family|Bellanova Family]]"
@@ -30,13 +29,15 @@ views:
     filters:
       and:
         - parent.contains("BB Megatower")
+    order:
+      - file.name
     indentProperties: true
+
 ```
 
 ### Quests
 
 ![[0 Quest Index.base#location-embedonly]]
-
 
 # NPCs
 
@@ -45,21 +46,24 @@ filters:
   and:
     - type == "npc"
     - file.folder != "admin/templates"
+formulas:
+  location_names: locations.join(", ")
+  cover_url: if(cover.contains("("), cover.split("(")[1].replace(")", "").trim(), cover)
 views:
   - type: cards
     name: Location-embedonly
     filters:
       and:
-        - locations.contains("BB Megatower")
+        - formula.location_names.contains("BB Megatower")
     order:
       - file.name
       - brief
-    image: note.cover
+    image: formula.cover_url
     cardSize: 240
-    imageAspectRatio: 1.15
+    imageAspectRatio: 1.3
+    imageFit: contain
 
 ```
-
 
 # Maps
 

@@ -1,31 +1,29 @@
 ---
-title: Róisín Ward
+dg-publish: true
+type: npc
 aliases:
   - Róisín
-type: npc
 cover: "[[npc_róisínward.webp]]"
 created: 2026-05-21
 modified: 2026-07-14
-dg-publish: true
-status:
-  - alive
 disposition:
   - friendly
 organizations:
   - "[[Hood Station]]"
-locations:
-  - "[[Hood Station]]"
-  - "[[BB Megatower]]"
 associates:
   - "[[Keena O'Malley|Keena]]"
   - "[[Cillian Ward|Cillian]]"
   - "[[Vinny Brassjaw|Brassjaw]]"
 brief: Keena's cousin, who lost an arm in a Titan Corporation accident.
 tags:
+status:
+  - alive
+locations:
+  - "[[Hood Station]]"
+  - "[[BB Megatower]]"
 ---
 
 ![[npc_Róisín.webp]]
-
 
 # Description
 

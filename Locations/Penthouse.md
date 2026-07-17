@@ -1,24 +1,20 @@
 ---
-title: Penthouse
 dg-publish: true
-aliases:
 type: location
-district: "[[Cloud District]]"
+aliases:
 cover: "[[location_ThePenthouse.webp]]"
 created: 2026-06-08
-modified: 2026-07-14
+modified: 2026-07-16
+district: "[[Cloud District]]"
 parent: "[[BB Megatower]]"
 associations:
 tags:
 ---
 
-
-
 # Notes
 
 - Top of the BB Megatower, visited for quest [[Penthouse Signal Rehearsal]]
 - space was supposed to be abandoned but actually appears to be some kind of bougie OogBnB/rental situation 
-
 
 # NPCs
 
@@ -27,21 +23,24 @@ filters:
   and:
     - type == "npc"
     - file.folder != "admin/templates"
+formulas:
+  location_names: locations.join(", ")
+  cover_url: if(cover.contains("("), cover.split("(")[1].replace(")", "").trim(), cover)
 views:
   - type: cards
     name: Location-embedonly
     filters:
       and:
-        - locations.contains("Penthouse")
+        - formula.location_names.contains("Penthouse")
     order:
       - file.name
       - brief
-    image: note.cover
+    image: formula.cover_url
     cardSize: 240
-    imageAspectRatio: 1.15
+    imageAspectRatio: 1.3
+    imageFit: contain
 
 ```
-
 
 # Maps
 

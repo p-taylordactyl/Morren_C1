@@ -1,12 +1,11 @@
 ---
-title: Endline Garage
 dg-publish: true
 aliases:
   - garage
 type: group
 cover:
 created: 2026-05-08
-modified: 2026-07-14
+modified: 2026-07-16
 parent: "[[Hood Station]]"
 associations:
   - "[[Katriel Buchanon|Kat Buchanon]]"

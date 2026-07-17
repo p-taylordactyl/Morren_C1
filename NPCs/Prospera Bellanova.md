@@ -1,32 +1,29 @@
 ---
-title: Prospera Bellanova
+dg-publish: true
+type: npc
 aliases:
   - Prospera
-type: npc
-cover: "[[placeholder.webp]]"
+cover: "[[placeholder2.webp]]"
 created: 2026-05-25
-modified: 2026-07-10
-status:
-  - alive
-dg-publish: true
+modified: 2026-07-16
 disposition:
   - unknown
 organizations:
   - "[[Bellanova Family]]"
-locations:
 associates:
   - "[[Rosetta Thorne]]"
 brief: High-ranking member of the Bellanova Family
 tags:
+status:
+  - alive
+locations:
 ---
 
 ![[npc_ProsperaBellanova.webp]]
 
-
 # Description
 
 High-ranking member of the Bellanova Family. 
-
 
 # Notes
 

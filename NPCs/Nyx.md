@@ -1,25 +1,25 @@
 ---
-title: Nyx
 dg-publish: true
-aliases:
 type: npc
-cover: "[[npc_Nyx.webp]]"
+aliases:
+cover: "[[npc_nyx.webp]]"
 created: 2026-07-08
-modified: 2026-07-09
-status:
-  - alive
+modified: 2026-07-16
 disposition:
   - friendly
 organizations:
-locations:
-  - "[[BB Megatower]]"
-  - "[[Tier 2]]"
-  - "[[Quiet Place]]"
 associates:
   - "[[Styx]]"
 brief: A tiefling woman searching for her missing brother, Styx
 tags:
+status:
+  - alive
+locations:
+  - "[[BB Megatower]]"
+  - "[[Tier 2]]"
+  - "[[Quiet Place]]"
 ---
+
 ![[npc_Nyx.webp]]
 
 # Description

@@ -1,36 +1,30 @@
 ---
-title: Pipey
-aliases:
-type: npc
-cover: "[[placeholder.webp]]"
-created: 2026-04-29
-modified: 2026-07-10
 dg-publish: true
-status:
-  - alive
+type: npc
+aliases:
+cover: "[[placeholder2.webp]]"
+created: 2026-04-29
+modified: 2026-07-16
 disposition:
   - neutral
   - friendly
   - unknown
 organizations:
-locations:
-  - "[[Not Far Sewer]]"
 associates:
 brief: A mysterious tiefling hanging out in a sewer pipe
 tags:
+status:
+  - alive
+locations:
+  - "[[Not Far Sewer]]"
 ---
-
-![[npc_Pipey.webp]]
-
+![[placeholder2.webp|hsmall]]
 
 # Description
 
 Mysterious tiefling we met in a pipe in the [[Not Far Sewer]]. Wouldn't give his real name but did kind of sort of point us towards [[Pipe Junction]].
 
 # Notes
-
-
-
 
 # Session Appearances
 

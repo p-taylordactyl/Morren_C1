@@ -1,29 +1,27 @@
 ---
-title: Barron Sutton
+dg-publish: true
+type: npc
 aliases:
   - Barron
-type: npc
-cover: "[[npc_BarronSutton.webp]]"
+cover: "[[npc_barronsutton.webp]]"
 created: 2026-05-21
-modified: 2026-07-09
-dg-publish: true
-status:
-  - alive
+modified: 2026-07-16
 disposition:
   - unknown
 organizations:
   - "[[Crownlight Media]]"
-locations:
-  - "[[Crownlight Media Studio Lot]]"
-  - "[[Not Far Sewer]]"
 associates:
   - "[[Maximilius Adkins|Max]]"
 brief: Max's former colleague at Crownlight Media
 tags:
+status:
+  - alive
+locations:
+  - "[[Crownlight Media Studio Lot]]"
+  - "[[Not Far Sewer]]"
 ---
 
 ![[npc_BarronSutton.webp]]
-
 
 # Description
 

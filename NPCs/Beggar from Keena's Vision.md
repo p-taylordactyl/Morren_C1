@@ -1,25 +1,25 @@
 ---
-title: Beggar from Keena's Vision
 dg-publish: true
+type: npc
 aliases:
   - beggar
-type: npc
-cover: "[[npc_KeenaVisionBeggar.webp]]"
+cover: "[[npc_keenavisionbeggar.webp]]"
 created: 2026-07-09
-modified: 2026-07-13
-status:
-  - alive
+modified: 2026-07-16
 disposition:
   - neutral
   - unknown
 organizations:
-locations:
-  - "[[BB Megatower]]"
-  - "[[Tier 2]]"
 associates:
 brief: A blind and mute beggar that appeared in one of Keena's visions with a message that he must die
 tags:
+status:
+  - alive
+locations:
+  - "[[BB Megatower]]"
+  - "[[Tier 2]]"
 ---
+
 ![[npc_KeenaVisionBeggar.webp|537]]
 
 # Description
@@ -72,7 +72,6 @@ He gestures to himself, and then makes a W shape with his fingers, coming at him
 Keena doesn't understand what that means. The beggar seems unsettled by the questioning and is getting ready to leave.
 
 Keena asks if he's here every day and he shrugs in like a "probably" sort of way before heading out.
-
 
 # Session Mentions
 

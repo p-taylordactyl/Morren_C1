@@ -1,12 +1,10 @@
 ---
-title: Ozwin Wicker
 dg-publish: false
-aliases:
 type: npc
-cover: "[[npc_OzwinWicker.webp]]"
-created:
-modified:
-status:
+aliases:
+cover: "[[npc_ozwinwicker.webp]]"
+created: 2026-07-13
+modified: 2026-07-16
 disposition:
   - enemy
   - unfriendly
@@ -15,19 +13,21 @@ disposition:
   - ally
   - unknown
 organizations:
-locations:
 associates:
 brief:
 tags:
   - under_construction
+status:
+locations:
 ---
+
 ![[npc_OzwinWicker.webp]]
 
 # Description
 
+- most likely the guy from Keena's Vision
 
 # Notes
-
 
 # Session Mentions
 

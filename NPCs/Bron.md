@@ -1,23 +1,22 @@
 ---
-title: Bron
-aliases:
-type: npc
-cover: "[[npc_Bron.webp]]"
-created: 2026-06-22
-modified: 2026-07-09
-status:
-  - alive
 dg-publish: true
+type: npc
+aliases:
+cover: "[[npc_bron.webp]]"
+created: 2026-06-22
+modified: 2026-07-16
 disposition:
   - neutral
   - friendly
 organizations:
-locations:
-  - "[[Neon Corridor]]"
 associates:
   - "[[Paintbrush Gnome]]"
 brief: A pawn broker of sorts who runs the Neon Corridor
 tags:
+status:
+  - alive
+locations:
+  - "[[Neon Corridor]]"
 ---
 
 ![[npc_Bron.webp]]

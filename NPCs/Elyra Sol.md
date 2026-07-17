@@ -1,22 +1,21 @@
 ---
-title: Elyra Sol
+dg-publish: true
+type: npc
 aliases:
   - Elyra
-type: npc
-cover: "[[npc_ElyraSol.webp]]"
+cover: "[[npc_elyrasol.webp]]"
 created: 2026-06-22
-modified: 2026-07-06
-status:
-  - alive
-dg-publish: false
+modified: 2026-07-16
 disposition:
   - unknown
 organizations:
-locations:
-  - "[[Penthouse]]"
 associates:
 brief: Some kind of filmmaker that was staying at the penthouse of the BB Megatower
 tags:
+status:
+  - alive
+locations:
+  - "[[Penthouse]]"
 ---
 
 ![[npc_ElyraSol.webp]]

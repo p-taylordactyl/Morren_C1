@@ -11,8 +11,7 @@
         "Locations",
         "Session Notes",
         "Quests",
-        "Timeline.md",
-        "Updates.md"
+        "Timeline.md"
       ],
       "sortOrder": "custom"
     },
@@ -115,7 +114,7 @@
         "admin/assets/npc_jackmercer.webp",
         "admin/assets/location_bbmegatower_neoncorridor.webp",
         "admin/assets/npc_Bron.webp",
-        "admin/assets/npc_kieran.webp",
+        "admin/assets/npc_kierangraves.webp",
         "admin/assets/misc_enforcer.webp",
         "admin/assets/npc_paintbrushgnome.webp",
         "admin/assets/session8_map3.webp",
@@ -149,13 +148,15 @@
         "admin/assets/session11_map3.webp",
         "admin/assets/location_bbmegatower_tier2_ransomlocation.webp",
         "admin/assets/npc_stu.webp",
-        "admin/assets/placeholder.webp",
-        "admin/assets/placeholder-1.webp",
+        "admin/assets/placeholder1.webp",
         "admin/assets/session12_map1.webp",
         "admin/assets/npc_ghostsquadleader.webp",
         "admin/assets/location_hoodstation_ironformdojo.webp",
         "admin/assets/npc_kairovoss.webp",
-        "admin/assets/npc_nyralightwell.webp"
+        "admin/assets/npc_nyralightwell.webp",
+        "admin/assets/pc_doriancaldwell_firstdisguisealt.webp",
+        "admin/assets/placeholder.webp",
+        "admin/assets/placeholder2.webp"
       ],
       "sortOrder": "custom"
     },
@@ -206,11 +207,11 @@
     },
     "Factions and Groups": {
       "children": [
+        "Factions and Groups/0 Faction Index.base",
         "Factions and Groups/Corporate",
         "Factions and Groups/Misc",
         "Factions and Groups/Religious",
-        "Factions and Groups/Underground",
-        "Factions and Groups/0 Faction Index.base"
+        "Factions and Groups/Underground"
       ],
       "sortOrder": "custom"
     },

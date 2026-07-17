@@ -1,18 +1,12 @@
 ---
-title: Rosetta Thorne
-aliases:
-  - Rosetta "The Thorn" Thorne
-  - Rosetta
-  - Rosie
-  - The Thorn
-  - Miss Rosie
-type: npc
-cover: "[[npc_RosettaThorne.webp]]"
-created: 2026-05-25
-modified: 2026-07-06
 dg-publish: true
-status:
-  - alive
+type: npc
+aliases:
+  - Rosetta
+  - Miss Rosie
+cover: "[[npc_rosettathorne.webp]]"
+created: 2026-05-25
+modified: 2026-07-16
 disposition:
   - neutral
   - friendly
@@ -20,13 +14,15 @@ disposition:
 organizations:
   - "[[Hood Station]]"
   - "[[Protective Association for Wayward and Neglected Strays]]"
-locations:
-  - "[[Hood Station]]"
 associates:
   - "[[Silas Sorelli|Silas]]"
   - "[[Dorian Caldwell|Dorian]]"
 brief: Leader of P.A.W.N.S. and dubious associate of Silas and Dorian
 tags:
+status:
+  - alive
+locations:
+  - "[[Hood Station]]"
 ---
 
 > [!cards|c-p-lg] 
@@ -35,7 +31,6 @@ tags:
 >
 > **Rosetta "The Thorn**
 > ![[npc_rosettathorne.webp|cover]]
-
 
 # Description
 
@@ -48,7 +43,6 @@ Rosetta "the Thorn" Thorne, Queen of the [[Protective Association for Wayward an
 # Session Mentions
 
 ![[0 Session Index.base#Encounters]]
-
 
 # Quests
 

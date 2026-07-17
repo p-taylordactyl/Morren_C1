@@ -1,26 +1,25 @@
 ---
-title: Kali Torreo
 dg-publish: true
+type: npc
 aliases:
   - Kali
   - Commander Torreo
-type: npc
-cover: "[[placeholder.webp]]"
+cover:
 created: 2026-05-25
-modified: 2026-07-10
-status:
-  - alive
+modified: 2026-07-16
 disposition:
   - unknown
 organizations:
   - "[[Ghosts of the Flooded Zone]]"
-locations:
-  - "[[Flooded Zone]]"
 associates:
   - "[[Silas Sorelli|Silas]]"
   - "[[Vinny Brassjaw|Brassjaw]]"
 brief: Silas's childhood friend who joined the Ghosts of the Flooded Zone
 tags:
+status:
+  - alive
+locations:
+  - "[[Flooded Zone]]"
 ---
 
 ![[npc_KaliTorreo.webp]]

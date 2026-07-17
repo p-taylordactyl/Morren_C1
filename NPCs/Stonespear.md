@@ -1,26 +1,25 @@
 ---
-title: Stonespear
 dg-publish: true
-aliases:
 type: npc
-cover: "[[npc_Stonespear.webp]]"
+aliases:
+cover: "[[npc_stonespear.webp]]"
 created: 2026-07-06
-modified: 2026-07-09
-status:
-  - alive
+modified: 2026-07-16
 disposition:
   - friendly
 organizations:
+associates:
+brief: A huge man who Kat helped rob an ATM outside the Quiet Place
+tags:
+status:
+  - alive
 locations:
   - "[[BB Megatower]]"
   - "[[Tier 2]]"
   - "[[Quiet Place]]"
-associates:
-brief: A huge man who Kat helped rob an ATM outside the Quiet Place
-tags:
 ---
 
-![[npc_Stonespear.webp]]
+![[npc_Stonespear.webp|htall]]
 
 # Description
 

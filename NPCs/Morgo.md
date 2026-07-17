@@ -1,13 +1,11 @@
 ---
-title: Morgo
 dg-publish: true
+type: npc
 aliases:
   - the chef
-type: npc
-cover: "[[placeholder.webp]]"
+cover: "[[placeholder2.webp]]"
 created: 2026-07-06
-modified: 2026-07-10
-status:
+modified: 2026-07-16
 disposition:
   - enemy
   - unfriendly
@@ -16,15 +14,17 @@ disposition:
   - ally
   - unknown
 organizations:
-locations:
-  - "[[BB Megatower]]"
-  - "[[Tier 3]]"
-  - "[[The Kitchen]]"
 associates:
   - "[[Orgo]]"
 brief: The "chef" who makes the drug known as Red Thunder
 tags:
+status:
+locations:
+  - "[[BB Megatower]]"
+  - "[[Tier 3]]"
+  - "[[The Kitchen]]"
 ---
+
 ![[npc_Morgo.webp]]
 
 # Description

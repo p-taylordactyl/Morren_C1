@@ -1,24 +1,24 @@
 ---
-title: Animator
 dg-publish: true
-aliases:
 type: npc
+aliases:
 cover: "[[npc_animator.webp]]"
 created: 2026-07-06
 modified: 2026-07-13
-status:
-  - alive
 disposition:
   - neutral
   - unknown
 organizations:
-locations:
-  - "[[BB Megatower]]"
-  - "[[Tier 2]]"
 associates:
 brief: A man who sells animated paintings he creates using a magic paintbrush
 tags:
+status:
+  - alive
+locations:
+  - "[[BB Megatower]]"
+  - "[[Tier 2]]"
 ---
+
 ![[npc_animator.webp]]
 
 # Description
@@ -29,6 +29,7 @@ A man who can bring paintings to life using a magic paintbrush
 
 - the paintbrush he uses is likely the one [[Paintbrush Gnome]] claims [[Bron]] stole (that Bron says he validly sold)
 - 
+
 # Session Mentions
 
 ![[0 Session Index.base#Encounters]]

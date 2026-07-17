@@ -1,26 +1,24 @@
 ---
-title: Lumen Veil
+dg-publish: true
+type: npc
 aliases:
   - Lumen
-type: npc
 cover: "[[npc_lumenveil.webp]]"
 created: 2026-05-04
 modified: 2026-07-06
-dg-publish: true
-status:
-  - alive
 disposition:
   - friendly
 organizations:
   - "[[Cael Foundation]]"
-locations:
 associates:
 brief: A superhero with the Cael Foundation, powered by his Lumenite suit
 tags:
+status:
+  - alive
+locations:
 ---
 
 ![[npc_LumenVeil.webp]]
-
 
 # Description
 

@@ -1,13 +1,13 @@
 ---
-title: Hood Station
 dg-publish: true
 aliases:
+  - station
 type:
   - faction
   - location
 cover:
 created: 2026-05-20
-modified: 2026-07-14
+modified: 2026-07-16
 district: "[[Cloud District]]"
 parent:
 associations:
@@ -41,20 +41,38 @@ filters:
   and:
     - type == "npc"
     - file.folder != "admin/templates"
+formulas:
+  location_names: locations.join(", ")
+  organization_names: organizations.join(", ")
+  cover_url: 'if(cover.contains("("), cover.split("(")[1].replace(")", "").trim(), cover)'
+  test_toString: cover.toString()
+  test_replace_only: cover.replace("[[", "").replace("]]", "")
+  test_split: cover.split("(")[1].replace(")", "").trim()
+
 views:
   - type: cards
-    name: Organizations-embedonly
+    name: Location-embedonly
     filters:
-      and:
-        - organizations.contains("Hood Station")
+      or:
+        - formula.location_names.contains("Hood Station")
+          
     order:
       - file.name
       - brief
-      - locations
-      - associates
-    image: note.cover
+    image: formula.cover_url
     cardSize: 240
-    imageAspectRatio: 1.1
+    imageAspectRatio: 1.15
+  - type: table
+    name: Debug
+    order:
+      - file.name
+      - cover
+      - formula.test_split
+      - formula.cover_url
+      - formula.test_toString
+      - formula.test_replace_only
+
+
 ```
 
 

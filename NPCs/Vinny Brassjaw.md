@@ -1,29 +1,28 @@
 ---
-title: Vinny Brassjaw
+dg-publish: true
+type: npc
 aliases:
   - Vinny
   - Brassjaw
-type: npc
 cover: "[[npc_vinnybrassjaw.webp]]"
 created: 2026-06-08
 modified: 2026-07-13
-status:
-  - alive
-dg-publish: true
 disposition:
   - neutral
   - friendly
   - unknown
 organizations:
   - "[[Bellanova Family|Bellanovas]]"
-locations:
-  - "[[BB Megatower]]"
 associates:
   - "[[Kali Torreo]]"
   - "[[Róisín Ward]]"
   - "[[Malcolm Oublier]]"
 brief: A goblin that seems to be the Bellanova boss in the BB Megatower.
 tags:
+status:
+  - alive
+locations:
+  - "[[BB Megatower]]"
 ---
 
 ![[npc_vinnybrassjaw.webp]]
@@ -43,7 +42,6 @@ A goblin that seems to be some kind of crime boss in the [[BB Megatower]].
 # Session Mentions
 
 ![[0 Session Index.base#Encounters]]
-
 
 # Quests
 
