@@ -33,4 +33,23 @@ One of the tech priests serving the [[Cult of the Machine God|Machine Spirit]] a
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("<%tp.file.title%>")
+    order:
+      - file.name
+      - locations
+```

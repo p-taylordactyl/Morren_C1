@@ -20,7 +20,7 @@ locations:
   - unknown
 ---
 
-![[npc_AugustinDevereaux.webp]]
+![[npc_AugustinDevereaux.webp|400]]
 
 # Description
 
@@ -33,4 +33,23 @@ Individual responsible for accident at the [[Titan Corporation]] that killed ove
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Augustin Devereaux")
+    order:
+      - file.name
+      - locations
+```

@@ -1,5 +1,4 @@
 ---
-title: Keena O'Malley
 dg-publish: true
 aliases:
   - Keena
@@ -9,6 +8,7 @@ created: 2026-04-23
 modified: 2026-07-10
 tags:
 ---
+
 > [!infobox]
 > # Keena O'Malley
 > ![[pc_keenaomalley.webp]]

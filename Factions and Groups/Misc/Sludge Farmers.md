@@ -1,4 +1,5 @@
 ---
+dg-publish: true
 type: group
 cover: "[[npc_mirasporehand.webp]]"
 created: 2026-04-29
@@ -10,6 +11,7 @@ locations:
   - "[[Sludge Farm]]"
 tags:
 ---
+
 # Description
 
 A group of people who formed the [[Sludge Farm]] in the [[Not Far Sewer]] to farm...sludge. And mushrooms. 
@@ -47,4 +49,23 @@ views:
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("<%tp.file.title%>")
+    order:
+      - file.name
+      - locations
+```

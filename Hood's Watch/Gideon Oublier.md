@@ -1,5 +1,4 @@
 ---
-title: Gideon Oublier
 dg-publish: true
 aliases:
   - Gideon

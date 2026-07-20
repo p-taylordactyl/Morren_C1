@@ -1,5 +1,4 @@
 ---
-title: Katriel Buchanon
 dg-publish: true
 aliases:
   - Kat
@@ -7,12 +6,13 @@ aliases:
 cover: "[[pc_katbuchanon.webp]]"
 type: player_character
 created: 2026-04-21
-modified: 2026-07-06
+modified: 2026-07-16
 organizations:
   - "[[Hood Station]]"
   - "[[Endline Garage]]"
 tags:
 ---
+
 > [!infobox]
 > # Katriel Buchanon
 > ![[pc_katbuchanon.webp]]

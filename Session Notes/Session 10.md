@@ -1,9 +1,8 @@
 ---
-title: Session 10
 dg-publish: true
 type: session_note
 created: 2026-06-29
-modified: 2026-07-10
+modified: 2026-07-16
 session_date: 06/29/2026
 session_number: 10
 players:

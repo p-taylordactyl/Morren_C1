@@ -18,6 +18,7 @@ status:
 locations:
   - "[[Not Far Sewer]]"
 ---
+
 ![[placeholder2.webp|hsmall]]
 
 # Description
@@ -28,4 +29,23 @@ Mysterious tiefling we met in a pipe in the [[Not Far Sewer]]. Wouldn't give his
 
 # Session Appearances
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Pipey")
+    order:
+      - file.name
+      - locations
+```

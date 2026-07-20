@@ -1,5 +1,4 @@
 ---
-title: The Old Guard
 dg-publish: true
 aliases:
   - Old Guard

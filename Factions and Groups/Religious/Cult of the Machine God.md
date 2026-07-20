@@ -1,5 +1,4 @@
 ---
-title:
 dg-publish: true
 aliases:
   - Machine God worshippers
@@ -14,6 +13,7 @@ locations:
   - "[[Relay Shrine]]"
 tags:
 ---
+
 # Description
 
 People who worship the Machine God and tend to the Machine Spirits they believe live inside mechanical things. 
@@ -51,4 +51,23 @@ views:
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("<%tp.file.title%>")
+    order:
+      - file.name
+      - locations
+```

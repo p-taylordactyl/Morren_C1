@@ -5,7 +5,7 @@ aliases:
   - Mira
 cover: "[[npc_mirasporehand.webp]]"
 created: 2026-04-27
-modified: 2026-07-06
+modified: 2026-07-16
 disposition:
   - friendly
 organizations:
@@ -20,7 +20,7 @@ locations:
   - "[[Sludge Farm]]"
 ---
 
-![[npc_mirasporehand.webp]]
+![[npc_mirasporehand.webp|400]]
 
 # Description
 
@@ -33,4 +33,23 @@ Elfin farmer at the [[Sludge Farm]]. Friendly and generous, even before she foun
 
 # Session Appearances
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Mira Sporehand")
+    order:
+      - file.name
+      - locations
+```

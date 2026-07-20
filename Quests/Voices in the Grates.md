@@ -1,5 +1,4 @@
 ---
-title: Voices in the Grates
 dg-publish: true
 aliases:
 created: 2026-06-01

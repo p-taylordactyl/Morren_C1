@@ -1,9 +1,8 @@
 ---
-title: Session 0
 dg-publish: false
 type: pregame
 created: 2026-04-06
-modified: 2026-07-09
+modified: 2026-07-16
 session_date: 04/06/2026
 missed:
 paid: true

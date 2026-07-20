@@ -29,7 +29,26 @@ Once a custodian of [[Hood Station]] - upon its retiring from service she was un
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Memaw Shoe")
+    order:
+      - file.name
+      - locations
+```
 
 # Quests
 

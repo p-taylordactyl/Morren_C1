@@ -1,5 +1,4 @@
 ---
-title: Maximilius Adkins
 dg-publish: true
 aliases:
   - Max Adkins

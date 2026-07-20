@@ -20,7 +20,7 @@ locations:
   - unknown
 ---
 
-![[npc_HadrianBuchanon.webp]]
+![[npc_HadrianBuchanon.webp|400]]
 
 # Description
 
@@ -32,4 +32,23 @@ In addition to the normal Saints rules, the Dominion had their own additional ru
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Hadrian Buchanon")
+    order:
+      - file.name
+      - locations
+```

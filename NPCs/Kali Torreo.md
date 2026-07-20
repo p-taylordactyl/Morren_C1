@@ -35,4 +35,23 @@ Silas's childhood friend who joined the [[Ghosts of the Flooded Zone]].
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Kali Torreo")
+    order:
+      - file.name
+      - locations
+```

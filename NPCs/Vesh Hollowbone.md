@@ -5,7 +5,7 @@ aliases:
   - Vesh
 cover: "[[npc_veshhollowbone.webp]]"
 created: 2026-05-21
-modified: 2026-07-06
+modified: 2026-07-16
 disposition:
   - friendly
 organizations:
@@ -30,4 +30,23 @@ A tiefling encountered in the [[Bone Culvert]] who died helping the party disrup
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Vesh Hollowbone")
+    order:
+      - file.name
+      - locations
+```

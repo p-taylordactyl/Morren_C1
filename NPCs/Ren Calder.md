@@ -5,7 +5,7 @@ aliases:
   - Ren
 cover: "[[npc_rencalder.webp]]"
 created: 2026-05-04
-modified: 2026-07-14
+modified: 2026-07-16
 disposition:
   - friendly
 organizations:
@@ -22,7 +22,7 @@ locations:
   - "[[Hood Station]]"
 ---
 
-![[npc_rencalder.webp|508]]
+![[npc_rencalder.webp|400]]
 
 # Description
 
@@ -32,7 +32,26 @@ An active member of [[The Redacted]] who is constantly searching for leads and o
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Ren Calder")
+    order:
+      - file.name
+      - locations
+```
 
 # Quests
 

@@ -21,6 +21,7 @@ locations:
 tags:
 dg-home: false
 ---
+
 # Description
 
 Hood Station has been the stage for a variety of actors throughout the years. During the Corporate Wars it was a public bomb shelter - when it was in operation it served as the Headquarters for the [[Bellanova Family]] before they took over the Towers - for a short time after it was retired from service the [[Box Boys]] were utilizing it to test their "submersible vehicles" which were in fact just modified shipping containers before they were run off by the [[Ghosts of the Flooded Zone|Ghosts]] whose presence marked the station as "haunted". None of these regime changes ever proved enough to drive away [[Memaw Shoe]], however. In time her presence would inspire others to brave the Station once more - now after a great many houses were demolished in the [[Cloud District]] to make room for even larger mega towers that will not be habitable for years to come; a great influx of folk from across the district have come with no where else to go and hopes of creating a new future.
@@ -79,4 +80,23 @@ views:
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("<%tp.file.title%>")
+    order:
+      - file.name
+      - locations
+```

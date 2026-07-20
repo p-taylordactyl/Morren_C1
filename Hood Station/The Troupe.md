@@ -1,5 +1,4 @@
 ---
-title: The Troupe
 dg-publish: true
 aliases:
   - Troupe
@@ -15,6 +14,7 @@ locations:
   - "[[Hood Station]]"
 tags:
 ---
+
 # Description
 
 A menagerie of writers, actors, poets, musicians from many previous walks of life who collectively wandered through Old Valence for a while. Originally formed from a small band of actors down on their luck who were unhappy with the overbearing nature of Crownlight Media and Paragon Soundworks sought to put their own voice into the world. As they traveled they gathered more people to The Troupe; street artists, buskers, the like. Through their travels they heard about [[Hood Station]] through a rumor and decided to make it their permanent residence. 
@@ -59,4 +59,23 @@ views:
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("<%tp.file.title%>")
+    order:
+      - file.name
+      - locations
+```

@@ -6,7 +6,7 @@ aliases:
   - Brassjaw
 cover: "[[npc_vinnybrassjaw.webp]]"
 created: 2026-06-08
-modified: 2026-07-13
+modified: 2026-07-16
 disposition:
   - neutral
   - friendly
@@ -41,7 +41,26 @@ A goblin that seems to be some kind of crime boss in the [[BB Megatower]].
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Vinny Brassjaw")
+    order:
+      - file.name
+      - locations
+```
 
 # Quests
 

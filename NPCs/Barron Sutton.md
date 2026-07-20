@@ -33,4 +33,23 @@ A former manager of a team adjacent to [[Maximilius Adkins|Max]]’s during his 
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Barron Sutton")
+    order:
+      - file.name
+      - locations
+```

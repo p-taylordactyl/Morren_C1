@@ -5,7 +5,7 @@ aliases:
   - Róisín
 cover: "[[npc_róisínward.webp]]"
 created: 2026-05-21
-modified: 2026-07-14
+modified: 2026-07-16
 disposition:
   - friendly
 organizations:
@@ -37,4 +37,23 @@ locations:
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Róisín Ward")
+    order:
+      - file.name
+      - locations
+```

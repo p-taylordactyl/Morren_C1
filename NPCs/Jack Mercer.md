@@ -35,4 +35,23 @@ A popular Oogtuber who collects rare media and comic books.  [[Gideon Oublier|Gi
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Jack Mercer")
+    order:
+      - file.name
+      - locations
+```

@@ -19,8 +19,8 @@ Quest Index
 - [x] update location template
 - [x] update districts
 - [x] update locations
-- [x]  organization embed final version
-- [x] update faction and group templates
+- [ ]  organization embed final version
+- [ ] update faction and group templates
 - [x] update factions and groups
 
 ### Location Note Embed
@@ -135,7 +135,7 @@ views:
 
 
 
-# Location Base Embeds
+# Location Index
 
 ### Points of Interest
 
@@ -171,3 +171,32 @@ views:
     order:
       - file.name
     indentProperties: true
+
+
+# Session Index
+
+- [ ] finalize encounters base embed
+- [ ] decide what to do about prev and next session
+- [ ] update NPCs
+- [ ] update Factions and Groups
+
+### Encounters
+
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("<%tp.file.title%>")
+    order:
+      - file.name
+      - locations

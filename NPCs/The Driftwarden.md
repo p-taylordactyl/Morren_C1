@@ -18,7 +18,7 @@ locations:
   - "[[Not Far Sewer]]"
 ---
 
-![[npc_TheDriftwarden.webp]]
+![[npc_TheDriftwarden.webp|400]]
 
 # Description
 
@@ -28,4 +28,23 @@ Mysterious leader of an unknown group of people living in the [[Not Far Sewer]].
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("The Driftwarden")
+    order:
+      - file.name
+      - locations
+```

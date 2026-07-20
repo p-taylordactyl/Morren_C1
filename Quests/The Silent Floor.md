@@ -1,5 +1,4 @@
 ---
-title: The Silent Floor
 dg-publish: true
 aliases:
 created: 2026-06-01

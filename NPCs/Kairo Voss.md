@@ -5,7 +5,7 @@ aliases:
   - Kairo
 cover: "[[npc_kairovoss.webp]]"
 created: 2026-05-08
-modified: 2026-07-14
+modified: 2026-07-16
 disposition:
   - friendly
 organizations:
@@ -33,4 +33,23 @@ Keena's friend, who both works out and attends church sessions at the Iron Form 
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Kairo Voss")
+    order:
+      - file.name
+      - locations
+```

@@ -14,6 +14,7 @@ locations:
   - "[[Hood Station]]"
 tags:
 ---
+
 # Description
 
 The Iron Form Dojo initially started as something a bit more informal -- [[Cillian Ward]] and his family were mourning the loss of his nephew, Lorcan O'Malley, and the dojo was a place they could work out their frustrations in a healthier manner, as well as practice self defense. Eventually, more people started stopping by -- members of the guard who wanted a place to spar and some of the younger residents of [[Hood Station]] who wanted to learn to fight. Cillian happily opened the dojo's doors to members of the community, setting up class schedules and clubs so others could enjoy and learn as well. There's a small memorial shrine for Lorcan in the dojo, and the family stays in apartments located above.
@@ -51,4 +52,23 @@ views:
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("<%tp.file.title%>")
+    order:
+      - file.name
+      - locations
+```

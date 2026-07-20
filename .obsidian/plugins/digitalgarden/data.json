@@ -65,6 +65,10 @@
     "canvasZoomHint": "",
     "canvasResetHint": ""
   },
+  "logLevel": {
+    "value": 2,
+    "name": "DEBUG"
+  },
   "localExportPath": "",
   "navigationOrder": {
     "/": [

@@ -1,5 +1,4 @@
 ---
-title: Silas Sorelli
 dg-publish: true
 aliases:
   - Silas
@@ -9,6 +8,7 @@ created: 2026-04-23
 modified: 2026-07-09
 tags:
 ---
+
 > [!infobox]
 > # Silas Sorelli
 > ![[pc_silassorelli.webp]]

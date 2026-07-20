@@ -1,5 +1,4 @@
 ---
-title: Lightning Crew
 dg-publish: true
 aliases:
   - Lightning Crew
@@ -14,6 +13,7 @@ locations:
   - "[[Westreach]]"
 tags:
 ---
+
 # Description
 
 A crew of the [[West Valence Saints|Saints]] who follow principles similar to the [[Dominion Crew]]. 
@@ -56,4 +56,23 @@ views:
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("<%tp.file.title%>")
+    order:
+      - file.name
+      - locations
+```

@@ -1,8 +1,7 @@
 ---
-title: Character Brainstorming
 dg-publish: false
 type: pregame
-modified: 2026-07-09
+modified: 2026-07-16
 created: 2026-04-07
 tags:
 ---

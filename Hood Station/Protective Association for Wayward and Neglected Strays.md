@@ -1,5 +1,4 @@
 ---
-title: Protective Association for Wayward and Neglected Strays
 dg-publish: true
 aliases:
   - PAWNS
@@ -16,6 +15,7 @@ locations:
   - "[[Hood Station]]"
 tags:
 ---
+
 # Description
 
 The orphanage of Hood Station was functionally a slipshod home for displaced youths from any and all backgrounds. It was originally conceived by Silas as a way to keep the unruly children of Hood Station in check and as a potential source of community service. That is until he was approached by "Miss Rosie", who had scouted Silas and figured out exactly what type of man he is. Rosetta put forth to Silas the idea of using the orphanage as a recruitment pool for an underground information network of spies that could skirt the laws and its punishments, with Silas acting as the "King" with his brilliant mind and the already established admiration of the children.
@@ -66,4 +66,23 @@ views:
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("<%tp.file.title%>")
+    order:
+      - file.name
+      - locations
+```

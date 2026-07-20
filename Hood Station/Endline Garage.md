@@ -13,6 +13,7 @@ locations:
   - "[[Hood Station]]"
 tags:
 ---
+
 # Description
 
 Endline Garage started (and remains at its core) the workshop of [[Thorbin Sprake]], a mechanical genius and [[Hood Station]]'s resident tall dwarf. After he quite literally fell into the [[Hood Station|station]] horribly, he set up a workshop space - at first just to build himself some prosthetics, but ultimately using it as a home base for ongoing maintenance work around the station. As the station started to grow, the garage grew with it, and eventually Thorbin expanded his projects, creating a community auto-share as well as an apprenticeship program. In his free time, he works on inventions to improve the lives of the station and its residents.
@@ -51,4 +52,23 @@ views:
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("<%tp.file.title%>")
+    order:
+      - file.name
+      - locations
+```

@@ -1,5 +1,4 @@
 ---
-title: Dominion Crew
 dg-publish: true
 type: underground group
 cover:
@@ -12,6 +11,7 @@ locations:
   - "[[Westreach]]"
 tags:
 ---
+
 # Description
 
 A militant religious sect of the [[West Valence Saints]] who practice their own form of the Doctrine of Ordained Authority. They're known for being more violent than the broader Saints organization.
@@ -45,4 +45,23 @@ views:
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("<%tp.file.title%>")
+    order:
+      - file.name
+      - locations
+```

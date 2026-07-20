@@ -1,5 +1,4 @@
 ---
-title: Elevator Eulogy
 dg-publish: true
 aliases:
 created: 2026-06-01
@@ -14,6 +13,7 @@ date_accepted: 1/1/2012
 expires: 1/14/2012
 tags:
 ---
+
 ![[quest_ElevatorEulogy.webp]]
 
 # Description

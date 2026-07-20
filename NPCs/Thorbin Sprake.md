@@ -32,7 +32,26 @@ Thorbin Sprake was a mechanic for the [[Titan Corporation]], until he lost his l
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Thorbin Sprake")
+    order:
+      - file.name
+      - locations
+```
 
 # Quests
 

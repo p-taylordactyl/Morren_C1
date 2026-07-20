@@ -1,5 +1,4 @@
 ---
-title: The Redacted
 dg-publish: true
 aliases:
 type: group
@@ -13,6 +12,7 @@ locations:
   - "[[Hood Station]]"
 tags:
 ---
+
 # Description
 
 The Redacted began as the informal continuation of [[Maximilius Adkins]]’ work after leaving [[Crownlight Media]]. Once a junior field documentarian embedded within Crownlight’s reporting structure, Max became increasingly aware of the gap between recorded reality and published reality, particularly after a major citywide incident, the [[Titan Corporation|Titan]] Line Blackout, where his raw field footage was heavily altered before broadcast.
@@ -68,4 +68,23 @@ views:
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("<%tp.file.title%>")
+    order:
+      - file.name
+      - locations
+```

@@ -5,7 +5,7 @@ aliases:
   - Malcolm
 cover: "[[npc_malcolmoublier.webp]]"
 created: 2026-05-28
-modified: 2026-07-06
+modified: 2026-07-16
 disposition:
   - friendly
   - annoying
@@ -36,4 +36,23 @@ locations:
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Malcolm Oublier")
+    order:
+      - file.name
+      - locations
+```

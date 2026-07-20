@@ -33,4 +33,23 @@ A member of the [[Box Boys|Box Boys]] we saved from getting his ass kicked by a 
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("Brug")
+    order:
+      - file.name
+      - locations
+```

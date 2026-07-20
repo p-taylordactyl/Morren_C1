@@ -1,5 +1,4 @@
 ---
-title: Dorian Caldwell
 dg-publish: true
 aliases:
   - Dorian

@@ -1,5 +1,7 @@
 ---
+dg-publish: true
 aliases:
+  - goblins
 type: group
 cover: "[[npc_sprocket.webp]]"
 created: 2026-06-01
@@ -11,6 +13,7 @@ locations:
   - "[[Floodgate Bazaar]]"
 tags:
 ---
+
 # Description
 
 A group of goblins who live in the [[Not Far Sewer]] and run the [[Floodgate Bazaar]].
@@ -47,4 +50,23 @@ views:
 
 # Session Mentions
 
-![[0 Session Index.base#Encounters]]
+```base
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+  note.locations:
+    displayName: Session Locations
+views:
+  - type: table
+    name: Encounters
+    filters:
+      and:
+        - file.hasLink("<%tp.file.title%>")
+    order:
+      - file.name
+      - locations
+```
