@@ -5,9 +5,9 @@ aliases:
   - Association
   - orphanage
 type: group
-cover:
+cover: "[[location_hoodstation_pawns.webp]]"
 created: 2026-05-25
-modified: 2026-07-14
+modified: 2026-07-20
 parent: "[[Hood Station]]"
 associations:
   - "[[Silas Sorelli]]"
@@ -15,6 +15,7 @@ locations:
   - "[[Hood Station]]"
 tags:
 ---
+![[location_hoodstation_pawns.webp]]
 
 # Description
 
@@ -45,20 +46,23 @@ filters:
   and:
     - type == "npc"
     - file.folder != "admin/templates"
+formulas:
+  organization_names: organizations.join(", ")
+  cover_url: 'if(cover.contains("("), cover.split("(")[1].replace(")", "").trim(), cover)'
 views:
   - type: cards
-    name: Organizations-embedonly
+    name: Organization-embed
     filters:
       and:
-        - organizations.contains("<%tp.file.title%>")
+        - formula.organization_names.contains("Protective Association for Wayward and Neglected Strays")
     order:
       - file.name
       - brief
       - locations
-      - associates
-    image: note.cover
+    image: formula.cover_url
     cardSize: 240
-    imageAspectRatio: 1.1
+    imageAspectRatio: 1.3
+    imageFit: contain
 ```
 
 
@@ -81,7 +85,7 @@ views:
     name: Encounters
     filters:
       and:
-        - file.hasLink("<%tp.file.title%>")
+        - file.hasLink("Protective Association for Wayward and Neglected Strays")
     order:
       - file.name
       - locations

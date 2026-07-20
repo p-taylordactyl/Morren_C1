@@ -6,7 +6,7 @@ aliases:
   - Devereaux
 cover:
 created: 2026-05-04
-modified: 2026-07-16
+modified: 2026-07-19
 disposition:
   - enemy
 organizations:
@@ -20,7 +20,7 @@ locations:
   - unknown
 ---
 
-![[npc_AugustinDevereaux.webp|400]]
+![[npc_augustindevereaux.webp|400]]
 
 # Description
 

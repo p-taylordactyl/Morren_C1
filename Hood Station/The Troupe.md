@@ -4,9 +4,9 @@ aliases:
   - Troupe
   - The Stage
 type: group
-cover:
+cover: "[[location_hoodstation_thetroupe.webp]]"
 created: 2026-05-25
-modified: 2026-07-14
+modified: 2026-07-20
 parent: "[[Hood Station]]"
 associations:
   - "[[Dorian Caldwell]]"
@@ -14,7 +14,7 @@ locations:
   - "[[Hood Station]]"
 tags:
 ---
-
+![[location_hoodstation_thetroupe.webp]]
 # Description
 
 A menagerie of writers, actors, poets, musicians from many previous walks of life who collectively wandered through Old Valence for a while. Originally formed from a small band of actors down on their luck who were unhappy with the overbearing nature of Crownlight Media and Paragon Soundworks sought to put their own voice into the world. As they traveled they gathered more people to The Troupe; street artists, buskers, the like. Through their travels they heard about [[Hood Station]] through a rumor and decided to make it their permanent residence. 
@@ -38,23 +38,24 @@ filters:
   and:
     - type == "npc"
     - file.folder != "admin/templates"
+formulas:
+  organization_names: organizations.join(", ")
+  cover_url: 'if(cover.contains("("), cover.split("(")[1].replace(")", "").trim(), cover)'
 views:
   - type: cards
-    name: Organizations-embedonly
+    name: Organization-embed
     filters:
       and:
-        - organizations.contains("The Troupe")
+        - formula.organization_names.contains("The Troupe")
     order:
       - file.name
       - brief
       - locations
-      - associates
-    image: note.cover
+    image: formula.cover_url
     cardSize: 240
-    imageAspectRatio: 1.1
+    imageAspectRatio: 1.3
+    imageFit: contain
 ```
-
-
 
 
 # Session Mentions
@@ -74,7 +75,7 @@ views:
     name: Encounters
     filters:
       and:
-        - file.hasLink("<%tp.file.title%>")
+        - file.hasLink("The Troupe")
     order:
       - file.name
       - locations

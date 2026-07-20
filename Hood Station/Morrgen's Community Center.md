@@ -3,9 +3,9 @@ dg-publish: true
 aliases:
   - Community Center
 type: group
-cover:
+cover: "[[location_hoodstation_communitycenter.webp]]"
 created: 2026-05-25
-modified: 2026-07-14
+modified: 2026-07-20
 parent: "[[Hood Station]]"
 associations:
   - "[[Gideon Oublier]]"
@@ -13,7 +13,7 @@ locations:
   - "[[Hood Station]]"
 tags:
 ---
-
+![[location_hoodstation_communitycenter.webp]]
 # Description
 
 Morrgen's Community Center came to be more from necessity than ambition. The [[Titan Corporation]] and the [[West Valence Saints|Saints]] left the people dwelling in these neighborhoods broken in mind, body, and spirit. Gideon's [[Morrgen Oublier|mother]] took it upon herself to help the people mend what could be mended and rebuild that which was beyond repair. What started as just a run down train car eventually turned into a community.
@@ -35,20 +35,23 @@ filters:
   and:
     - type == "npc"
     - file.folder != "admin/templates"
+formulas:
+  organization_names: organizations.join(", ")
+  cover_url: 'if(cover.contains("("), cover.split("(")[1].replace(")", "").trim(), cover)'
 views:
   - type: cards
-    name: Organizations-embedonly
+    name: Organization-embed
     filters:
       and:
-        - organizations.contains("Morrgen's Community Center")
+        - formula.organization_names.contains("Morrgen's Community Center")
     order:
       - file.name
       - brief
       - locations
-      - associates
-    image: note.cover
+    image: formula.cover_url
     cardSize: 240
-    imageAspectRatio: 1.1
+    imageAspectRatio: 1.3
+    imageFit: contain
 ```
 
 
@@ -71,7 +74,7 @@ views:
     name: Encounters
     filters:
       and:
-        - file.hasLink("<%tp.file.title%>")
+        - file.hasLink("Morrgen's Community Center")
     order:
       - file.name
       - locations

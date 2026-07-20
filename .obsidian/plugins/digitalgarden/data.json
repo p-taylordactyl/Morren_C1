@@ -1,6 +1,6 @@
 {
   "githubRepo": "hoods_watch",
-  "githubToken": "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",
+  "githubToken": "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",
   "githubUserName": "p-taylordactyl",
   "gardenBaseUrl": "",
   "prHistory": [],
@@ -70,6 +70,7 @@
     "name": "DEBUG"
   },
   "localExportPath": "",
+  "contentBaseDir": "",
   "navigationOrder": {
     "/": [
       "Home",
