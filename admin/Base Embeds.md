@@ -200,3 +200,28 @@ views:
     order:
       - file.name
       - locations
+
+
+Session debug 
+formulas:
+  test_links: file.links.join(", ")
+  test_haslink: file.hasLink("Sprocket")
+  test_haslink_v2: file.links.contains("sprocket")
+  raw_locations: locations.join(";;")
+  raw_locations_length: locations.join(" | ").length
+
+
+    name: Debug
+    filters:
+      and:
+        - file.links.join(",").lower().contains("sprocket")
+    order:
+      - test_links
+      - file.name
+      - formula.raw_locations
+      - formula.raw_locations_length
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      formula.raw_locations: 588

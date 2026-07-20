@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[placeholder2.webp]]"
 created: 2026-04-29
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - neutral
   - friendly
@@ -19,7 +19,6 @@ locations:
   - "[[Not Far Sewer]]"
 ---
 
-![[placeholder2.webp|hsmall]]
 
 # Description
 
@@ -27,7 +26,7 @@ Mysterious tiefling we met in a pipe in the [[Not Far Sewer]]. Wouldn't give his
 
 # Notes
 
-# Session Appearances
+# Session Mentions
 
 ```base
 filters:
@@ -37,15 +36,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Pipey")
+        - file.links.join(", ").contains("Pipey")
     order:
       - file.name
-      - locations
 ```

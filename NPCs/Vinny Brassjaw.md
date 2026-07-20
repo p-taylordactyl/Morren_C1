@@ -6,7 +6,7 @@ aliases:
   - Brassjaw
 cover: "[[npc_vinnybrassjaw.webp]]"
 created: 2026-06-08
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - neutral
   - friendly
@@ -49,17 +49,14 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Vinny Brassjaw")
+        - file.links.join(", ").contains("Vinny Brassjaw")
     order:
       - file.name
-      - locations
 ```
 
 # Quests

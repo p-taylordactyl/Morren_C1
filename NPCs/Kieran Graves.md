@@ -5,7 +5,7 @@ aliases:
   - Kieran
 cover: "[[npc_kierangraves.webp]]"
 created: 2026-06-22
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - friendly
 organizations:
@@ -41,15 +41,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Kieran Graves")
+        - file.links.join(", ").contains("Kieran Graves")
     order:
       - file.name
-      - locations
 ```

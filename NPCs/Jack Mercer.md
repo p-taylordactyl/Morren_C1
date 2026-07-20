@@ -5,7 +5,7 @@ aliases:
   - Jack
 cover: "[[npc_jackmercer.webp]]"
 created: 2026-06-22
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - neutral
   - friendly
@@ -43,15 +43,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Jack Mercer")
+        - file.links.join(", ").contains("Jack Mercer")
     order:
       - file.name
-      - locations
 ```

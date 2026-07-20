@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[npc_paintbrushgnome.webp]]"
 created: 2026-07-06
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - unknown
 organizations:
@@ -42,17 +42,14 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("<%tp.file.title%>")
+        - file.links.contains("Paintbrush Gnome")
     order:
       - file.name
-      - locations
 ```
 
 

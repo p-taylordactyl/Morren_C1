@@ -5,7 +5,7 @@ aliases:
   - Custis
 cover:
 created: 2026-05-25
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - enemy
 organizations:
@@ -39,15 +39,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Custis Delavide")
+        - file.links.join(", ").contains("Custis Delavide")
     order:
       - file.name
-      - locations
 ```

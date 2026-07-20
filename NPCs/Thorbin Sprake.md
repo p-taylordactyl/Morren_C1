@@ -5,7 +5,7 @@ aliases:
   - Thorbin
 cover: "[[npc_thorbinsprake.webp]]"
 created: 2026-05-08
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - friendly
 organizations:
@@ -40,17 +40,14 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Thorbin Sprake")
+        - file.links.join(", ").contains("Thorbin Sprake")
     order:
       - file.name
-      - locations
 ```
 
 # Quests

@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[npc_bron.webp]]"
 created: 2026-06-22
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - neutral
   - friendly
@@ -42,15 +42,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("<%tp.file.title%>")
+        - file.links.join(", ").contains("Bron")
     order:
       - file.name
-      - locations
 ```

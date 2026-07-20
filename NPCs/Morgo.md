@@ -5,7 +5,7 @@ aliases:
   - the chef
 cover: "[[placeholder2.webp]]"
 created: 2026-07-06
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - enemy
   - unfriendly
@@ -45,15 +45,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("<%tp.file.title%>")
+        - file.links.contains("Morgo")
     order:
       - file.name
-      - locations
 ```

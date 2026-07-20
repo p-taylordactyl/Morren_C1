@@ -5,7 +5,7 @@ aliases:
   - Vesh
 cover: "[[npc_veshhollowbone.webp]]"
 created: 2026-05-21
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - friendly
 organizations:
@@ -38,15 +38,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Vesh Hollowbone")
+        - file.links.join(", ").contains("Vesh Hollowbone")
     order:
       - file.name
-      - locations
 ```

@@ -237,7 +237,7 @@ Silas trains Tinkers Tools and is now proficient.
 
 Dorian does crime.
 
-Keena does research on her vision of the [[Beggar from Keena's Vision|beggar]], looking for his name and what happened to his tongue. She finds an article on a man name [[Ozwin Wicker]] and a story (unattached to a name) that refers to a "defiler" that broke in and mutilated the tongue of priest of Morronel. It was suggested that the attack was religiously motivated.
+Keena does research on her vision of the [[Ozwin Wicker|beggar]], looking for his name and what happened to his tongue. She finds an article on a man name [[Ozwin Wicker]] and a story (unattached to a name) that refers to a "defiler" that broke in and mutilated the tongue of priest of Morronel. It was suggested that the attack was religiously motivated.
 
 Gideon does research on what might have happened to his brother and finds an article about Titan Corp doing something with mind controlling parasites?
 

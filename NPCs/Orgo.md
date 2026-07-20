@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[placeholder2.webp]]"
 created: 2026-07-06
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - neutral
 organizations:
@@ -44,15 +44,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("<%tp.file.title%>")
+        - file.links.contains("Orgo")
     order:
       - file.name
-      - locations
 ```

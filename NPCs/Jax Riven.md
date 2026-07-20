@@ -5,7 +5,7 @@ aliases:
   - Jax
 cover: "[[npc_jaxriven.webp]]"
 created: 2026-06-22
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - neutral
   - friendly
@@ -41,15 +41,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Jax Riven")
+        - file.links.join(", ").contains("Jax Riven")
     order:
       - file.name
-      - locations
 ```

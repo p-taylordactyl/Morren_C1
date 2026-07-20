@@ -5,7 +5,7 @@ aliases:
   - stalker
 cover: "[[placeholder2.webp]]"
 created: 2026-06-22
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - enemy
 organizations:
@@ -56,15 +56,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Stalker")
+        - file.links.join(", ").contains("Stalker")
     order:
       - file.name
-      - locations
 ```

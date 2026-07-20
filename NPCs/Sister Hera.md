@@ -5,7 +5,7 @@ aliases:
   - Hera
 cover: "[[npc_sisterhera.webp]]"
 created: 2026-05-04
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - friendly
 organizations:
@@ -37,15 +37,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Sister Hera")
+        - file.links.join(", ").contains("Sister Hera")
     order:
       - file.name
-      - locations
 ```

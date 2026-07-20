@@ -2,9 +2,6 @@ filters:
   and:
     - type == "session_note"
     - file.folder != "admin/templates"
-formulas:
-  Untitled: ""
-  Untitled 2: ""
 properties:
   file.name:
     displayName: Session
@@ -30,11 +27,6 @@ views:
     order:
       - file.name
       - locations
-    sort:
-      - property: locations
-        direction: ASC
-      - property: file.name
-        direction: ASC
   - type: cards
     name: Prev-and-Next-Sessions
     filters:

@@ -6,7 +6,7 @@ aliases:
   - Devereaux
 cover:
 created: 2026-05-04
-modified: 2026-07-19
+modified: 2026-07-20
 disposition:
   - enemy
 organizations:
@@ -41,15 +41,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Augustin Devereaux")
+        - file.links.join(", ").contains("Augustin Devereaux")
     order:
       - file.name
-      - locations
 ```

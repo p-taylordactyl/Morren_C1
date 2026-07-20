@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-04-27
-modified: 2026-07-19
+modified: 2026-07-20
 session_number: 2
 session_date: 04/27/2026
 players:
@@ -35,7 +35,7 @@ We take a short rest and then approach the forcefield.
 
 `"home, shelter, supplies, reasonable, fanatic"
 
-A debate begins on the most time-efficient way to proceed. Keena and [[Katriel Buchanon|Kat]] want to go back to the bazaar to talk to [[Sprocket]], since he would likely know both where Pipe Junction is and how to get there. However, the rest of the party don't want to backtrack and think it's better to explore and see if we can find someone around.
+A debate begins on the most time-efficient way to proceed. Keena and [[Katriel Buchanon|Kat]] want to go back to the bazaar to talk to [[Sprocket]] since he would likely know both where Pipe Junction is and how to get there. However, the rest of the party don't want to backtrack and think it's better to explore and see if we can find someone around.
 
 ![[session2_map1.webp]]
 

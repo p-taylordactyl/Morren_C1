@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[npc_animator.webp]]"
 created: 2026-07-06
-modified: 2026-07-13
+modified: 2026-07-20
 disposition:
   - neutral
   - unknown
@@ -40,15 +40,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("<%tp.file.title%>")
+        - file.links.contains("Animator")
     order:
       - file.name
-      - locations
 ```

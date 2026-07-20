@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover:
 created: 2026-05-01
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - unknown
 organizations:
@@ -36,15 +36,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("The Driftwarden")
+        - file.links.join(", ").contains("The Driftwarden")
     order:
       - file.name
-      - locations
 ```

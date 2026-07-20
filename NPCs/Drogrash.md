@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[placeholder2.webp]]"
 created: 2026-04-23
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - friendly
 organizations:
@@ -36,15 +36,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Drogrash")
+        - file.links.join(", ").contains("Drogrash")
     order:
       - file.name
-      - locations
 ```

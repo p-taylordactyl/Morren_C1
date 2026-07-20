@@ -5,7 +5,7 @@ aliases:
   - Elyra
 cover: "[[npc_elyrasol.webp]]"
 created: 2026-06-22
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - unknown
 organizations:
@@ -38,15 +38,12 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Elyra Sol")
+        - file.links.join(", ").contains("Elyra Sol")
     order:
       - file.name
-      - locations
 ```

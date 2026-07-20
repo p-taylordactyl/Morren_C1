@@ -6,7 +6,7 @@ aliases:
   - Miss Rosie
 cover: "[[npc_rosettathorne.webp]]"
 created: 2026-05-25
-modified: 2026-07-16
+modified: 2026-07-20
 disposition:
   - neutral
   - friendly
@@ -50,17 +50,14 @@ filters:
 properties:
   file.name:
     displayName: Session
-  note.locations:
-    displayName: Session Locations
 views:
-  - type: table
+  - type: list
     name: Encounters
     filters:
       and:
-        - file.hasLink("Rosetta Thorne")
+        - file.links.join(", ").contains("Rosetta Thorne")
     order:
       - file.name
-      - locations
 ```
 
 # Quests

@@ -11,7 +11,8 @@
         "Locations",
         "Session Notes",
         "Quests",
-        "Timeline.md"
+        "Timeline.md",
+        "Untitled.md"
       ],
       "sortOrder": "custom"
     },
@@ -155,7 +156,6 @@
         "admin/assets/npc_kairovoss.webp",
         "admin/assets/npc_nyralightwell.webp",
         "admin/assets/pc_doriancaldwell_firstdisguisealt.webp",
-        "admin/assets/placeholder.webp",
         "admin/assets/placeholder2.webp"
       ],
       "sortOrder": "custom"
@@ -391,10 +391,9 @@
         "NPCs/Animator.md",
         "NPCs/Nyx.md",
         "NPCs/Styx.md",
-        "NPCs/Beggar from Keena's Vision.md",
+        "NPCs/Ozwin Wicker.md",
         "NPCs/Mystery Burger Man.md",
-        "NPCs/Stu.md",
-        "NPCs/Ozwin Wicker.md"
+        "NPCs/Stu.md"
       ],
       "sortOrder": "custom"
     },
@@ -427,7 +426,8 @@
         "Session Notes/Session 09.md",
         "Session Notes/Session 10.md",
         "Session Notes/Session 11.md",
-        "Session Notes/Session 12.md"
+        "Session Notes/Session 12.md",
+        "Session Notes/Session 13.md"
       ],
       "sortOrder": "custom"
     },

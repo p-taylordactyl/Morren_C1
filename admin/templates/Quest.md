@@ -1,6 +1,5 @@
 ---
 aliases:
-title: <% tp.file.title %>
 dg-publish: false
 created: 2026-06-01
 modified: 2026-06-01

@@ -114,7 +114,7 @@ We see [[Animator|this guy]] standing behind the stall.
 
 Keena asks Dorian if he thinks this guy could help him reconnect with his parents. He isn't sure yet. The vibe is giving conman but the pitch is intriguing.
 
-Keena suddenly spots the [[Beggar from Keena's Vision|old man]] from her vision. He's panhandling in a gutter, covered in various fluids. He appears to be blind and has no tongue, leaving him unable to write or speak. Kat and Max both give him coins.
+Keena suddenly spots the [[Ozwin Wicker|old man]] from her vision. He's panhandling in a gutter, covered in various fluids. He appears to be blind and has no tongue, leaving him unable to write or speak. Kat and Max both give him coins.
 
 Dorian is interested enough that we decide to go over to the stall and learn more.
 
@@ -140,7 +140,7 @@ Meanwhile, Keena is left alone with the beggar.
 
 She gives him a coin and asks if she can ask him some yes/no questions. He nods.
 
-![[Beggar from Keena's Vision#Keena's Interrogation]]
+![[Ozwin Wicker#Keena's Interrogation]]
 
 She watches him shuffle away down a dark, lonely, and suspicious alley.
 
