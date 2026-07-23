@@ -5,7 +5,7 @@ aliases:
   - Malcolm
 cover: "[[npc_malcolmoublier.webp]]"
 created: 2026-05-28
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - friendly
   - annoying
@@ -28,28 +28,23 @@ locations:
 
 [[Gideon Oublier|Gideon]]'s twin brother and favorite child of their father. Also an absolute twerp.
 
-# Notes
+### Notes
 
 - Malcolm currently owes [[Vinny Brassjaw|Brassjaw]] 100 platinum, plus interest - due 1/15/26
-- He was at a casino trying to win big to pay the debt
 - [[Stalker]] texted Gideon a picture of the outside of the casino, and then a picture of Malcolm tied up, asking whether we would give up [[Keena O'Malley|Keena]] or [[Maximilius Adkins|Max]] in trade.
+- Max ultimately traded himself for Malcolm
+- During his captivity, a hole was drilled in Malcolm's temple. Whatever was placed in his brain has given him magic powers but also seems to allow him to be mind controlled
+- Under the effects of mind control, Malcolm murdered his own father and has been taken in by [[Enforcers]]
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.join(", ").contains("Malcolm Oublier")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

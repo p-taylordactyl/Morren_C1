@@ -5,7 +5,7 @@ aliases:
   - Róisín
 cover: "[[npc_róisínward.webp]]"
 created: 2026-05-21
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - friendly
 organizations:
@@ -29,28 +29,21 @@ locations:
 
 [[Keena O'Malley|Keena]]'s cousin, who lost an arm in a [[Titan Corporation]] accident.
 
-# Notes
+### Notes
 
-- Keena and [[Maximilius Adkins|Max]] investigated the accident and found it was caused and covered up by [[Augustin Devereaux]], who they subsequently interrogated and beat into a coma
+- Keena and [[Maximilius Adkins|Max]] investigated the accident that cost Róisín her arm and found it was caused and covered up by [[Augustin Devereaux]], who they subsequently interrogated and beat into a coma
 - We ran into her at the [[BB Megatower]] seemingly being supplied drugs by [[Vinny Brassjaw|Brassjaw]] 
 - When confronted by Keena, she said it was her best way to make money/support the family now
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.join(", ").contains("Róisín Ward")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

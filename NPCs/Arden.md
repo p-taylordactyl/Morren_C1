@@ -4,13 +4,14 @@ type: npc
 aliases:
 cover: "[[placeholder2.webp]]"
 created: 2026-06-29
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - neutral
   - friendly
 organizations:
+  - "[[Cult of the Machine God]]"
 associates:
-  - "[[Dex Dad]]"
+  - "[[Faile]]"
   - "[[Dex]]"
 brief: One of the priests at the Relay Shrine
 tags:
@@ -26,26 +27,19 @@ locations:
 
 A priest of the [[Cult of the Machine God]] located at the [[Relay Shrine]].
 
-# Notes
+### Notes
 
 - helped us track down that our [[Stalker]]'s redacted number is affiliated with the [[Titan Corporation]]
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.join(", ").contains("Arden")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

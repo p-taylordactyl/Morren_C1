@@ -5,7 +5,7 @@ aliases:
   - Prospera
 cover: "[[placeholder2.webp]]"
 created: 2026-05-25
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - unknown
 organizations:
@@ -25,27 +25,20 @@ locations:
 
 High-ranking member of the Bellanova Family. 
 
-# Notes
+### Notes
 
 - [[Silas Sorelli|Silas]] and [[Dorian Caldwell|Dorian]] name-dropped her to the [[Bellanova Family|Bellanovas]] at the [[Pipe Junction]] to get us access to the computer controlling the forcefield around the [[Filter Shrine]].
 - The name-drop was recorded and sent to [[Gideon Oublier|Gideon]] by the party's [[Stalker]].
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.join(", ").contains("Prospera Bellanova")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

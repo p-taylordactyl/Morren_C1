@@ -5,7 +5,7 @@ aliases:
   - Rusk
 cover: "[[npc_ruskironline.webp]]"
 created: 2026-07-06
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - neutral
 organizations:
@@ -26,7 +26,7 @@ locations:
 
 Dwarf who runs [[Pipe Junction]] for the [[Bellanova Family|Bellanovas]].
 
-# Notes
+### Notes
 
 - allowed the party to use the computer terminal at Pipe Junction in order to disable the forcefield blocking the [[Filter Shrine]] after we namedropped [[Prospera Bellanova]] and he couldn't immediately confirm
 - notably the terminal was also full of beastiality porn
@@ -34,20 +34,13 @@ Dwarf who runs [[Pipe Junction]] for the [[Bellanova Family|Bellanovas]].
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.join(", ").contains("Rusk Ironline")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

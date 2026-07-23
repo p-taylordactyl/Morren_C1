@@ -5,7 +5,7 @@ aliases:
 type: group
 cover: "[[location_hoodstation_communitycenter.webp]]"
 created: 2026-05-25
-modified: 2026-07-20
+modified: 2026-07-23
 parent: "[[Hood Station]]"
 associations:
   - "[[Gideon Oublier]]"
@@ -59,23 +59,13 @@ views:
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-  note.locations:
-    displayName: Session Locations
-views:
-  - type: table
-    name: Encounters
-    filters:
-      and:
-        - file.hasLink("Morrgen's Community Center")
-    order:
-      - file.name
-      - locations
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

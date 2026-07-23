@@ -5,7 +5,7 @@ aliases:
   - Jax
 cover: "[[npc_jaxriven.webp]]"
 created: 2026-06-22
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - neutral
   - friendly
@@ -25,7 +25,7 @@ locations:
 
 Courier working in the [[BB Megatower]]. Specializes in navigating collapsed sections. 
 
-# Notes
+### Notes
 
 - first met super briefly outside of Krystal's when he fell through the ceiling and then immediately grappled away
 - got his grappling hook at the [[Infinity Plaza Mall]]
@@ -33,20 +33,13 @@ Courier working in the [[BB Megatower]]. Specializes in navigating collapsed sec
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.join(", ").contains("Jax Riven")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

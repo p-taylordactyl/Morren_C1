@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[placeholder2.webp]]"
 created: 2026-07-08
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - unknown
 organizations:
@@ -23,26 +23,19 @@ locations:
 
 [[Nyx]]'s missing brother, who disappeared after acquiring a trove of cursed Hamlet Keeper games. He's presumably trapped in one of the games, but no one knows which. 
 
-# Notes
+### Notes
 
 - Styx was not trapped in the OG Hamlet Keeper 
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.contains("Styx")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[npc_az.webp]]"
 created: 2026-05-25
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - friendly
 organizations:
@@ -27,28 +27,21 @@ Androgynous Tiefling late 30's, denies being the leader, but everyone seems to l
 
 They emphasize that art is supposed to be messy and confusing. They encourage others to pursue art. Whether it be for personal reasons, to spread awareness of injustices or to find beauty in the darkness of this city they all call home. Though they now have a permanent place to stay some nomadic tendencies have prevailed through. Popup art galleries, one day concerts/shows, sidewalk art classes, midnight graffiti murals. Though it is not mandatory some members have taken to branding their art in some way with a dented crown and a broken halo (an old drawing of Az’s). 
 
-# Notes
+### Notes
 
 - Az is also a drug dealer and grows some of their own supply
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.join(", ").contains("Az")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```
 
 # Quests

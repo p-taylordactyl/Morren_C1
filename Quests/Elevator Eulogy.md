@@ -2,10 +2,10 @@
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-13
+modified: 2026-07-23
 cover: "[[quest_elevatoreulogy.webp]]"
 type: quest
-quest_status: turn in
+quest_status: completed
 quest_giver: "[[Cillian Ward]]"
 quest_location: "[[BB Megatower]]"
 reward: 30 platinum

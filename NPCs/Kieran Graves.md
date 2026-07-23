@@ -5,7 +5,7 @@ aliases:
   - Kieran
 cover: "[[npc_kierangraves.webp]]"
 created: 2026-06-22
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - friendly
 organizations:
@@ -25,7 +25,7 @@ locations:
 
 Former [[West Valence Saints|Saint]] ([[Lightning Crew]]) who failed his initiation in the [[BB Megatower]] by refusing to kill a badly beaten [[Jax Riven]].
 
-# Notes
+### Notes
 
 - fought with the party against the [[West Valence Saints|Saints]] after [[Katriel Buchanon|Kat]] interrupted his initiation
 - was okay with us handing the defeated crew over to the [[Enforcers]] as long as we could help protect his family. Kat offered them a place at [[Hood Station]]
@@ -33,20 +33,13 @@ Former [[West Valence Saints|Saint]] ([[Lightning Crew]]) who failed his initiat
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.join(", ").contains("Kieran Graves")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

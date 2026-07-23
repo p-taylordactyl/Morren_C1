@@ -7,7 +7,7 @@ type:
   - location
 cover:
 created: 2026-05-20
-modified: 2026-07-16
+modified: 2026-07-23
 district: "[[Cloud District]]"
 parent:
 associations:
@@ -19,7 +19,6 @@ associations:
   - "[[Iron Form Dojo]]"
 locations:
 tags:
-dg-home: false
 ---
 
 # Description
@@ -40,63 +39,32 @@ _**Themes:**_ Survival, Creating One's Place in the World, Lost/Found, Ingenuity
 ```base
 filters:
   and:
-    - type == "npc"
+    - type == "session_note"
     - file.folder != "admin/templates"
-formulas:
-  location_names: locations.join(", ")
-  organization_names: organizations.join(", ")
-  cover_url: 'if(cover.contains("("), cover.split("(")[1].replace(")", "").trim(), cover)'
-  test_toString: cover.toString()
-  test_replace_only: cover.replace("[[", "").replace("]]", "")
-  test_split: cover.split("(")[1].replace(")", "").trim()
-
+properties:
+  file.name:
+    displayName: Session
 views:
-  - type: cards
-    name: Location-embedonly
+  - type: list
+    name: Encounters
     filters:
-      or:
-        - formula.location_names.contains("Hood Station")
-          
+      and:
+        - file.links.join(", ").contains("Hood Station")
     order:
       - file.name
-      - brief
-    image: formula.cover_url
-    cardSize: 240
-    imageAspectRatio: 1.15
-  - type: table
-    name: Debug
-    order:
-      - file.name
-      - cover
-      - formula.test_split
-      - formula.cover_url
-      - formula.test_toString
-      - formula.test_replace_only
-
-
 ```
 
 
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-  note.locations:
-    displayName: Session Locations
-views:
-  - type: table
-    name: Encounters
-    filters:
-      and:
-        - file.hasLink("<%tp.file.title%>")
-    order:
-      - file.name
-      - locations
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

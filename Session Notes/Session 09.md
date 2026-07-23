@@ -63,7 +63,7 @@ Dorian gives them his phone and clarifies we're looking for information on the r
 
 This is going to take a few hours. The give us some sacred water - runoff from the Machine. It tastes shockingly clean. Keena tries to detect any divine magic but gets nothing.
 
-Kid comes in. Tech people are named [[Arden]] and [[Dex Dad]]?
+Kid comes in. Tech people are named [[Arden]] and [[Faile]]?
 
 ![[npc_dex.webp]]
 

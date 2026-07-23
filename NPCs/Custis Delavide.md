@@ -5,7 +5,7 @@ aliases:
   - Custis
 cover:
 created: 2026-05-25
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - enemy
 organizations:
@@ -25,26 +25,20 @@ locations:
 
 The [[Oligarchs|Oligarch]] who had [[Dorian Caldwell|Dorian]]'s parents murdered.
 
-# Notes
+### Notes
 
-- Dorian revealed to [[Silas Sorelli|Silas]] that Custis is actually his uncle
+- Dorian has revealed to [[Silas Sorelli|Silas]]  and [[Maximilius Adkins|Max]] that Custis is actually his uncle, who tried to kill him shortly after he turned 18
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.join(", ").contains("Custis Delavide")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```
+

@@ -5,18 +5,21 @@ aliases:
   - stalker
 cover: "[[placeholder2.webp]]"
 created: 2026-06-22
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - enemy
 organizations:
   - "[[Titan Corporation]]"
 associates:
+  - "[[Mystery Burger Man]]"
+  - "[[Augustin Devereaux]]"
 brief: A mysterious individual or group that keeps sending Gideon blackmail material against the party
-tags:
 status:
   - alive
 locations:
   - unknown
+tags:
+  - merge_needed
 ---
 
 ![[npc_Stalker.webp]]
@@ -25,7 +28,7 @@ locations:
 
 A mysterious individual or group that has been tracking/recording the party via a drone and keeps texting [[Gideon Oublier|Gideon]]'s phone with blackmail material
 
-# Notes
+### Notes
 
 - seems to have been recording the party since the initial venture into the [[Not Far Sewer]]
 - kidnapped [[Malcolm Oublier]] from a casino and demands [[Keena O'Malley|Keena]] or [[Maximilius Adkins|Max]] in trade
@@ -44,24 +47,17 @@ A mysterious individual or group that has been tracking/recording the party via 
 
 - affiliated with the [[Titan Corporation]]
 - likely related in some way to [[Augustin Devereaux]]
-- 
+- Holy shit, it's actually the [[Mystery Burger Man]]
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.join(", ").contains("Stalker")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

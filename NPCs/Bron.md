@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[npc_bron.webp]]"
 created: 2026-06-22
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - neutral
   - friendly
@@ -25,7 +25,7 @@ locations:
 
 A pawn broker of sorts who runs the Neon Corridor.
 
-# Notes
+### Notes
 
 - [[Paintbrush Gnome]] claims Brug stole his magic paintbrush and [[Dorian Caldwell|Dorian]] offered that we would talk to him about it
 - Per Brug, the gnome had given the paintbrush as collateral for a debt that he never paid
@@ -34,20 +34,13 @@ A pawn broker of sorts who runs the Neon Corridor.
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.join(", ").contains("Bron")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

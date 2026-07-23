@@ -5,7 +5,7 @@ aliases:
   - beggar
 cover: "[[npc_keenavisionbeggar.webp]]"
 created: 2026-07-09
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - neutral
   - unknown
@@ -75,20 +75,13 @@ Keena asks if he's here every day and he shrugs in like a "probably" sort of way
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.contains("Ozwin Wicker")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

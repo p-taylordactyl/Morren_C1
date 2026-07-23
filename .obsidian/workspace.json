@@ -72,17 +72,17 @@
             }
           },
           {
-            "id": "167f69d320db354d",
+            "id": "40113926b9b9312e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPCs/Morrgen Oublier.md",
+                "file": "Quests/Penthouse Signal Rehearsal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morrgen Oublier"
+              "title": "Penthouse Signal Rehearsal"
             }
           }
         ],
@@ -273,45 +273,84 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "167f69d320db354d",
+  "floating": {
+    "id": "d5efd2f347ac3084",
+    "type": "floating",
+    "children": [
+      {
+        "id": "7e064d7ace39bdcb",
+        "type": "window",
+        "children": [
+          {
+            "id": "b6aec720f7505085",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c63fb1e6342f320e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "admin/Base Embeds.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Base Embeds"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3075,
+        "y": 312,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "40113926b9b9312e",
   "lastOpenFiles": [
-    "NPCs/Morrgen Oublier.md",
-    "NPCs/Thorbin Sprake.md",
-    "NPCs/Sister Hera.md",
-    "NPCs/Lumen Veil.md",
-    "NPCs/Ren Calder.md",
-    "NPCs/Augustin Devereaux.md",
-    "NPCs/The Driftwarden.md",
-    "NPCs/Pipey.md",
-    "NPCs/Mira Sporehand.md",
-    "NPCs/Drogrash.md",
-    "NPCs/Hadrian Buchanon.md",
-    "NPCs/Sprocket.md",
-    "Home.md",
+    "Quests/Elevator Eulogy.md",
+    "Quests/The Silent Floor.md",
+    "Quests/The Bloom Below.md",
+    "Quests/Voices in the Grates.md",
+    "Quests/The Flow Must Continue.md",
+    "Factions and Groups/Underground/West Valence Saints.md",
+    "Factions and Groups/Underground/Old Valence Stevedore Union.md",
+    "Factions and Groups/Underground/Old Guard.md",
+    "Factions and Groups/Underground/Mariner's Reach.md",
+    "Factions and Groups/Underground/Lightning Crew.md",
+    "Factions and Groups/Underground/Ghosts of the Flooded Zone.md",
+    "Factions and Groups/Underground/Dominion Crew.md",
+    "Factions and Groups/Underground/Box Boys.md",
+    "Factions and Groups/Underground/Bellanova Family.md",
+    "Factions and Groups/Religious/Cult of the Machine God.md",
+    "Factions and Groups/Misc/Sludge Farmers.md",
+    "Factions and Groups/Misc/Sewer Goblins.md",
+    "Factions and Groups/Corporate/Valencian Seahorses.md",
+    "Factions and Groups/Corporate/Titan Corporation.md",
+    "Factions and Groups/Corporate/Paragon Soundworks.md",
+    "Factions and Groups/Corporate/Oligarchs.md",
+    "Factions and Groups/Corporate/NovaStyle Group.md",
+    "Factions and Groups/Corporate/Infinity Plaza Mall.md",
+    "Factions and Groups/Corporate/Enforcers.md",
+    "Factions and Groups/Corporate/Crownlight Media.md",
+    "Factions and Groups/Corporate/Cael Foundation.md",
     "admin/assets/hoodswatchicon.svg",
     "admin/assets/hoodswatch.svg",
-    "admin/Useful Bits.md",
     "admin/assets/session13_map1.webp",
-    "Session Notes/Kat Themes and Goals.md",
     "admin/assets/hoodswatch.xcf",
     "admin/assets/icon.webp",
-    "Session Notes/Session 13.md",
     "admin/assets/ghost_sneak.webp",
     "admin/assets/npc_victorhalden.webp",
     "admin/assets/npc_taliamercina.webp",
     "admin/assets/npc_gideonoublier_disguise2.webp",
     "admin/assets/session13_combat1.webp",
-    "Session Notes/Timers.md",
-    "Session Notes/Session 12.md",
     "admin/assets/oldvalence_map3.webp",
-    "admin/Base Embeds.md",
-    "admin/templates/Session Note.md",
-    "admin/templates/Player Character.md",
-    "admin/templates/NPC.md",
-    "admin/templates/Location.md",
-    "admin/templates/Faction.md",
-    "admin/templates/Quest.md",
-    "NPCs/Stu.md",
     "NPCs/0 NPC Index.base",
     "Factions and Groups/0 Faction Index.base",
     "Session Notes/0 Session Index.base",

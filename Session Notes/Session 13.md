@@ -2,7 +2,7 @@
 dg-publish: false
 type: session_note
 created: 2026-07-20
-modified: 2026-07-20
+modified: 2026-07-23
 session_date: 07/20/2026
 session_number: 13
 players:

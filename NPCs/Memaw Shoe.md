@@ -5,7 +5,7 @@ aliases:
   - Memaw
 cover: "[[npc_memawshoe.webp]]"
 created: 2026-05-25
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - friendly
 organizations:
@@ -25,26 +25,18 @@ locations:
 
 Once a custodian of [[Hood Station]] - upon its retiring from service she was unable to secure other work leading to the loss of her apartment in Bellanova Towers. With no where else to turn she fashioned a makeshift home in Hood Station where she spent years on her own. Others would come seeking to build a community center and Shoe would turn her wisdom both of the tunnels systems and its dangers toward their cause. In more recent times her wisdom, unorthodox but reliable skills, and matronly approach to conflict resolution has proven invaluable to those who have followed in her shoeprints and thus earned her much respect; with many in the burgeoning community considering her the closest thing [[Hood Station]] has to a leader.
 
-# Notes
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.join(", ").contains("Memaw Shoe")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```
 
 # Quests

@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[npc_animator.webp]]"
 created: 2026-07-06
-modified: 2026-07-20
+modified: 2026-07-23
 disposition:
   - neutral
   - unknown
@@ -23,29 +23,22 @@ locations:
 
 # Description
 
-A man who can bring paintings to life using a magic paintbrush
+A man who can bring paintings to life using a magic paintbrush.
 
-# Notes
+### Notes
 
 - the paintbrush he uses is likely the one [[Paintbrush Gnome]] claims [[Bron]] stole (that Bron says he validly sold)
-- 
+- [[Dorian Caldwell|Dorian]] has made the initial deposit to have his parents portrait animated but needs to know more about them in order to have it animated further (so he can talk to them)
 
 # Session Mentions
 
-```base
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.contains("Animator")
-    order:
-      - file.name
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
 ```

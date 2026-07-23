@@ -202,6 +202,23 @@ views:
       - locations
 
 
+filters:
+  and:
+    - type == "session_note"
+    - file.folder != "admin/templates"
+properties:
+  file.name:
+    displayName: Session
+views:
+  - type: list
+    name: Encounters
+    filters:
+      and:
+        - file.links.join(", ").contains("<%tp.file.title%>")
+    order:
+      - file.name
+
+
 Session debug 
 formulas:
   test_links: file.links.join(", ")
