@@ -31,7 +31,7 @@ views:
     name: Prev-and-Next-Sessions
     filters:
       or:
-        - session_number == this.session_number - 01
+        - session_number == this.session_number - 1
         - session_number == this.session_number + 1
     order:
       - session_date

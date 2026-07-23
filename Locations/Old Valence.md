@@ -3,7 +3,7 @@ dg-publish: true
 type: city
 cover:
 created: 2026-04-06
-modified: 2026-07-06
+modified: 2026-07-23
 parent:
 associations:
 tags:
@@ -25,5 +25,4 @@ Now in the 21st century - Old Valence remains a shadow of its former self, as ri
 
 ![[location_oldvalence_districts.webp]]
 
-![[session06_oldvalence.webp]]
 

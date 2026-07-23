@@ -90,5 +90,14 @@
       ],
       "key": "Q"
     }
+  ],
+  "templater-obsidian:admin/templates/Refresh All Maps.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "M"
+    }
   ]
 }

@@ -19,8 +19,8 @@ Quest Index
 - [x] update location template
 - [x] update districts
 - [x] update locations
-- [ ]  organization embed final version
-- [ ] update faction and group templates
+- [x]  organization embed final version
+- [x] update faction and group templates
 - [x] update factions and groups
 
 ### Location Note Embed
@@ -182,63 +182,13 @@ views:
 
 ### Encounters
 
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-  note.locations:
-    displayName: Session Locations
-views:
-  - type: table
-    name: Encounters
-    filters:
-      and:
-        - file.hasLink("<%tp.file.title%>")
-    order:
-      - file.name
-      - locations
-
-
-filters:
-  and:
-    - type == "session_note"
-    - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
-views:
-  - type: list
-    name: Encounters
-    filters:
-      and:
-        - file.links.join(", ").contains("<%tp.file.title%>")
-    order:
-      - file.name
-
-
-Session debug 
-formulas:
-  test_links: file.links.join(", ")
-  test_haslink: file.hasLink("Sprocket")
-  test_haslink_v2: file.links.contains("sprocket")
-  raw_locations: locations.join(";;")
-  raw_locations_length: locations.join(" | ").length
-
-
-    name: Debug
-    filters:
-      and:
-        - file.links.join(",").lower().contains("sprocket")
-    order:
-      - test_links
-      - file.name
-      - formula.raw_locations
-      - formula.raw_locations_length
-    sort:
-      - property: file.name
-        direction: ASC
-    columnSize:
-      formula.raw_locations: 588
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Session",
+  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND contains(this.file.inlinks, file.link)
+SORT file.name ASC, locations ASC
+```

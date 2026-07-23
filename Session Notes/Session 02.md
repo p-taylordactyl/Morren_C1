@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-04-27
-modified: 2026-07-20
+modified: 2026-07-23
 session_number: 2
 session_date: 04/27/2026
 players:
@@ -23,7 +23,15 @@ locations:
 tags:
 ---
 
-![[0 Session Index.base#Prev-and-Next-Sessions]]
+```dataview
+TABLE WITHOUT ID
+  choice(session_number < this.session_number, "⬅️ Previous Session: ", "Next Session ➡️: ") + string(file.link) AS " "
+FROM ""
+WHERE type = "session_note"
+  AND file.folder != "admin/templates"
+  AND (session_number = this.session_number - 1 OR session_number = this.session_number + 1)
+SORT session_number ASC
+```
 
 # Winter 2, 2012
 

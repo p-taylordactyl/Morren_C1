@@ -62,14 +62,5 @@ views:
 
 # Maps
 
-```dataviewjs
-const placeTitle = dv.current().file.name.toLowerCase().replace(/\s/g, "");
 
-const imgFiles = app.vault.getFiles()
-  .filter(file => 
-    file.extension === 'webp' && 
-    file.name.startsWith("location_" + placeTitle)
-  );
 
-imgFiles.forEach(file => dv.paragraph(`![[${file.path}]]`));
-```

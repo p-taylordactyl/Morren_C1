@@ -20,7 +20,7 @@ brief:
 tags:
   - under_construction
 ---
-![[npc_<% tp.file.title.replace(/ /g, '') %>.webp|htall]]
+![[npc_<% tp.file.title.replace(/ /g, '') %>.webp|400]]
 
 # Description
 

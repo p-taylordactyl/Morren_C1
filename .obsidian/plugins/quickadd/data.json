@@ -110,7 +110,7 @@
       "templatePath": "admin/templates/Session Note.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "Session 1"
+        "format": "Session 01"
       },
       "folder": {
         "enabled": true,

@@ -12,7 +12,7 @@
         "Session Notes",
         "Quests",
         "Timeline.md",
-        "Untitled.md"
+        "Pre-Publish Checklist.md"
       ],
       "sortOrder": "custom"
     },
@@ -199,7 +199,11 @@
       "sortOrder": "custom"
     },
     "admin/scripts": {
-      "children": [],
+      "children": [
+        "admin/scripts/generateLocationImages.js",
+        "admin/scripts/refreshAllLocationImages.js",
+        "admin/scripts/refreshLocationImages.js"
+      ],
       "sortOrder": "custom"
     },
     "admin/templates": {
@@ -210,7 +214,8 @@
         "admin/templates/NPC.md",
         "admin/templates/Player Character.md",
         "admin/templates/Session Note.md",
-        "admin/templates/Group.md"
+        "admin/templates/Group.md",
+        "admin/templates/Refresh All Maps.md"
       ],
       "sortOrder": "custom"
     },
