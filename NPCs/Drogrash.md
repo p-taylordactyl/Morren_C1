@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[placeholder2.webp]]"
 created: 2026-04-23
-modified: 2026-07-20
+modified: 2026-07-22
 disposition:
   - friendly
 organizations:
@@ -24,7 +24,6 @@ locations:
 
 Drogrash is the bartender at The Station House, [[Hood Station]]'s premier (and only) bar.
 
-# Notes
 
 # Session Mentions
 

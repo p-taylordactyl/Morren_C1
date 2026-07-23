@@ -6,7 +6,7 @@
   "prHistory": [],
   "baseTheme": "dark",
   "theme": "{\"name\":\"ITS Theme\",\"author\":\"SlRvb\",\"repo\":\"slrvb/Obsidian--ITS-Theme\",\"screenshot\":\"ITS.png\",\"modes\":[\"dark\",\"light\"],\"cssUrl\":\"https://raw.githubusercontent.com/slrvb/Obsidian--ITS-Theme/HEAD/theme.css\"}",
-  "faviconPath": "",
+  "faviconPath": "admin/assets/hoodswatchicon.svg",
   "logoPath": "",
   "useFullResolutionImages": true,
   "noteSettingsIsInitialized": true,
@@ -24,8 +24,8 @@
   "showUpdatedTimestamp": true,
   "updatedTimestampKey": "modified",
   "timestampFormat": "MMM dd, yyyy h:mm a",
-  "styleSettingsCss": "body.css-settings-manager { --file-line-width: 1300px; --default-font: Pilgrim; } body.theme-light.css-settings-manager { } body.theme-dark.css-settings-manager { }",
-  "styleSettingsBodyClasses": "theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-inline-title is-floating-nav auto-full-screen show-ribbon show-view-header css-settings-manager Heading is-maximized is-focused its-theme sidebar-float-bottom folder-arrow-hidden illusion default-callout-quote canvas-cards",
+  "styleSettingsCss": "body.css-settings-manager { --file-line-width: 1100px; --default-font: Pilgrim; } body.theme-light.css-settings-manager { } body.theme-dark.css-settings-manager { }",
+  "styleSettingsBodyClasses": "theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-inline-title is-floating-nav auto-full-screen show-ribbon show-view-header is-maximized css-settings-manager its-theme sidebar-float-bottom folder-arrow-hidden Heading illusion default-callout-quote canvas-cards is-focused",
   "pathRewriteRules": "",
   "customFilters": [],
   "publishPlatform": "SelfHosted",
@@ -91,8 +91,8 @@
       "Silas Sorelli"
     ],
     "/Hood Station": [
-      "Endline Garage",
       "Hood Station",
+      "Endline Garage",
       "Iron Form Dojo",
       "Morrgen's Community Center",
       "Protective Association for Wayward and Neglected Strays",
@@ -101,8 +101,8 @@
     ],
     "/Factions and Groups": [
       "Corporate",
-      "Religious",
       "Underground",
+      "Religious",
       "Misc"
     ],
     "/Factions and Groups/Corporate": [
@@ -117,9 +117,6 @@
       "Titan Corporation",
       "Valencian Seahorses"
     ],
-    "/Factions and Groups/Religious": [
-      "Cult of the Machine God"
-    ],
     "/Factions and Groups/Underground": [
       "Bellanova Family",
       "Box Boys",
@@ -130,6 +127,9 @@
       "Old Guard",
       "Old Valence Stevedore Union",
       "West Valence Saints"
+    ],
+    "/Factions and Groups/Religious": [
+      "Cult of the Machine God"
     ],
     "/Factions and Groups/Misc": [
       "Sewer Goblins",
@@ -192,7 +192,6 @@
       "Augustin Devereaux",
       "Az",
       "Barron Sutton",
-      "Beggar from Keena's Vision",
       "Bron",
       "Brug",
       "Cillian Kravus",
@@ -238,9 +237,11 @@
       "The Driftwarden",
       "Thorbin Sprake",
       "Vesh Hollowbone",
-      "Vinny Brassjaw"
+      "Vinny Brassjaw",
+      "Ozwin Wicker"
     ],
     "/Session Notes": [
+      "Timers",
       "Session 01",
       "Session 02",
       "Session 03",
@@ -251,8 +252,7 @@
       "Session 08",
       "Session 09",
       "Session 10",
-      "Session 11",
-      "Timers"
+      "Session 11"
     ],
     "/Quests": [
       "Elevator Eulogy",

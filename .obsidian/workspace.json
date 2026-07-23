@@ -56,13 +56,19 @@
             }
           },
           {
-            "id": "acbccb521ba7c151",
+            "id": "5df3b1a6fa72c2c1",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "digital-garden-publication-center",
-              "state": {},
-              "icon": "book-up",
-              "title": "Publication Center"
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 13.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 13"
             }
           },
           {
@@ -71,30 +77,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 12.md",
+                "file": "NPCs/Morrgen Oublier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 12"
-            }
-          },
-          {
-            "id": "5df3b1a6fa72c2c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "admin/templates/Session Note.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session Note"
+              "title": "Morrgen Oublier"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -281,93 +273,54 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "floating": {
-    "id": "81529704a1128f85",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9f6769b19d3167af",
-        "type": "window",
-        "children": [
-          {
-            "id": "e24909aa82a78c3e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fba191e60311cf4c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "admin/Base Embeds.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Base Embeds"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1809,
-        "y": 147,
-        "width": 600,
-        "height": 600,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "5df3b1a6fa72c2c1",
+  "active": "167f69d320db354d",
   "lastOpenFiles": [
+    "NPCs/Morrgen Oublier.md",
+    "NPCs/Thorbin Sprake.md",
+    "NPCs/Sister Hera.md",
+    "NPCs/Lumen Veil.md",
+    "NPCs/Ren Calder.md",
+    "NPCs/Augustin Devereaux.md",
+    "NPCs/The Driftwarden.md",
+    "NPCs/Pipey.md",
+    "NPCs/Mira Sporehand.md",
+    "NPCs/Drogrash.md",
+    "NPCs/Hadrian Buchanon.md",
+    "NPCs/Sprocket.md",
+    "Home.md",
+    "admin/assets/hoodswatchicon.svg",
+    "admin/assets/hoodswatch.svg",
+    "admin/Useful Bits.md",
+    "admin/assets/session13_map1.webp",
+    "Session Notes/Kat Themes and Goals.md",
+    "admin/assets/hoodswatch.xcf",
+    "admin/assets/icon.webp",
+    "Session Notes/Session 13.md",
+    "admin/assets/ghost_sneak.webp",
+    "admin/assets/npc_victorhalden.webp",
+    "admin/assets/npc_taliamercina.webp",
+    "admin/assets/npc_gideonoublier_disguise2.webp",
+    "admin/assets/session13_combat1.webp",
+    "Session Notes/Timers.md",
+    "Session Notes/Session 12.md",
+    "admin/assets/oldvalence_map3.webp",
+    "admin/Base Embeds.md",
+    "admin/templates/Session Note.md",
     "admin/templates/Player Character.md",
     "admin/templates/NPC.md",
     "admin/templates/Location.md",
     "admin/templates/Faction.md",
     "admin/templates/Quest.md",
-    "Session Notes/Session 13.md",
-    "Session Notes/Session 12.md",
     "NPCs/Stu.md",
-    "NPCs/Mystery Burger Man.md",
-    "NPCs/Ozwin Wicker.md",
-    "NPCs/Ozwin Wicker.md",
-    "NPCs/Styx.md",
-    "NPCs/Nyx.md",
-    "NPCs/Animator.md",
-    "NPCs/Orgo.md",
-    "NPCs/Morgo.md",
-    "NPCs/Stonespear.md",
-    "NPCs/Paintbrush Gnome.md",
-    "NPCs/Lightning Leroy.md",
-    "NPCs/Solomon Hexley.md",
-    "NPCs/Dex Dad.md",
-    "NPCs/Dex.md",
-    "NPCs/Drogrash.md",
-    "NPCs/Hadrian Buchanon.md",
-    "NPCs/Sprocket.md",
-    "Session Notes/Session 01.md",
     "NPCs/0 NPC Index.base",
-    "admin/assets/placeholder2.webp",
-    "admin/assets/session12_map1.webp",
-    "admin/assets/placeholder1.webp",
-    "admin/assets/npc_ghostsquadleader.webp",
-    "admin/assets/location_hoodstation_ironformdojo.webp",
-    "admin/assets/npc_kairovoss.webp",
-    "admin/assets/placeholder.webp",
     "Factions and Groups/0 Faction Index.base",
     "Session Notes/0 Session Index.base",
     "Locations/0 Location Index.base",
-    "admin/assets/hamletkeeper_2_itsrealbad.webp",
-    "admin/assets/npc_nyx.webp",
-    "admin/assets/hamletkeeper.webp",
     "Quests/0 Quest Index.base",
     "admin/scripts",
     "Factions and Groups/Underground",
     "Factions and Groups/Misc",
     "Factions and Groups/Religious",
-    "Factions and Groups/Corporate",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas"
   ]

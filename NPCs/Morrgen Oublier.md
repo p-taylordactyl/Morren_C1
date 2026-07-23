@@ -5,7 +5,7 @@ aliases:
   - Morrgen
 cover: "[[npc_morrgenoublier.webp]]"
 created: 2026-05-08
-modified: 2026-07-20
+modified: 2026-07-22
 disposition:
   - friendly
 organizations:
@@ -30,8 +30,6 @@ locations:
 # Description
 
 Morrgen Oublier, a high elf in her early hundreds with deep wine red hair. She is kind and graceful, not a pillar of the community but the very foundation that it was built on. She believes in the [[Covenant of Equal Measure]] but sees value in all of Morrenel's teachings. Her perfect world is one where everyone is seen as an equal and has all the same opportunities.
-
-# Notes
 
 - After her husband was murdered, [[Morrgen Oublier]]
 

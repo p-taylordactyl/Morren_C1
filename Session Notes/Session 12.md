@@ -2,7 +2,7 @@
 dg-publish: false
 type: session_note
 created: 2026-07-13
-modified: 2026-07-16
+modified: 2026-07-20
 session_date: 07/13/2026
 session_number: 12
 players:
@@ -15,11 +15,13 @@ missed:
 paid:
 level: "4"
 ingame_start: 1/12/12
-ingame_finish:
+ingame_finish: 1/19/26
 locations:
   - "[[BB Megatower]]"
   - "[[Ransom Location]]"
+  - "[[Hood Station]]"
 tags:
+  - downtime
 ---
 
 ![[0 Session Index.base#Prev-and-Next-Sessions]]
@@ -40,11 +42,11 @@ We resume outside of the [[Ransom Location]], about 30min after [[Maximilius Adk
 
 Keena changes his ringtone to "taking the hobbits to Isengard!" and Kat hacks his wrist phone so he can't change it.
 
-We talk about what to do next and the [[West Valence Saints|Saints]] problem.
+We talk about what to do next and the [[West Valence Saints|Saints]] problem. [[Keena O'Malley|Keena]] and [[Katriel Buchanon|Kat]] talk about [[Morgo]] and the possibility of candling him and what exactly candling might do.
 
 The gang members outside the Ransom Location start to disperse as people leave the building, including two [[Titan Corporation|Titan]] animated armors. But no sign of Max.
 
-A gust of wind rolls past us with a poster. It says "Coming Soon: Delavide Mineral Extraction" with a location about 1.5hrs from [[Hood Station]]. 
+A gust of wind rolls past us with a poster. It says "Coming Soon: Delavide Mineral Extraction" with a location about 1.5hrs from [[Hood Station]].  Dorian explains to the party that [[Custis Delavide]] is the [[Oligarchs|oligarch]] that killed his parents.
 
 It's cold enough we're going to need to find shelter for the night, especially for our less alive party members to survive.
 
@@ -62,7 +64,7 @@ She can't tell if the auctioneer has any sort of affiliation from this distance.
 
 Malcolm wakes up and starts complaining about a hole in his head.
 
-Kat examines the hole and it looks like something chewed through it. We can see exposed brain matter but nothing appears to be in the hole.
+Kat with the help of the party examines the hole and it looks like something chewed through it. We can see exposed brain matter but nothing appears to be in the hole.
 
 We start shitting on him for being the reason we lost Max.
 
@@ -72,9 +74,9 @@ We assume it has something to do with the hole in his head.
 
 Kat tries and fails to grab him and Malcolm keeps rising. 
 
-Keena tries and fails to intimidate him down.
+Keena tries to intimidate him into coming down by saying she'll shove Morronel so far up his ass that it comes out his mouth.
 
-
+Malcolm only rises further pisses himself.
 
 He says he's thinking about falling and just shoots westward across the sky. Gideon tells him to think about relaxing in bed.
 
@@ -86,7 +88,7 @@ Gideon gets a text from Malcolm from in front of the [[Morrgen's Community Cente
 
 Kat checks to see if we're being followed and spots another drone, hanging back out of the range of most spells.
 
-We start the drive back to Hood Station.
+We start the drive back to [[Hood Station]].
 
 There's a bunch of exploded cars blocking the door ahead of us and hear machine gun fire. 
 
@@ -106,7 +108,7 @@ About an hour into the drive, Gideon gets a video call from Malcolm.
 
 He's shaking, with blood smeared across his face, holding a knife.
 
-The camera pans and Gideon sees the bloody corpse of his father. Malcolm says he doesn't know what's happening and begs for help. An Enforcer team bursts into their home and tackles Malcolm. The enforcers knock him unconscious and the call cuts out.
+The camera pans and Gideon sees the bloody corpse of his father. Malcolm says he doesn't know what's happening and begs for help. An [[Enforcers|Enforcer]] team bursts into their home and tackles Malcolm. The enforcers knock him unconscious and the call cuts out.
 
 We pull into Hood Station about 30 minutes later. We see a large enforcer aerostatic vehicle pulling away, heading east towards the courthouses.
 
@@ -140,7 +142,7 @@ Morrgen will keep a log on her personal recorder of her activities and has it se
 
 After an emotional goodbye with Kat, Morrgen leaves.
 
-Gideon's dad's body is being taken out of the Community Center.
+Gideon's dad's body is being taken out of the Community Center as we approach.
 
 He decides he's going to keep staying at the community center and Kat says she'll stay with him.
 
@@ -209,7 +211,7 @@ We head off to the [[Iron Form Dojo|Dojo]].
 ![[npc_nyralightwell.webp|526]]
 
 
-[[Cillian Ward|Cillian]] comes over and notes how bad the party looks.
+Inside, we see [[Cillian Ward]] as well as [[Kairo Voss]] and [[Nyra Lightwell|Nyra]]. Cillian comes over and notes how bad the party looks.
 
 We let him know we [[Elevator Eulogy|fixed the elevator]] and he gives us our reward.
 
@@ -225,7 +227,9 @@ We settle in for some downtime.
 
 Dorian reveals to Silas that his last name is actually Delavide, not Caldwell, and that Custis Delavide (the man who killed his parents) is his uncle.
 
-He's heard that he somehow wasn't his parents rightful heir.
+Custis had Dorian's parents killed and tried to kill Dorian once he turned 18 to disenfranchise him from his inheritance. He's heard that he somehow wasn't his parents rightful heir.
+
+# Downtime 1/12 - 1/19
 
 As they talk, we all see a TV broadcast. It's a news report warning of escalation of attacks in the Cloud District from the [[Ghosts of the Flooded Zone|Ghosts]]. The escalations are getting increasingly closer to Hood Station.
 
@@ -245,4 +249,5 @@ At the end of the week, the quest board doesn't currently have anything.
 
 Kat gets Kieran and his family moved into Hood Station and settled in temp dwellings.
 
-As we're talking, a submersible craft up into Hood Station from one of the underwater tunnels, and armed ghosts led by the individual from before begin to ransack Hood Station.
+As we meet back up after the week is out to decide our next move,  a submersible craft comes up into Hood Station from one of the underwater tunnels, and armed [[Ghosts of the Flooded Zone|Ghosts]] led by the individual from before begin to ransack Hood Station.
+

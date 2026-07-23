@@ -1,6 +1,6 @@
 ---
 title: Welcome to Hood Station!
-modified: 2026-07-16
+modified: 2026-07-22
 created: 2026-06-30
 dg-publish: true
 dg-home: true
@@ -13,22 +13,22 @@ dg-home: true
 
 > [!cards] 
 >  **[[Katriel Buchanon|Kat Buchanon]]**
-> ![[pc_katrielbuchanon_firstdisguise.webp|center portrait]]
+> ![[pc_katrielbuchanon_firstdisguise.webp| center portrait]]
 >
 > **[[Gideon Oublier]]**
-> ![[pc_gideonoublier_firstdisguise.webp|center portrait]]
+> ![[pc_gideonoublier_firstdisguise.webp| center portrait]]
 > 
 > **[[Dorian Caldwell]]**
 > ![[pc_doriancaldwell_firstdisguisealt.webp| center portrait]]
 > 
 > **[[Silas Sorelli]]**
-> ![[pc_silassorelli_firstdisguise.webp|center portrait]]
+> ![[pc_silassorelli_firstdisguise.webp| center portrait]]
 > 
 > **[[Keena O'Malley]]**
-> ![[pc_keenaomalley_firstdisguise.webp|center portrait]]
+> ![[pc_keenaomalley_firstdisguise.webp| center portrait]]
 > 
 > **[[Maximilius Adkins|Max Adkins]]**
-> ![[pc_maxadkins_thetickler.webp|center portrait]]
+> ![[pc_maxadkins_thetickler.webp| center portrait]]
 
 
 # Session Notes

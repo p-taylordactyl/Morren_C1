@@ -1,6 +1,6 @@
 ---
 dg-publish: false
-modified: 2026-07-16
+modified: 2026-07-20
 created: 2026-04-27
 ---
 ## Themes
@@ -11,6 +11,10 @@ created: 2026-04-27
 - Kat doesn't want to interact with the Saints at all. She gives a bunch of reasons for why it's a bad idea for us to talk to them but is lowkey just terrified of the cult after leaving (and maybe a little scared of who she'll be if has to interact with them).
 - 
 - Sports chat with Keena - rage against the corpos
+
+### 7-20-26
+- Silas being better at talking  to Gideon (session 12)
+- 
 
 ## Goals
 

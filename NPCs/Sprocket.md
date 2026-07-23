@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[npc_sprocket.webp]]"
 created: 2026-04-27
-modified: 2026-07-20
+modified: 2026-07-22
 disposition:
   - neutral
   - friendly
@@ -25,7 +25,7 @@ tags:
 
 A goblin merchant in the [[Floodgate Bazaar|bazaar]] located in the south section of the [[Not Far Sewer]]. Likes to party.
 
-# Notes
+
 
 # Session Mentions
 

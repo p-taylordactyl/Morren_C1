@@ -5,7 +5,7 @@ aliases:
   - Hera
 cover: "[[npc_sisterhera.webp]]"
 created: 2026-05-04
-modified: 2026-07-20
+modified: 2026-07-22
 disposition:
   - friendly
 organizations:
@@ -25,7 +25,6 @@ locations:
 
 A Priestess of the [[Machine God]] living in the [[Not Far Sewer]].We found Sister Hera cowering from crocodiles at the [[Filter Shrine]], her fellow devotees having all been killed already. We killed the crocs and she gratefully told us what was going on with the Filter, which seemed to have stopped working.
 
-# Notes
 
 # Session Mentions
 

@@ -5,7 +5,7 @@ aliases:
   - Hadrian
 cover:
 created: 2026-04-23
-modified: 2026-07-20
+modified: 2026-07-22
 disposition:
   - unknown
 organizations:
@@ -28,7 +28,6 @@ Katriel was raised by her widowed father, [[Hadrian Buchanon]] in a militant rel
 
 In addition to the normal Saints rules, the Dominion had their own additional rules to enforce control over their own members as well as their block.  Chief among these rules was to respect the hierarchy, starting with her father up the chain to the Dominion Crew leader, [[Gorax]]. Even the oligarchs, since they could overpower anyone they chose.
 
-# Notes
 
 # Session Mentions
 

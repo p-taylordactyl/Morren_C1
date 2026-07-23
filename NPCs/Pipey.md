@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[placeholder2.webp]]"
 created: 2026-04-29
-modified: 2026-07-20
+modified: 2026-07-22
 disposition:
   - neutral
   - friendly
@@ -24,7 +24,6 @@ locations:
 
 Mysterious tiefling we met in a pipe in the [[Not Far Sewer]]. Wouldn't give his real name but did kind of sort of point us towards [[Pipe Junction]].
 
-# Notes
 
 # Session Mentions
 
