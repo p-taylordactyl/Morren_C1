@@ -105,12 +105,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 01.md",
+                "file": "Session Notes/Session 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 01"
+              "title": "Session 13"
             }
           }
         ],
@@ -233,10 +233,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Session Notes/Session 01.md"
+                "file": "Session Notes/Session 13.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Session 01"
+              "title": "File properties for Session 13"
             }
           },
           {
@@ -328,9 +328,18 @@
   },
   "active": "b4621d82c2997c42",
   "lastOpenFiles": [
+    "Session Notes/Session 12.md",
+    "Session Notes/Session 11.md",
+    "Session Notes/Session 10.md",
+    "Session Notes/Session 09.md",
+    "Session Notes/Session 08.md",
+    "Session Notes/Session 07.md",
+    "Session Notes/Session 06.md",
+    "Session Notes/Session 05.md",
+    "Session Notes/Session 04.md",
+    "Session Notes/Session 03.md",
     "Session Notes/Session 02.md",
     "Session Notes/Session 01.md",
-    "Session Notes/Session 04.md",
     "admin/templates/Session Note.md",
     "admin/templates/Group.md",
     "admin/templates/Player Character.md",
@@ -346,18 +355,9 @@
     "Quests/0 Quest Index.base",
     "Locations/Not Far Sewer.md",
     "admin/templates/Refresh All Maps.md",
-    "Locations/Pipe Junction.md",
-    "Pre-Publish Checklist.md",
-    "Session Notes/Session 14.md",
-    "Session Notes/Session 1.md",
-    "Locations/Sludge Farm.md",
-    "Locations/Districts/Crownlight Strip.md",
-    "Locations/Districts/Flooded Zone.md",
-    "Locations/Old Valence.md",
     "admin/scripts/refreshLocationImages.js",
     "admin/scripts/refreshAllLocationImages.js",
     "admin/scripts/generateLocationImages.js",
-    "Quests/Penthouse Signal Rehearsal.md",
     "admin/assets/hoodswatchicon.svg",
     "admin/assets/hoodswatch.svg",
     "admin/assets/session13_map1.webp",

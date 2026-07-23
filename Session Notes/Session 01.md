@@ -24,16 +24,36 @@ locations:
 quests: "[[The Bloom Below]]"
 tags:
 ---
+```dataviewjs
+const container = dv.el("div", "", { cls: "session-nav" });
+container.style.display = "flex";
+container.style.gap = "1rem";
 
-```dataview
-TABLE WITHOUT ID
-  choice(session_number < this.session_number, "⬅️ Previous Session: ", "Next Session ➡️: ") + string(file.link) AS " "
-FROM ""
-WHERE type = "session_note"
-  AND file.folder != "admin/templates"
-  AND (session_number = this.session_number - 1 OR session_number = this.session_number + 1)
-SORT session_number ASC
+const prev = dv.pages()
+  .where(p => p.type === "session_note" && p.file.folder !== "admin/templates" && p.session_number === dv.current().session_number - 1)[0];
+const next = dv.pages()
+  .where(p => p.type === "session_note" && p.file.folder !== "admin/templates" && p.session_number === dv.current().session_number + 1)[0];
+
+function makeCard(label, page) {
+  const card = container.createEl("div", { cls: "session-nav-card" });
+  card.style.flex = "1";
+  card.style.border = "2px solid var(--text-normal)";
+  card.style.borderRadius = "8px";
+  card.style.padding = "1rem";
+  card.style.textAlign = "center";
+  card.createEl("div", { text: label });
+  if (page) {
+    card.appendChild(dv.el("strong", dv.fileLink(page.file.path)).firstChild ?? dv.span(`[[${page.file.path}]]`));
+  } else {
+    card.createEl("em", { text: "None" });
+  }
+}
+
+makeCard("⬅️ Previous Session", prev);
+makeCard("Next Session ➡️", next);
 ```
+
+
 
 # Winter 1, 2012
 

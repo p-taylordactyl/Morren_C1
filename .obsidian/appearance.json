@@ -4,7 +4,8 @@
   "enabledCssSnippets": [
     "bases_briefproperty",
     "grid-container",
-    "locationimages"
+    "locationimages",
+    "sessionnav"
   ],
   "baseFontSize": 16
 }

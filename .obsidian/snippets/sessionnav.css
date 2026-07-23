@@ -1,0 +1,21 @@
+.session-nav {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.session-nav table {
+  flex: 1;
+  border-collapse: collapse;
+}
+
+.session-nav thead {
+  display: none;
+}
+
+.session-nav td {
+  text-align: center;
+  padding: 1rem;
+  border: 2px solid var(--text-normal);
+  border-radius: 8px;
+}
