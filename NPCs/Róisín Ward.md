@@ -13,7 +13,7 @@ organizations:
 associates:
   - "[[Keena O'Malley|Keena]]"
   - "[[Cillian Ward|Cillian]]"
-  - "[[Vinny Brassjaw|Brassjaw]]"
+  - "[[Vinnie Brassjaw|Brassjaw]]"
 brief: Keena's cousin, who lost an arm in a Titan Corporation accident.
 tags:
 status:
@@ -32,7 +32,7 @@ locations:
 ### Notes
 
 - Keena and [[Maximilius Adkins|Max]] investigated the accident that cost Róisín her arm and found it was caused and covered up by [[Augustin Devereaux]], who they subsequently interrogated and beat into a coma
-- We ran into her at the [[BB Megatower]] seemingly being supplied drugs by [[Vinny Brassjaw|Brassjaw]] 
+- We ran into her at the [[BB Megatower]] seemingly being supplied drugs by [[Vinnie Brassjaw|Brassjaw]] 
 - When confronted by Keena, she said it was her best way to make money/support the family now
 
 # Session Mentions

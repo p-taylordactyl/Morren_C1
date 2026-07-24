@@ -13,12 +13,12 @@ views:
     order:
       - file.name
       - session_date
-      - missed
       - ingame_start
       - ingame_finish
-      - locations
+      - players
     columnSize:
       file.name: 111
+      note.locations: 513
   - type: table
     name: Encounters
     filters:

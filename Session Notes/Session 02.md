@@ -108,7 +108,7 @@ Kat learns that this is the [[Sludge Farm]]. The farmer's name is [[Mira Sporeha
 
 ![[npc_mirasporehand.webp]]
 
-She assures us the fungus situation is really due to the filter being bad and not a problem with the mushrooms themselves. They've been told so by someone called the "[[The Driftwarden]]"
+She assures us the fungus situation is really due to the filter being bad and not a problem with the mushrooms themselves. They've been told so by someone called the "[[NPCs/The Driftwarden]]"
 
 The [[Cult of the Machine God|Machine Spirit people]] did at some point also send inquisitors to the sludge farm to deal with the filter problem. They agreed the issue is actually that the filter needs to be replaced.
 

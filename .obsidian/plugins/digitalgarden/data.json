@@ -40,9 +40,9 @@
     "dgPassFrontmatter": false,
     "dgShowBacklinks": false,
     "dgShowLocalGraph": false,
-    "dgShowInlineTitle": false,
+    "dgShowInlineTitle": true,
     "dgShowFileTree": true,
-    "dgEnableSearch": false,
+    "dgEnableSearch": true,
     "dgShowToc": false,
     "dgLinkPreview": true,
     "dgShowTags": false

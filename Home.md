@@ -1,6 +1,6 @@
 ---
 title: Welcome to Hood Station!
-modified: 2026-07-22
+modified: 2026-07-23
 created: 2026-06-30
 dg-publish: true
 dg-home: true
@@ -16,7 +16,7 @@ dg-home: true
 > ![[pc_katrielbuchanon_firstdisguise.webp| center portrait]]
 >
 > **[[Gideon Oublier]]**
-> ![[pc_gideonoublier_firstdisguise.webp| center portrait]]
+> ![[npc_gideonoublier_disguise2.webp| center portrait]]
 > 
 > **[[Dorian Caldwell]]**
 > ![[pc_doriancaldwell_firstdisguisealt.webp| center portrait]]
@@ -31,10 +31,70 @@ dg-home: true
 > ![[pc_maxadkins_thetickler.webp| center portrait]]
 
 
-# Session Notes
-![[0 Session Index.base]]
+# Current Quests
+```dataviewjs
+const statusOrder = ["not started", "in progress"];
+
+const statusColors = {
+  "not started": "#6b7280",
+  "in progress": "#3b82f6"
+};
+
+function statusRank(status) {
+  const i = statusOrder.indexOf((status ?? "").toString().toLowerCase());
+  return i === -1 ? statusOrder.length : i;
+}
+
+function statusPill(status) {
+  const key = (status ?? "").toString().toLowerCase();
+  const color = statusColors[key] ?? "#9ca3af";
+  return `<span style="background-color:${color}22 !important; color:${color} !important; border:1px solid ${color} !important; padding:2px 8px; border-radius:12px; font-size:0.85em;">${status ?? "No Status"}</span>`;
+}
+
+function toArray(val) {
+  return Array.isArray(val) ? val : (val ? [val] : []);
+}
+
+const rows = dv.pages()
+  .where(p => p.type === "quest" && p.file.folder !== "admin/templates" && statusOrder.includes((p.quest_status ?? "").toString().toLowerCase()))
+  .sort(p => p.file.name, "desc")
+  .sort(p => p.due_date, "asc")
+  .sort(p => statusRank(p.quest_status), "asc");
+
+dv.table(
+  ["Quest", "Status", "Location", "Giver", "Expires", "Reward",],
+  rows.map(p => [
+    `${p.file.link}`,
+    statusPill(p.quest_status),
+    p.quest_location ? `${p.quest_location}` : "",
+    toArray(p.quest_giver).map(g => `${g}`).join(", "),
+    p.expires ?? "",
+    toArray(p.reward).map(r => `${r}`).join(", "),
+  ])
+);
+```
+
+
+# Sessions
+
+```dataviewjs
+const rows = dv.pages()
+  .where(p => p.type === "session_note" && p.file.folder !== "admin/templates")
+  .sort(p => p.file.name, "asc");
+
+const table = dv.table(
+  ["Session", "Session Date", "In-Game Start"],
+  rows.map(p => [
+    `${p.file.link}`,
+    p.session_date ?? "",
+    p.ingame_start ?? ""
+  ])
+);
+
+// Tag the table just rendered with a class we can style
+const lastTable = dv.container.querySelector("table.dataview.table-view-table:last-of-type");
+if (lastTable) lastTable.classList.add("session-summary-table");
+```
 
 
 
-# Quests
-![[0 Quest Index.base]]

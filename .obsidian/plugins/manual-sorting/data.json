@@ -11,14 +11,15 @@
         "Locations",
         "Session Notes",
         "Quests",
-        "Timeline.md",
-        "Pre-Publish Checklist.md"
+        "Timeline.md"
       ],
       "sortOrder": "custom"
     },
     "admin": {
       "children": [
-        "admin/Home 1.md",
+        "admin/Pre-Publish Checklist.md",
+        "admin/To-Do.md",
+        "admin/Home Backup.md",
         "admin/assets",
         "admin/templates",
         "admin/Base Embeds.md",
@@ -96,7 +97,7 @@
         "admin/assets/location_hoodstation_thetroupe.webp",
         "admin/assets/session6_oldvalence.webp",
         "admin/assets/session6_map1.webp",
-        "admin/assets/npc_vinnybrassjaw.webp",
+        "admin/assets/npc_vinniebrassjaw.webp",
         "admin/assets/npc_róisínward.webp",
         "admin/assets/npc_ghostdriver.webp",
         "admin/assets/location_bbmegatower_krystals.webp",
@@ -162,10 +163,13 @@
         "admin/assets/npc_gideonoublier_disguise2.webp",
         "admin/assets/npc_taliamercina.webp",
         "admin/assets/npc_victorhalden.webp",
-        "admin/assets/ghost_sneak.webp",
+        "admin/assets/npc_kalitorreo.webp",
         "admin/assets/session13_map1.webp",
         "admin/assets/hoodswatch.svg",
-        "admin/assets/hoodswatchicon.svg"
+        "admin/assets/hoodswatchicon.svg",
+        "admin/assets/quest_thedriftwarden.webp",
+        "admin/assets/quest_redthunder.webp",
+        "admin/assets/quest_wharfextraction.webp"
       ],
       "sortOrder": "custom"
     },
@@ -201,8 +205,7 @@
     "admin/scripts": {
       "children": [
         "admin/scripts/generateLocationImages.js",
-        "admin/scripts/refreshAllLocationImages.js",
-        "admin/scripts/refreshLocationImages.js"
+        "admin/scripts/refreshAllLocationImages.js"
       ],
       "sortOrder": "custom"
     },
@@ -336,7 +339,8 @@
         "Locations/Tier 3.md",
         "Locations/The Kitchen.md",
         "Locations/Ransom Location.md",
-        "Locations/Krystal's.md"
+        "Locations/Krystal's.md",
+        "Locations/Deadwater Wharf.md"
       ],
       "sortOrder": "custom"
     },
@@ -386,7 +390,7 @@
         "NPCs/Prospera Bellanova.md",
         "NPCs/Malcolm Oublier.md",
         "NPCs/Brug.md",
-        "NPCs/Vinny Brassjaw.md",
+        "NPCs/Vinnie Brassjaw.md",
         "NPCs/Elyra Sol.md",
         "NPCs/Jack Mercer.md",
         "NPCs/Stalker.md",
@@ -407,7 +411,9 @@
         "NPCs/Styx.md",
         "NPCs/Ozwin Wicker.md",
         "NPCs/Mystery Burger Man.md",
-        "NPCs/Stu.md"
+        "NPCs/Stu.md",
+        "NPCs/Talia Mercina.md",
+        "NPCs/Victor Halden.md"
       ],
       "sortOrder": "custom"
     },
@@ -419,7 +425,10 @@
         "Quests/The Bloom Below.md",
         "Quests/The Silent Floor.md",
         "Quests/Elevator Eulogy.md",
-        "Quests/Penthouse Signal Rehearsal.md"
+        "Quests/Penthouse Signal Rehearsal.md",
+        "Quests/The Driftwarden.md",
+        "Quests/Red Thunder.md",
+        "Quests/Wharf Extraction.md"
       ],
       "sortOrder": "custom"
     },

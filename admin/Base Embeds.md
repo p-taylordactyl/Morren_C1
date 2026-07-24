@@ -192,3 +192,43 @@ WHERE type = "session_note"
   AND contains(this.file.inlinks, file.link)
 SORT file.name ASC, locations ASC
 ```
+
+
+
+# Home Session Embed
+
+With Players
+
+const playerColors = {
+  "Taylor": "#4d7a5f",   // muted dark green
+  "Matt": "#b8a05a",     // muted yellow/gold
+  "Alek": "#b8615c",     // muted red
+  "Jordan": "#8b6fa8",   // muted purple
+  "Kuya": "#c08a54",     // muted orange
+  "Cinna": "#5f84a8"     // muted blue
+};
+
+function playerPill(p) {
+  const name = p.toString();
+  const match = Object.keys(playerColors).find(n => name.includes(n));
+  const color = match ? playerColors[match] : "#9ca3af";
+  return `<span style="background-color:${color}22 !important; color:${color} !important; border:1px solid ${color} !important; padding:2px 8px; border-radius:12px; font-size:0.85em;">${name}</span>`;
+}
+
+const rows = dv.pages()
+  .where(p => p.type === "session_note" && p.file.folder !== "admin/templates")
+  .sort(p => p.file.name, "asc");
+
+dv.table(
+  ["Session", "Session Date", "In-Game Start", "In-Game Finish", "Players"],
+  rows.map(p => [
+    `${p.file.link}`,
+    p.session_date ?? "",
+    p.ingame_start ?? "",
+    p.ingame_finish ?? "",
+    (Array.isArray(p.players) ? p.players : (p.players ? [p.players] : [])).map(playerPill).join(" ")
+  ])
+);
+
+
+

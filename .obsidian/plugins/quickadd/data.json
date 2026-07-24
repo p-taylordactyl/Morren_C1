@@ -27,7 +27,7 @@
               "folder": {
                 "enabled": true,
                 "folders": [
-                  "NPC"
+                  "NPCs"
                 ],
                 "chooseWhenCreatingNote": false,
                 "createInSameFolderAsActiveFile": false,
@@ -298,6 +298,35 @@
       },
       "templater": {
         "afterCapture": "none"
+      }
+    },
+    {
+      "id": "aa9d0163-2386-4d66-afbd-f029ed0420db",
+      "name": "New Quest",
+      "type": "Template",
+      "command": true,
+      "templatePath": "admin/templates/Quest.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
       }
     }
   ],

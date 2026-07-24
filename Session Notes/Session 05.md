@@ -119,7 +119,7 @@ Max in Titan disguise questions the orc, with Keena playing intimidating backup.
 
 The orc seems marginally cooperative at best. He's trying to establish Box Boy interest in/"support" for the Not Far Sewer.
 
-Max asks about [[The Driftwarden]] and the orc says it's just a rumor, no one actually survives off kindness.
+Max asks about [[NPCs/The Driftwarden]] and the orc says it's just a rumor, no one actually survives off kindness.
 
 Keena and Max give their names as Belinda (Lastname?) and Franklin Marvelous. When the Orc won't give up any more info, Max knocks him back unconscious.
 

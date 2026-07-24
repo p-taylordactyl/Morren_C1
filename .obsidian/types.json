@@ -21,6 +21,8 @@
     "district": "text",
     "quest_location": "multitext",
     "dg-publish": "checkbox",
-    "dg-home": "checkbox"
+    "dg-home": "checkbox",
+    "quest_giver": "multitext",
+    "reward": "multitext"
   }
 }

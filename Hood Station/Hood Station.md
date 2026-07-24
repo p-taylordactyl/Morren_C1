@@ -39,19 +39,27 @@ _**Themes:**_ Survival, Creating One's Place in the World, Lost/Found, Ingenuity
 ```base
 filters:
   and:
-    - type == "session_note"
+    - type == "npc"
     - file.folder != "admin/templates"
-properties:
-  file.name:
-    displayName: Session
+formulas:
+  organization_names: organizations.join(", ")
+  location_names: locations.join(", ")
+  cover_url: 'if(cover.contains("("), cover.split("(")[1].replace(")", "").trim(), cover)'
 views:
-  - type: list
-    name: Encounters
+  - type: cards
+    name: Organization-embed
     filters:
-      and:
-        - file.links.join(", ").contains("Hood Station")
+      or:
+        - formula.organization_names.contains("Hood Station")
+        - formula.location_names.contains("Hood Station")
     order:
       - file.name
+      - brief
+      - locations
+    image: formula.cover_url
+    cardSize: 240
+    imageAspectRatio: 1.3
+    imageFit: contain
 ```
 
 

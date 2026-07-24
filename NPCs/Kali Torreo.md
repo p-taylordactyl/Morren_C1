@@ -13,7 +13,7 @@ organizations:
   - "[[Ghosts of the Flooded Zone]]"
 associates:
   - "[[Silas Sorelli|Silas]]"
-  - "[[Vinny Brassjaw|Brassjaw]]"
+  - "[[Vinnie Brassjaw|Brassjaw]]"
 brief: Silas's childhood friend who joined the Ghosts of the Flooded Zone
 tags:
 status:
@@ -31,7 +31,7 @@ Silas's childhood friend who joined the [[Ghosts of the Flooded Zone]].
 ### Notes
 
 - At the [[BB Megatower]] we steal documents from a [[Ghosts of the Flooded Zone|Ghosts]] van that reference the battle plans of a "Commander Torreo"
-- After he asked "Commander Torreo" is likely Kali, Silas asked [[Vinny Brassjaw|Brassjaw]] to arrange a meeting. It's a no until we build more trust.
+- After he asked "Commander Torreo" is likely Kali, Silas asked [[Vinnie Brassjaw|Brassjaw]] to arrange a meeting. It's a no until we build more trust.
 - Max saw a figure he later realized was Kali breaking into an abandoned building in [[Hood Station]] with a group of Ghosts.
 - At the [[Wharf]] we saw a "Wanted" poster for Kali and 
 

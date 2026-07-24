@@ -24,6 +24,7 @@ locations:
 quests: "[[The Bloom Below]]"
 tags:
 ---
+
 ```dataviewjs
 const container = dv.el("div", "", { cls: "session-nav" });
 container.style.display = "flex";
@@ -52,7 +53,6 @@ function makeCard(label, page) {
 makeCard("⬅️ Previous Session", prev);
 makeCard("Next Session ➡️", next);
 ```
-
 
 
 # Winter 1, 2012

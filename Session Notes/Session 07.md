@@ -152,7 +152,7 @@ This primary elevator has stops at different "Tiers" of the tower. Each tier con
 
 Kat tries to break into one of the restricted floors with her Tinkers Tools - nope.
 
-We head all the way up to the Penthouse. On the way the elevator stops and a TV mounted near us starts to spark. It comes on and we see the [[Vinny Brassjaw|Suit Goblin]] from before, who asks what's up and why we're fucking around in his elevator.
+We head all the way up to the Penthouse. On the way the elevator stops and a TV mounted near us starts to spark. It comes on and we see the [[Vinnie Brassjaw|Suit Goblin]] from before, who asks what's up and why we're fucking around in his elevator.
 
 Silas says we're looking for a way to lie low for a minute. Gideon keeps trying to imply that we're doing drugs. Wink wink.
 
@@ -178,7 +178,7 @@ Dorian tells Kat to stay there and runs back to check the car. It's empty.
 
 When he comes back, we decide to sit in the remaining two chairs.
 
-The [[Vinny Brassjaw|Suited Goblin]] comes in. Kat asks if he's "Brassjaw" and he says yes.
+The [[Vinnie Brassjaw|Suited Goblin]] comes in. Kat asks if he's "Brassjaw" and he says yes.
 
 He says we can call him Vinny. He basically wants to know what we're up to in his tower.
 

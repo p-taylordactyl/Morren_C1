@@ -14,8 +14,8 @@ players:
 missed:
 paid:
 level: "4"
-ingame_start: 1/12/12
-ingame_finish: 1/19/26
+ingame_start: 1/12/2012
+ingame_finish: 1/19/2012
 locations:
   - "[[BB Megatower]]"
   - "[[Ransom Location]]"

@@ -30,7 +30,7 @@ locations:
 
 ### Notes
 
-- Malcolm currently owes [[Vinny Brassjaw|Brassjaw]] 100 platinum, plus interest - due 1/15/26
+- Malcolm currently owes [[Vinnie Brassjaw|Brassjaw]] 100 platinum, plus interest - due 1/15/26
 - [[Stalker]] texted Gideon a picture of the outside of the casino, and then a picture of Malcolm tied up, asking whether we would give up [[Keena O'Malley|Keena]] or [[Maximilius Adkins|Max]] in trade.
 - Max ultimately traded himself for Malcolm
 - During his captivity, a hole was drilled in Malcolm's temple. Whatever was placed in his brain has given him magic powers but also seems to allow him to be mind controlled

@@ -83,14 +83,6 @@
       "key": "S"
     }
   ],
-  "quickadd:choice:41705a4a-42a4-407a-8c99-ac5c5655c6a5": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Q"
-    }
-  ],
   "templater-obsidian:admin/templates/Refresh All Maps.md": [
     {
       "modifiers": [
@@ -98,6 +90,14 @@
         "Shift"
       ],
       "key": "M"
+    }
+  ],
+  "quickadd:choice:aa9d0163-2386-4d66-afbd-f029ed0420db": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
     }
   ]
 }

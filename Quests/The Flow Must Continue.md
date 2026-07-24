@@ -2,7 +2,7 @@
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-09
+modified: 2026-07-23
 cover: "[[quest_theflowmustcontinue.webp]]"
 type: quest
 quest_status: completed

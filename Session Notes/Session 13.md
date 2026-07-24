@@ -10,14 +10,14 @@ players:
   - Cinna
   - Jordan
   - Kuya
-  - Matt
   - Taylor
 missed:
 paid:
-level:
-ingame_start:
-ingame_finish:
+level: "4"
+ingame_start: 1/19/2012
+ingame_finish: 1/20/2012
 locations:
+  - "[[Hood Station]]"
 tags:
   - under_construction
 ---
@@ -51,7 +51,7 @@ makeCard("⬅️ Previous Session", prev);
 makeCard("Next Session ➡️", next);
 ```
 
-# Back to Winter 12, 2012
+# Flashback to Winter 12, 2012
 
 Max returns to consciousness, finding himself tied to a chair at a table in a windowless metal room.
 
@@ -152,7 +152,7 @@ We look the contract over and Dorian spots a clause that says if there's ever a 
 
 We sign the contract and the muscle men beat the absolute fuck out of the ghosts. They ghosts swim away and leave 
 
-The lady is named Talia Mercina and she is apparently our union rep.
+The lady is named [[Talia Mercina]] and she is apparently our union rep.
 
 ![[npc_taliamercina.webp|444]]
 
@@ -167,7 +167,7 @@ We tell Keena
 
 ![[npc_victorhalden.webp|527]]
 
-This guy is coming into the station. He's Victor Halden, manager of the [[Valencian Seahorses]].
+This guy is coming into the station. Kat and Keena recognize him as [[Victor Halden]], manager of the [[Valencian Seahorses]].
 
 Kat talks her way past his bodyguards.
 
@@ -175,7 +175,7 @@ On watch, Max and Dorian discuss the party's stance on killing and Max clarifies
 
 Max sees this person sneak into Hood Station with a large contingent of [[Ghosts of the Flooded Zone|Ghosts]].
 
-![[ghost_sneak.webp]]
+![[npc_kalitorreo.webp]]
 
 They sneak into a building and start reinforcing it immediately. The woman's rebreather-y mask seems like some kind of cybernetic augmentation.
 
@@ -187,8 +187,6 @@ Gideon asks Az for something that makes stuff hurt less and Az offers him some "
 
 As he tries it, Gideon feels the effect of the weed but not too much. Calming and relaxing but not crazy.
 
-In the morning, Max gives Gideon a knowing look.
-
-Kat calls Gideon out.
+In the morning, Max gives Gideon a knowing look and tries to surreptititously discuss the topic. As Gideon replies, Kat gets a whiff of the pipeweed and calls him out - though she implies she's fine with it as long as he limits himself to the pipeweed.
 
 ![[session13_map1.webp|567]]

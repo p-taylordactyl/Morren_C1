@@ -2,7 +2,7 @@
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-09
+modified: 2026-07-23
 cover: "[[quest_thebloombelow.webp]]"
 type: quest
 quest_status: completed
@@ -15,7 +15,7 @@ reward: 30 platinum
 date_accepted: 1/1/2012
 expires: 1/14/2012
 tags:
-  - follow-up
+  - "#follow-up"
 ---
 
 ![[quest_TheBloomBelow.webp|717]]

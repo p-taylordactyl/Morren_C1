@@ -122,9 +122,9 @@ On our way in, Gideon texts Malcolm to ask where he is.
 
 Off in the distance (farther POI) we see some kind of cobbled together dwelling made of old elevators.
 
-As we make our way in, we see this [[Vinny Brassjaw|goblin]] in a suit with a mechanical jaw speaking with a pink-haired human who notably only has one arm.
+As we make our way in, we see this [[Vinnie Brassjaw|goblin]] in a suit with a mechanical jaw speaking with a pink-haired human who notably only has one arm.
 
-![[npc_vinnybrassjaw.webp|690]]
+![[npc_vinniebrassjaw.webp|690]]
 
 ![[npc_róisínward.webp|690]]
 

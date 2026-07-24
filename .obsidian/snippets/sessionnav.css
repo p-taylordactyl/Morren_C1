@@ -19,3 +19,13 @@
   border: 2px solid var(--text-normal);
   border-radius: 8px;
 }
+
+.session-summary-table {
+  width: auto;
+}
+
+.session-summary-table th,
+.session-summary-table td {
+  text-align: center;
+  padding: 0.5rem 1rem;
+}
