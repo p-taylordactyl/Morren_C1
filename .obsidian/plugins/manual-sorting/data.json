@@ -8,10 +8,12 @@
         "Hood's Watch",
         "NPCs",
         "Factions and Groups",
+        "Misc",
         "Locations",
         "Session Notes",
         "Quests",
-        "Timeline.md"
+        "Timeline.md",
+        "The Zodiac Calendar.md"
       ],
       "sortOrder": "custom"
     },
@@ -169,7 +171,9 @@
         "admin/assets/hoodswatchicon.svg",
         "admin/assets/quest_thedriftwarden.webp",
         "admin/assets/quest_redthunder.webp",
-        "admin/assets/quest_wharfextraction.webp"
+        "admin/assets/quest_wharfextraction.webp",
+        "admin/assets/religion_morronel.webp",
+        "admin/assets/religion_archenemyoforder.webp"
       ],
       "sortOrder": "custom"
     },
@@ -226,9 +230,8 @@
       "children": [
         "Factions and Groups/0 Faction Index.base",
         "Factions and Groups/Corporate",
-        "Factions and Groups/Misc",
-        "Factions and Groups/Religious",
-        "Factions and Groups/Underground"
+        "Factions and Groups/Underground",
+        "Factions and Groups/Religions"
       ],
       "sortOrder": "custom"
     },
@@ -247,16 +250,20 @@
       ],
       "sortOrder": "custom"
     },
-    "Factions and Groups/Misc": {
+    "Factions and Groups/Religions": {
       "children": [
-        "Factions and Groups/Misc/Sewer Goblins.md",
-        "Factions and Groups/Misc/Sludge Farmers.md"
+        "Factions and Groups/Religions/Cult of the Machine God.md",
+        "Factions and Groups/Religions/Morronel",
+        "Factions and Groups/Religions/Archenemy of Order"
       ],
       "sortOrder": "custom"
     },
-    "Factions and Groups/Religious": {
+    "Factions and Groups/Religions/Morronel": {
       "children": [
-        "Factions and Groups/Religious/Cult of the Machine God.md"
+        "Factions and Groups/Religions/Morronel/Morronel.md",
+        "Factions and Groups/Religions/Morronel/Doctrine of Ordained Authority.md",
+        "Factions and Groups/Religions/Morronel/Canonist Concord.md",
+        "Factions and Groups/Religions/Morronel/Covenant of Equal Measure.md"
       ],
       "sortOrder": "custom"
     },
@@ -458,6 +465,20 @@
       "children": [
         "Session Notes/Pre-Campaign/Session 0.md",
         "Session Notes/Pre-Campaign/Character Brainstorming.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Misc": {
+      "children": [
+        "Misc/Sewer Goblins.md",
+        "Misc/Sludge Farmers.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Factions and Groups/Religions/Archenemy of Order": {
+      "children": [
+        "Factions and Groups/Religions/Archenemy of Order/Archenemy of Order.md",
+        "Factions and Groups/Religions/Archenemy of Order/The Chaos Gods.md"
       ],
       "sortOrder": "custom"
     }

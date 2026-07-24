@@ -72,7 +72,21 @@
             }
           },
           {
-            "id": "7d1b9bbf9692d855",
+            "id": "73ccab90f7a14377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Factions and Groups/Religions/Archenemy of Order/The Chaos Gods.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Chaos Gods"
+            }
+          },
+          {
+            "id": "6578c63cdf338b2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -86,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -205,10 +219,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Home.md"
+                "file": "Factions and Groups/Religions/Morronel/Morronel.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Home"
+              "title": "File properties for Morronel"
             }
           },
           {
@@ -239,6 +253,20 @@
               "icon": "lucide-list",
               "title": "Outline of 0 Quest Index"
             }
+          },
+          {
+            "id": "a600175d5b189875",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
           }
         ]
       }
@@ -259,47 +287,28 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "floating": {
-    "id": "d5efd2f347ac3084",
-    "type": "floating",
-    "children": [
-      {
-        "id": "7e064d7ace39bdcb",
-        "type": "window",
-        "children": [
-          {
-            "id": "b6aec720f7505085",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c63fb1e6342f320e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "admin/Base Embeds.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Base Embeds"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 3075,
-        "y": 312,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7d1b9bbf9692d855",
+  "active": "6578c63cdf338b2a",
   "lastOpenFiles": [
+    "The Zodiac Calendar.md",
+    "Factions and Groups/Religions/Archenemy of Order/The Chaos Gods.md",
+    "Factions and Groups/Religions/Archenemy of Order/Archenemy of Order.md",
+    "admin/assets/religion_archenemyoforder.webp",
+    "Factions and Groups/Religions/Morronel/Covenant of Equal Measure.md",
+    "Factions and Groups/Religions/Archenemy of Order",
+    "Factions and Groups/Religions/Morronel/Canonist Concord.md",
+    "Factions and Groups/Religions/Morronel/Doctrine of Ordained Authority.md",
+    "Factions and Groups/Religions/Morronel/Morronel.md",
+    "admin/assets/religion_morronel.webp",
+    "Home.md",
+    "Factions and Groups/Religions/Morronel",
+    "admin/templates/Group.md",
+    "admin/templates/Session Note.md",
+    "admin/templates/Player Character.md",
+    "admin/templates/NPC.md",
+    "admin/templates/Location.md",
+    "admin/templates/Faction.md",
+    "admin/templates/Quest.md",
+    "Timeline.md",
     "Hood's Watch/Dorian Caldwell.md",
     "Hood's Watch/Keena O'Malley.md",
     "Hood's Watch/Gideon Oublier.md",
@@ -309,24 +318,8 @@
     "monk-xphb.md",
     "admin/Base Embeds.md",
     "Session Notes/Session 01.md",
-    "admin/templates/Session Note.md",
-    "admin/templates/Player Character.md",
-    "admin/templates/NPC.md",
-    "admin/templates/Location.md",
-    "admin/templates/Faction.md",
-    "admin/templates/Quest.md",
-    "Home.md",
     "Quests/Wharf Extraction.md",
     "Session Notes/0 Session Index.base",
-    "admin/Useful Bits.md",
-    "Session Notes/Session 02.md",
-    "Quests/Red Thunder.md",
-    "Quests/The Driftwarden.md",
-    "Quests/Penthouse Signal Rehearsal.md",
-    "Quests/Elevator Eulogy.md",
-    "Session Notes/Session 10.md",
-    "Session Notes/Session 11.md",
-    "Session Notes/Session 12.md",
     "admin/assets/quest_wharfextraction.webp",
     "admin/assets/quest_redthunder.webp",
     "admin/assets/quest_thedriftwarden.webp",
@@ -342,10 +335,6 @@
     "admin/assets/hoodswatch.xcf",
     "admin/assets/icon.webp",
     "admin/assets/npc_kalitorreo.webp",
-    "admin/assets/npc_victorhalden.webp",
-    "admin/assets/npc_taliamercina.webp",
-    "NPCs/0 NPC Index.base",
-    "Factions and Groups/0 Faction Index.base",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas"
   ]
