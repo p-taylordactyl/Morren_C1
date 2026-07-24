@@ -6,7 +6,7 @@ aliases:
 cover: "[[pc_katbuchanon.webp]]"
 type: player_character
 created: 2026-04-21
-modified: 2026-07-16
+modified: 2026-07-23
 organizations:
   - "[[Hood Station]]"
   - "[[Endline Garage]]"
@@ -20,11 +20,11 @@ tags:
 > | Type | Stat |
 > | ---- | ---- |
 > | **Age** | 19 |
-> | **Race** | [[human-xphb\|Human]] |
-> | **Class** | [[monk-xphb\|Monk]] \| [[monk-xphb-warrior-of-the-elements-xphb\|Warrior of the Elements]] |
+> | **Race** | Human |
+> | **Class** | Monk \| Warrior of the Elements|
 > | **Languages** | Common, Dwarvish, Infernal
-> | **Location**| Hood Station\|Hood Station]] |
-> | **Factions** | Hood Station\|Hood Station]], [[Endline Garage]] |
+> | **Location**| [[Hood Station]] |
+> | **Factions** | [[Endline Garage]] |
 > 
 
 # Backstory

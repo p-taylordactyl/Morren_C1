@@ -5,7 +5,7 @@ aliases:
 cover: "[[pc_silassorelli.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-09
+modified: 2026-07-23
 tags:
 ---
 
@@ -19,8 +19,8 @@ tags:
 > | **Race** | Tiefling \| Cthonic |
 > | **Class** | Wizard \| Illusionist |
 > | **Languages** | Common, CSL, Infernal, Thieves Cant
-> | **Location**| Hood Station\|Hood Station]] |
-> | **Factions** | Hood Station\|Hood Station]], [[Protective Association for Wayward and Neglected Strays]] |
+> | **Location**| [[Hood Station]] |
+> | **Factions** | [[Protective Association for Wayward and Neglected Strays]] |
 > 
 
 # Backstory

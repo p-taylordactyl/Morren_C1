@@ -6,7 +6,7 @@ aliases:
 cover: "[[pc_gideonoublier.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-09
+modified: 2026-07-23
 tags:
 ---
 
@@ -18,10 +18,10 @@ tags:
 > | ---- | ---- |
 > | **Age** | 133 |
 > | **Race** | High Elf  |
-> | **Class** | Sorcerer \| ? |
+> | **Class** | Sorcerer \| Draconic |
 > | **Languages** | Common, Elvish, Dwarvish, Goblin, Halfling
 > | **Location**| [[Hood Station]] |
-> | **Factions** | Hood Station\|Hood Station]], [[Morrgen's Community Center]] |
+> | **Factions** | [[Morrgen's Community Center]] |
 
 # Backstory
 

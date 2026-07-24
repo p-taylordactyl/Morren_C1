@@ -8,7 +8,7 @@ aliases:
 cover: "[[pc_doriancaldwell.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-09
+modified: 2026-07-23
 tags:
 ---
 
@@ -22,8 +22,8 @@ tags:
 > | **Race** | Human |
 > | **Class** | Rogue \| ? |
 > | **Languages** | Common, CSL, Elvish, Infernal, Thieves Cant
-> | **Location**| Hood Station\|Hood Station]] |
-> | **Factions** | Hood Station\|Hood Station]], [[The Troupe]] |
+> | **Location**| [[Hood Station]] |
+> | **Factions** | [[The Troupe]] |
 
 
 # Backstory

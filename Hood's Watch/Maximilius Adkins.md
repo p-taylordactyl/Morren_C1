@@ -8,7 +8,7 @@ aliases:
 cover: "[[pc_maxadkins.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-06
+modified: 2026-07-23
 organizations:
   - "[[Hood Station]]"
   - "[[The Redacted]]"
@@ -25,7 +25,7 @@ tags:
 > | **Race** | Human |
 > | **Class** | Bard \| ? |
 > | **Languages** | Common, CSL, Elvish
-> | **Location**| Hood Station\|Hood Station]] |
+> | **Location**| [[Hood Station]] |
 > | **Factions** | [[The Redacted]] |
 > 
 

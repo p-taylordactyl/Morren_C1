@@ -5,7 +5,7 @@ aliases:
 cover: "[[pc_keenaomalley.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-10
+modified: 2026-07-23
 tags:
 ---
 
@@ -17,10 +17,10 @@ tags:
 > | ---- | ---- |
 > | **Age** | 19 |
 > | **Race** | Human |
-> | **Class** | Warlock \| ? |
+> | **Class** | Warlock \| Undead |
 > | **Languages** | Common, Abyssal, CSL, Deep Speech, Goblin
 > | **Location**| [[Hood Station]] |
-> | **Factions** | Hood Station\|Hood Station]], [[Iron Form Dojo]] |
+> | **Factions** | [[Iron Form Dojo]] |
 
 # Backstory
 
