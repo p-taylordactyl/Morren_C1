@@ -55,7 +55,7 @@ views:
     name: Location-embedonly
     filters:
       and:
-        - formula.location_names.contains("<%tp.file.title%>")
+        - formula.location_names.contains("Not Far Sewer")
     order:
       - file.name
       - brief
@@ -63,7 +63,6 @@ views:
     cardSize: 240
     imageAspectRatio: 1.3
     imageFit: contain
-
 ```
 
 

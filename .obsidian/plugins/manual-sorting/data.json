@@ -8,12 +8,10 @@
         "Hood's Watch",
         "NPCs",
         "Factions and Groups",
-        "Misc",
         "Locations",
         "Session Notes",
         "Quests",
-        "Timeline.md",
-        "The Zodiac Calendar.md"
+        "Other"
       ],
       "sortOrder": "custom"
     },
@@ -231,7 +229,8 @@
         "Factions and Groups/0 Faction Index.base",
         "Factions and Groups/Corporate",
         "Factions and Groups/Underground",
-        "Factions and Groups/Religions"
+        "Factions and Groups/Religions",
+        "Factions and Groups/Misc"
       ],
       "sortOrder": "custom"
     },
@@ -250,20 +249,18 @@
       ],
       "sortOrder": "custom"
     },
-    "Factions and Groups/Religions": {
+    "Factions and Groups/Misc": {
       "children": [
-        "Factions and Groups/Religions/Cult of the Machine God.md",
-        "Factions and Groups/Religions/Morronel",
-        "Factions and Groups/Religions/Archenemy of Order"
+        "Factions and Groups/Misc/Sewer Goblins.md",
+        "Factions and Groups/Misc/Sludge Farmers.md"
       ],
       "sortOrder": "custom"
     },
-    "Factions and Groups/Religions/Morronel": {
+    "Factions and Groups/Religions": {
       "children": [
-        "Factions and Groups/Religions/Morronel/Morronel.md",
-        "Factions and Groups/Religions/Morronel/Doctrine of Ordained Authority.md",
-        "Factions and Groups/Religions/Morronel/Canonist Concord.md",
-        "Factions and Groups/Religions/Morronel/Covenant of Equal Measure.md"
+        "Factions and Groups/Religions/Cult of the Machine God.md",
+        "Factions and Groups/Religions/Morronel.md",
+        "Factions and Groups/Religions/The Archenemy of Order.md"
       ],
       "sortOrder": "custom"
     },
@@ -427,6 +424,15 @@
       ],
       "sortOrder": "custom"
     },
+    "Other": {
+      "children": [
+        "Other/The Zodiac Calendar.md",
+        "Other/Kat Themes and Goals.md",
+        "Other/Timeline.md",
+        "Other/Timers.md"
+      ],
+      "sortOrder": "custom"
+    },
     "Quests": {
       "children": [
         "Quests/0 Quest Index.base",
@@ -444,9 +450,7 @@
     },
     "Session Notes": {
       "children": [
-        "Session Notes/Kat Themes and Goals.md",
         "Session Notes/Pre-Campaign",
-        "Session Notes/Timers.md",
         "Session Notes/0 Session Index.base",
         "Session Notes/Session 01.md",
         "Session Notes/Session 02.md",
@@ -469,20 +473,6 @@
       "children": [
         "Session Notes/Pre-Campaign/Session 0.md",
         "Session Notes/Pre-Campaign/Character Brainstorming.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Misc": {
-      "children": [
-        "Misc/Sewer Goblins.md",
-        "Misc/Sludge Farmers.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Factions and Groups/Religions/Archenemy of Order": {
-      "children": [
-        "Factions and Groups/Religions/Archenemy of Order/Archenemy of Order.md",
-        "Factions and Groups/Religions/Archenemy of Order/The Chaos Gods.md"
       ],
       "sortOrder": "custom"
     }

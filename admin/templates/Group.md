@@ -1,5 +1,4 @@
 ---
-title: <% tp.file.title %>
 dg-publish: false
 aliases:
 type: group
