@@ -2,7 +2,7 @@
 aliases:
 dg-publish: true
 created: 2026-06-01
-modified: 2026-07-23
+modified: 2026-07-26
 cover: "[[quest_redthunder.webp]]"
 type: quest
 quest_status: not started
@@ -11,7 +11,9 @@ quest_giver:
   - "[[Thorbin Sprake]]"
 quest_location:
   - "[[BB Megatower]]"
+  - ">"
   - "[[Tier 3]]"
+  - ">"
   - "[[The Kitchen]]"
 reward:
   - 100 platinum
@@ -44,7 +46,7 @@ OR
 
 # Notes
 
-- The party has agreed to table this one for now and possibly let it expire, as we cannot agree on which path is best
+- The party has agreed to table this one for now and possibly let it expire, as there are strong conflicting opinions on which path to take
 
 
 # To Do

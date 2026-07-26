@@ -1,6 +1,6 @@
 ---
 title: Welcome to Hood Station!
-modified: 2026-07-23
+modified: 2026-07-26
 created: 2026-06-30
 dg-publish: true
 dg-home: true
@@ -48,11 +48,24 @@ function statusRank(status) {
 function statusPill(status) {
   const key = (status ?? "").toString().toLowerCase();
   const color = statusColors[key] ?? "#9ca3af";
-  return `<span style="background-color:${color}22 !important; color:${color} !important; border:1px solid ${color} !important; padding:2px 8px; border-radius:12px; font-size:0.85em;">${status ?? "No Status"}</span>`;
+  return `<span style="background-color:${color}22 !important; color:${color} !important; border:1px solid ${color} !important; padding:2px 10px; border-radius:12px; font-size:0.85em; white-space:nowrap; display:inline-block;">${status ?? "No Status"}</span>`;
 }
 
 function toArray(val) {
   return Array.isArray(val) ? val : (val ? [val] : []);
+}
+
+function formatLocations(locations) {
+  const arr = toArray(locations);
+  const layers = [[]];
+  for (const item of arr) {
+    if (item?.toString?.() === ">" || item === ">") {
+      layers.push([]);
+    } else {
+      layers[layers.length - 1].push(item);
+    }
+  }
+  return layers.map(layer => layer.map(l => `${l}`).join(" / ")).join(" > ");
 }
 
 const rows = dv.pages()
@@ -62,14 +75,14 @@ const rows = dv.pages()
   .sort(p => statusRank(p.quest_status), "asc");
 
 dv.table(
-  ["Quest", "Status", "Location", "Giver", "Expires", "Reward",],
+  ["Quest", "Status", "Location", "Giver", "Expires", "Reward"],
   rows.map(p => [
     `${p.file.link}`,
     statusPill(p.quest_status),
-    p.quest_location ? `${p.quest_location}` : "",
+    formatLocations(p.quest_location),
     toArray(p.quest_giver).map(g => `${g}`).join(", "),
     p.expires ?? "",
-    toArray(p.reward).map(r => `${r}`).join(", "),
+    toArray(p.reward).map(r => `${r}`).join(", ")
   ])
 );
 ```

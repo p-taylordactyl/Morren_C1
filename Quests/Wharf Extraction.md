@@ -2,7 +2,7 @@
 aliases:
 dg-publish: true
 created: 2026-06-01
-modified: 2026-07-23
+modified: 2026-07-26
 cover: "[[quest_wharfextraction.webp]]"
 type: quest
 quest_status: in progress
@@ -11,6 +11,10 @@ quest_giver:
   - "[[Vinnie Brassjaw]]"
 quest_location:
   - "[[Deadwater Wharf]]"
+  - ">"
+  - "[[Harbormaster's Office]]"
+  - "[[Three Vessels Currently Docked]]"
+  - "[[Clerk's Home]]"
 reward:
   - 100 platinum
   - spell focus mods or grow Vinnie's network
@@ -22,7 +26,7 @@ tags:
 
 # Description
 
-There is key data within the Harbormaster's Office, on the Three Vessels Currently Docked and within the Clerk's Home that when combined can be leveraged by one of the interested parties to one of two ends.
+There is key data within the [[Harbormaster's Office]], on the [[Three Vessels Currently Docked]] and within the [[Clerk's Home]] that when combined can be leveraged by one of the interested parties to one of two ends.
 
 [[Cillian Kravus|Cillian]] wishes to reroute rare and valuable materials used in Spell Focus Modifications so that the spellcasters of [[Hood Station]] can specialize to improve their field performance. 
 
@@ -41,6 +45,8 @@ There is key data within the Harbormaster's Office, on the Three Vessels Current
 # To Do
 
 - [x] Visit Deadwater Wharf
-- [ ] Find the data collection locations
+- [ ] Locate the Harbormaster's Office
+- [ ] Locate the Three Vessels Currently Docked
+- [ ] Locate the Clerk's Home
 
 

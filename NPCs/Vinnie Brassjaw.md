@@ -6,7 +6,7 @@ aliases:
   - Brassjaw
 cover: "[[npc_vinniebrassjaw.webp]]"
 created: 2026-06-08
-modified: 2026-07-23
+modified: 2026-07-26
 disposition:
   - neutral
   - friendly
@@ -74,13 +74,31 @@ function statusRank(status) {
 function statusPill(status) {
   const key = (status ?? "").toString().toLowerCase();
   const color = statusColors[key] ?? "#9ca3af";
-  return `<span style="background-color:${color}22 !important; color:${color} !important; border:1px solid ${color} !important; padding:2px 8px; border-radius:12px; font-size:0.85em;">${status ?? "No Status"}</span>`;
+  return `<span style="background-color:${color}22 !important; color:${color} !important; border:1px solid ${color} !important; padding:2px 10px; border-radius:12px; font-size:0.85em; white-space:nowrap; display:inline-block;">${status ?? "No Status"}</span>`;
+}
+
+function toArray(val) {
+  return Array.isArray(val) ? val : (val ? [val] : []);
+}
+
+function formatLocations(locations) {
+  const arr = toArray(locations);
+  const layers = [[]];
+  for (const item of arr) {
+    if (item?.toString?.() === ">" || item === ">") {
+      layers.push([]);
+    } else {
+      layers[layers.length - 1].push(item);
+    }
+  }
+  return layers.map(layer => layer.map(l => `${l}`).join(" / ")).join(" > ");
 }
 
 const currentPath = dv.current().file.path;
 
 const rows = dv.pages()
-  .where(p => p.type === "quest" && p.file.folder !== "admin/templates" && p.quest_giver?.path === currentPath)
+  .where(p => p.type === "quest" && p.file.folder !== "admin/templates"
+    && toArray(p.quest_giver).some(g => g?.path === currentPath))
   .sort(p => p.file.name, "desc")
   .sort(p => p.due_date, "asc")
   .sort(p => statusRank(p.quest_status), "asc");
@@ -90,9 +108,9 @@ dv.table(
   rows.map(p => [
     `${p.file.link}`,
     statusPill(p.quest_status),
-    p.quest_location ? `${p.quest_location}` : "",
+    formatLocations(p.quest_location),
     p.expires ?? "",
-    p.reward ? `${p.reward}` : "",
+    toArray(p.reward).map(r => `${r}`).join(", "),
     p.tags ? p.tags.join(", ") : ""
   ])
 );

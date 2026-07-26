@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Factions and Groups/Religions/Archenemy of Order/The Chaos Gods.md",
+                "file": "Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Chaos Gods"
+              "title": "Home"
             }
           },
           {
@@ -91,16 +91,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Quests/Wharf Extraction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Wharf Extraction"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,38 +287,38 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "6578c63cdf338b2a",
+  "active": "73ccab90f7a14377",
   "lastOpenFiles": [
-    "The Zodiac Calendar.md",
-    "Factions and Groups/Religions/Archenemy of Order/The Chaos Gods.md",
-    "Factions and Groups/Religions/Archenemy of Order/Archenemy of Order.md",
-    "admin/assets/religion_archenemyoforder.webp",
-    "Factions and Groups/Religions/Morronel/Covenant of Equal Measure.md",
-    "Factions and Groups/Religions/Archenemy of Order",
-    "Factions and Groups/Religions/Morronel/Canonist Concord.md",
-    "Factions and Groups/Religions/Morronel/Doctrine of Ordained Authority.md",
-    "Factions and Groups/Religions/Morronel/Morronel.md",
-    "admin/assets/religion_morronel.webp",
+    "NPCs/Vinnie Brassjaw.md",
+    "NPCs/Az.md",
+    "NPCs/Rosetta Thorne.md",
+    "NPCs/Cillian Ward.md",
+    "NPCs/Morrgen Oublier.md",
+    "NPCs/Thorbin Sprake.md",
+    "NPCs/Ren Calder.md",
+    "admin/Base Embeds and Dataviews.md",
+    "admin/templates/Refresh All Maps.md",
+    "Locations/Sludge Farm.md",
     "Home.md",
-    "Factions and Groups/Religions/Morronel",
-    "admin/templates/Group.md",
-    "admin/templates/Session Note.md",
-    "admin/templates/Player Character.md",
     "admin/templates/NPC.md",
-    "admin/templates/Location.md",
-    "admin/templates/Faction.md",
-    "admin/templates/Quest.md",
-    "Timeline.md",
-    "Hood's Watch/Dorian Caldwell.md",
-    "Hood's Watch/Keena O'Malley.md",
-    "Hood's Watch/Gideon Oublier.md",
-    "Hood's Watch/Silas Sorelli.md",
-    "Hood's Watch/Katriel Buchanon.md",
-    "Hood's Watch/Maximilius Adkins.md",
-    "monk-xphb.md",
-    "admin/Base Embeds.md",
-    "Session Notes/Session 01.md",
+    "NPCs/Hadrian Buchanon.md",
+    "Quests/Penthouse Signal Rehearsal.md",
+    "Quests/Elevator Eulogy.md",
+    "Quests/The Silent Floor.md",
+    "Quests/The Bloom Below.md",
+    "Quests/Voices in the Grates.md",
+    "Quests/The Flow Must Continue.md",
     "Quests/Wharf Extraction.md",
+    "Quests/Red Thunder.md",
+    "Quests/The Driftwarden.md",
+    "Factions and Groups/Religions/Archenemy of Order/Archenemy of Order.md",
+    "Factions and Groups/Religions/Archenemy of Order/The Chaos Gods.md",
+    "Locations/Clerk's Home.md",
+    "Locations/Three Vessels Currently Docked.md",
+    "admin/assets/religion_archenemyoforder.webp",
+    "Factions and Groups/Religions/Archenemy of Order",
+    "admin/assets/religion_morronel.webp",
+    "Factions and Groups/Religions/Morronel",
     "Session Notes/0 Session Index.base",
     "admin/assets/quest_wharfextraction.webp",
     "admin/assets/quest_redthunder.webp",

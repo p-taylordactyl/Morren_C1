@@ -2,13 +2,16 @@
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-23
+modified: 2026-07-26
 cover: "[[quest_thesilentfloor.webp]]"
 type: quest
 quest_status: completed
 quest_giver: "[[Ren Calder]]"
 quest_location:
   - "[[BB Megatower]]"
+  - ">"
+  - "[[Tier 2]]"
+  - ">"
   - "[[Quiet Place]]"
 reward: 30 platinum
 date_accepted: 1/1/2012

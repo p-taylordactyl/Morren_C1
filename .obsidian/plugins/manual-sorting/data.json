@@ -24,7 +24,7 @@
         "admin/Home Backup.md",
         "admin/assets",
         "admin/templates",
-        "admin/Base Embeds.md",
+        "admin/Base Embeds and Dataviews.md",
         "admin/Useful Bits.md",
         "admin/Meta.md",
         "admin/In-Session New Note Automation.md",
@@ -347,7 +347,10 @@
         "Locations/The Kitchen.md",
         "Locations/Ransom Location.md",
         "Locations/Krystal's.md",
-        "Locations/Deadwater Wharf.md"
+        "Locations/Deadwater Wharf.md",
+        "Locations/Harbormaster's Office.md",
+        "Locations/Three Vessels Currently Docked.md",
+        "Locations/Clerk's Home.md"
       ],
       "sortOrder": "custom"
     },
@@ -457,7 +460,8 @@
         "Session Notes/Session 10.md",
         "Session Notes/Session 11.md",
         "Session Notes/Session 12.md",
-        "Session Notes/Session 13.md"
+        "Session Notes/Session 13.md",
+        "Session Notes/Session 14.md"
       ],
       "sortOrder": "custom"
     },
