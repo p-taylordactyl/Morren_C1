@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 type: session_note
 created: 2026-07-20
 modified: 2026-07-26
@@ -51,7 +51,7 @@ makeCard("⬅️ Previous Session", prev);
 makeCard("Next Session ➡️", next);
 ```
 
-# Winter 12, 2012 - Flashback
+# Winter 12, 2012 -- Flashback
 
 [[Maximilius Adkins|Max]] returns to consciousness, finding himself tied to a chair at a table in a windowless metal room.
 
@@ -98,7 +98,7 @@ There's a mini bar in the glove compartment of the Lumen Mobile.
 When they get there Lumen gives Max a free phone card and then Cael Foundation number.
 
 
-# Winter 19, 2012 - Present
+# Winter 19, 2012 -- Present
 
 ![[oldvalence_map3.webp]]
 
