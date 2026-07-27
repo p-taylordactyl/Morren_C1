@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[placeholder2.webp]]"
 created: 2026-04-23
-modified: 2026-07-23
+modified: 2026-07-27
 disposition:
   - friendly
 organizations:
@@ -18,7 +18,7 @@ locations:
   - "[[Hood Station]]"
 ---
 
-![[npc_Drogrash.webp|400]]
+
 
 # Description
 

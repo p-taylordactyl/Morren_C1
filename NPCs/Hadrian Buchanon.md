@@ -3,9 +3,9 @@ dg-publish: true
 type: npc
 aliases:
   - Hadrian
-cover:
+cover: "[[placeholder2.webp]]"
 created: 2026-04-23
-modified: 2026-07-26
+modified: 2026-07-27
 disposition:
   - unknown
 organizations:
@@ -20,7 +20,7 @@ locations:
   - unknown
 ---
 
-![[npc_HadrianBuchanon.webp|400]]
+
 
 # Description
 

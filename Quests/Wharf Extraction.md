@@ -1,8 +1,8 @@
 ---
-aliases:
 dg-publish: true
+aliases:
 created: 2026-06-01
-modified: 2026-07-26
+modified: 2026-07-27
 cover: "[[quest_wharfextraction.webp]]"
 type: quest
 quest_status: in progress
@@ -22,7 +22,7 @@ date_accepted: 1/20/2012
 expires: 1/35/2012
 tags:
 ---
-![[quest_wharfextraction.webp]]![[quest_Untitled.webp]]
+![[quest_wharfextraction.webp|752]]
 
 # Description
 

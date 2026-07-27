@@ -2,7 +2,7 @@
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-26
+modified: 2026-07-27
 cover: "[[quest_thesilentfloor.webp]]"
 type: quest
 quest_status: completed
@@ -19,7 +19,7 @@ expires: 1/14/2012
 tags:
 ---
 
-![[quest_TheSilentFloor.webp|756]]
+![[quest_TheSilentFloor.webp|834]]
 
 # Description
 

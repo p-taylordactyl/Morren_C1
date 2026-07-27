@@ -5,7 +5,7 @@ aliases:
   - Barron
 cover: "[[npc_barronsutton.webp]]"
 created: 2026-05-21
-modified: 2026-07-23
+modified: 2026-07-27
 disposition:
   - unknown
 organizations:
@@ -21,7 +21,7 @@ locations:
   - "[[Not Far Sewer]]"
 ---
 
-![[npc_BarronSutton.webp]]
+![[npc_BarronSutton.webp|400]]
 
 # Description
 

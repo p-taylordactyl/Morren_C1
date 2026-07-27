@@ -1,7 +1,6 @@
 ---
 modified: 2026-07-23
 created: 2026-07-14
-dg-publish: false
 ---
 > [!timeline|t-l] **Winter 1, 2012** _Origin_
 > The party forms at the Stationhouse in [[Hood Station]] and starts taking quests.

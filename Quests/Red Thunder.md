@@ -1,8 +1,8 @@
 ---
-aliases:
 dg-publish: true
+aliases:
 created: 2026-06-01
-modified: 2026-07-26
+modified: 2026-07-27
 cover: "[[quest_redthunder.webp]]"
 type: quest
 quest_status: not started
@@ -22,7 +22,7 @@ date_accepted:
 expires: 1/35/2012
 tags:
 ---
-![[quest_redthunder.webp]]
+![[quest_redthunder.webp|840]]
 
 # Description
 

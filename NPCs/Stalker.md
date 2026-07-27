@@ -11,7 +11,7 @@ disposition:
 organizations:
   - "[[Titan Corporation]]"
 associates:
-  - "[[Mystery Burger Man]]"
+  - "[[Sterling Corvain]]"
   - "[[Augustin Devereaux]]"
 brief: A mysterious individual or group that keeps sending Gideon blackmail material against the party
 status:
@@ -47,7 +47,7 @@ A mysterious individual or group that has been tracking/recording the party via 
 
 - affiliated with the [[Titan Corporation]]
 - likely related in some way to [[Augustin Devereaux]]
-- Holy shit, it's actually the [[Mystery Burger Man]]
+- Holy shit, it's actually the [[Sterling Corvain]]
 
 # Session Mentions
 

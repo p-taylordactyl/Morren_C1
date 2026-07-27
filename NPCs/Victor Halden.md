@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 aliases:
 type: npc
 cover: "[[npc_VictorHalden.webp]]"

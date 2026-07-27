@@ -15,6 +15,7 @@ locations:
   - "[[Hood Station]]"
 tags:
 ---
+
 ![[location_hoodstation_pawns.webp]]
 
 # Description

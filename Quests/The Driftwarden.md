@@ -1,8 +1,8 @@
 ---
-aliases:
 dg-publish: true
+aliases:
 created: 2026-06-01
-modified: 2026-07-23
+modified: 2026-07-27
 cover: "[[quest_thedriftwarden.webp]]"
 type: quest
 quest_status: not started
@@ -18,7 +18,7 @@ date_accepted:
 expires: 1/35/2012
 tags:
 ---
-![[quest_thedriftwarden.webp]]
+![[quest_thedriftwarden.webp|714]]
 
 # Description
 

@@ -5,7 +5,7 @@ aliases:
   - Kairo
 cover: "[[npc_kairovoss.webp]]"
 created: 2026-05-08
-modified: 2026-07-23
+modified: 2026-07-27
 disposition:
   - friendly
 organizations:
@@ -23,7 +23,7 @@ locations:
   - "[[Hood Station]]"
 ---
 
-![[npc_KairoVoss.webp|821]]
+![[npc_KairoVoss.webp|400]]
 
 # Description
 

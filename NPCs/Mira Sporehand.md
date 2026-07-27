@@ -5,7 +5,7 @@ aliases:
   - Mira
 cover: "[[npc_mirasporehand.webp]]"
 created: 2026-04-27
-modified: 2026-07-23
+modified: 2026-07-27
 disposition:
   - friendly
 organizations:
@@ -19,7 +19,6 @@ locations:
   - "[[Not Far Sewer]]"
   - "[[Sludge Farm]]"
 ---
-c
 ![[npc_mirasporehand.webp|400]]
 
 # Description

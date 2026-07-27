@@ -77,7 +77,7 @@ We chat about the mall. Max loves cocaine and pretzels and both can be found at 
 
 The area we're in is some sort of semi-commercial street. The street we're on now has a little restaurant called Krystal's that sells burgers/sliders.
 
-We're lingering outside the burger shop and this [[Mystery Burger Man|this guy]] comes out with a bag of burgers.
+We're lingering outside the burger shop and this [[Sterling Corvain|this guy]] comes out with a bag of burgers.
 
 ![[npc_mysteryburgerman.webp|549]]
 

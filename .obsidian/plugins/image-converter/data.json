@@ -134,17 +134,17 @@
   "nonDestructiveResizeSettings": {
     "resizePresets": [
       {
-        "name": "Default (No Resize)",
-        "resizeDimension": "none",
+        "name": "Width 500px",
+        "resizeDimension": "width",
+        "width": 400,
         "resizeScaleMode": "auto",
         "respectEditorMaxWidth": true,
         "maintainAspectRatio": true,
         "resizeUnits": "pixels"
       },
       {
-        "name": "Width 500px",
-        "resizeDimension": "width",
-        "width": 500,
+        "name": "Default (No Resize)",
+        "resizeDimension": "none",
         "resizeScaleMode": "auto",
         "respectEditorMaxWidth": true,
         "maintainAspectRatio": true,
@@ -204,7 +204,7 @@
         "resizeUnits": "pixels"
       }
     ],
-    "selectedResizePreset": "Default (No Resize)"
+    "selectedResizePreset": "Width 500px"
   },
   "resizeCursorLocation": "none",
   "dropPasteCursorLocation": "back",
@@ -228,12 +228,12 @@
     "ffmpegPreset": "medium"
   },
   "ProcessCurrentNoteconvertTo": "webp",
-  "ProcessCurrentNotequality": 0.75,
-  "ProcessCurrentNoteResizeModalresizeMode": "None",
-  "ProcessCurrentNoteresizeModaldesiredWidth": 600,
-  "ProcessCurrentNoteresizeModaldesiredHeight": 800,
+  "ProcessCurrentNotequality": 1,
+  "ProcessCurrentNoteResizeModalresizeMode": "Fit",
+  "ProcessCurrentNoteresizeModaldesiredWidth": 400,
+  "ProcessCurrentNoteresizeModaldesiredHeight": 400,
   "ProcessCurrentNoteresizeModaldesiredLength": 800,
-  "ProcessCurrentNoteskipImagesInTargetFormat": true,
+  "ProcessCurrentNoteskipImagesInTargetFormat": false,
   "ProcessCurrentNoteEnlargeOrReduce": "Always",
   "ProcessCurrentNoteSkipFormats": "tif,tiff,heic",
   "ProcessCurrentNoteIgnoreFolders": "",

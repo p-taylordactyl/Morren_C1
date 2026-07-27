@@ -1,5 +1,4 @@
 ---
-dg-publish: true
 type: location
 aliases:
 cover: "[[placeholder2.webp]]

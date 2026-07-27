@@ -5,7 +5,7 @@ aliases:
   - Morrgen
 cover: "[[npc_morrgenoublier.webp]]"
 created: 2026-05-08
-modified: 2026-07-26
+modified: 2026-07-27
 disposition:
   - friendly
 organizations:
@@ -25,7 +25,7 @@ locations:
   - unknown
 ---
 
-![[npc_morrgenoublier.webp|404]]
+![[npc_morrgenoublier.webp|418]]
 
 # Description
 

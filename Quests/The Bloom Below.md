@@ -2,7 +2,7 @@
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-26
+modified: 2026-07-27
 cover: "[[quest_thebloombelow.webp]]"
 type: quest
 quest_status: completed
@@ -19,7 +19,7 @@ tags:
   - "#follow-up"
 ---
 
-![[quest_TheBloomBelow.webp|717]]
+![[quest_TheBloomBelow.webp|788]]
 
 # Description
 

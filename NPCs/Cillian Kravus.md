@@ -21,7 +21,6 @@ locations:
   - "[[Hood Station]]"
 ---
 
-![[npc_CillianKravus.webp]]
 
 # Description
 

@@ -14,6 +14,7 @@ locations:
   - "[[Hood Station]]"
 tags:
 ---
+
 ![[location_hoodstation_ironformdojo.webp]]
 
 # Description

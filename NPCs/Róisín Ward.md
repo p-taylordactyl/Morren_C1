@@ -3,9 +3,9 @@ dg-publish: true
 type: npc
 aliases:
   - Róisín
-cover: "[[npc_róisínward.webp]]"
+cover: "[[placeholder2.webp]]"
 created: 2026-05-21
-modified: 2026-07-23
+modified: 2026-07-27
 disposition:
   - friendly
 organizations:
@@ -23,7 +23,7 @@ locations:
   - "[[BB Megatower]]"
 ---
 
-![[npc_Róisín.webp]]
+![[npc_róisínward.webp|400]]
 
 # Description
 

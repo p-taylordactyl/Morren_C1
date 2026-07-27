@@ -3,7 +3,7 @@ dg-publish: true
 type: npc
 aliases:
   - Cillian
-cover: "[[npc_cillianward.webp]]"
+cover: "[[placeholder2.webp]]"
 created: 2026-05-21
 modified: 2026-07-27
 disposition:
@@ -22,7 +22,7 @@ locations:
   - "[[Hood Station]]"
 ---
 
-
+![[npc_cillianward.webp| 400]]
 
 # Description
 

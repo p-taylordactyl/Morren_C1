@@ -5,7 +5,7 @@ aliases:
   - Memaw
 cover: "[[npc_memawshoe.webp]]"
 created: 2026-05-25
-modified: 2026-07-23
+modified: 2026-07-27
 disposition:
   - friendly
 organizations:
@@ -19,7 +19,7 @@ locations:
   - "[[Hood Station]]"
 ---
 
-![[npc_memawshoe.webp|640]]
+![[npc_memawshoe.webp|546]]
 
 # Description
 

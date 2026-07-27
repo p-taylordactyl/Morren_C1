@@ -173,7 +173,7 @@ She watches him shuffle away down a dark, lonely, and suspicious alley.
 
 When we return from the stall, Keena tells us about how she had a not good vision about the beggar. The moment she says the vision told her to do something bad to him, Max walks away.
 
-Keena and Kat discuss the situation and Kat is relieved to confirm Keena doesn't want to kill the old man, at least not without any evidence that he's done something to deserve it. They try to think of a better way to communicate with him but don't come up with anything. Max sees the [[Mystery Burger Man]]  He basically indicates that Max should follow him and dips. Max follows and finds only the bag of burgers with a note that says "enjoy."
+Keena and Kat discuss the situation and Kat is relieved to confirm Keena doesn't want to kill the old man, at least not without any evidence that he's done something to deserve it. They try to think of a better way to communicate with him but don't come up with anything. Max sees the [[Sterling Corvain]]  He basically indicates that Max should follow him and dips. Max follows and finds only the bag of burgers with a note that says "enjoy."
 
 Max finds no trace of the man, so he takes the bag and gives each of us a chili cheese burger without eating one himself. They are delicious.
 

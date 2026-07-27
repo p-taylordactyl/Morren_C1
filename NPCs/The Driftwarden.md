@@ -2,9 +2,9 @@
 dg-publish: true
 type: npc
 aliases:
-cover:
+cover: "[[placeholder2.webp]]"
 created: 2026-05-01
-modified: 2026-07-23
+modified: 2026-07-27
 disposition:
   - unknown
 organizations:
@@ -18,7 +18,7 @@ locations:
   - "[[Not Far Sewer]]"
 ---
 
-![[npc_TheDriftwarden.webp|400]]
+
 
 # Description
 

@@ -2,9 +2,10 @@
 dg-publish: true
 type: npc
 aliases:
+  - stalker
 cover: "[[npc_mysteryburgerman.webp]]"
 created: 2026-07-09
-modified: 2026-07-23
+modified: 2026-07-27
 disposition:
   - neutral
   - friendly

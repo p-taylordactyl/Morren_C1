@@ -24,8 +24,8 @@
   "showUpdatedTimestamp": true,
   "updatedTimestampKey": "modified",
   "timestampFormat": "MMM dd, yyyy h:mm a",
-  "styleSettingsCss": "body.css-settings-manager { --file-line-width: 1100px; --default-font: Pilgrim; } body.theme-light.css-settings-manager { } body.theme-dark.css-settings-manager { }",
-  "styleSettingsBodyClasses": "theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-inline-title is-floating-nav auto-full-screen show-ribbon show-view-header is-maximized css-settings-manager its-theme sidebar-float-bottom folder-arrow-hidden Heading illusion default-callout-quote canvas-cards is-focused",
+  "styleSettingsCss": "body.css-settings-manager { --file-line-width: 1100px; --default-font: Noto Sans; } body.theme-light.css-settings-manager { } body.theme-dark.css-settings-manager { }",
+  "styleSettingsBodyClasses": "theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-inline-title is-floating-nav auto-full-screen show-ribbon show-view-header is-maximized css-settings-manager Heading its-theme sidebar-float-bottom folder-arrow-hidden illusion default-callout-quote canvas-cards is-focused",
   "pathRewriteRules": "",
   "customFilters": [],
   "publishPlatform": "SelfHosted",
@@ -262,5 +262,6 @@
       "The Silent Floor",
       "Voices in the Grates"
     ]
-  }
+  },
+  "hideForestryUpgradeNotice": true
 }

@@ -1,5 +1,5 @@
 ---
-dg-publish: false
+dg-publish: true
 type: session_note
 created: 2026-07-26
 modified: 2026-07-27

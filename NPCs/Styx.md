@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[placeholder2.webp]]"
 created: 2026-07-08
-modified: 2026-07-23
+modified: 2026-07-27
 disposition:
   - unknown
 organizations:
@@ -16,7 +16,7 @@ status:
   - unknown
 locations:
 ---
-
+![[placeholder2.webp]]
 ![[npc_Styx.webp]]
 
 # Description

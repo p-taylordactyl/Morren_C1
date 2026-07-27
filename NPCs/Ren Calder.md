@@ -5,7 +5,7 @@ aliases:
   - Ren
 cover: "[[npc_rencalder.webp]]"
 created: 2026-05-04
-modified: 2026-07-26
+modified: 2026-07-27
 disposition:
   - friendly
 organizations:
@@ -23,7 +23,7 @@ tags:
   - quest_giver
 ---
 
-![[npc_rencalder.webp|400]]
+![[npc_rencalder.webp|378]]
 
 # Description
 

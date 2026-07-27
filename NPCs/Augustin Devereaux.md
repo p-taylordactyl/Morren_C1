@@ -4,16 +4,16 @@ type: npc
 aliases:
   - Augustin
   - Devereaux
-cover:
+cover: "[[placeholder2.webp]]"
 created: 2026-05-04
-modified: 2026-07-23
+modified: 2026-07-27
 disposition:
   - enemy
 organizations:
   - "[[Titan Corporation]]"
 associates:
   - "[[Stalker]]"
-  - "[[Mystery Burger Man]]"
+  - "[[Sterling Corvain]]"
 brief: The man Keena and Max beat into a coma for causing and covering up the Titan Line Incident.
 tags:
 status:
@@ -22,7 +22,7 @@ locations:
   - unknown
 ---
 
-![[npc_augustindevereaux.webp|400]]
+
 
 # Description
 

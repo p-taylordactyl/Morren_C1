@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-07-20
-modified: 2026-07-26
+modified: 2026-07-27
 session_date: 07/20/2026
 session_number: 13
 players:
@@ -55,7 +55,7 @@ makeCard("Next Session ➡️", next);
 
 [[Maximilius Adkins|Max]] returns to consciousness, finding himself tied to a chair at a table in a windowless metal room.
 
-Sitting across from him is the fucking [[Mystery Burger Man]].
+Sitting across from him is the fucking [[Sterling Corvain]].
 
 He starts to unwrap a roll of torture instruments and take off his rings.
 
@@ -73,7 +73,7 @@ He hammers the dagger into Max's thigh and something snaps.
 
 Basically he goes through every damage type as he tortures Max. Piercing, bludgeoning, slashing, acid, freezing, fire, etc.
 
-Max is near death when [[Mystery Burger Man]] gets rid of all the external damaging substances and then shoves a poisoned burger in his mouth waiting hours for it to take effect.
+Max is near death when [[Sterling Corvain]] gets rid of all the external damaging substances and then shoves a poisoned burger in his mouth waiting hours for it to take effect.
 
 At the very end, as Max is on the true edge of death, the man gets up and says "Ah, that will be enough for today, see you tomorrow."
 
@@ -181,7 +181,7 @@ On watch, Max and Dorian discuss the party's stance on killing and Max clarifies
 
 During the watch, Max notices this person sneak into Hood Station with a large contingent of [[Ghosts of the Flooded Zone|Ghosts]]. 
 
-![[npc_kalitorreo.webp]]
+![[npc_kalitorreo.webp|402]]
 
 They sneak into a building and start reinforcing it immediately. The woman's rebreather-y mask seems like some kind of cybernetic augmentation.
 

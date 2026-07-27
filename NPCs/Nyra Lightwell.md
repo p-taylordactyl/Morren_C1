@@ -5,7 +5,7 @@ aliases:
   - Nyra
 cover: "[[npc_nyralightwell.webp]]"
 created: 2026-05-21
-modified: 2026-07-23
+modified: 2026-07-27
 disposition:
   - friendly
 organizations:
@@ -22,7 +22,7 @@ locations:
   - "[[Hood Station]]"
 ---
 
-![[npc_NyraLightwell.webp]]
+![[npc_NyraLightwell.webp|400]]
 
 # Description
 

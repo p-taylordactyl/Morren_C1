@@ -13,6 +13,7 @@ locations:
   - "[[Hood Station]]"
 tags:
 ---
+
 ![[location_hoodstation_endlinegarage.webp]]
 
 # Description

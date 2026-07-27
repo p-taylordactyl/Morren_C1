@@ -5,7 +5,7 @@ aliases:
   - Thorbin
 cover: "[[npc_thorbinsprake.webp]]"
 created: 2026-05-08
-modified: 2026-07-26
+modified: 2026-07-27
 disposition:
   - friendly
 organizations:
@@ -22,7 +22,7 @@ locations:
   - "[[Hood Station]]"
 ---
 
-![[npc_ThorbinSprake.webp]]
+![[npc_ThorbinSprake.webp|404]]
 
 # Description
 

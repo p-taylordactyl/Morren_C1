@@ -3,9 +3,9 @@ dg-publish: true
 type: npc
 aliases:
   - Custis
-cover:
+cover: "[[placeholder2.webp]]"
 created: 2026-05-25
-modified: 2026-07-23
+modified: 2026-07-27
 disposition:
   - enemy
 organizations:

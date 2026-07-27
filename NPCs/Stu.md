@@ -11,7 +11,7 @@ disposition:
 organizations:
 associates:
   - "[[Stalker]]"
-  - "[[Mystery Burger Man]]"
+  - "[[Sterling Corvain]]"
 brief: A hired thug working for the Stalker
 tags:
 status:

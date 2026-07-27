@@ -20,7 +20,7 @@ tags:
   - quest_giver
 ---
 
-[[npc_az.webp|453]]
+![[npc_az.webp| 453]]
 
 # Description
 

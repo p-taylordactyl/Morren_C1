@@ -2,7 +2,7 @@
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-23
+modified: 2026-07-27
 cover: "[[quest_elevatoreulogy.webp]]"
 type: quest
 quest_status: completed
@@ -14,7 +14,7 @@ expires: 1/14/2012
 tags:
 ---
 
-![[quest_ElevatorEulogy.webp]]
+![[quest_ElevatorEulogy.webp|809]]
 
 # Description
 
