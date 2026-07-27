@@ -4,7 +4,7 @@ type: npc
 aliases:
 cover: "[[npc_az.webp]]"
 created: 2026-05-25
-modified: 2026-07-26
+modified: 2026-07-27
 disposition:
   - friendly
 organizations:
@@ -20,7 +20,7 @@ tags:
   - quest_giver
 ---
 
-![[npc_az.webp|453]]
+[[npc_az.webp|453]]
 
 # Description
 

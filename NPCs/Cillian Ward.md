@@ -5,7 +5,7 @@ aliases:
   - Cillian
 cover: "[[npc_cillianward.webp]]"
 created: 2026-05-21
-modified: 2026-07-26
+modified: 2026-07-27
 disposition:
   - friendly
 organizations:
@@ -22,7 +22,7 @@ locations:
   - "[[Hood Station]]"
 ---
 
-![[npc_cillianward.webp|590]]
+
 
 # Description
 

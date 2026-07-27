@@ -5,7 +5,7 @@ aliases:
 type: group
 cover: "[[location_hoodstation_endlinegarage.webp]]"
 created: 2026-05-08
-modified: 2026-07-23
+modified: 2026-07-27
 parent: "[[Hood Station]]"
 associations:
   - "[[Katriel Buchanon|Kat Buchanon]]"
@@ -46,7 +46,6 @@ views:
     order:
       - file.name
       - brief
-      - locations
     image: formula.cover_url
     cardSize: 240
     imageAspectRatio: 1.3

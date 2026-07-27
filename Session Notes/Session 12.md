@@ -99,7 +99,7 @@ We assume it has something to do with the hole in his head. Something must be in
 
 Kat tries and fails to grab him and Malcolm keeps rising. 
 
-Keena tries to intimidate him into coming down by saying she'll shove Morronel so far up his ass that it comes out his mouth.
+Keena tries to intimidate Malcolm into coming down by saying she'll shove Morronel so far up his ass that he'll puke him out.
 
 Malcolm only rises further and pisses himself.
 

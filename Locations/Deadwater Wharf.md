@@ -1,11 +1,11 @@
 ---
-dg-publish: false
+dg-publish: true
 aliases:
 type: location
 cover: "[[location_DeadwaterWharf.webp]]"
-created:
-modified:
-district:
+created: 2026-07-23
+modified: 2026-07-26
+district: "[[Cloud District]]"
 parent:
 associations:
 tags:
@@ -36,8 +36,6 @@ views:
     indentProperties: true
 
 ```
-
-
 
 
 # NPCs

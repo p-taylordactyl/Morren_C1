@@ -3,7 +3,7 @@ dg-publish: true
 type: main location
 cover:
 created: 2026-04-23
-modified: 2026-07-23
+modified: 2026-07-27
 district: "[[Westreach]]"
 parent:
 associations:

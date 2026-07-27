@@ -1,5 +1,6 @@
 ---
-modified: 2026-07-24
+dg-publish: true
+modified: 2026-07-26
 created: 2026-07-24
 ---
 # The Zodiac Calendar

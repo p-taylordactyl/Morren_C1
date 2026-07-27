@@ -2,6 +2,8 @@ filters:
   and:
     - type == "npc"
     - file.folder != "admin/templates"
+formulas:
+  dg_cover: ' if(cover.contains("("), cover.split("(")[1].replace(")", "").trim(), cover)'
 views:
   - type: cards
     name: All
@@ -10,12 +12,13 @@ views:
       - brief
       - locations
       - organizations
+      - formula.dg_cover
     sort:
       - property: file.ctime
         direction: DESC
     columnSize:
       note.brief: 454
-    image: note.cover
+    image: formula.dg_cover
     imageAspectRatio: 1.3
     imageFit: contain
     cardSize: 240

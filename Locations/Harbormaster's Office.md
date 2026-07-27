@@ -1,12 +1,12 @@
 ---
-dg-publish: false
+dg-publish: true
 aliases:
 type: location
 cover: "[[location_Harbormaster'sOffice.webp]]"
-created:
-modified:
-district:
-parent:
+created: 2026-07-26
+modified: 2026-07-26
+district: "[[Cloud District]]"
+parent: "[[Deadwater Wharf]]"
 associations:
 tags:
   - under_construction

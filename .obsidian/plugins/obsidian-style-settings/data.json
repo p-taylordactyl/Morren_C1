@@ -16,7 +16,6 @@
   "ITS@@writing-document": false,
   "ITS@@paper": false,
   "ITS@@lig": false,
-  "ITS@@default-font": "Pilgrim",
   "ITS@@slrvb-b": false,
   "ITS@@slrvb-g": false,
   "ITS@@s-d": false,
@@ -26,5 +25,6 @@
   "ITS@@nord": false,
   "ITS@@mini": false,
   "ITS@@notion": false,
-  "ITS@@its-d": false
+  "ITS@@its-d": false,
+  "ITS@@default-font": "Noto Sans"
 }

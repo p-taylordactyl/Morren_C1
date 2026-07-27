@@ -427,9 +427,9 @@
     "Other": {
       "children": [
         "Other/The Zodiac Calendar.md",
+        "Other/Timers.md",
         "Other/Kat Themes and Goals.md",
-        "Other/Timeline.md",
-        "Other/Timers.md"
+        "Other/Timeline.md"
       ],
       "sortOrder": "custom"
     },

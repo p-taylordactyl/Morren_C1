@@ -2,6 +2,8 @@ filters:
   and:
     - type.contains("location")
     - file.folder != "admin/templates"
+formulas:
+  Untitled: ""
 views:
   - type: table
     name: All
@@ -13,6 +15,7 @@ views:
       - district
       - parent
       - associations
+      - formula.Untitled
     image: note.cover
     columnSize:
       file.name: 186

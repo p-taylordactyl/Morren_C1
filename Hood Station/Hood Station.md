@@ -7,7 +7,7 @@ type:
   - location
 cover:
 created: 2026-05-20
-modified: 2026-07-23
+modified: 2026-07-27
 district: "[[Cloud District]]"
 parent:
 associations:
@@ -55,7 +55,6 @@ views:
     order:
       - file.name
       - brief
-      - locations
     image: formula.cover_url
     cardSize: 240
     imageAspectRatio: 1.3
