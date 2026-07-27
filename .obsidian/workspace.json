@@ -77,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Session Notes/Session 13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Session 13"
             }
           }
         ],
@@ -246,12 +246,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Session Notes/Session 13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Session 13"
             }
           }
         ]
@@ -275,33 +275,33 @@
   },
   "active": "73ccab90f7a14377",
   "lastOpenFiles": [
+    "Session Notes/Session 12.md",
+    "Factions and Groups/Underground/Bellanova Family.md",
+    "Factions and Groups/Underground/Dominion Crew.md",
+    "Factions and Groups/Underground/Box Boys.md",
+    "Factions and Groups/Underground/Ghosts of the Flooded Zone.md",
+    "Factions and Groups/Underground/Lightning Crew.md",
+    "Factions and Groups/Corporate/Valencian Seahorses.md",
+    "Factions and Groups/Corporate/Titan Corporation.md",
+    "Factions and Groups/Corporate/Paragon Soundworks.md",
+    "Factions and Groups/Corporate/Oligarchs.md",
+    "Factions and Groups/Corporate/NovaStyle Group.md",
+    "Factions and Groups/Corporate/Infinity Plaza Mall.md",
+    "Factions and Groups/Corporate/Enforcers.md",
+    "Factions and Groups/Corporate/Crownlight Media.md",
+    "Factions and Groups/Corporate/Cael Foundation.md",
+    "Factions and Groups/Corporate/Aegis Response Group.md",
+    "Session Notes/Session 13.md",
+    "Home.md",
+    "Session Notes/Session 01.md",
+    "Session Notes/Session 14.md",
     "Factions and Groups/Religions/Morronel.md",
     "admin/templates/Session Note.md",
     "admin/templates/Player Character.md",
     "admin/templates/Location.md",
     "Locations/Not Far Sewer.md",
     "admin/Base Embeds and Dataviews.md",
-    "admin/templates/NPC.md",
-    "admin/templates/Faction.md",
-    "Factions and Groups/Religions/The Archenemy of Order.md",
-    "Home.md",
-    "Other/Timers.md",
-    "Other/The Zodiac Calendar.md",
     "Other",
-    "Other/Timeline.md",
-    "Factions and Groups/Religions/Morronel/Covenant of Equal Measure.md",
-    "Factions and Groups/Religions/Morronel/Canonist Concord.md",
-    "Factions and Groups/Religions/Morronel/Doctrine of Ordained Authority.md",
-    "Factions and Groups/Religions/Archenemy of Order/The Chaos Gods.md",
-    "admin/templates/Quest.md",
-    "admin/templates/Group.md",
-    "Quests/Wharf Extraction.md",
-    "Factions and Groups/Religions/Cult of the Machine God.md",
-    "NPCs/Vinnie Brassjaw.md",
-    "NPCs/Az.md",
-    "NPCs/Rosetta Thorne.md",
-    "NPCs/Cillian Ward.md",
-    "NPCs/Morrgen Oublier.md",
     "admin/assets/religion_archenemyoforder.webp",
     "Factions and Groups/Religions/Archenemy of Order",
     "admin/assets/religion_morronel.webp",

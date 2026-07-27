@@ -5,7 +5,7 @@ aliases:
 type: underground faction
 cover: "[[faction_ghostsofthefloodedzone.webp]]"
 created: 2026-04-23
-modified: 2026-07-23
+modified: 2026-07-26
 associations:
 locations:
   - "[[Ghosts HQ]]"
@@ -30,7 +30,7 @@ Internally, the Flooded Zone operates on a survival economy. Power is scavenged,
 To the rest of Morren, the Ghosts are treated as an urban myth, a cautionary rumor about people who chose to live in a drowned city rather than submit to relocation. To the Oligarchs, they are a tolerated anomaly, a low-value territory populated by hostile remnants that are cheaper to ignore than to reclaim. The Ghosts persist by ensuring that calculation never changes.
 
 
-## Additional Information
+### Notes
 
 [[Silas Sorelli]] 
 
