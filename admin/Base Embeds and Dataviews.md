@@ -14,7 +14,9 @@ dg-publish: false
 - [x] update faction and group templates
 - [x] update factions and groups
 
-### Location Note Embed
+### Location Note Embeds
+
+NPCs in location
 
 ```
 filters:
@@ -40,7 +42,7 @@ views:
 ```
 
 
-Hood Station Specific Embed
+Hood Station Specific Embed (combo location/org, maybe not even necessary)
 ```
 filters:
   and:
@@ -186,7 +188,9 @@ views:
 - [x] update NPCs
 - [x] update Factions and Groups
 
-### Encounters
+### Encounters tables
+
+
 
 ```
 TABLE WITHOUT ID
@@ -200,6 +204,7 @@ SORT file.name ASC, locations ASC
 ```
 
 
+### Prev and Next Session
 
 ```
 const container = dv.el("div", "", { cls: "session-nav" });
@@ -231,9 +236,9 @@ makeCard("Next Session ➡️", next);
 ```
 
 
-# Home Session Embed
+# HomePageSession Embed
 
-With Players
+With Players -DNU
 ```
 const playerColors = {
   "Taylor": "#4d7a5f",   // muted dark green
@@ -268,7 +273,7 @@ dv.table(
 
 ```
 
-Alt?
+Alt? DNU
 
 ```
 const playerColors = {
@@ -327,7 +332,7 @@ if (lastTable) lastTable.classList.add("session-summary-table");
 
 # Quest
 
-### NPC Page
+### NPC Page DataviewJS
 
 ```
 const statusOrder = ["not started", "in progress", "turn in", "completed", "expired"];

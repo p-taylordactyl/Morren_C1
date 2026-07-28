@@ -58,6 +58,7 @@
           {
             "id": "b493632b075d65eb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -65,6 +66,7 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Session 14"
             }
@@ -82,9 +84,79 @@
               "icon": "lucide-file",
               "title": "Wharf Extraction"
             }
+          },
+          {
+            "id": "64313a541e3bcf0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "admin/Base Embeds and Dataviews.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Base Embeds and Dataviews"
+            }
+          },
+          {
+            "id": "11e714cdd3f421a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Red Thunder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Red Thunder"
+            }
+          },
+          {
+            "id": "0059cda951421efb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "admin/Base Embeds and Dataviews.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Base Embeds and Dataviews"
+            }
+          },
+          {
+            "id": "f9f570e7faa1c4d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Wharf Extraction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wharf Extraction"
+            }
+          },
+          {
+            "id": "4077409d9e10ee98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Other/Timers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Timers"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -256,7 +328,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,20 +343,35 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "e817471e849ba955",
+  "active": "64313a541e3bcf0b",
   "lastOpenFiles": [
+    "Session Notes/Session 14.md",
+    "Other/Timers.md",
+    "admin/assets/session14_map3.webp",
+    "admin/assets/location_deadwaterwharf_combat2.webp",
+    "admin/assets/ambushdrake.webp",
+    "Quests/Wharf Extraction.md",
+    "admin/Base Embeds and Dataviews.md",
+    "Locations/Three Vessels Currently Docked.md",
+    "admin/assets/session14_map1.webp",
+    "admin/assets/npc_stevedoreguy.webp",
+    "admin/Useful Bits - OLD.md",
+    "admin/assets/location_deadwaterwharf_combat1.webp",
+    "admin/assets/ankheg.webp",
     "Quests/Red Thunder.md",
     "Quests/The Driftwarden.md",
+    "Quests/The Flow Must Continue.md",
+    "Quests/0 Quest Index.base",
+    "Home.md",
+    "Locations/Deadwater Wharf.md",
+    "Session Notes/Session 13.md",
+    "Locations/Not Far Sewer.md",
+    "Session Notes/Session 12.md",
     "Quests/Penthouse Signal Rehearsal.md",
     "Quests/Elevator Eulogy.md",
     "Quests/The Silent Floor.md",
     "Quests/The Bloom Below.md",
     "Quests/Voices in the Grates.md",
-    "Quests/The Flow Must Continue.md",
-    "Session Notes/Session 13.md",
-    "Session Notes/Session 12.md",
-    "Home.md",
-    "Session Notes/Session 14.md",
     "NPCs/Sterling Corvain.md",
     "Hood's Watch/Dorian Caldwell.md",
     "Hood's Watch/Keena O'Malley.md",
@@ -292,23 +379,9 @@
     "Hood's Watch/Silas Sorelli.md",
     "Hood's Watch/Maximilius Adkins.md",
     "Hood's Watch/Katriel Buchanon.md",
-    "admin/In-Session New Note Automation.md",
-    "admin/Useful Bits.md",
-    "admin/Base Embeds and Dataviews.md",
     "admin/assets/location_notfarsewer_sludgefarm.webp",
     "admin/assets/session2_map1.webp",
     "admin/assets/session1_map1.webp",
-    "admin/assets/pc_katbuchanon.webp",
-    "admin/assets/npc_sprocket.webp",
-    "admin/assets/session1_map2.webp",
-    "admin/assets/location_notfarsewer_slimefight.webp",
-    "admin/assets/location_hoodstation_endlinegarage.webp",
-    "admin/assets/location_hoodstation_0.webp",
-    "admin/assets/questboard_winter012021_morning.webp",
-    "NPCs/Barron Sutton.md",
-    "NPCs/Nyra Lightwell.md",
-    "NPCs/Cillian Kravus.md",
-    "NPCs/Cillian Ward.md",
     "Locations/0 Location Index.base",
     "Factions and Groups/0 Faction Index.base",
     "NPCs/0 NPC Index.base",
@@ -318,7 +391,6 @@
     "Session Notes/0 Session Index.base",
     "World",
     "NPC",
-    "Quests/0 Quest Index.base",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas"
   ]

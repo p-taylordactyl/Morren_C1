@@ -254,53 +254,6 @@
       }
     },
     {
-      "id": "41705a4a-42a4-407a-8c99-ac5c5655c6a5",
-      "name": "Question",
-      "type": "Capture",
-      "command": true,
-      "appendLink": false,
-      "captureTo": "Session Notes/Questions/",
-      "captureToActiveFile": false,
-      "captureToCanvasNodeId": "",
-      "activeFileWritePosition": "cursor",
-      "createFileIfItDoesntExist": {
-        "enabled": true,
-        "createWithTemplate": false,
-        "template": ""
-      },
-      "format": {
-        "enabled": true,
-        "format": "- "
-      },
-      "insertAfter": {
-        "enabled": true,
-        "after": "# Questions",
-        "insertAtEnd": true,
-        "considerSubsections": false,
-        "createIfNotFound": true,
-        "createIfNotFoundLocation": "top",
-        "inline": false,
-        "replaceExisting": false,
-        "blankLineAfterMatchMode": "auto"
-      },
-      "newLineCapture": {
-        "enabled": false,
-        "direction": "below"
-      },
-      "prepend": false,
-      "task": false,
-      "openFile": false,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      },
-      "templater": {
-        "afterCapture": "none"
-      }
-    },
-    {
       "id": "aa9d0163-2386-4d66-afbd-f029ed0420db",
       "name": "New Quest",
       "type": "Template",
