@@ -80,7 +80,8 @@
       "Locations",
       "NPCs",
       "Session Notes",
-      "Quests"
+      "Quests",
+      "Other"
     ],
     "/Hood's Watch": [
       "Dorian Caldwell",
@@ -102,8 +103,8 @@
     "/Factions and Groups": [
       "Corporate",
       "Underground",
-      "Religious",
-      "Misc"
+      "Misc",
+      "Religions"
     ],
     "/Factions and Groups/Corporate": [
       "Aegis Response Group",
@@ -128,14 +129,17 @@
       "Old Valence Stevedore Union",
       "West Valence Saints"
     ],
-    "/Factions and Groups/Religious": [
-      "Cult of the Machine God"
-    ],
     "/Factions and Groups/Misc": [
       "Sewer Goblins",
       "Sludge Farmers"
     ],
+    "/Factions and Groups/Religions": [
+      "Cult of the Machine God",
+      "Morronel",
+      "The Archenemy of Order"
+    ],
     "/Locations": [
+      "Old Valence",
       "Districts",
       "Aegis Response Group",
       "BB Megatower",
@@ -156,7 +160,6 @@
       "Neon Corridor",
       "Not Far Sewer",
       "NovaStyle Group Galleria",
-      "Old Valence",
       "Paragon Soundworks",
       "Penthouse",
       "Pipe Junction",
@@ -174,7 +177,11 @@
       "The Prison",
       "Tier 2",
       "Tier 3",
-      "Titan Corporation Factory Complex"
+      "Titan Corporation Factory Complex",
+      "Clerk's Home",
+      "Deadwater Wharf",
+      "Harbormaster's Office",
+      "Seahorse Bank"
     ],
     "/Locations/Districts": [
       "Cloud District",
@@ -198,7 +205,6 @@
       "Cillian Ward",
       "Custis Delavide",
       "Dex",
-      "Dex Dad",
       "Drogrash",
       "Elyra Sol",
       "Gorax",
@@ -216,7 +222,6 @@
       "Mira Sporehand",
       "Morgo",
       "Morrgen Oublier",
-      "Mystery Burger Man",
       "Nyra Lightwell",
       "Nyx",
       "Orgo",
@@ -230,18 +235,20 @@
       "Sister Hera",
       "Solomon Hexley",
       "Sprocket",
-      "Stalker",
       "Stonespear",
       "Stu",
       "Styx",
       "The Driftwarden",
       "Thorbin Sprake",
       "Vesh Hollowbone",
-      "Vinny Brassjaw",
-      "Ozwin Wicker"
+      "Ozwin Wicker",
+      "Faile",
+      "Sterling Corvain",
+      "Talia Mercina",
+      "Victor Halden",
+      "Vinnie Brassjaw"
     ],
     "/Session Notes": [
-      "Timers",
       "Session 01",
       "Session 02",
       "Session 03",
@@ -252,15 +259,27 @@
       "Session 08",
       "Session 09",
       "Session 10",
-      "Session 11"
+      "Session 11",
+      "Session 12",
+      "Session 13",
+      "Session 14"
     ],
     "/Quests": [
+      "Completed",
+      "Red Thunder",
+      "The Driftwarden",
+      "Wharf Extraction"
+    ],
+    "/Quests/Completed": [
       "Elevator Eulogy",
       "Penthouse Signal Rehearsal",
       "The Bloom Below",
       "The Flow Must Continue",
       "The Silent Floor",
       "Voices in the Grates"
+    ],
+    "/Other": [
+      "The Zodiac Calendar"
     ]
   },
   "hideForestryUpgradeNotice": true

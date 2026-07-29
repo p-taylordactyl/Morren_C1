@@ -5,7 +5,7 @@ aliases:
   - Malcolm
 cover: "[[npc_malcolmoublier.webp]]"
 created: 2026-05-28
-modified: 2026-07-23
+modified: 2026-07-28
 disposition:
   - friendly
   - annoying
@@ -22,7 +22,7 @@ locations:
   - "[[Hood Station]]"
 ---
 
-![[npc_malcolmoublier.webp]]
+![[npc_malcolmoublier.webp|325]]
 
 # Description
 
@@ -31,7 +31,7 @@ locations:
 ### Notes
 
 - Malcolm currently owes [[Vinnie Brassjaw|Brassjaw]] 100 platinum, plus interest - due 1/15/26
-- [[Stalker]] texted Gideon a picture of the outside of the casino, and then a picture of Malcolm tied up, asking whether we would give up [[Keena O'Malley|Keena]] or [[Maximilius Adkins|Max]] in trade.
+- [[Sterling Corvain]] texted Gideon a picture of the outside of the casino, and then a picture of Malcolm tied up, asking whether we would give up [[Keena O'Malley|Keena]] or [[Maximilius Adkins|Max]] in trade.
 - Max ultimately traded himself for Malcolm
 - During his captivity, a hole was drilled in Malcolm's temple. Whatever was placed in his brain has given him magic powers but also seems to allow him to be mind controlled
 - Under the effects of mind control, Malcolm murdered his own father and has been taken in by [[Enforcers]]

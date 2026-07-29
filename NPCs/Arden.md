@@ -29,7 +29,7 @@ A priest of the [[Cult of the Machine God]] located at the [[Relay Shrine]].
 
 ### Notes
 
-- helped us track down that our [[Stalker]]'s redacted number is affiliated with the [[Titan Corporation]]
+- helped us track down that our [[Sterling Corvain]]'s redacted number is affiliated with the [[Titan Corporation]]
 
 # Session Mentions
 

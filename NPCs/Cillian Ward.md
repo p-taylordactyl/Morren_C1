@@ -3,9 +3,9 @@ dg-publish: true
 type: npc
 aliases:
   - Cillian
-cover: "[[placeholder2.webp]]"
+cover: "[[npc_cillianward.webp]]"
 created: 2026-05-21
-modified: 2026-07-27
+modified: 2026-07-29
 disposition:
   - friendly
 organizations:

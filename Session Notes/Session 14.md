@@ -185,10 +185,10 @@ The clerk returns with the manager, an orcish woman.  Gideon tells her (as Victo
 
 Gideon looks briefly flustered and she asks if he needs his hint, which he eagerly accepts. The hint is "her name."
 
-He texts Kat, who remembers there being a rumor that Halden had a secret daughter that passed away. She can't remember the name but it with F. 
+He texts Kat, who remembers there being a rumor that Halden had a secret daughter that passed away. She can't remember the name but it started with F. 
 
 Dorian Oogles and find some message boards that don't offer a definitive name, but the various speculations all start with F and end with E. 
 
 Kat texts Gideon back with the info and says "maybe Florence? Or Fishbone? Whatever you want to try."
 
-Gideon tries to mumble it, pretending to be so overcome with emotion that he cries, but the manager makes him try over and over until he finally says "Florence" clearly, at which point she smiles and leads him deeper into the bank.[[Crownlight Landing]]
+Gideon tries to mumble it, pretending to be so overcome with emotion that he cries, but the manager makes him try over and over until he finally says "Florence" clearly, at which point she smiles and leads him deeper into the bank.

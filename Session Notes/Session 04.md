@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-05-19
-modified: 2026-07-23
+modified: 2026-07-28
 session_number: 4
 session_date: 05/18/2026
 players:
@@ -58,13 +58,13 @@ makeCard("Next Session ➡️", next);
 
 Kat and Max are stung by dimensional sewer bees.
 
-[[Dorian Caldwell|Dorian]] and [[Keena O'Malley|Keena]] each whack one of the sleeping gators, almost killing them but not quite. [[Silas Sorelli|Silas]] then tries to obscure the gator near Dorian using [[silent-image-xphb|Silent Image]] to create an inky darkness. [[Gideon Oublier|Gideon]] fries the gator in front of Keena, and then Dorian kills the last gator.
+[[Dorian Caldwell|Dorian]] and [[Keena O'Malley|Keena]] each whack one of the sleeping gators, almost killing them but not quite. [[Silas Sorelli|Silas]] then tries to obscure the gator near Dorian using Silent Image to create an inky darkness. [[Gideon Oublier|Gideon]] fries the gator in front of Keena, and then Dorian kills the last gator.
 
 The group asks [[Sister Hera]] to fix the filter -- she says they have tried, the clergy has done everything to fix the filter that they can by replacing mechanical parts and such and that the filter is just depressed. Keena insight checks Hera and realizes she is not bullshitting them, and Silas recognizes there is nothing wrong with the machine on a mechanical level. Keena doesn't feel any divine magic, and Gideon knows there's just regular ambient arcane magic. The system turns on but nothing functionally happens. Silas tries to go through the previous command history.
 
 Dorian threatens the machine to start working saying he'll both dynamite, which turns the filter on and it starts pumping water again. Sister Hera recognizes it's terrible but is appreciative it's worked.
 
-Keena asks Sister Hera more about the [[Machine God]] and the clergy and the other religious sites. Sister Hera says the cult is very separated but realizes there may be another "sick" machine somewhere else in the system. She also believes that machines were made to serve the living but it's a cyclical nature and the living serve machines too. She tries to say the group has witnessed a miracle, but Gideon and Keena know there was no divine magic. Sister Hera gives Dorian 100 gold for fixing the machine, which they split. The group heads back to the [[Floodgate Bazaar]] and [[Sprocket]] tells them he has new stuff in stock.
+Keena asks Sister Hera more about the [[Cult of the Machine God|Machine God]] and the clergy and the other religious sites. Sister Hera says the cult is very separated but realizes there may be another "sick" machine somewhere else in the system. She also believes that machines were made to serve the living but it's a cyclical nature and the living serve machines too. She tries to say the group has witnessed a miracle, but Gideon and Keena know there was no divine magic. Sister Hera gives Dorian 100 gold for fixing the machine, which they split. The group heads back to the [[Floodgate Bazaar]] and [[Sprocket]] tells them he has new stuff in stock.
 
 The group heads down toward the creepy whispering pipe area, and it's Gideon and Keena on watch. They talk about the heretical cult, and Keena is a bit worried they won't make it to the tower in time with how long it's taken them to run around the [[Not Far Sewer]] so far and how much they have left to do before their missions are due. Suddenly, a smell of death (both ancient and recent) comes from the culvert. In his sleep, Silas lights his incense. Keena falls, knocks her head, and becomes unconscious.
 
@@ -81,11 +81,11 @@ Vesh says collects things that she needs, which most people down in the sewer do
 
 They head back down, piss off the undead, and then a blue orb zooms out, then the bones outside of the water rise up into a bone pillar. First to 3 points wins, via being inside the ritual activation site, after which it will move. The undead can just touch it, but the living have to get there with religious knowledge.
 
-![[location_notfarsewer_boneculvert_combat.webp]]
+![[location_notfarsewer_boneculvert_combat.webp|1092]]
 
 ### Round 1
 
-On either end of the waterway is an enemy reinforcement zone. Vesh helps the group get a point, and Silas uses [[silent-image-xphb|Silent Image]] to create the vision of a wall to force zombies to cut off their LOS and move around it. At the end of round 1, the Living have 1 point and the Undead have 0 points.
+On either end of the waterway is an enemy reinforcement zone. Vesh helps the group get a point, and Silas uses Silent Image to create the vision of a wall to force zombies to cut off their LOS and move around it. At the end of round 1, the Living have 1 point and the Undead have 0 points.
 
 ### Round 2
 
@@ -117,12 +117,12 @@ Keena tries to go to sleep to see if she'll have another vision, and Gideon does
 
 We wake up the next day and approach [[Kelm]] working on the fucked up pipe -- he is flanked by two constructs. 
 
-![[npc_kelm.webp|312]]
+![[npc_kelm.webp|334]]
 
 All of them are clearly part of the [[Titan Corporation]]. Every time he tries to divert the water, they get menacingly close to the guy and force the water to other pumps. He tells them to fix the blockage, the constructs won't attack them if they don't attack them, and the constructs won't interfere if they try to fix the blockage.
 
-![[location_notfarsewer_pumpingstation.webp]]
+![[location_notfarsewer_pumpingstation.webp|1093]]
 
 The collapsed water way drains a bit, and they see a ladder. Kelm warns Keena about moving orange caustic goo at the bottom, and then they jump down.
 
-![[location_notfarsewer_pumpingstation_blockage.webp]]
+![[location_notfarsewer_pumpingstation_blockage.webp|1093]]

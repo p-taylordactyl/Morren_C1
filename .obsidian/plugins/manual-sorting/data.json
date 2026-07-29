@@ -114,7 +114,7 @@
         "admin/assets/session8_penthousemap.webp",
         "admin/assets/session8_map2.webp",
         "admin/assets/npc_jackmercer.webp",
-        "admin/assets/location_bbmegatower_neoncorridor.webp",
+        "admin/assets/location_bbmegatower_tier2__neoncorridor.webp",
         "admin/assets/npc_Bron.webp",
         "admin/assets/npc_kierangraves.webp",
         "admin/assets/misc_enforcer.webp",
@@ -122,16 +122,16 @@
         "admin/assets/session8_map3.webp",
         "admin/assets/session9_map1.webp",
         "admin/assets/session9_map2.webp",
-        "admin/assets/location_bbmegatower_relayshrine.webp",
+        "admin/assets/location_bbmegatower_tier2_relayshrine.webp",
         "admin/assets/npc_shrinepriest1.webp",
         "admin/assets/npc_shrinepriest2.webp",
         "admin/assets/npc_dex.webp",
         "admin/assets/session9_map3.webp",
         "admin/assets/npc_solomonhexley.webp",
-        "admin/assets/location_bbmegatower_wizardfight.webp",
+        "admin/assets/location_bbmegatower_tier2_combat1.webp",
         "admin/assets/session10_map1.webp",
         "admin/assets/session10_map2.webp",
-        "admin/assets/hamletkeeper.webp",
+        "admin/assets/location_quietplace_hamletkeeper.webp",
         "admin/assets/hamletkeeper_2_itsrealbad.webp",
         "admin/assets/npc_nyx.webp",
         "admin/assets/npc_broadcastsaint.webp",
@@ -150,7 +150,6 @@
         "admin/assets/session11_map3.webp",
         "admin/assets/location_bbmegatower_tier2_ransomlocation.webp",
         "admin/assets/npc_stu.webp",
-        "admin/assets/placeholder1.webp",
         "admin/assets/session12_map1.webp",
         "admin/assets/npc_ghostsquadleader.webp",
         "admin/assets/location_hoodstation_ironformdojo.webp",
@@ -355,7 +354,11 @@
         "Locations/Harbormaster's Office.md",
         "Locations/Clerk's Home.md",
         "Locations/Crownlight Landing.md",
-        "Locations/Seahorse Bank.md"
+        "Locations/Seahorse Bank.md",
+        "Locations/Box Town.md",
+        "Locations/Docked Vessel 1.md",
+        "Locations/Docked Vessel 2.md",
+        "Locations/Docked Vessel 3.md"
       ],
       "sortOrder": "custom"
     },
@@ -408,7 +411,6 @@
         "NPCs/Vinnie Brassjaw.md",
         "NPCs/Elyra Sol.md",
         "NPCs/Jack Mercer.md",
-        "NPCs/Stalker.md",
         "NPCs/Kieran Graves.md",
         "NPCs/Jax Riven.md",
         "NPCs/Bron.md",
@@ -437,22 +439,29 @@
         "Other/The Zodiac Calendar.md",
         "Other/Timers.md",
         "Other/Kat Themes and Goals.md",
-        "Other/Timeline.md"
+        "Other/Timeline.md",
+        "Other/Oogdex.md"
       ],
       "sortOrder": "custom"
     },
     "Quests": {
       "children": [
         "Quests/0 Quest Index.base",
-        "Quests/The Flow Must Continue.md",
-        "Quests/Voices in the Grates.md",
-        "Quests/The Bloom Below.md",
-        "Quests/The Silent Floor.md",
-        "Quests/Elevator Eulogy.md",
-        "Quests/Penthouse Signal Rehearsal.md",
+        "Quests/Completed",
         "Quests/The Driftwarden.md",
         "Quests/Red Thunder.md",
         "Quests/Wharf Extraction.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Quests/Completed": {
+      "children": [
+        "Quests/Completed/The Flow Must Continue.md",
+        "Quests/Completed/Voices in the Grates.md",
+        "Quests/Completed/The Bloom Below.md",
+        "Quests/Completed/The Silent Floor.md",
+        "Quests/Completed/Elevator Eulogy.md",
+        "Quests/Completed/Penthouse Signal Rehearsal.md"
       ],
       "sortOrder": "custom"
     },

@@ -2,10 +2,11 @@
 dg-publish: true
 aliases:
   - Machine God worshippers
+  - Machine God
 type: religious group
 cover:
 created: 2026-07-06
-modified: 2026-07-23
+modified: 2026-07-28
 parent:
 associations:
 locations:

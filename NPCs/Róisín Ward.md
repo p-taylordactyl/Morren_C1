@@ -3,9 +3,9 @@ dg-publish: true
 type: npc
 aliases:
   - Róisín
-cover: "[[placeholder2.webp]]"
+cover: "[[npc_róisínward.webp]]"
 created: 2026-05-21
-modified: 2026-07-27
+modified: 2026-07-29
 disposition:
   - friendly
 organizations:

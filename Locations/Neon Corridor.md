@@ -45,4 +45,6 @@ views:
 
 
 
-![[admin/assets/location_bbmegatower_neoncorridor.webp]]
+
+
+![[admin/assets/location_bbmegatower_tier2__neoncorridor.webp]]

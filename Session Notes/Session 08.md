@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-06-15
-modified: 2026-07-23
+modified: 2026-07-28
 session_date: 06/15/2026
 session_number: 8
 players:
@@ -57,7 +57,7 @@ The lady in the [[Penthouse|penthouse]] is watching TV on a projector outside an
 
 Our quest definitely implied that the penthouse was long abandoned and it definitely isn't. This place is super bougie and she looks rich.
 
-![[session8_penthousemap.webp]]
+![[session8_penthousemap.webp|1078]]
 
 Since the lady is outside, we carefully sneak into the apartment, noting along the way that we are being picked up on cameras. Whoops. After poking around we come across a massive computer. Not super new or sleek looking. 
 
@@ -78,7 +78,7 @@ Our work done, we start making our way out. Elyra has moved to the living room b
 We make it back to the elevator without incident and try to figure out our next move to complete our last ongoing quest, [[The Silent Floor]]. We're pretty sure we need to head east, but don't know much more than that. It seems like even though the restricted tiers the elevator stops at aren't directly where we need to go, they might be able to get us there. 
 
 
-![[session8_map2.webp]]
+![[session8_map2.webp|912]]
 
 Kat tries and fails to hack the top level tier. Maybe the weird little bobblehead isn't so lucky after all.
 
@@ -110,7 +110,7 @@ After the party wakes up and we realize that Mercer was close enough for Gideon 
 
 We locate him fairly quickly but he's in bad shape. It looks like he's been robbed and beaten.
 
-![[npc_jackmercer.webp|465]]
+![[npc_jackmercer.webp|374]]
 
 We don't have any health potions, but Kat successfully punches his dislocated shoulder back into place.
 
@@ -134,7 +134,7 @@ As we discuss the ethics of murder, we see a group of [[West Valence Saints|Sain
 
 They push one of their own forward, telling him to finish the job. The [[Kieran Graves|kid]] looks to be 18 and is very hesitant. 
 
-![[npc_kierangraves.webp]]
+![[npc_kierangraves.webp|363]]
 
 Kat steps out immediately and tells him he doesn't have to do this. She says that she didn't and she made it out. The priest calls her a traitor, but Kat's words were enough to keep the kid from going through with it. The Saints attack and the kid fights with us.
 
@@ -164,11 +164,11 @@ Kat is worried this won't really protect Kieran's family if the Saints are able 
 
 We call the Oligarchs line to pick up the bodies and they say that without video evidence someone will need to testify against them. We agree to it though Kat gets very worried about it how this could come back to bite them or Kieran's family. Silas and Dorian are down to kill everyone but will let Kat call this one.
 
-She feels like the smart choice is to kill them but can't bring herself to do it, and with the enforcers on their way there's no time anyway. Dorian tosses the guy Gideon killed into the pit, and we decide to take the priest and another Saint hostage so we can find out what all they know about Kat and if they've gotten anything from our [[Stalker]].
+She feels like the smart choice is to kill them but can't bring herself to do it, and with the enforcers on their way there's no time anyway. Dorian tosses the guy Gideon killed into the pit, and we decide to take the priest and another Saint hostage so we can find out what all they know about Kat and if they've gotten anything from our [[Sterling Corvain]].
 
 We find Jack's bag as well, and then hightail it out of there with our prisoners just before the enforcers roll up. They look like this.
 
-![[misc_enforcer.webp|509]]
+![[misc_enforcer.webp|376]]
 
 We get back to the car and let Jack out of the trunk and give him his bag back. His device is still working and he says we need to keep heading down the corridor, which lines up with what Jax told us.
 
@@ -187,11 +187,11 @@ We carry on and soon see the Neon Corridor the gnome mentioned - it's a little o
 
 As we enter the corridor, a giant lizard runs full speed at Silas and Kat, both of whom stay still as it approaches. It stops short and licks each of their faces before running away and halfway up a wall.
 
-![[location_bbmegatower_neoncorridor.webp]]
+![[location_bbmegatower_tier2__neoncorridor.webp]]
 
 A bunch of people down the street are throwing bottles at the wall. Kat throws bottles and cheers with them and an Orc comes over, compliments her throwing, and introduces himself as Bron.
 
-![[npc_Bron.webp|760]]
+![[npc_Bron.webp|478]]
 
 Kat ends up giving Bron her racist and decidedly unlucky ogre bobblehead, which she was very worried about bc Gideon acted like this guy was an ogre, but then he thinks the bobblehead is hilarious. He might be racist. 
 

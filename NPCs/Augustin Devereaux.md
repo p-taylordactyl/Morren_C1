@@ -12,7 +12,7 @@ disposition:
 organizations:
   - "[[Titan Corporation]]"
 associates:
-  - "[[Stalker]]"
+  - "[[Sterling Corvain]]"
   - "[[Sterling Corvain]]"
 brief: The man Keena and Max beat into a coma for causing and covering up the Titan Line Incident.
 tags:
@@ -30,7 +30,7 @@ Individual responsible for accident at the [[Titan Corporation]] that killed ove
 
 ### Notes
 
-- Our mysterious [[Stalker]] texted [[Gideon Oublier|Gideon]] a picture of Devereaux in a coma along with his last name
+- Our mysterious [[Sterling Corvain]] texted [[Gideon Oublier|Gideon]] a picture of Devereaux in a coma along with his last name
 - based on the Stalker's fixation with Max and Keena, may be a close friend or relative
 
 # Session Mentions

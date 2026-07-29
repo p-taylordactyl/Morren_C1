@@ -6,7 +6,7 @@ aliases:
 cover: "[[pc_katbuchanon.webp]]"
 type: player_character
 created: 2026-04-21
-modified: 2026-07-23
+modified: 2026-07-29
 organizations:
   - "[[Hood Station]]"
   - "[[Endline Garage]]"

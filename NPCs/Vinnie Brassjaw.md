@@ -34,7 +34,7 @@ A goblin that seems to be some kind of crime boss in the [[BB Megatower]].
 
 ### Notes
 
-- Received some videos from our [[Stalker]] and is interested in unmasking them
+- Received some videos from our [[Sterling Corvain]] and is interested in unmasking them
 - Willing to help us if we do some work for him
 - Holds [[Malcolm Oublier]]'s debt
 - If we build enough trust, could set up a meeting between [[Silas Sorelli|Silas]] and [[Kali Torreo|Commander Torreo]]

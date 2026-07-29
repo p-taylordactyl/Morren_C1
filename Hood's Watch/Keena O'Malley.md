@@ -5,7 +5,7 @@ aliases:
 cover: "[[pc_keenaomalley.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-23
+modified: 2026-07-29
 tags:
 ---
 
@@ -28,9 +28,9 @@ Keena is a human woman in her late teens/early twenties. She's originally from [
 
 Conditions were tough, with the family back to living together in a small apartment and working grueling hours at the nearby [[Titan Corporation]] Factory Complex. However, in an accident that would end up injuring or killing over 50 people at the factory, her cousin [[Róisín Ward]] would lose her arm and her brother Lorcan O'Malley would lose his life. The Titan Corporation downplayed the accident as a "small-scale mishap" and blamed the workers for negligence, refusing to pay any compensation for those injured or killed in the accident and firing anyone who didn't show up for their next shift. The O'Malley-Ward family ended up losing their home again, as they were down two more wage-earners, and moved into Hood Station where her uncle, [[Cillian Ward]], would open a dojo.
 
-Angry and lost without her dear older brother, she was visiting his grave/talking to him at the small memorial shrine for him at their dojo when he appeared before her. He revealed himself as an aspect of [[Morrenel]], and told her what had happened at the factory was a perversion of justice and those responsible must pay. He told her if she promised to hunt down the unrighteous in his name, to repair the broken chain of justice, he would gift her with power. Desperate to avenge her brother and right the wrongs, she agreed.
+Angry and lost without her dear older brother, she was visiting his grave/talking to him at the small memorial shrine for him at their dojo when he appeared before her. He revealed himself as an aspect of [[Morronel]] and told her what had happened at the factory was a perversion of justice and those responsible must pay. He told her if she promised to hunt down the unrighteous in his name, to repair the broken chain of justice, he would gift her with power. Desperate to avenge her brother and right the wrongs, she agreed.
 
-In her free time, she studies martial arts and various fighting styles with her uncle, even teaching some classes to women and younger kids, and hunts down those who haven't been punished for injustice, corruption, or exploitation, using their wealth or power to escape the ramifications of their actions. Sometimes, after hours at the dojo, she even meets with others who also believe in the [[Covenant of Equal Measure]] where they have scripture study, religious debates, and so forth, though they keep the group fairly small and not many are aware of it. While some might think her delirious after the loss of her brother, becoming one of Morrenel's Chosen settled something within Keena and gave her renewed purpose in the world.
+In her free time, she studies martial arts and various fighting styles with her uncle, even teaching some classes to women and younger kids, and hunts down those who haven't been punished for injustice, corruption, or exploitation, using their wealth or power to escape the ramifications of their actions. Sometimes, after hours at the dojo, she even meets with others who also believe in the Covenant of Equal Measure where they have scripture study, religious debates, and so forth, though they keep the group fairly small and not many are aware of it. While some might think her delirious after the loss of her brother, becoming one of Morrenel's Chosen settled something within Keena and gave her renewed purpose in the world.
 
 **Themes**: Purpose; Justice; Truth; Hope Against Rot; Faith vs Fury; From Below, Judgment Rises; The Necessary Blade; Ambition; Survival; Equality; The Common People; Family; Optimism vs Realism; Legality vs Morality
 
@@ -78,5 +78,3 @@ No imagery, but Keena hears the words:
 Keena sees this man (who she does not recognize) and hears the words: "Betrayer. Sinner. He must die."
 
 ![[npc_keenavisionbeggar.webp|508]]
-
-

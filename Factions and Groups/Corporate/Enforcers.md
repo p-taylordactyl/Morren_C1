@@ -2,14 +2,15 @@
 dg-publish: true
 aliases:
 type: corporate group
-cover: "[[placeholder1.webp]]"
+cover: "[[misc_enforcer.webp]]"
 created: 2026-06-29
-modified: 2026-07-23
+modified: 2026-07-28
 parent: "[[Oligarchs]]"
 associations:
 locations:
 tags:
 ---
+![[misc_enforcer.webp|470]]
 
 # Description
 

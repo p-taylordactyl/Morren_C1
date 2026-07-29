@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-06-01
-modified: 2026-07-23
+modified: 2026-07-28
 session_number: 6
 session_date: 06/01/2026
 players:
@@ -56,13 +56,13 @@ makeCard("Next Session ➡️", next);
 
 [[Silas Sorelli|Silas]] pops back into existence in the garage as we're talking to [[Thorbin Sprake|Thorbin]]. As we're chatting, we hear a newscast on the TV that says the [[Box Boys|Box Boys]] have attacked the [[Pumping Station]] and taken control from the [[Titan Corporation]].
 
-![[session6_endlinegarage.webp]]
+![[session6_endlinegarage.webp|1077]]
 
 We talk through our next moves. 
 
 [[Maximilius Adkins|Max]] needs painter's supplies, a flute, or calligrapher's tools. [[Dorian Caldwell|Dorian]] would also like some painter's supplies. And [[Katriel Buchanon|Kat]] could use some tinker's tools. We decide we should turn in the rest of our quests before shopping, so we head to talk to [[Rosetta Thorne|Miss Rosie]] at the [[Protective Association for Wayward and Neglected Strays|orphanage]], and see if the dolls "count" as [[Voices in the Grates|finding the kids]].
 
-![[location_hoodstation_pawns.webp]]
+![[location_hoodstation_pawns.webp|1088]]
 
 When we get there, [[Rosetta Thorne|Miss Rosie]] appears to be asleep in the middle of the room. We manage to wake her, but she seems weird, almost glitchy. We tell her we're here to turn in her quest and she dismisses the orphans, before collapsing as a secret room behind a wall is revealed.
 
@@ -70,7 +70,7 @@ When we get there, [[Rosetta Thorne|Miss Rosie]] appears to be asleep in the mid
 
 As we approach the room, [[Rosetta Thorne|Rosetta]] reveals herself. It seems like "Miss Rosie" is some kind of simulacrum she uses to keep her real self hidden.
 
-![[npc_rosettathorne.webp]]
+![[npc_rosettathorne.webp|370]]
 
 She accepts the quest, pays us, and starts trying to kick us out.
 
@@ -90,7 +90,7 @@ After some mysterious discussion in which Rosie wants money for info, Dorian rev
 
 After some horny discussion about people's parents, we leave and head to the [[Morrgen's Community Center|Community Center]] to turn in [[The Bloom Below]].
 
-![[location_hoodstation_communitycenter.webp]]
+![[location_hoodstation_communitycenter.webp|1088]]
 
 Gideon gives [[Morrgen Oublier|Morrgen]] the earrings he bought her in the sewer. Keena specifically mentions that he's been a "good boy." Morrgen is pleased, and then starts asking if he's been doing anything "special" and he talks about exploding things better when he thinks about memories like they discussed. 
 
@@ -106,17 +106,17 @@ The next morning, Malcolm texts Gideon a selfie from the [[BB Megatower]] to tau
 
 On our way out of the Station, we stop by [[The Troupe]] so Dorian can give [[Az]] some books he picked up in the hopes that they might be good material for plays.
 
-![[location_hoodstation_thetroupe.webp]]
+![[location_hoodstation_thetroupe.webp|1088]]
 
 Az pretends they can't read but immediately messes up the bit. They then offer us all drugs, which he reveals he makes himself. Max does a line of coke. Silas takes some sativa. Kat requests a regular nicotine cigarette but Az mixes things up and isn't really sure if they gave her a regular cigarette or one with cocaine in it. Keena doesn't try anything, and Kat explicitly forbids Gideon from trying any drugs.
 
 As we're heading out, Az hands Silas some money. He intended it to be payment for Dorian for the books, but they misspoke, and instead Silas decides to distribute it amongst the party members who took drugs. 
 
-![[session6_oldvalence.webp]]
+![[session6_oldvalence.webp|1097]]
 
 Off we go to the [[BB Megatower]]. 
 
-![[session6_map1.webp]]
+![[session6_map1.webp|974]]
 
 On our way in, Gideon texts Malcolm to ask where he is.
 
@@ -126,7 +126,7 @@ As we make our way in, we see this [[Vinnie Brassjaw|goblin]] in a suit with a m
 
 ![[npc_vinniebrassjaw.webp|690]]
 
-![[npc_róisínward.webp|690]]
+![[npc_róisínward.webp|687]]
 
 The goblin hands her a package that seems like at least a kilo.
 
@@ -150,7 +150,7 @@ As we're creeping forward in line, a weird black van with tinted windows pulls u
 
 People with diving gear and gas masks get out, holding rifles. One is wearing big metallic exosuit. Silas identifies them as [[Ghosts of the Flooded Zone|Ghosts]]. They go to meet up with the goblin that sold drugs to Róisín, leaving only the driver behind with the car.
 
-![[npc_ghostdriver.webp]]
+![[npc_ghostdriver.webp|587]]
 
 Dorian seems very interested in trying to either slow them down and/or get more info about why they're here. We make a plan to distract the driver so Dorian can check out the van.
 
@@ -176,7 +176,7 @@ As we ponder whether ball bearings would an effective threat, an orc comes over 
 
 While he's working on that, Dorian goes over and threatens the elevator. Max and Keena stay to watch the orc while the rest go with Dorian. As soon as he finishes his threat, the floor opens up and we all fall down a weird metal slide. After a long fall, we find ourselves stuck in some kind of vent a little ways above a meeting that seems to be occurring below.
 
-![[location_bbmegatower_krystals.webp]]
+![[location_bbmegatower_krystals.webp|1059]]
 
 We see [[Malcolm Oublier|Malcolm]] begging a group of [[Bellanova Family|Bellanovas]] for another week and to "tell Brassjaw it's cool" - he gets the one more week but then they're going to take his skin. They also threaten his family - [[Gideon Oublier|Gideon]] and [[Morrgen Oublier|Morrgen]] and their dad.
 
@@ -186,7 +186,7 @@ Gideon messages him from the vent and says "you fucking dumbass." He kicks the v
 
 Meanwhile up top, the ball bearings forgotten, Keena and Max tries to decide what to do. Keena asks what to do about the car but Max just jumps down the shaft. She locks the car and asks the operator if we can leave it in the spot. He says she's good, so she joins us at the bottom of the shaft.
 
-![[npc_malcolmoublier.webp|696]]
+![[npc_malcolmoublier.webp|427]]
 
 
 Turns out Malcolm's a little asshole. He borrowed money to buy a watch for he and [[Gideon Oublier|Gideon]]'s dad and then also borrowed more money to spend on OogCoin.

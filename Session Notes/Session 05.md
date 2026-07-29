@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-05-25
-modified: 2026-07-23
+modified: 2026-07-28
 session_number: 5
 session_date: 05/25/2026
 players:
@@ -55,13 +55,13 @@ makeCard("Next Session ➡️", next);
 
 We resume having gone down a large pipe at the [[Pumping Station]] in the [[Not Far Sewer]]. 
 
-![[location_notfarsewer_pumpingstation_blockage.webp]]
+![[location_notfarsewer_pumpingstation_blockage.webp|1092]]
 
 We see a bunch of loot sticking out of some rubble off to the right. We're able to use [[Dorian Caldwell|Dorian]]'s rope and the motorcycles to clear the rubble.
 
 We find a damaged masterwork painting of a random couple (implied relevant to Dorian but he reveals nothing). [[Katriel Buchanon|Kat]] tries to identify the couple, no luck. Dorian takes the painting without saying much more.
 
-![[npc_dorianparents.webp]]
+![[npc_dorianparents.webp|302]]
 
 We pick up a bunch of other assorted loot, including another stick of dynamite for Dorian and a [[potion-of-greater-healing-xdmg|Potion of Greater Healing]], which Kat snags.
 
@@ -69,7 +69,7 @@ We find a bunch of rocks and weird orange goo causing our pipe blockage. Dorian 
 
 Dorian uses both dynamites on the goo, finishing it off.
 
-![[location_notfarsewer_pumpingstation_blockagefight.webp]]
+![[location_notfarsewer_pumpingstation_blockagefight.webp|1094]]
 
 The blockage is cleared and the water flow is usable for now, but lower than it should be. After some investigating, we figure this is due to the [[Titan Corporation]] interference above, but we have time to handle it and decide to wait until we have the full party. 
 
@@ -77,7 +77,7 @@ We go upstairs and [[Maximilius Adkins|Max]] introduces himself to [[Kelm]], who
 
 We head back out to the main sewer and discuss our next move. Kat feels the doll issue is unresolved and the "wicked" from Keena's [[Keena O'Malley#Candle Vision|revelation]] is likely somewhere in the sewer, but Keena thinks we have time since we got the dolls, and wants to get back to [[Hood Station]] and onward to the tower so we can finish the other quests.
 
-![[session5_map1.webp]]
+![[session5_map1.webp|1096]]
 
 Kat asks Max why he has beef with Crownlight Media.
 
@@ -87,11 +87,11 @@ As we're discussing, we see a [[Crownlight Media]] helicopter flying past throug
 
 We're sneakily approaching the exit point to see what Crownlight is up to, but on the way we see a group of [[West Valence Saints|Saints]] beating the shit out of an [[Brug|orc]]. The orc is insisting he's there for an "art project" and not trying to claim their turf.
 
-![[npc_brug.webp]]
+![[npc_brug.webp|343]]
 
-This [[Scarred Saint|guy]], who is covered in ritual scarification and has had his mouth sewn shut, kicks the Orc unconscious.
+This guy, who is covered in ritual scarification and has had his mouth sewn shut, kicks the Orc unconscious.
 
-![[npc_scarredsaint.webp]]
+![[npc_scarredsaint.webp|451]]
 
 Keena tells Max to disguise himself as a [[Titan Corporation|Titan]] Corp exec. He does and then he and Keena walk right up. Max basically thanks the Saints for doing his dirty work for him.
 
@@ -131,7 +131,7 @@ We see Crownlight has set up some weird kind of checkpoint at the sewer exit.
 
 Max recognizes [[Barron Sutton]] talking on a communicator.
 
-![[npc_barronsutton.webp|378]]
+![[npc_barronsutton.webp|386]]
 
 It seems like it will be very difficult to get out without being caught on camera.
 
@@ -171,9 +171,9 @@ On the way out, the helicopter clips a pipe and we gotta dodge fast. Max and Dor
 
 We head back to [[Hood Station]].
 
-![[session5_map5.webp]]
+![[session5_map5.webp|1097]]
 
 We make it back to the station and Thorbin shows us a car [[Lumen Veil]] has gifted us for saving him. Thank god honestly.
 
-![[session5_newcar.webp]]
+![[session5_newcar.webp|1048]]
 

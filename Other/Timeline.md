@@ -11,7 +11,7 @@ created: 2026-07-14
 
 
 > [!timeline|t-r t-4] **1/11/2012** *Subtitle*
-> [[Malcolm Oublier]] is kidnapped by the [[Stalker]].
+> [[Malcolm Oublier]] is kidnapped by the [[Sterling Corvain]].
 
 > [!timeline|t-r t-10] **Title** *Subtitle*
 > Spaced timeline piece

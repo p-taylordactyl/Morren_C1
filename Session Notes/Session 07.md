@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-06-08
-modified: 2026-07-23
+modified: 2026-07-28
 session_number: 7
 session_date: 06/08/2026
 players:
@@ -55,7 +55,7 @@ makeCard("Next Session ➡️", next);
 
 We resume in this area somewhere in the depths of the [[BB Megatower]].
 
-![[session7_map1.webp]]
+![[session7_map1.webp|1082]]
 
 [[Malcolm Oublier|Malcolm]] just kicked Gideon in the nuts and tried to run, but Kat easily tackles him.
 
@@ -69,7 +69,7 @@ We hear some clamor in the distance.
 
 As we stand, a human in his 20s falls through the ceiling and slams into the ground in front of us. 
 
-![[npc_jaxriven.webp]]
+![[npc_jaxriven.webp|360]]
 
 He says he has no time to talk, he has a delivery to make. He uses a grappling hook to anchor up to the shaft. Kat yells after him to ask where he got the hook and he says he got it at the [[Infinity Plaza Mall|Mall]].
 
@@ -79,7 +79,7 @@ The area we're in is some sort of semi-commercial street. The street we're on no
 
 We're lingering outside the burger shop and this [[Sterling Corvain|this guy]] comes out with a bag of burgers.
 
-![[npc_mysteryburgerman.webp|549]]
+![[npc_mysteryburgerman.webp|518]]
 
 He says the burger will treat you how you treat it. 
 
@@ -111,9 +111,9 @@ Max suddenly remembers the name Devereaux and realizes it's the guy he and Keena
 
 We're discussing what to do about all of this and what the person texting us wants when a group of Saints enters the street, heading straight for us, including this creepy looking priest guy. Kat doesn't recognize any individuals.
 
-![[session7_saints_spellcaster.webp|629]]
+![[session7_saints_spellcaster.webp|429]]
 
-Their squad includes the above priest-looking guy and the [[Scarred Saint]]. Kat doesn't recognize anyone else. No time to talk, because they attack immediately. 
+Their squad includes the above priest-looking guy and another scarred looking Saint. Kat doesn't recognize anyone else. No time to talk, because they attack immediately. 
 
 ![[session7_saintscombat.webp]]
 
@@ -131,7 +131,7 @@ Kat starts having a panic attack on the doorstep about having killed 3 people.
 
 This orc comes out and asks what we need. 
 
-![[npc_residentialorc.webp|507]]
+![[npc_residentialorc.webp|530]]
 
 
 Gideon says there was a kerfuffle and asks if we can hide out until it calms down.
@@ -144,7 +144,7 @@ Inside the dwelling, the party tries to help Kat come to terms with what happene
 
 On our way out, Gideon asks the orc if he has anything we might use to conceal ourselves. He gives us some of his sister's old clothes.
 
-![[session7_map3.webp]]
+![[session7_map3.webp|987]]
 
 With the crowd outside somewhat dispersed, we make our way back to the main elevator. Kat pulls out her tinkers tools and is able to fix it without much fuss.
 
@@ -158,7 +158,7 @@ Silas says we're looking for a way to lie low for a minute. Gideon keeps trying 
 
 Suit Goblin basically says to do whatever we want, but he's watching us. This doesn't seem ominous so much as 
 
-Silas brings up our "[[Stalker|stalker]]" and asks him to keep an eye out.
+Silas brings up our "[[Sterling Corvain|stalker]]" and asks him to keep an eye out.
 
 Suit Goblin says we should have this meeting face to face but it'll only happen if we're competent enough to find him. Silas checks behind the TV. Nothing there.
 
@@ -209,8 +209,8 @@ She sets it down on the ground like a good luck charm as she tries to hack the c
 
 We enter and see this [[Elyra Sol|mysterious woman]] sitting alone, watching a movie.
 
-![[location_bbmegatower_penthouse.webp]]
+![[location_bbmegatower_penthouse.webp|1092]]
 
 
-![[npc_elyrasol.webp|495]]
+![[npc_elyrasol.webp|411]]
 

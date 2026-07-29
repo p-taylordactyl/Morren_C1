@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-06-29
-modified: 2026-07-23
+modified: 2026-07-28
 session_date: 06/29/2026
 session_number: 10
 players:
@@ -61,9 +61,9 @@ We resume just outside the [[Quiet Place]].
 
 We tell him about the [[Titan Corporation]] and he starts saying he wants to take out the entire corporation and kill them all. We have to explain that pre-emptive strikes are in fact just murder. The rest of the party expresses varying concerns about this sentiment and we all encourage him to think much, much smaller for the time being.
 
-We get a text from our [[Stalker]] that says it's time to meet, with  GPS coordinates for the meeting location. It's southwest, not far past the [[Quiet Place]].
+We get a text from our [[Sterling Corvain]] that says it's time to meet, with  GPS coordinates for the meeting location. It's southwest, not far past the [[Quiet Place]].
 
-![[session10_map1.webp]]
+![[session10_map1.webp|1093]]
 
 [[Keena O'Malley|Keena]] and [[Maximilius Adkins|Max]] confirm that our stalker is likely someone related to [[Augustin Devereaux]]. Silas is annoyed that he's gotten dragged into something from their past, as he thinks it should be their problem alone to deal with.
 
@@ -71,7 +71,7 @@ Keena and Max play Rock Paper Scissors, winner gets to be traded for Malcolm.
 
 We can't travel farther today, so we might as well check out the [[Quiet Place]] and see if we can finish [[The Silent Floor]] while we're here.
 
-![[session10_map2.webp]]
+![[session10_map2.webp|1096]]
 
 Outside the building, Kat tries to look for our stalker's drone and catches a glint of a red lens way far away - it's so far away it's hard to tell.
 
@@ -111,7 +111,7 @@ It's decided that we're "Hood's Watch"
 
 We find ourselves in the game.
 
-![[hamletkeeper.webp]]
+![[location_quietplace_hamletkeeper.webp|1086]]
 
 Monsters spawn in deployment zone. Monsters are trying to go for villagers in search zones.
 
@@ -124,15 +124,15 @@ Survive enough rounds in order to win. Amount of rounds is randomized.
 
 First wave is abyssal hyenas.
 
-![[hamletkeeper_2_itsrealbad.webp]]
+![[hamletkeeper_2_itsrealbad.webp|1082]]
 
 At great cost, like half the party almost forreal dead type of cost, we win and get spit back out into the Quiet Place along with a large group of people, including this tiefling, and also the rescue team we were supposed to find. Notably one of the team members is dead.
 
-![[npc_nyx.webp]]
+![[npc_nyx.webp|365]]
 
 The game flickers off the screen and it flips back to live TV, where we see this guy.
 
-![[npc_broadcastsaint.webp]]
+![[npc_broadcastsaint.webp|581]]
 
 "Whoever has been killing those of the Dominion Crew, we will find you." 
 
@@ -142,5 +142,5 @@ Kat has until the end of the week to surrender, which is really end of day tomor
 
 Gideon peeks out the window and sees this guy bonking the shit out of an ATM with his giant spear.
 
-![[npc_stonespear.webp|669]]
+![[npc_stonespear.webp|570]]
 

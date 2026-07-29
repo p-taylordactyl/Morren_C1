@@ -4,17 +4,17 @@ type: location
 aliases:
 cover: "[[location_ransomlocation.webp]]"
 created: 2026-07-09
-modified: 2026-07-16
+modified: 2026-07-29
 district: "[[Cloud District]]"
 parent: "[[Tier 2]]"
 associations:
-  - "[[Stalker]]"
+  - "[[Sterling Corvain]]"
 tags:
 ---
 
 # Notes
 
-- the location given by the party's [[Stalker]] to trade either [[Maximilius Adkins|Max]] or [[Keena O'Malley|Keena]] for [[Malcolm Oublier]].
+- the location given by the party's [[Sterling Corvain]] to trade either [[Maximilius Adkins|Max]] or [[Keena O'Malley|Keena]] for [[Malcolm Oublier]].
 - appears to be some kind of cargo warehouse
 
 # NPCs
@@ -44,6 +44,8 @@ views:
 ```
 
 # Maps
+
+
 
 
 

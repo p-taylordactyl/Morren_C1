@@ -1,9 +1,9 @@
 ---
 type: location
 aliases:
-cover: "[[placeholder2.webp]]
+cover: "[[placeholder2.webp]]"
 created: 2026-07-10
-modified: 2026-07-16
+modified: 2026-07-29
 district:
 parent:
 associations:
@@ -12,6 +12,7 @@ tags:
 ---
 
 # Notes
+
 
 # NPCs
 
@@ -39,7 +40,14 @@ views:
 
 ```
 
+
 # Maps
+
+![[location_bbmegatower_krystals.webp]]
+
+
+
+
 
 
 

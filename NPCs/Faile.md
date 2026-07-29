@@ -30,7 +30,7 @@ One of the tech priests serving the [[Cult of the Machine God|Machine Spirit]] a
 
 ### Notes
 
-- helped us track down that our [[Stalker]]'s redacted number is affiliated with the [[Titan Corporation]]
+- helped us track down that our [[Sterling Corvain]]'s redacted number is affiliated with the [[Titan Corporation]]
 
 # Session Mentions
 

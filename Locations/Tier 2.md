@@ -4,8 +4,8 @@ type: location
 aliases:
 cover: "[[location_Tier2.webp]]"
 created: 2026-07-09
-modified: 2026-07-16
-district:
+modified: 2026-07-29
+district: "[[Cloud District]]"
 parent: "[[BB Megatower]]"
 associations:
   - "[[Bellanova Family]]"
@@ -64,4 +64,8 @@ views:
 
 
 
+
+![[admin/assets/location_bbmegatower_tier2_combat1.webp]]
+![[admin/assets/location_bbmegatower_tier2_relayshrine.webp]]
+![[admin/assets/location_bbmegatower_tier2__neoncorridor.webp]]
 ![[admin/assets/location_bbmegatower_tier2_ransomlocation.webp]]

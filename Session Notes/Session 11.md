@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-07-06
-modified: 2026-07-23
+modified: 2026-07-28
 session_date: 07/06/2026
 session_number: 11
 players:
@@ -116,7 +116,7 @@ Max and Kat talk morality on watch and confirm they're on the same page about no
 
 Kat notices some Saints heading our way early enough to at least wake the others, but she and Max dawdle just a little too long talking to avoid combat entirely. The Saints spot us, pointing at Kat and yell that we're the ones that have been killing their boys.
 
-![[session11_combat1.webp]]
+![[session11_combat1.webp|1097]]
 
 Fortunately we subdue them with minimal injury and call the [[Enforcers]]. 
 
@@ -131,11 +131,11 @@ She doesn't share with the group.
 
 At the edge of an overlook on our way to the [[Ransom Location]], we see a bunch of people gathered around a stall showing a bunch of animated paintings.
 
-![[session11_map2.webp]]
+![[session11_map2.webp|1075]]
 
 We see [[Animator|this guy]] standing behind the stall.
 
-![[npc_animator.webp]]
+![[npc_animator.webp|400]]
 
 "I have the magic touch! I can bring the pictures to life! Remember your loved ones and pets in living detail. With enough money and enough resources, you can even speak with them."
 
@@ -193,7 +193,7 @@ The Titan goons have taken Brug and are now looking at a damaged engine on their
 
 Kat floats the idea of trying to just talk to them. The party is hesitant about something going wrong and pulling us into combat, but she feels like she can at least play the curious onlooker and maybe get some information without having to lie.
 
-![[session11_map3.webp]]
+![[session11_map3.webp|1097]]
 
 She walks up, looking at the smoking engine, and chats with one of the guys guarding the perimeter. He tries to recruit her and she plays along to keep the conversation, but gives him a random number (which turns out to be Max's) to send an application link.
 
@@ -207,11 +207,11 @@ As we approach, we get a text that says, "send the chosen in." Kat says "send Ma
 
 Kat uses elementalism to summon a bong cloud around Max to hype him up. Kat wants to try and go with Max, but doesn't want to leave Keena and Dorian alone in their current condition either. Max enters alone.
 
-![[location_bbmegatower_tier2_ransomlocation.webp]]
+![[location_bbmegatower_tier2_ransomlocation.webp|1097]]
 
 One of the large guards in the room tells Max needs to get in the box. Max tries to bargain for some leeway but big guy is getting paid to enforce this. Max is friendly and asks for his name and he refuses to give it. Max says a fake name is fine too and he says Max can call him [[Stu]].
 
-![[npc_stu.webp|615]]
+![[npc_stu.webp|560]]
 
 Max offers Stu a hug before he goes in the box and Stu accepts, saying to never pass up a free hug.
 

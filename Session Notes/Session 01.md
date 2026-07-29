@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-04-20
-modified: 2026-07-26
+modified: 2026-07-29
 session_number: 1
 session_date: 04/20/2026
 players:
@@ -61,7 +61,7 @@ makeCard("Next Session ➡️", next);
 
 We start with [[Dorian Caldwell|Dorian]] at the [[Hood Station|Station House]].
 
-![[location_hoodstation_stationhouse.webp]]
+![[location_hoodstation_stationhouse.webp|1093]]
 
 Other people start to trickle in - [[Silas Sorelli|Silas]], [[Gideon Oublier|Gideon]], [[Katriel Buchanon]], [[Maximilius Adkins|Max]], and [[Keena O'Malley|Keena]].
 
@@ -85,7 +85,7 @@ After some discussion, we decide to head to the [[Not Far Sewer|sewer]] to tackl
 
 ![[location_hoodstation_0.webp]]
 
-Our initial shopping complete, we head to pick up our bikes and realize in the process that we purchased an idiotic amount of feed that currently takes up the entirety of our bike storage. Whoops.
+Our initial shopping complete, we head to pick up our bikes at [[Endline Garage]] and realize in the process that we purchased an idiotic amount of feed that currently takes up the entirety of our bike storage. Whoops.
 
 ![[location_hoodstation_endlinegarage.webp]]
 
@@ -93,7 +93,7 @@ We head out for the sewer. Around the [[Westreach]] area Kat decides to make som
 
 As we enter the sewer, Dorian finds a small satchel with some gold in it under a pile of rubble in the sewer.
 
-Silas remembers the sewer is known as the "Not-Far Sewer" which is inhabited by both weirdos and toxic slime.
+Silas remembers the sewer is known as the "[[Not Far Sewer]]" which is inhabited by both weirdos and toxic slime.
 
 The sewer has two paths, one leading west and the other south. Silas vaguely remembers there being a bazaar to the south, and a pumping station off to the west.
 

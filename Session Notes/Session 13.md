@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-07-20
-modified: 2026-07-27
+modified: 2026-07-28
 session_date: 07/20/2026
 session_number: 13
 players:
@@ -100,7 +100,7 @@ When they get there Lumen gives Max a free phone card and then Cael Foundation n
 
 # Winter 19, 2012 -- Present
 
-![[oldvalence_map3.webp]]
+![[oldvalence_map3.webp|1096]]
 
 As Max comes down the stairs into the Station, he sees a group of [[Ghosts of the Flooded Zone|Ghosts]] have emerged from the tunnels leading to the [[Flooded Zone]] and started ransacking everything in sight.
 
@@ -124,11 +124,11 @@ At the cockpit, Kat tries to see if she could lock the Ghosts out of the sub whi
 
 Once Kat finished, she and Dorian sneak back to the party, and we head towards the nearest group of Ghosts to start fending them off.
 
-![[session13_combat1.webp]]
+![[session13_combat1.webp|1097]]
 
 We got new Gideon Art!
 
-![[npc_gideonoublier_disguise2.webp|435]]
+![[npc_gideonoublier_disguise2.webp|453]]
 
 
 Anyway we fight now.
@@ -151,7 +151,7 @@ We sign the contract and the muscle men beat the absolute fuck out of the Ghosts
 
 The lady is named [[Talia Mercina]] and she is apparently our union rep.
 
-![[npc_taliamercina.webp|444]]
+![[npc_taliamercina.webp|445]]
 
 We ask some questions about the contract.
 
@@ -171,7 +171,7 @@ The Red Thunder quest proves to be particularly controversial, as Max very  much
 
 Our discussion is interrupted when we spot this man entering Hood Station.
 
-![[npc_victorhalden.webp|391]]
+![[npc_victorhalden.webp|395]]
 
 This guy is coming into the station. Kat and Keena recognize him as [[Victor Halden]], manager of the [[Valencian Seahorses]].
 
@@ -181,7 +181,7 @@ On watch, Max and Dorian discuss the party's stance on killing and Max clarifies
 
 During the watch, Max notices this person sneak into Hood Station with a large contingent of [[Ghosts of the Flooded Zone|Ghosts]]. 
 
-![[npc_kalitorreo.webp|402]]
+![[npc_kalitorreo.webp|401]]
 
 They sneak into a building and start reinforcing it immediately. The woman's rebreather-y mask seems like some kind of cybernetic augmentation.
 
@@ -201,6 +201,6 @@ After some more discussion on the new quests available, we agree that [[Red Thun
 
 We head off to Deadwater Wharf. 
 
-![[session13_map1.webp|567]]
+![[session13_map1.webp|612]]
 
 Almost immediately after entering, we see a wanted poster for one [[Kali Torreo]]. Max immediately recognizes the woman on the poster as the same one he saw breaking into Hood Station last night.

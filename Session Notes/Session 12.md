@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-07-13
-modified: 2026-07-26
+modified: 2026-07-28
 session_date: 07/13/2026
 session_number: 12
 players:
@@ -81,7 +81,7 @@ She gets the rest of the party and brings them in. Silas casts Detect Magic and 
 
 He thinks it was likely either the doing of one incredibly powerful mage or a group of mages, but there's really not much information to go off of. We decide to leave and try and find a better spot to post up for the night, most likely the [[Quiet Place]].
 
-![[session12_map1.webp]]
+![[session12_map1.webp|1097]]
 
 Kat sees some kind of auction platform and a crowd gathered as an auctioneer is auctioning off amounts of electricity for people's homes.
 
@@ -121,7 +121,7 @@ We see a bunch of what looks like [[Ghosts of the Flooded Zone|Ghosts]] unloadin
 
 The Ghosts are led by this person.
 
-![[npc_ghostsquadleader.webp]]
+![[npc_ghostsquadleader.webp|556]]
 
 We (and a bunch of bystanders) are just staying on the edges, waiting it out. We simply can't fight in this condition.
 
@@ -229,11 +229,11 @@ Dorian buys some laudanum from Az.
 
 We head off to the [[Iron Form Dojo|Dojo]]. Inside, we see [[Cillian Ward]] as well as [[Kairo Voss]] and [[Nyra Lightwell|Nyra]]. Cillian comes over and notes how bad the party looks.
 
-![[location_hoodstation_ironformdojo.webp]]
+![[location_hoodstation_ironformdojo.webp|1089]]
 
-![[npc_kairovoss.webp|531]]
+![[npc_kairovoss.webp|514]]
 
-![[npc_nyralightwell.webp|526]]
+![[npc_nyralightwell.webp|516]]
 
 
 We let him know we [[Elevator Eulogy|fixed the elevator]] and he gives us our reward.

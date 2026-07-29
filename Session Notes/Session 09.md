@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-06-22
-modified: 2026-07-23
+modified: 2026-07-28
 session_date: 06/22/2026
 session_number: 9
 players:
@@ -55,15 +55,15 @@ makeCard("Next Session ➡️", next);
 
 We resume on the 2nd tier of the [[BB Megatower]], following Jack Mercer's device as it leads us toward the silent/dark floors.
 
-![[session9_map1.webp]]
+![[session9_map1.webp|1084]]
 
 [[Gideon Oublier|Gideon]] gets bee-ed out as [[Keena O'Malley|Keena]] and [[Maximilius Adkins|Max]] are suddenly bee-ed back in. We fill them in on everything they missed.
 
-[[Katriel Buchanon|Kat]] says her phone number out loud for the [[Stalker|stalker]] to text her in lieu of Gideon. [[Dorian Caldwell|Dorian]] , but he and Kat both get texts. While it seems the stalker is somehow able to listen to us in real time (based on prev response to Kat talking out loud) they also have a lot of information on our party as a whole.
+[[Katriel Buchanon|Kat]] says her phone number out loud for the [[Sterling Corvain|stalker]] to text her in lieu of Gideon. [[Dorian Caldwell|Dorian]] , but he and Kat both get texts. While it seems the stalker is somehow able to listen to us in real time (based on prev response to Kat talking out loud) they also have a lot of information on our party as a whole.
 
 "The time will come. We will meet. We will trade. Decide by then."
 
-![[session9_map2.webp]]
+![[session9_map2.webp|1089]]
 
 
 We weight the merits of Keena vs Max, each of whom thinks it should be them, but don't come to a decision.
@@ -76,11 +76,11 @@ The worshippers pay us no mind as we walk straight up to the door. There are two
 
 Kat pulls the lever that won't blow everyone up and we enter the [[Relay Shrine]]. Dorian leaves a sign on the other lever saying not to pull it.
 
-![[location_bbmegatower_relayshrine.webp]]
+![[location_bbmegatower_tier2_relayshrine.webp|1094]]
 
-![[npc_shrinepriest1.webp]]
+![[npc_shrinepriest1.webp|602]]
 
-![[npc_shrinepriest2.webp]]
+![[npc_shrinepriest2.webp|601]]
 
 These two guys will get the Machine Spirit inside the machine to help us figure out who owns the phone number of our stalker. It requires a donation. Kat and Dorian each kick in 2 platinum.
 
@@ -92,7 +92,7 @@ This is going to take a few hours. The give us some sacred water - runoff from t
 
 Kid comes in. Tech people are named [[Arden]] and [[Faile]]?
 
-![[npc_dex.webp]]
+![[npc_dex.webp|337]]
 
 This kid is named [[Dex]] and he's a big fan of Max's content.
 
@@ -146,7 +146,7 @@ The priest comes back and says the explosion lever is fixed. Kat tests the repai
 
 She thanks the Machine God by doing an oil change on the car and pouring the old oil in the shrine (since the priest mentioned used oil/components are the preferred sacrifice).
 
-![[session9_map3.webp]]
+![[session9_map3.webp|1097]]
 
  With slightly more info to go on but still no communication from the stalker, we decide to keep heading towards the [[The Silent Floor|silent floor]]. We see a temporary dwelling, and on top of the building is graffiti that says "The [[Quiet Place]]."
 
@@ -154,11 +154,11 @@ Jack starts climbing a rusty pipe to get an establishing shot while Max starts f
 
 Jack starts spieling about all the heroic things we've done for him for his viewers when suddenly, a portal appears and a [[Solomon Hexley|wizard]] steps out. His eyes glow blue as he points at Silas.
 
-![[npc_solomonhexley.webp]]
+![[npc_solomonhexley.webp|399]]
 
 He accuses Silas of stealing his spellbook. Silas tries to go invisible but the guy has See Invisibility. He wants 500 gold for the spellbook, which Silas refuses and Solomon says that he'll fireball us then.
 
-![[location_bbmegatower_wizardfight.webp]]
+![[location_bbmegatower_tier2_combat1.webp|1081]]
 
 Keena tries to offer to pay the 500 gold if we all go in but the party isn't on board.
 
@@ -178,13 +178,13 @@ Our friends in the trunk are awake. Keena and Max will conduct the interrogation
 
 Keena threw a burlap sack over her head to hide her identity and is playing the "good cop" of sorts while Max takes on the character of "The Tickler" and gives a performance so perfect it defies words. Anyway he stabs himself in the leg.
 
-![[pc_maxadkins_thetickler.webp]]
+![[pc_maxadkins_thetickler.webp|417]]
 
 The acolyte doesn't even know [[Kieran Graves|Kieran's]] name and only called him derogatory nicknames.
 
 The leader of the [[Lightning Crew]] is named [[Lightning Leroy]].
 
-The acolyte's name is [[Jerry]] and his specific area of influence is channeling Morronel. The Lightning Crew are trying to take the [[BB Megatower]] from the [[Bellanova Family|Bellanovas]]. 
+The acolyte's name is Jerry and his specific area of influence is channeling Morronel. The Lightning Crew are trying to take the [[BB Megatower]] from the [[Bellanova Family|Bellanovas]]. 
 
 They put the acolyte back in the trunk and pull out the grunt.
 

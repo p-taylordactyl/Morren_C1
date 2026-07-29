@@ -10,7 +10,7 @@ disposition:
   - neutral
 organizations:
 associates:
-  - "[[Stalker]]"
+  - "[[Sterling Corvain]]"
   - "[[Sterling Corvain]]"
 brief: A hired thug working for the Stalker
 tags:

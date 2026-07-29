@@ -6,7 +6,7 @@ aliases:
 cover: "[[pc_gideonoublier.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-23
+modified: 2026-07-29
 tags:
 ---
 

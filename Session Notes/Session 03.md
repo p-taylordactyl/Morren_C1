@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-05-04
-modified: 2026-07-23
+modified: 2026-07-28
 session_number: 3
 session_date: 05/04/2026
 players:
@@ -71,9 +71,9 @@ We ask [[Mira Sporehand]] about the weird death place down below. She says it's 
 Off to the West, we see a pipe that would lead to the damaged/collapsed tunnel section, as well as a hot pipe that seems to get
 
 
-![[session3_map2.webp]]
+![[session3_map2.webp|1094]]
 
-![[session3_map3.webp]]
+![[session3_map3.webp|1095]]
 
 Where we stop for the day, we look north and see a big giant sign that says "Pipe Junction Access" but the word access has been scratched out. 
 
@@ -87,7 +87,7 @@ He replies "We sleep now. Thumbs up emoji." Then does a shower of sparks.
 
 Silas and Dorian are on watch. Dorian peeks into a weird pipe with a fairly wide opening, and realizes there's something lodged within. He pulls it out and finds that it's a large plastic garbage bag. He cuts it open with his dagger, and a bunch of garbage falls out, along with a humanoid body wearing a costume/suit. Some kind of Costumed Freak.
 
-![[npc_lumenveil.webp]]
+![[npc_lumenveil.webp|324]]
 
 Silas cuts open the costume and it self-heals. Silas realizes this guy is a hero with the [[Cael Foundation]] named [[Lumen Veil]]. Lumen doesn't really have powers but uses a specialized suit and weaponry made of a material called "Luminum." The suit is ridiculously expensive but DNA coded to the individual in a way that's very difficult to bypass.
 
@@ -117,7 +117,7 @@ Gideon freaks out when he realizes he missed out on meeting Lumen Veil.
 
 We walk up to the Pipe Junction entrance and they ask for the password.
 
-![[session3_map4.webp]]
+![[session3_map4.webp|1093]]
 
 Kat tries to remember what she knows about how the Bellanovas work and as nothing.
 
@@ -135,7 +135,7 @@ Gideon loses his dagger.
 
 We proceed further into Pipe Junction. 
 
-![[location_notfarsewer_pipejunction.webp]]
+![[location_notfarsewer_pipejunction.webp|1094]]
 
 A dwarf summons us over and says we made some pretty big claims, and he hopes we aren't lying.
 
@@ -143,7 +143,7 @@ Dorian and Silas sign to each other in Thieves Cant.
 
 Silas asks for the dwarf's name and age and he'll only give us his name, which is [[Rusk Ironline]].
 
-![[npc_ruskironline.webp]]
+![[npc_ruskironline.webp|343]]
 
 
 Silas says we need the age to verify for Prospero and somehow manages to convince him. He'll only tell one person. We decide Gideon is the most trustworthy.
@@ -168,7 +168,7 @@ Silas is able to disable the forcefield but also accidentally opens Rusk's goat 
 
 Everyone is then happy for us to leave.
 
-![[session3_map5.webp]]
+![[session3_map5.webp|1095]]
 
 After a brief discussion of plans, we find ourselves.
 
@@ -191,7 +191,7 @@ Keena and Kat scope out the offering bowl. It seems like Silas might have been c
 Kat says the this machine god must be weak if all Silas got for stealing from him was a little cut. A pipe falls on her head near-immediately after and she acknowledges that perhaps the god is stronger that she thought. This seems to cause water to pour out of the broken off pipe above her, but surprisingly it's pure instead of sewer water.
 
 
-![[session3_map6.webp]]
+![[session3_map6.webp|927]]
 
 Kat sees the filter in the distance with many individuals gathered around it. It doesn't seem to be functioning but they have a bunch of incense and stuff around it.
 
@@ -203,11 +203,11 @@ Bombs McGee.
 
 We head to [[Filter Shrine]].
 
-![[location_notfarsewer_filtershrine.webp]]
+![[location_notfarsewer_filtershrine.webp|1091]]
 
 We see this woman hiding on top of the filter. Her name is [[Sister Hera]]. 
 
-![[npc_sisterhera.webp]]
+![[npc_sisterhera.webp|301]]
 
 
 Keena tries to offer help in exchange for conversion, which Sister Hera rejects. We ask if she'll clean the filter more often if we rescue her and she said that hasn't worked.
