@@ -55,7 +55,7 @@ views:
     name: Location-embedonly
     filters:
       and:
-        - formula.location_names.contains("Not Far Sewer")
+        - formula.location_names.contains("<%tp.file.title%>")
     order:
       - file.name
       - brief

@@ -114,9 +114,10 @@ views:
 # Maps
 
 
-![[admin/assets/location_bbmegatower_penthouse.webp]]
+
 ![[admin/assets/location_bbmegatower_wizardfight.webp]]
 ![[admin/assets/location_bbmegatower_tier2_ransomlocation.webp]]
 ![[admin/assets/location_bbmegatower_relayshrine.webp]]
+![[admin/assets/location_bbmegatower_penthouse.webp]]
 ![[admin/assets/location_bbmegatower_neoncorridor.webp]]
 ![[admin/assets/location_bbmegatower_krystals.webp]]

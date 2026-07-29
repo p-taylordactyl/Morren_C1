@@ -1,17 +1,19 @@
 ---
 dg-publish: true
 aliases:
-type: location
+type:
+  - main location
 cover: "[[location_DeadwaterWharf.webp]]"
 created: 2026-07-23
-modified: 2026-07-26
+modified: 2026-07-28
 district: "[[Cloud District]]"
 parent:
 associations:
+  - "[[Old Valence Stevedore Union]]"
+  - "[[Box Boys]]"
 tags:
   - under_construction
 ---
-
 
 
 # Notes
@@ -68,3 +70,5 @@ views:
 # Maps
 
 
+![[admin/assets/location_deadwaterwharf_combat1.webp]]
+![[admin/assets/location_deadwaterwharf_combat2.webp]]

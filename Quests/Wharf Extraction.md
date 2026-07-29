@@ -2,7 +2,7 @@
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-27
+modified: 2026-07-28
 cover: "[[quest_wharfextraction.webp]]"
 type: quest
 quest_status: in progress
@@ -13,8 +13,10 @@ quest_location:
   - "[[Deadwater Wharf]]"
   - ">"
   - "[[Harbormaster's Office]]"
-  - "[[Three Vessels Currently Docked]]"
   - "[[Clerk's Home]]"
+  - "[[Docked Vessel 1]]"
+  - "[[Docked Vessel 2]]"
+  - "[[Docked Vessel 3]]"
 reward:
   - 100 platinum
   - spell focus mods or grow Vinnie's network
@@ -26,7 +28,7 @@ tags:
 
 # Description
 
-There is key data within the [[Harbormaster's Office]], on the [[Three Vessels Currently Docked]] and within the [[Clerk's Home]] that when combined can be leveraged by one of the interested parties to one of two ends.
+There is key data within the [[Harbormaster's Office]], on the [[Docked Vessel 1|three]] [[Docked Vessel 2|docked]] [[Docked Vessel 3|vessels]] and within the [[Clerk's Home]] that when combined can be leveraged by one of the interested parties to one of two ends.
 
 [[Cillian Kravus|Cillian]] wishes to reroute rare and valuable materials used in Spell Focus Modifications so that the spellcasters of [[Hood Station]] can specialize to improve their field performance. 
 
@@ -35,18 +37,25 @@ There is key data within the [[Harbormaster's Office]], on the [[Three Vessels C
 ### Completion Requirements
 
 - [ ] Gather data from the Harbormaster's Office
-- [ ] Gather data from the 3 Docked Vessels
+- [ ] Gather data from Docked Vessel 1
+- [ ] Gather data from Docked Vessel 2
+- [ ] Gather data from Docked Vessel 3
 - [ ] Gather data from the Clerk's Home
 
 # Notes
 
-- we arrived at [[Deadwater Wharf]] on 1/20/12
+- We arrived at [[Deadwater Wharf]] on 1/20/12
+- We located what seems to be [[Docked Vessel 1]] near where we entered but haven't made our way onboard yet
 
 # To Do
 
-- [x] Visit Deadwater Wharf
 - [ ] Locate the Harbormaster's Office
-- [ ] Locate the Three Vessels Currently Docked
+- [ ] Locate Docked Vessel 2
+- [ ] Locate Docked Vessel 3
 - [ ] Locate the Clerk's Home
+- [ ] Find a way onboard Docked Vessel 1
 
+## Done
 
+- [x] Visit Deadwater Wharf
+- [x] Locate Docked Vessel 1

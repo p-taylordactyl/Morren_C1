@@ -175,10 +175,10 @@
         "admin/assets/ankheg.webp",
         "admin/assets/location_deadwaterwharf_combat1.webp",
         "admin/assets/npc_stevedoreguy.webp",
-        "admin/assets/session14_map1.webp",
         "admin/assets/ambushdrake.webp",
         "admin/assets/location_deadwaterwharf_combat2.webp",
-        "admin/assets/session14_map3.webp"
+        "admin/assets/session14_map3.webp",
+        "admin/assets/session14_map1.webp"
       ],
       "sortOrder": "custom"
     },
@@ -353,7 +353,9 @@
         "Locations/Krystal's.md",
         "Locations/Deadwater Wharf.md",
         "Locations/Harbormaster's Office.md",
-        "Locations/Clerk's Home.md"
+        "Locations/Clerk's Home.md",
+        "Locations/Crownlight Landing.md",
+        "Locations/Seahorse Bank.md"
       ],
       "sortOrder": "custom"
     },

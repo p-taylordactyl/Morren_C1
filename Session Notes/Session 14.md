@@ -15,8 +15,11 @@ missed:
 paid:
 level: "4"
 ingame_start: 1/20/2012
-ingame_finish:
+ingame_finish: 1/21/2012
 locations:
+  - "[[Deadwater Wharf]]"
+  - "[[Crownlight Landing]]"
+  - "[[Valencian Seahorse Bank"
 tags:
   - under_construction
 ---
@@ -61,7 +64,7 @@ Some of the Saints, including masked guy climb onboard a little speedboat with t
 
 We decide to follow them and Kat drives recklessly across the docks to keep pace, even making a GTA style jump off a ramp to keep from losing them.
 
-The speedboat parks at a dock area.
+The speedboat parks at a dock area. As or a little after we park, Keena is bee-ed.
 
 ![[session14_map1.webp]]
 
@@ -79,13 +82,11 @@ He asks what's going on and what they're setting up for. The crew asks if he's a
 
 Gideon pitches himself as a pimp leader and Barron Sutton approaches.
 
-Gideon says he's got a "gang" of ladies he pimps for.
-
-He says he leads the "Dreammaker Gang"
+When Barron asks if he leads a gang, Gideon says he's got a "gang" of ladies he pimps for called the "Dreammaker Gang"
 
 Barron asks if he likes making money and Gideon says that's why he got into pimpin.
 
-A leader of the Box Boys is supposed to fill the empty chair but they can't seem to find them.r
+A leader of the Box Boys is supposed to fill the empty chair but they can't seem to find them.
 
 Crownlight is trying to do a piece on the gangs coexisting with each other. Gideon tries to convince them that a young up and comer would be better. Barron says maybe on his next project and asks for his contact info. Gideon tells Barron to give him *his* contact info.
 
@@ -132,7 +133,7 @@ It's fightin' time.
 
 ![[location_deadwaterwharf_combat2.webp]]
 
-After we defeat the drakes, Gideon collects some scale souvenirs. Kat harvests a bunch of 2 star drake meat. 
+After we defeat the drakes, Max is almost immediately bee-ed. Gideon collects some scale souvenirs. Kat harvests a bunch of 2 star drake meat. 
 
 She also looks around for a shrine to the Machine God and notices a huge one way out on a boat.
 
@@ -152,39 +153,42 @@ Malcolm says he's scared. Gideon says he thinks [[Morrgen Oublier|their mom]] is
 
 Malcolm's court date is Winter 37.
 
-Gideon says he isn't sure Malcolm even should be let out and asks if there's still something in his head. Malcolm just says they're talking about the death penalty.
+Gideon says he isn't sure Malcolm even should be let out and asks if there's still something in his head. Malcolm just replies that they're talking about the death penalty.
 
 Gideon asks where Malcolm is. A jail somewhere, not the prison. Near the courthouse. Apparently Malcolm's public defender said he's a lost cause.
 
-Malcolm has to suddenly hang up as they take him to see the doctor.
+Malcolm has to suddenly hang up as they are taking him to see the doctor.
 
-Kat gets a message from Stonespear. Up 4 crime?
+Kat gets a message from [[Stonespear]], who based on his selfie is hanging out in the room she rents at the Station House.
 
-She says yes, especially against Titan. He thumbs up and sends coordinates. 
+"Up 4 crime?"
 
-We peel off towards the bank.
+The party discusses. After thinking it through, Dorian reckons we'll need 2-3 million gold to buy Hood Station. Maybe if we rob a bank? We're thinking we need to handle this ship business first but then Stonespear texts again with, what do you know, a picture of a bank. Kat tries to make out who owns the bank but it's hard to tell. We do  all agree that if we go and it's [[Cael Foundation]] we're out.
+
+With the rest of the party bee-ed, Dorian, Gideon, and Kat conclude that we should do this right away and hopefully the bank will be Titan or something. Kat texts back that we're in. He thumbs up and sends coordinates. 
+
+Eager to fully commit ourselves to the heist, drive recklessly (but successfully) to the bank at full speed.
 
 ![[session14_map3.webp]]
 
-The bank is actually owned by the Valencian Seahorses.
+It turns out the bank is owned by the Valencian Seahorses.
 
-Stonespear lands next to use on a massive boulder he controlled with his mind.
+As we park, Stonespear lands next to us on a massive boulder he controlled with his mind. Neat.
 
-We discuss plans.
+We discuss plans, in hindsight perhaps concepts of a plan.
 
-Gideon disguises himself as Halden and walks in.
+Gideon disguises himself as [[Victor Halden]] and walks in.
 
 He successfully lies his way past the guard and goes to talk to a teller. Actually, no. He wants to talk to a manager. He tells a clerk to get him the manager.
 
-The clerk returns with the manager, an orcish woman. 
+The clerk returns with the manager, an orcish woman.  Gideon tells her (as Victor) that the deal for the practice stadium is going through and he needs to access his funds. She asks for his security password.
 
+Gideon looks briefly flustered and she asks if he needs his hint, which he eagerly accepts. The hint is "her name."
 
-Gideon needs to give a password.
+He texts Kat, who remembers there being a rumor that Halden had a secret daughter that passed away. She can't remember the name but it with F. 
 
-Rumored secret of a daughter that passed away. Name started with F. 
+Dorian Oogles and find some message boards that don't offer a definitive name, but the various speculations all start with F and end with E. 
 
-Dorian googles, last letter is e. 
+Kat texts Gideon back with the info and says "maybe Florence? Or Fishbone? Whatever you want to try."
 
-Kat texts Gideon back and says "maybe Florence?"
-
-Gideon tries to mumble it first but eventually does have to say the name. 
+Gideon tries to mumble it, pretending to be so overcome with emotion that he cries, but the manager makes him try over and over until he finally says "Florence" clearly, at which point she smiles and leads him deeper into the bank.[[Crownlight Landing]]

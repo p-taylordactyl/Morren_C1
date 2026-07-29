@@ -116,12 +116,13 @@ views:
 # Maps
 
 
-![[admin/assets/location_notfarsewer_filtershrine.webp]]
-![[admin/assets/location_notfarsewer_pipejunction.webp]]
+
 ![[admin/assets/location_notfarsewer_sludgefarm.webp]]
 ![[admin/assets/location_notfarsewer_slimefight.webp]]
 ![[admin/assets/location_notfarsewer_pumpingstation_blockagefight.webp]]
 ![[admin/assets/location_notfarsewer_pumpingstation_blockage.webp]]
 ![[admin/assets/location_notfarsewer_pumpingstation.webp]]
+![[admin/assets/location_notfarsewer_pipejunction.webp]]
 ![[admin/assets/location_notfarsewer_floodgatebazaar.webp]]
+![[admin/assets/location_notfarsewer_filtershrine.webp]]
 ![[admin/assets/location_notfarsewer_boneculvert_combat.webp]]
