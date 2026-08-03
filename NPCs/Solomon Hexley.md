@@ -6,7 +6,7 @@ aliases:
   - Hexley
 cover: "[[npc_solomonhexley.webp]]"
 created: 2026-06-29
-modified: 2026-07-23
+modified: 2026-08-03
 disposition:
   - unfriendly
   - neutral
@@ -36,13 +36,42 @@ Solomon has spent the intervening years tracking Silas down to extract restituti
 
 # Session Mentions
 
-```dataview
-TABLE WITHOUT ID
-  file.link AS "Session",
-  join(map(locations, (l) => "• " + string(l)), "<br>") AS "Session Locations"
-FROM ""
-WHERE type = "session_note"
-  AND file.folder != "admin/templates"
-  AND contains(this.file.inlinks, file.link)
-SORT file.name ASC, locations ASC
+```dataviewjs
+function toArray(val) {
+  return Array.isArray(val) ? val : (val ? [val] : []);
+}
+
+function parseLocationTree(locations) {
+  return toArray(locations).map(raw => {
+    const str = raw.toString();
+    const match = str.match(/^(>+)/);
+    const depth = match ? match[1].length : 0;
+    const text = match ? str.slice(match[1].length) : str;
+    return { depth, text };
+  });
+}
+
+function buildNestedList(items) {
+  return items.map(item => {
+    const indent = "&nbsp;&nbsp;&nbsp;&nbsp;".repeat(item.depth);
+    const bullet = item.depth === 0 ? "•" : "◦";
+    return `${indent}${bullet} ${item.text}`;
+  }).join("<br>");
+}
+
+const currentPath = dv.current().file.path;
+const inlinkPaths = toArray(dv.current().file.inlinks).map(l => l.path);
+
+const rows = dv.pages()
+  .where(p => p.type === "session_note" && p.file.folder !== "admin/templates"
+    && inlinkPaths.includes(p.file.path))
+  .sort(p => p.file.name, "asc");
+
+dv.table(
+  ["Session", "Session Locations"],
+  rows.map(p => [
+    `${p.file.link}`,
+    buildNestedList(parseLocationTree(p.locations))
+  ])
+);
 ```

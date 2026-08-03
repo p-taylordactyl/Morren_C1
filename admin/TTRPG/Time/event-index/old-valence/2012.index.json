@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "kind": "event-index-year",
+  "calendarId": "old-valence",
+  "year": 2012,
+  "days": {
+    "0-1": {
+      "items": [
+        {
+          "id": "sessio-naeqs8p8",
+          "title": "Session 01",
+          "color": "#2fc3f4"
+        }
+      ]
+    },
+    "0-2": {
+      "items": [
+        {
+          "id": "sessio-naeqs8p8",
+          "title": "Session 01",
+          "color": "#2fc3f4"
+        }
+      ]
+    }
+  }
+}

@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-05-19
-modified: 2026-07-28
+modified: 2026-08-03
 session_number: 4
 session_date: 05/18/2026
 players:
@@ -16,9 +16,9 @@ ingame_start: 1/5/2012
 ingame_finish: 1/7/2012
 locations:
   - "[[Not Far Sewer]]"
-  - "[[Floodgate Bazaar]]"
-  - "[[Bone Culvert]]"
-  - "[[Pumping Station]]"
+  - ">[[Floodgate Bazaar]]"
+  - ">[[Bone Culvert]]"
+  - ">[[Pumping Station]]"
 tags:
 ---
 

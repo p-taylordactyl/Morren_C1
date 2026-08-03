@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-05-25
-modified: 2026-07-28
+modified: 2026-08-03
 session_number: 5
 session_date: 05/25/2026
 players:
@@ -16,9 +16,9 @@ level: "2"
 ingame_start: 1/7/2012
 ingame_finish: 1/7/2012
 locations:
-  - "[[Not Far Sewer]]"
-  - "[[Pumping Station]]"
   - "[[Hood Station]]"
+  - "[[Not Far Sewer]]"
+  - ">[[Pumping Station]]"
 tags:
 ---
 

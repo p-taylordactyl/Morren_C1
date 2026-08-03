@@ -1,0 +1,24 @@
+{
+  "id": "sessio-naeqs8p8",
+  "calendarId": "old-valence",
+  "title": "Session 01",
+  "date": {
+    "year": 2012,
+    "monthIndex": 0,
+    "day": 1
+  },
+  "endDate": {
+    "year": 2012,
+    "monthIndex": 0,
+    "day": 2
+  },
+  "description": "#session",
+  "color": "#2fc3f4",
+  "tagRefs": [
+    "og-tags:session"
+  ],
+  "weatherPackId": "general",
+  "noteRef": "Session Notes/Session 01.md",
+  "createdAt": "2026-07-30T15:04:55.588Z",
+  "updatedAt": "2026-07-30T15:28:56.976Z"
+}

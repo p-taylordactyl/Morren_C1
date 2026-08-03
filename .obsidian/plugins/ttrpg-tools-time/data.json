@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "dataFolder": "admin/TTRPG/Time",
+    "activeCalendarId": "old-valence",
+    "dayViewDateFormat": "MM/DD/YYYY",
+    "showCalendarWeekNumbers": false,
+    "temperatureUnit": "c",
+    "controlTimeButtons": [
+      {
+        "id": "time-button-1785421237375-1",
+        "label": "+8h",
+        "icon": "timer",
+        "hours": 8,
+        "minutes": 0
+      },
+      {
+        "id": "time-button-1785422812961-2",
+        "label": "+24h",
+        "icon": "timer",
+        "hours": 8,
+        "minutes": 0
+      }
+    ],
+    "frontmatterImport": {
+      "enabled": true,
+      "titleProperty": "fc-title",
+      "startDateProperty": "fc-date",
+      "endDateProperty": "fc-end",
+      "fallbackTitleToFilename": true,
+      "colorMappings": []
+    },
+    "frontmatterExport": {
+      "enabled": false,
+      "clearMissingFields": true
+    }
+  },
+  "fantasyClock": {
+    "byCalendarId": {}
+  }
+}

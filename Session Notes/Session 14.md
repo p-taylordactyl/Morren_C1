@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-07-26
-modified: 2026-07-28
+modified: 2026-08-03
 session_date: 07/27/2026
 session_number: 14
 players:
@@ -12,16 +12,15 @@ players:
   - Kuya
   - Taylor
 missed:
-paid:
+paid: true
 level: "4"
 ingame_start: 1/20/2012
 ingame_finish: 1/21/2012
 locations:
   - "[[Deadwater Wharf]]"
-  - "[[Crownlight Landing]]"
-  - "[[Valencian Seahorse Bank"
+  - ">[[Crownlight Landing]]"
+  - ">[[Seahorse Bank]]"
 tags:
-  - under_construction
 ---
 
 
@@ -110,7 +109,7 @@ Gideon notices Max's new scars and asks what really happened.
 
 I'm a little drunk and missed some of this. Gideon starts smoking weed again.
 
-He asks Max about what he said about the kidnapping situation being his own and Keena's problem and no one else's. He tells Max about the research he did on what happened to Malcolm and how he was probably mind controlled. This isn't really just Max's problem. Gideon wants to burn Titan Corp to the ground.
+Max opens up a bit and does say he got beaten during his kidnapping but doesn't go into detail.  He asks Max about what he said about the kidnapping situation being his own and Keena's problem and no one else's. He tells Max about the research he did on what happened to Malcolm and how he was probably mind controlled. This isn't really just Max's problem. Gideon wants to burn Titan Corp to the ground.
 
 Max smokes too. He asks if Gideon knows why TItan would do that and Gideon doesn't know but he says he doesn't need the why to fuel him, he has enough already.
 
@@ -171,7 +170,7 @@ Eager to fully commit ourselves to the heist, drive recklessly (but successfully
 
 ![[session14_map3.webp]]
 
-It turns out the bank is owned by the Valencian Seahorses.
+It turns out the bank is owned by the [[Valencian Seahorses]].
 
 As we park, Stonespear lands next to us on a massive boulder he controlled with his mind. Neat.
 

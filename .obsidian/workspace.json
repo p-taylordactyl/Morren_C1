@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1e1246abbdee4de3",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "admin/To-Do.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "To-Do"
-            }
-          },
-          {
             "id": "13a4b640c45740ee",
             "type": "leaf",
             "pinned": true,
@@ -37,22 +21,6 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Home"
-            }
-          },
-          {
-            "id": "5df3b1a6fa72c2c1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 13.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Session 13"
             }
           },
           {
@@ -72,17 +40,19 @@
             }
           },
           {
-            "id": "a8858a0d8d18bc95",
+            "id": "5df3b1a6fa72c2c1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hood's Watch/Dorian Caldwell.md",
+                "file": "Session Notes/Session 15.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Dorian Caldwell"
+              "title": "Session 15"
             }
           },
           {
@@ -96,35 +66,21 @@
             }
           },
           {
-            "id": "354ccce19d0f198b",
+            "id": "e1600ef2fbdd4ac1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hood's Watch/Katriel Buchanon.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Katriel Buchanon"
-            }
-          },
-          {
-            "id": "9ade4b0ecaf788f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Krystal's.md",
+                "file": "NPCs/Victor Halden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Krystal's"
+              "title": "Victor Halden"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +100,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "custom",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -181,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5
+    "width": 200
   },
   "right": {
     "id": "75db2d57aea98827",
@@ -194,11 +152,9 @@
           {
             "id": "d0eb348edd8804a0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "git-view",
               "state": {},
-              "pinned": true,
               "icon": "git-pull-request",
               "title": "Source Control"
             }
@@ -269,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quests/0 Quest Index.base",
+                "file": "Session Notes/Session 01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0 Quest Index"
+              "title": "Outline of Session 01"
             }
           },
           {
@@ -291,12 +247,58 @@
               "icon": "links-going-out",
               "title": "Outgoing links from Session 14"
             }
+          },
+          {
+            "id": "cd19599bc3647f0a",
+            "type": "leaf",
+            "state": {
+              "type": "time-control-view",
+              "state": {},
+              "icon": "command",
+              "title": "Time controls"
+            }
+          },
+          {
+            "id": "f59242598859681d",
+            "type": "leaf",
+            "state": {
+              "type": "time-calendar-view",
+              "state": {},
+              "icon": "calendar",
+              "title": "Old Valence"
+            }
+          },
+          {
+            "id": "fd88e0f49641d9b0",
+            "type": "leaf",
+            "state": {
+              "type": "time-day-view",
+              "state": {},
+              "icon": "sun",
+              "title": "Day view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4f28e7bff8b90de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f100f4cf49c52181",
+            "type": "leaf",
+            "state": {
+              "type": "time-timeline-filter-view",
+              "state": {},
+              "icon": "tags",
+              "title": "Timeline filters"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -308,38 +310,53 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: day view": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: Event editor": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: Controls": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline": false,
+      "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false
     }
   },
-  "active": "5281df3ab5f0459f",
+  "active": "d0eb348edd8804a0",
   "lastOpenFiles": [
-    "Quests/Completed",
-    "Hood's Watch/Katriel Buchanon.md",
-    "Locations/Krystal's.md",
-    "Locations/Relay Shrine.md",
-    "Locations/Old Valence.md",
-    "Locations/Ransom Location.md",
+    "Session Notes/Session 14.md",
+    "Session Notes/Session 15.md",
+    "Session Notes/Session 13.md",
+    "NPCs/Victor Halden.md",
+    "NPCs/Ozwin Wicker.md",
+    "NPCs/Lumen Veil.md",
+    "NPCs/Animator.md",
+    "NPCs/Nyx.md",
+    "NPCs/Styx.md",
+    "NPCs/Paintbrush Gnome.md",
+    "Session Notes/Session 11.md",
+    "Session Notes/Session 12.md",
+    "NPCs/Talia Mercina.md",
+    "NPCs/Stu.md",
     "NPCs/Sterling Corvain.md",
-    "NPCs/Stalker.md",
-    "Locations/The Kitchen.md",
-    "Locations/Tier 3.md",
-    "Locations/Quiet Place.md",
-    "Locations/Neon Corridor.md",
-    "Locations/Tier 2.md",
-    "Locations/Penthouse.md",
-    "Locations/BB Megatower.md",
-    "Locations/Box City.md",
-    "Locations/Aegis Response Group.md",
-    "Locations/The Prison.md",
-    "Locations/The Old Fort.md",
-    "Locations/Paragon Soundworks.md",
-    "Locations/Mega Mall.md",
-    "Locations/NovaStyle Group Galleria.md",
-    "Locations/Central Park.md",
-    "Locations/Crownlight Media Studio Lot.md",
-    "Locations/Crownlight Heights.md",
-    "Locations/0 Location Index.base",
-    "Hood's Watch/Dorian Caldwell.md",
+    "NPCs/Orgo.md",
+    "NPCs/Morgo.md",
+    "NPCs/Stonespear.md",
+    "NPCs/Lightning Leroy.md",
+    "NPCs/Solomon Hexley.md",
+    "NPCs/Dex.md",
+    "NPCs/Faile.md",
+    "NPCs/Arden.md",
+    "NPCs/Bron.md",
+    "NPCs/Jax Riven.md",
+    "NPCs/Kieran Graves.md",
+    "admin/TTRPG/Time/event-source/old-valence/winter-nipy79d6.event.json",
+    "admin/TTRPG/Time/tag-packs/og-tags.tags.json",
+    "admin/TTRPG/Time/weather-dayview/old-valence/2011.weather.json",
+    "admin/TTRPG/Time/weather-reference/old-valence/general/2011.reference.json",
+    "admin/TTRPG/Time/event-index/old-valence/2012.index.json",
+    "admin/TTRPG/Time/event-index/old-valence",
+    "admin/TTRPG/Time/event-source/old-valence/sessio-naeqs8p8.event.json",
+    "admin/TTRPG/Time/event-source/old-valence",
+    "admin/TTRPG/Time/weather-dayview/old-valence/2012.weather.json",
+    "admin/TTRPG/Time/weather-dayview/old-valence",
     "admin/assets/placeholder1.webp",
     "admin/assets/location_bbmegatower_tier2_ransomlocation.webp",
     "admin/assets/session11_map3.webp",
@@ -350,15 +367,6 @@
     "admin/assets/location_bbmegatower_tier2_combat1.webp",
     "admin/assets/session9_map3.webp",
     "admin/assets/location_bbmegatower_tier2_relayshrine.webp",
-    "Quests/0 Quest Index.base",
-    "Factions and Groups/0 Faction Index.base",
-    "NPCs/0 NPC Index.base",
-    "Other",
-    "Factions and Groups/Religions/Archenemy of Order",
-    "Factions and Groups/Religions/Morronel",
-    "Session Notes/0 Session Index.base",
-    "World",
-    "NPC",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas"
   ]

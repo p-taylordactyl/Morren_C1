@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-06-29
-modified: 2026-07-28
+modified: 2026-08-03
 session_date: 06/29/2026
 session_number: 10
 players:
@@ -13,14 +13,14 @@ players:
   - Matt
   - Taylor
 missed:
-paid:
+paid: true
 level: "3"
 ingame_start: 1/11/2012
 ingame_finish: 1/11/2012
 locations:
   - "[[BB Megatower]]"
-  - "[[Tier 2]]"
-  - "[[Quiet Place]]"
+  - ">[[Tier 2]]"
+  - ">>[[Quiet Place]]"
 tags:
 ---
 

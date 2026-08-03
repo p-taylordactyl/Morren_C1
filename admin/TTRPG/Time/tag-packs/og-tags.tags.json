@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "kind": "tag-pack",
+  "id": "og-tags",
+  "name": "Tags",
+  "tags": [
+    {
+      "id": "session",
+      "name": "session",
+      "color": "#66d1ff"
+    },
+    {
+      "id": "event",
+      "name": "event",
+      "color": "#ffae00"
+    },
+    {
+      "id": "deadline",
+      "name": "deadline",
+      "color": "#f9351f"
+    }
+  ]
+}

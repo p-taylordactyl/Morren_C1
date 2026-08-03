@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-07-20
-modified: 2026-07-28
+modified: 2026-08-03
 session_date: 07/20/2026
 session_number: 13
 players:
@@ -12,14 +12,14 @@ players:
   - Kuya
   - Taylor
 missed:
-paid:
+paid: true
 level: "4"
 ingame_start: 1/19/2012
 ingame_finish: 1/20/2012
 locations:
   - "[[Hood Station]]"
+  - "[[Deadwater Wharf]]"
 tags:
-  - under_construction
 ---
 
 ```dataviewjs

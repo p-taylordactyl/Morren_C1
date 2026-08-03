@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-04-27
-modified: 2026-07-28
+modified: 2026-08-03
 session_number: 2
 session_date: 04/27/2026
 players:
@@ -19,7 +19,7 @@ ingame_start: 1/2/2012
 ingame_finish: 1/3/2012
 locations:
   - "[[Not Far Sewer]]"
-  - "[[Sludge Farm]]"
+  - ">[[Sludge Farm]]"
 tags:
 ---
 

@@ -11,14 +11,14 @@
         "Locations",
         "Session Notes",
         "Quests",
-        "Other"
+        "Other",
+        "Calendar.md"
       ],
       "sortOrder": "custom"
     },
     "admin": {
       "children": [
         "admin/Pre-Publish Checklist.md",
-        "admin/To-Do.md",
         "admin/Home Backup.md",
         "admin/assets",
         "admin/templates",
@@ -26,7 +26,8 @@
         "admin/Useful Bits - OLD.md",
         "admin/Meta.md",
         "admin/In-Session New Note Automation.md",
-        "admin/scripts"
+        "admin/scripts",
+        "admin/TTRPG"
       ],
       "sortOrder": "custom"
     },
@@ -227,6 +228,113 @@
         "admin/templates/Session Note.md",
         "admin/templates/Group.md",
         "admin/templates/Refresh All Maps.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG": {
+      "children": [
+        "admin/TTRPG/Time"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time": {
+      "children": [
+        "admin/TTRPG/Time/calendars",
+        "admin/TTRPG/Time/tag-packs",
+        "admin/TTRPG/Time/weather-packs",
+        "admin/TTRPG/Time/weather-reference",
+        "admin/TTRPG/Time/weather-dayview",
+        "admin/TTRPG/Time/event-index",
+        "admin/TTRPG/Time/event-source",
+        "admin/TTRPG/Time/event-details",
+        "admin/TTRPG/Time/event-details-legacy-backup",
+        "admin/TTRPG/Time/event-presets"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/calendars": {
+      "children": [
+        "admin/TTRPG/Time/calendars/old-valence.calendar.json"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/event-details": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/event-details-legacy-backup": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/event-index": {
+      "children": [
+        "admin/TTRPG/Time/event-index/old-valence"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/event-index/old-valence": {
+      "children": [
+        "admin/TTRPG/Time/event-index/old-valence/2012.index.json"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/event-presets": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/event-source": {
+      "children": [
+        "admin/TTRPG/Time/event-source/old-valence"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/event-source/old-valence": {
+      "children": [
+        "admin/TTRPG/Time/event-source/old-valence/sessio-naeqs8p8.event.json"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/tag-packs": {
+      "children": [
+        "admin/TTRPG/Time/tag-packs/og-tags.tags.json"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/weather-dayview": {
+      "children": [
+        "admin/TTRPG/Time/weather-dayview/old-valence"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/weather-dayview/old-valence": {
+      "children": [
+        "admin/TTRPG/Time/weather-dayview/old-valence/2012.weather.json",
+        "admin/TTRPG/Time/weather-dayview/old-valence/2011.weather.json"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/weather-packs": {
+      "children": [
+        "admin/TTRPG/Time/weather-packs/general.weather-pack.json"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/weather-reference": {
+      "children": [
+        "admin/TTRPG/Time/weather-reference/old-valence"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/weather-reference/old-valence": {
+      "children": [
+        "admin/TTRPG/Time/weather-reference/old-valence/general"
+      ],
+      "sortOrder": "custom"
+    },
+    "admin/TTRPG/Time/weather-reference/old-valence/general": {
+      "children": [
+        "admin/TTRPG/Time/weather-reference/old-valence/general/2012.reference.json",
+        "admin/TTRPG/Time/weather-reference/old-valence/general/2011.reference.json"
       ],
       "sortOrder": "custom"
     },
@@ -482,7 +590,8 @@
         "Session Notes/Session 11.md",
         "Session Notes/Session 12.md",
         "Session Notes/Session 13.md",
-        "Session Notes/Session 14.md"
+        "Session Notes/Session 14.md",
+        "Session Notes/Session 15.md"
       ],
       "sortOrder": "custom"
     },

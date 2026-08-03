@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-06-01
-modified: 2026-07-28
+modified: 2026-08-03
 session_number: 6
 session_date: 06/01/2026
 players:
@@ -19,6 +19,7 @@ ingame_finish: 1/8/2012
 locations:
   - "[[Hood Station]]"
   - "[[BB Megatower]]"
+  - ">[[Krystal's]]"
 tags:
 ---
 

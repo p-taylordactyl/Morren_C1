@@ -1,0 +1,167 @@
+{
+  "version": 1,
+  "kind": "calendar",
+  "id": "old-valence",
+  "name": "Old Valence",
+  "definition": {
+    "id": "old-valence",
+    "name": "Old Valence",
+    "eraLabel": "ERA",
+    "weekdays": [
+      "MON",
+      "TUES",
+      "WED",
+      "THU",
+      "FRI",
+      "SAT",
+      "SUN"
+    ],
+    "months": [
+      {
+        "id": "month-1",
+        "name": "Lunaris",
+        "days": 30
+      },
+      {
+        "id": "month-2",
+        "name": "Umbra",
+        "days": 30
+      },
+      {
+        "id": "month-3",
+        "name": "Stellaris",
+        "days": 30
+      },
+      {
+        "id": "month-4",
+        "name": "Arcanus",
+        "days": 30
+      },
+      {
+        "id": "month-5",
+        "name": "Floralis",
+        "days": 30
+      },
+      {
+        "id": "month-6",
+        "name": "Solarius",
+        "days": 30
+      },
+      {
+        "id": "month-7",
+        "name": "Aqualis",
+        "days": 30
+      },
+      {
+        "id": "month-8",
+        "name": "Ventorus",
+        "days": 30
+      },
+      {
+        "id": "month-9",
+        "name": "Terranus",
+        "days": 30
+      },
+      {
+        "id": "month-10",
+        "name": "Ignitus",
+        "days": 30
+      },
+      {
+        "id": "month-11",
+        "name": "Nebulus",
+        "days": 30
+      },
+      {
+        "id": "month-12",
+        "name": "Mystara",
+        "days": 30
+      }
+    ],
+    "leapMonths": [],
+    "leapDays": [],
+    "weatherProfile": {
+      "mode": "calendar",
+      "climateYearLength": 360,
+      "baseOffsetDays": 0,
+      "cycleReset": "intercalation-cycle"
+    },
+    "eras": [
+      {
+        "id": "era",
+        "name": "Era 1",
+        "shortName": "ERA",
+        "startYear": 0,
+        "startMonthIndex": 0,
+        "endYear": 0,
+        "endMonthIndex": 11,
+        "endDay": 30,
+        "startDay": 1
+      }
+    ],
+    "moons": [],
+    "yearNames": [],
+    "monthWeekdayMode": "continuous",
+    "startWeekdayIndex": 0,
+    "yearDisplay": {
+      "negativeYearsMode": "signed",
+      "largeYearFormat": "plain"
+    },
+    "seasons": [
+      {
+        "id": "spring",
+        "name": "Nightfall",
+        "startDay": 1,
+        "endDay": 90,
+        "color": "#00147a"
+      },
+      {
+        "id": "summer",
+        "name": "Dawnrise",
+        "startDay": 91,
+        "endDay": 180,
+        "color": "#58b65a"
+      },
+      {
+        "id": "autumn",
+        "name": "Highsun",
+        "startDay": 181,
+        "endDay": 270,
+        "color": "#ffc014"
+      },
+      {
+        "id": "winter",
+        "name": "Dusklight",
+        "startDay": 271,
+        "endDay": 360,
+        "color": "#d0721b"
+      }
+    ],
+    "time": {
+      "enabled": true,
+      "hoursPerDay": 24,
+      "minutesPerHour": 60
+    }
+  },
+  "state": {
+    "activeView": "month",
+    "todayDate": {
+      "year": 2012,
+      "monthIndex": 0,
+      "day": 21
+    },
+    "cursorDate": {
+      "year": 2012,
+      "monthIndex": 0,
+      "day": 1
+    }
+  },
+  "linkedTagPackIds": [
+    "og-tags"
+  ],
+  "linkedWeatherPackIds": [],
+  "defaultWeatherPackId": "general",
+  "autoGenerateLinkedWeatherReferences": false,
+  "bannerImageRef": "admin/assets/misc/primer_cover.webp",
+  "markers": []
+}

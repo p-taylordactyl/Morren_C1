@@ -23,6 +23,9 @@
     "dg-publish": "checkbox",
     "dg-home": "checkbox",
     "quest_giver": "multitext",
-    "reward": "multitext"
+    "reward": "multitext",
+    "fc-end": "date",
+    "og-tags": "multitext",
+    "fc-tags": "multitext"
   }
 }

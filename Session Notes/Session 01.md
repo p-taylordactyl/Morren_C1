@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-04-20
-modified: 2026-07-29
+modified: 2026-08-03
 session_number: 1
 session_date: 04/20/2026
 players:
@@ -20,10 +20,16 @@ ingame_finish: 1/2/2012
 locations:
   - "[[Hood Station]]"
   - "[[Not Far Sewer]]"
-  - "[[Floodgate Bazaar]]"
+  - ">[[Floodgate Bazaar]]"
 quests: "[[The Bloom Below]]"
 tags:
+fc-title: Session 01
+fc-date: 01/01/2012
+fc-end: 01/02/2012
+fc-tags:
+  - session
 ---
+
 
 ```dataviewjs
 const container = dv.el("div", "", { cls: "session-nav" });

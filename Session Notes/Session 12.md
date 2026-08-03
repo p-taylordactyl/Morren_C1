@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-07-13
-modified: 2026-07-28
+modified: 2026-08-03
 session_date: 07/13/2026
 session_number: 12
 players:
@@ -12,13 +12,14 @@ players:
   - Matt
   - Taylor
 missed:
-paid:
+paid: true
 level: "4"
 ingame_start: 1/12/2012
 ingame_finish: 1/19/2012
 locations:
   - "[[BB Megatower]]"
-  - "[[Ransom Location]]"
+  - ">[[Tier 2]]"
+  - ">>[[Ransom Location]]"
   - "[[Hood Station]]"
 tags:
   - downtime
