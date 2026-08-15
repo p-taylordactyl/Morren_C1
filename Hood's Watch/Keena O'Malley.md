@@ -5,7 +5,7 @@ aliases:
 cover: "[[pc_keenaomalley.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-07-29
+modified: 2026-08-15
 tags:
 ---
 
@@ -60,21 +60,27 @@ Family:
 
 # Visions and Messages
 
-## Candle Vision
+### Candle Vision
 
 Keena sees an image of a candle, along with the following message:
 
 "Keena, you will not know what these words mean, and you won't if you fail the trials ahead. But on the road ahead, you will find candles. You must take them, and take them to the houses of the wicked. Light them at their doorsteps, and what was lost will be found."
 
-## Temple Instruction
+### Temple Instruction
 
 No imagery, but Keena hears the words:
 
 "A sinner walks among you. Do with them what you will. Reap the harvest which you have sown."
 
 
-## Betrayer Vision
+### Betrayer Vision
 
 Keena sees this man (who she does not recognize) and hears the words: "Betrayer. Sinner. He must die."
 
 ![[npc_keenavisionbeggar.webp|508]]
+
+### Chastisement Vision
+
+Immediately after Kat questions if the visions Keena has are truly from Morronel, a gust of wind knocks Keena into a container, hitting her head.
+
+The voice in Keena's vision chastises her for not obeying, but says she won't be punished, as knowing the consequences of her actions will be punishment enough. 

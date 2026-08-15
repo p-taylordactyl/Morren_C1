@@ -178,7 +178,12 @@
         "admin/assets/ambushdrake.webp",
         "admin/assets/location_deadwaterwharf_combat2.webp",
         "admin/assets/session14_map3.webp",
-        "admin/assets/session14_map1.webp"
+        "admin/assets/session14_map1.webp",
+        "admin/assets/session15_map1.webp",
+        "admin/assets/session15_deadwaterwharf_combat1.webp",
+        "admin/assets/npc_garrickholloway.webp",
+        "admin/assets/session15_deadwaterwharf_combat2.webp",
+        "admin/assets/session15_map3.webp"
       ],
       "sortOrder": "custom"
     },
@@ -538,7 +543,8 @@
         "NPCs/Sterling Corvain.md",
         "NPCs/Stu.md",
         "NPCs/Talia Mercina.md",
-        "NPCs/Victor Halden.md"
+        "NPCs/Victor Halden.md",
+        "NPCs/Garrick Holloway.md"
       ],
       "sortOrder": "custom"
     },
