@@ -183,7 +183,9 @@
         "admin/assets/session15_deadwaterwharf_combat1.webp",
         "admin/assets/npc_garrickholloway.webp",
         "admin/assets/session15_deadwaterwharf_combat2.webp",
-        "admin/assets/session15_map3.webp"
+        "admin/assets/session15_map3.webp",
+        "admin/assets/session16_combat1.webp",
+        "admin/assets/session16_map1.webp"
       ],
       "sortOrder": "custom"
     },
@@ -393,7 +395,8 @@
         "Factions and Groups/Underground/Mariner's Reach.md",
         "Factions and Groups/Underground/Old Guard.md",
         "Factions and Groups/Underground/Old Valence Stevedore Union.md",
-        "Factions and Groups/Underground/West Valence Saints.md"
+        "Factions and Groups/Underground/West Valence Saints.md",
+        "Factions and Groups/Underground/Malefactors.md"
       ],
       "sortOrder": "custom"
     },
@@ -470,8 +473,9 @@
         "Locations/Seahorse Bank.md",
         "Locations/Box Town.md",
         "Locations/Docked Vessel 1.md",
-        "Locations/Docked Vessel 2.md",
-        "Locations/Docked Vessel 3.md"
+        "Locations/The Gray Pelican.md",
+        "Locations/Docked Vessel 3.md",
+        "Locations/Ambition.md"
       ],
       "sortOrder": "custom"
     },
@@ -544,7 +548,12 @@
         "NPCs/Stu.md",
         "NPCs/Talia Mercina.md",
         "NPCs/Victor Halden.md",
-        "NPCs/Garrick Holloway.md"
+        "NPCs/Garrick Holloway.md",
+        "NPCs/Bulwark.md",
+        "NPCs/Glitch.md",
+        "NPCs/Grimjaw.md",
+        "NPCs/Overmind.md",
+        "NPCs/Umbral.md"
       ],
       "sortOrder": "custom"
     },
@@ -597,7 +606,8 @@
         "Session Notes/Session 12.md",
         "Session Notes/Session 13.md",
         "Session Notes/Session 14.md",
-        "Session Notes/Session 15.md"
+        "Session Notes/Session 15.md",
+        "Session Notes/Session 16.md"
       ],
       "sortOrder": "custom"
     },

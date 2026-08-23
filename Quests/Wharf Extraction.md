@@ -2,7 +2,7 @@
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-28
+modified: 2026-08-23
 cover: "[[quest_wharfextraction.webp]]"
 type: quest
 quest_status: in progress
@@ -15,7 +15,7 @@ quest_location:
   - "[[Harbormaster's Office]]"
   - "[[Clerk's Home]]"
   - "[[Docked Vessel 1]]"
-  - "[[Docked Vessel 2]]"
+  - "[[The Gray Pelican]]"
   - "[[Docked Vessel 3]]"
 reward:
   - 100 platinum
@@ -28,7 +28,7 @@ tags:
 
 # Description
 
-There is key data within the [[Harbormaster's Office]], on the [[Docked Vessel 1|three]] [[Docked Vessel 2|docked]] [[Docked Vessel 3|vessels]] and within the [[Clerk's Home]] that when combined can be leveraged by one of the interested parties to one of two ends.
+There is key data within the [[Harbormaster's Office]], on the [[Docked Vessel 1|three]] [[The Gray Pelican|docked]] [[Docked Vessel 3|vessels]] and within the [[Clerk's Home]] that when combined can be leveraged by one of the interested parties to one of two ends.
 
 [[Cillian Kravus|Cillian]] wishes to reroute rare and valuable materials used in Spell Focus Modifications so that the spellcasters of [[Hood Station]] can specialize to improve their field performance. 
 
@@ -36,7 +36,7 @@ There is key data within the [[Harbormaster's Office]], on the [[Docked Vessel 1
 
 ### Completion Requirements
 
-- [ ] Gather data from the Harbormaster's Office
+- [x] Gather data from the Harbormaster's Office
 - [ ] Gather data from Docked Vessel 1
 - [ ] Gather data from Docked Vessel 2
 - [ ] Gather data from Docked Vessel 3
@@ -46,16 +46,19 @@ There is key data within the [[Harbormaster's Office]], on the [[Docked Vessel 1
 
 - We arrived at [[Deadwater Wharf]] on 1/20/12
 - We located what seems to be [[Docked Vessel 1]] near where we entered but haven't made our way onboard yet
+- We snuck into the [[Harbormaster's Office]] and collected a data stick
+- We learned that Docked Vessel 2 is a ship called [[The Gray Pelican]] and have made plans to grab the data stick while helping [[Solomon Hexley]] kidnap a [[Titan Corporation]] director onboard
 
 # To Do
 
-- [ ] Locate the Harbormaster's Office
-- [ ] Locate Docked Vessel 2
 - [ ] Locate Docked Vessel 3
 - [ ] Locate the Clerk's Home
 - [ ] Find a way onboard Docked Vessel 1
+- [ ] Take the data stick onboard the Gray Pelican
 
 ## Done
 
 - [x] Visit Deadwater Wharf
 - [x] Locate Docked Vessel 1
+- [x] Locate the Harbormaster's Office
+- [x] Locate Docked Vessel 2

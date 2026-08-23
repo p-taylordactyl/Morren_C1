@@ -4,7 +4,7 @@ aliases:
 type: npc
 cover: "[[npc_VictorHalden.webp]]"
 created: 2026-07-23
-modified: 2026-08-03
+modified: 2026-08-23
 status:
 disposition:
   - enemy

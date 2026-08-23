@@ -3,11 +3,12 @@ dg-publish: false
 aliases:
 type: location
 cover: "[[location_Ambition.webp]]"
-created:
-modified:
+created: 2026-08-15
+modified: 2026-08-16
 district:
 parent:
 associations:
+  - "[[Oligarchs]]"
 tags:
   - under_construction
 ---

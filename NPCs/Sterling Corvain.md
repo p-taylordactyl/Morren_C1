@@ -4,20 +4,16 @@ type: npc
 aliases:
   - stalker
   - Stalker
+  - Mystery Burger Man
 cover: "[[npc_mysteryburgerman.webp]]"
 created: 2026-06-22
-modified: 2026-08-03
+modified: 2026-08-23
 disposition:
-  - neutral
-  - friendly
-  - unknown
   - enemy
 organizations:
   - "[[Titan Corporation]]"
 associates:
-  - "[[Sterling Corvain]]"
   - "[[Augustin Devereaux]]"
-  - "[[Sterling Corvain]]"
 brief: A mysterious individual or group that keeps sending Gideon blackmail material against the party
 status:
   - alive
@@ -29,6 +25,11 @@ tags:
 ---
 
 ![[npc_mysteryburgerman.webp]]
+
+
+> [!info] 
+> There were separate notes for the Stalker and Mystery Burger Man, who have been revealed to be the singular man known as Sterling Corvain. I half-decided to combine the notes but might split them back out again. Right now the contents of each note are pretty much stacked on top of each other with light edits. One day I'll fix it but that day is not today.
+
 
 # Description
 

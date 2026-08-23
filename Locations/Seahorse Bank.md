@@ -4,7 +4,7 @@ aliases:
 type: location
 cover: "[[location_ValencianSeahorseBank-DeadwaterWharf.webp]]"
 created: 2026-07-28
-modified: 2026-07-28
+modified: 2026-08-23
 district: "[[Cloud District]]"
 parent: "[[Deadwater Wharf]]"
 associations:
@@ -17,6 +17,7 @@ tags:
 
 # Notes
 
+- location where [[Gideon Oublier]] pretended to be [[Victor Halden]] and stole 1 of the 4 data stick keys needed to unlock...something.
 
 ### Points of Interest
 

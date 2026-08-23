@@ -4,11 +4,11 @@ aliases:
 type: location
 cover: "[[location_DockedVessel2.webp]]"
 created: 2026-07-28
-modified: 2026-07-28
+modified: 2026-08-17
 district: "[[Cloud District]]"
 parent: "[[Deadwater Wharf]]"
 associations:
-  - "[[Old Valence Stevedore Union]]"
+  - "[[Titan Corporation]]"
 tags:
   - under_construction
 ---
