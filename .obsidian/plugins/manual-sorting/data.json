@@ -185,7 +185,12 @@
         "admin/assets/session15_deadwaterwharf_combat2.webp",
         "admin/assets/session15_map3.webp",
         "admin/assets/session16_combat1.webp",
-        "admin/assets/session16_map1.webp"
+        "admin/assets/session16_map1.webp",
+        "admin/assets/session17_map1.webp",
+        "admin/assets/session17_freakylilguy.webp",
+        "admin/assets/npc_directorvosslen.webp",
+        "admin/assets/location_deadwaterwharf_thegraypelican.webp",
+        "admin/assets/session17_combat1.webp"
       ],
       "sortOrder": "custom"
     },
@@ -474,7 +479,7 @@
         "Locations/Box Town.md",
         "Locations/Docked Vessel 1.md",
         "Locations/The Gray Pelican.md",
-        "Locations/Docked Vessel 3.md",
+        "Locations/Dockrunner.md",
         "Locations/Ambition.md"
       ],
       "sortOrder": "custom"
@@ -607,7 +612,8 @@
         "Session Notes/Session 13.md",
         "Session Notes/Session 14.md",
         "Session Notes/Session 15.md",
-        "Session Notes/Session 16.md"
+        "Session Notes/Session 16.md",
+        "Session Notes/Session 17.md"
       ],
       "sortOrder": "custom"
     },

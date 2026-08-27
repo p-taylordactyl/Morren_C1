@@ -16,7 +16,7 @@ quest_location:
   - "[[Clerk's Home]]"
   - "[[Docked Vessel 1]]"
   - "[[The Gray Pelican]]"
-  - "[[Docked Vessel 3]]"
+  - "[[Dockrunner]]"
 reward:
   - 100 platinum
   - spell focus mods or grow Vinnie's network
@@ -28,7 +28,7 @@ tags:
 
 # Description
 
-There is key data within the [[Harbormaster's Office]], on the [[Docked Vessel 1|three]] [[The Gray Pelican|docked]] [[Docked Vessel 3|vessels]] and within the [[Clerk's Home]] that when combined can be leveraged by one of the interested parties to one of two ends.
+There is key data within the [[Harbormaster's Office]], on the [[Docked Vessel 1|three]] [[The Gray Pelican|docked]] [[Dockrunner|vessels]] and within the [[Clerk's Home]] that when combined can be leveraged by one of the interested parties to one of two ends.
 
 [[Cillian Kravus|Cillian]] wishes to reroute rare and valuable materials used in Spell Focus Modifications so that the spellcasters of [[Hood Station]] can specialize to improve their field performance. 
 

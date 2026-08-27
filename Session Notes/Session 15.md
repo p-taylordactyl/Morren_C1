@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-08-03
-modified: 2026-08-23
+modified: 2026-08-24
 session_date: 08/03/2026
 session_number: 15
 players:
@@ -17,8 +17,9 @@ ingame_start: 1/21/2012
 ingame_finish: 1/22/2012
 locations:
   - "[[Deadwater Wharf]]"
-  - ">[[Seahorse Bank]]"
-  - ">[[Harbormaster's Office]]"
+  - ">"
+  - "[[Seahorse Bank]]"
+  - "[[Harbormaster's Office]]"
 tags:
 ---
 

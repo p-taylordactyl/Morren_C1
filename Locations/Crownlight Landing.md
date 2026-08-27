@@ -1,10 +1,10 @@
 ---
-dg-publish: false
+dg-publish: true
 aliases:
 type: location
 cover: "[[location_CrownlightLanding.webp]]"
 created: 2026-07-28
-modified: 2026-07-28
+modified: 2026-08-24
 district: "[[Cloud District]]"
 parent: "[[Deadwater Wharf]]"
 associations:

@@ -1,9 +1,10 @@
 ---
+dg-publish: true
 type: location
 aliases:
 cover: "[[placeholder2.webp]]"
 created: 2026-07-10
-modified: 2026-07-29
+modified: 2026-08-24
 district:
 parent:
 associations:

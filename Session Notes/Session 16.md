@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-08-17
-modified: 2026-08-23
+modified: 2026-08-24
 session_date: 08/17/2026
 session_number: 16
 players:
@@ -18,7 +18,8 @@ ingame_start: 1/22/2012
 ingame_finish: 1/23/2012
 locations:
   - "[[Deadwater Wharf]]"
-  - ">[[Harbormaster's Office]]"
+  - ">"
+  - "[[Harbormaster's Office]]"
 tags:
   - under_construction
 ---
@@ -52,12 +53,33 @@ makeCard("Next Session ➡️", next);
 ```
 
 
->[[!NOTE]]
-> I joined partway through the session so will add the beginning from the recap.
+>[!NOTE]
+> I joined partway through the session so beginning is added from the recap.
 
 # Winter 22, 2012
 
-[[Katriel Buchanon|Kat]] is bee-ed back in mid-combat?
+
+We pick back up preparing to break into the Harbormaster's Office. 
+
+Silas and Max are bee-ed back into existence. 
+
+Everyone changes into their stolen uniforms. Max starts going in the front by himself but Dorian stops him since we don't have nametags. Gideon uses his mage hand to release the fire escape and the group enters.
+
+The fire escape does seem to be alarmed and would go off if the door into the building is opened. The group decides to set off the fire alarm and just act like there's a real fire, conveniently also clearing the building.
+
+As they prepare to enter, they see on nearby TVs a breaking news report showing a costumed woman going around wreaking havoc before turning into a flaming electrical dragon and hitting a helicopter, which crashed into presumable a crowd of onlookers, killing so many people.
+
+The headline on the news read: The Malefactors Return, Jailbreak
+
+The [[Malefactors]] are some kind of supervillain group.
+
+Gideon recognizes the costumed woman as his mother, [[Morrgen Oublier|Morrgen]]. Max chats with him briefly and realizes Gideon is in a real bad way about this. The party stops give Gideon a moment to process. He seems pretty stunned.
+
+Silas basically illusions a bunch of flames and sounds and smells to fake a fire to cover the party breaking into the building and room we believe has the file we need.
+
+The room is empty but has two Kruthiks guarding the area.
+
+[[Katriel Buchanon|Kat]] is bee-ed back in mid-combat.
 
 ![[session16_combat1.webp]]
 
@@ -85,7 +107,7 @@ He barricades himself inside a crane, which the Saints quickly surround.
 
 Silas isn't sure Dex is even worth saving but Kat says she's helping, wakes the others and says they can help or not and leave. 
 
-Silas does end up coming along and illusions an bunch of henchmen as we approach. After a bit of a standoff, we're able to intimidate the Saints away.
+Silas does end up coming along and illusions an bunch of Enforcers as we approach. After a bit of a standoff, we're able to intimidate the Saints away.
 
 Turns out Dex was filming himself dropping paint balloons on random passerby as a prank and indiscriminately hit some Saints in the process, starting the chase we finished.
 
@@ -99,23 +121,23 @@ This does prompt Dex to go back to the Relay Shrine so he can try and get his ca
 
 After the blizzard has passed and we plan our next move, we spot what we think is [[Box Town]] over by the [[Seahorse Bank]]. However, with only a week left to collect the remaining 4 data sticks for [[Wharf Extraction]], we head south instead to areas we haven't explored yet.
 
-We pass a bustling gyro stand and see [[Solomon Hexley]] in line. Gideon rizzes his way to the front where Silas decides to talk to him (and possibly steal his new spellbook?)
+We pass a bustling gyro stand and see [[Solomon Hexley]] in line. Gideon rizzes (intimidates) his way to the front where Silas decides to talk to him and try to be friends (and possibly steal his new spellbook?). 
 
 Solomon says he was hoping to hear from his friends about the wine (which has been partly drank) but hasn't yet.
 
 Silas offers Solomon his number. Solomon accepts and says he does a bunch of wizarding for hire and has a lot of wizard friends that all help each other and share spells and do jobs for each other. He says if we help him with a job on the nearby boat, he'll give us 100 platinum and teach Silas a big spell like fireball or fly.
 
-Silas tries to be an ass about letting bygones be bygones and how Solomon should just trust him implicitly now, until Solomon starts Oogling the wine bottle. Silas capitulates so he'll stop. 
+Silas tries to be an ass about letting bygones be bygones and how Solomon should just trust him implicitly now, until Solomon appears to start Oogling/trying to identify/find the value of wine bottle. Silas capitulates so he'll stop. 
 
-We agree to work with Solomon, or at least hear him out. He buys us all gyros and we go over to some nearby cargo containers, where he sets up a tiny hut for privacy.
+We agree to work with Solomon, or at least hear him out. He buys us all gyros and we go over to some nearby cargo containers, where he sets up a tiny hut for privacy. We have to leave our phones outside.
 
 He checks to confirm we're all good with fucking with the [[Titan Corporation]] and says we're probably going to pick up some heat for this.
 
-The job is to help Solomon kidnap a director (who will be in his office, which is also where we need to get our data stick) on the nearby ship  [[The Gray Pelican]].
+The job is to help Solomon kidnap a director (who will be in his office, which is also where we need to get our data stick) on the nearby ship  [[The Gray Pelican]]. We just have to help knock the guy out so Solomon can put him in a pokeball.
 
 We probe on who this job is for. It's the Malefactors. Solomon won't give the name of his Malefactor contact, but we do confirm it isn't [[Morrgen Oublier|Morrgen]]. At Gideon's prompting we do say if possible we want a meetup with Morrgen to be part of our price.
 
-After trying to get Solomon to tell us the villain names of the Malefactors (and failing when he keeps telling us to just Oogle it) we look them up and find the following.
+After trying to get Solomon to tell us the villain names of the Malefactors (and failing when he keeps telling us to just Oogle it) we step back out to look them up and find the following.
 
 **Malefactor villain names are:**
 [[Morrgen Oublier|Brass Scale]]  (Morrgen)

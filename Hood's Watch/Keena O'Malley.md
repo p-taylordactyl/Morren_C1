@@ -5,7 +5,7 @@ aliases:
 cover: "[[pc_keenaomalley.webp]]"
 type: player_character
 created: 2026-04-23
-modified: 2026-08-15
+modified: 2026-08-27
 tags:
 ---
 
@@ -84,3 +84,7 @@ Keena sees this man (who she does not recognize) and hears the words: "Betrayer.
 Immediately after Kat questions if the visions Keena has are truly from Morronel, a gust of wind knocks Keena into a container, hitting her head.
 
 The voice in Keena's vision chastises her for not obeying, but says she won't be punished, as knowing the consequences of her actions will be punishment enough. 
+
+### A Sinner Walks Alone
+
+"A sinner walks alone, fresh from their crime. You have an opportunity. Should you be wise enough to use it for the greater good, I will help with the growth of you and your companions' souls."
