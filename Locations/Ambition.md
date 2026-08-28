@@ -1,10 +1,10 @@
 ---
-dg-publish: false
+dg-publish: true
 aliases:
 type: location
 cover: "[[location_Ambition.webp]]"
 created: 2026-08-15
-modified: 2026-08-16
+modified: 2026-08-28
 district:
 parent:
 associations:
@@ -68,5 +68,8 @@ views:
 
 
 # Maps
+
+
+
 
 

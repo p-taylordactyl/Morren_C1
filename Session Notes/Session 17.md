@@ -1,27 +1,25 @@
 ---
-dg-publish: false
+dg-publish: true
 type: session_note
 created: 2026-08-24
-modified: 2026-08-27
+modified: 2026-08-28
 session_date: 08/24/2026
 session_number: 17
 players:
   - Alek
   - Cinna
   - Jordan
-  - Kuya
   - Matt
   - Taylor
 missed:
 paid:
 level: "4"
 ingame_start: 1/27/2012
-ingame_finish:
+ingame_finish: 1/27/2012
 locations:
   - "[[Deadwater Wharf]]"
-  - ">"
+  - "[[The Gray Pelican]]"
 tags:
-  - under_construction
 ---
 
 ```dataviewjs
@@ -72,7 +70,7 @@ We're almost to the boat when a car pulls out in front of us and Kat has to brak
 
 ![[Keena O'Malley#A Sinner Walks Alone]]
 
-Somehow we get from the vision to it being crazy that the car doesn't have a roof and after much discussion, [[Dorian Caldwell|Dorian]] sends (at Keena's request) a highly passive aggressive email to Lumen Veil, helpfully informing him that "In the winter, it is cold."
+Somehow we get from the vision to it being crazy that the car doesn't have a roof and after much discussion, [[Dorian Caldwell|Dorian]] sends (at Keena's request) a highly passive aggressive email to Lumen Veil, helpfully informing him that "In the winter, it is cold" so that maybe he'll stop giving people roofless cars.
 
 ![[session17_map1.webp|840]]
 

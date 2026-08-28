@@ -21,6 +21,7 @@ locations:
 tags:
   - under_construction
 ---
+
 ```dataviewjs
 const container = dv.el("div", "", { cls: "session-nav" });
 container.style.display = "flex";

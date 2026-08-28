@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-08-17
-modified: 2026-08-24
+modified: 2026-08-28
 session_date: 08/17/2026
 session_number: 16
 players:
@@ -18,10 +18,8 @@ ingame_start: 1/22/2012
 ingame_finish: 1/23/2012
 locations:
   - "[[Deadwater Wharf]]"
-  - ">"
   - "[[Harbormaster's Office]]"
 tags:
-  - under_construction
 ---
 ```dataviewjs
 const container = dv.el("div", "", { cls: "session-nav" });

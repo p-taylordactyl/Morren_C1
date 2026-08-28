@@ -2,7 +2,7 @@
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-08-23
+modified: 2026-08-28
 cover: "[[quest_wharfextraction.webp]]"
 type: quest
 quest_status: in progress
@@ -11,7 +11,6 @@ quest_giver:
   - "[[Vinnie Brassjaw]]"
 quest_location:
   - "[[Deadwater Wharf]]"
-  - ">"
   - "[[Harbormaster's Office]]"
   - "[[Clerk's Home]]"
   - "[[Docked Vessel 1]]"
@@ -47,11 +46,11 @@ There is key data within the [[Harbormaster's Office]], on the [[Docked Vessel 1
 - We arrived at [[Deadwater Wharf]] on 1/20/12
 - We located what seems to be [[Docked Vessel 1]] near where we entered but haven't made our way onboard yet
 - We snuck into the [[Harbormaster's Office]] and collected a data stick
-- We learned that Docked Vessel 2 is a ship called [[The Gray Pelican]] and have made plans to grab the data stick while helping [[Solomon Hexley]] kidnap a [[Titan Corporation]] director onboard
+- We learned that Docked Vessel 2 is a ship called [[The Gray Pelican]] and have made plans to grab the data stick while helping [[Solomon Hexley]] kidnap a [[Titan Corporation]] [[Director Vosslen|director]] onboard
+- We successfully boarded The Gray Pelican
 
 # To Do
 
-- [ ] Locate Docked Vessel 3
 - [ ] Locate the Clerk's Home
 - [ ] Find a way onboard Docked Vessel 1
 - [ ] Take the data stick onboard the Gray Pelican
@@ -62,3 +61,4 @@ There is key data within the [[Harbormaster's Office]], on the [[Docked Vessel 1
 - [x] Locate Docked Vessel 1
 - [x] Locate the Harbormaster's Office
 - [x] Locate Docked Vessel 2
+- [x] Locate Docked Vessel 3

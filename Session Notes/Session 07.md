@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-06-08
-modified: 2026-08-03
+modified: 2026-08-28
 session_number: 7
 session_date: 06/08/2026
 players:
@@ -18,8 +18,8 @@ ingame_start: 1/8/2012
 ingame_finish: 1/9/2012
 locations:
   - "[[BB Megatower]]"
-  - ">[[Krystal's]]"
-  - ">[[Penthouse]]"
+  - "[[Krystal's]]"
+  - "[[Penthouse]]"
 tags:
 ---
 

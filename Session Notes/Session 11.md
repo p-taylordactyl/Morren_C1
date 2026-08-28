@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-07-06
-modified: 2026-08-03
+modified: 2026-08-28
 session_date: 07/06/2026
 session_number: 11
 players:
@@ -17,9 +17,9 @@ ingame_start: 1/11/2012
 ingame_finish: 1/11/2012
 locations:
   - "[[BB Megatower]]"
-  - ">[[Tier 2]]"
-  - ">>[[Quiet Place]]"
-  - ">>[[Ransom Location]]"
+  - "[[Tier 2]]"
+  - "[[Quiet Place]]"
+  - "[[Ransom Location]]"
 tags:
 ---
 

@@ -1,10 +1,10 @@
 ---
-dg-publish: false
+dg-publish: true
 aliases:
 type: location
 cover: "[[location_BoxTown.webp]]"
 created: 2026-07-28
-modified: 2026-07-28
+modified: 2026-08-28
 district: "[[Cloud District]]"
 parent: "[[Deadwater Wharf]]"
 associations:
@@ -68,6 +68,9 @@ views:
 
 
 # Maps
+
+
+
 
 
 

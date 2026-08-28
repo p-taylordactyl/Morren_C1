@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-06-15
-modified: 2026-08-03
+modified: 2026-08-28
 session_date: 06/15/2026
 session_number: 8
 players:
@@ -17,9 +17,9 @@ ingame_start: 1/9/2012
 ingame_finish: 1/11/2012
 locations:
   - "[[BB Megatower]]"
-  - ">[[Penthouse]]"
-  - ">[[Tier 2]]"
-  - ">>[[Neon Corridor]]"
+  - "[[Penthouse]]"
+  - "[[Tier 2]]"
+  - "[[Neon Corridor]]"
 tags:
 ---
 

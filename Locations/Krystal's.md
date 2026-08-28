@@ -4,9 +4,9 @@ type: location
 aliases:
 cover: "[[placeholder2.webp]]"
 created: 2026-07-10
-modified: 2026-08-24
+modified: 2026-08-28
 district:
-parent:
+parent: "[[BB Megatower]]"
 associations:
 tags:
   - under_construction
@@ -43,15 +43,6 @@ views:
 
 
 # Maps
-
-![[location_bbmegatower_krystals.webp]]
-
-
-
-
-
-
-
 
 
 

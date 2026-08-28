@@ -5,7 +5,7 @@ aliases:
   - the chef
 cover: "[[placeholder2.webp]]"
 created: 2026-07-06
-modified: 2026-08-03
+modified: 2026-08-28
 disposition:
   - enemy
   - unfriendly
@@ -43,25 +43,33 @@ function toArray(val) {
   return Array.isArray(val) ? val : (val ? [val] : []);
 }
 
-function parseLocationTree(locations) {
-  return toArray(locations).map(raw => {
-    const str = raw.toString();
-    const match = str.match(/^(>+)/);
-    const depth = match ? match[1].length : 0;
-    const text = match ? str.slice(match[1].length) : str;
-    return { depth, text };
-  });
+function getDepth(link, listPaths) {
+  if (!link || !link.path) return 0;
+  let depth = 0;
+  let current = dv.page(link.path);
+  while (current && current.parent) {
+    const parentLink = toArray(current.parent)[0];
+    if (!parentLink || !parentLink.path || !listPaths.has(parentLink.path)) break;
+    depth++;
+    current = dv.page(parentLink.path);
+  }
+  return depth;
+}
+
+function buildLocationTree(locations) {
+  const links = toArray(locations);
+  const listPaths = new Set(links.filter(l => l && l.path).map(l => l.path));
+  return links.map(l => ({ depth: getDepth(l, listPaths), text: l }));
 }
 
 function buildNestedList(items) {
   return items.map(item => {
-    const indent = "&nbsp;&nbsp;&nbsp;&nbsp;".repeat(item.depth);
+    const indentPx = item.depth * 20;
     const bullet = item.depth === 0 ? "•" : "◦";
-    return `${indent}${bullet} ${item.text}`;
+    return `<span style="display:inline-block; width:${indentPx}px;"></span>${bullet} ${item.text}`;
   }).join("<br>");
 }
 
-const currentPath = dv.current().file.path;
 const inlinkPaths = toArray(dv.current().file.inlinks).map(l => l.path);
 
 const rows = dv.pages()
@@ -73,7 +81,7 @@ dv.table(
   ["Session", "Session Locations"],
   rows.map(p => [
     `${p.file.link}`,
-    buildNestedList(parseLocationTree(p.locations))
+    buildNestedList(buildLocationTree(p.locations))
   ])
 );
 ```

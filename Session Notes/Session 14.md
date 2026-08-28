@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-07-26
-modified: 2026-08-24
+modified: 2026-08-28
 session_date: 07/27/2026
 session_number: 14
 players:
@@ -18,7 +18,6 @@ ingame_start: 1/20/2012
 ingame_finish: 1/21/2012
 locations:
   - "[[Deadwater Wharf]]"
-  - ">"
   - "[[Crownlight Landing]]"
   - "[[Seahorse Bank]]"
 tags:

@@ -2,7 +2,7 @@
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-07-27
+modified: 2026-08-28
 cover: "[[quest_redthunder.webp]]"
 type: quest
 quest_status: not started
@@ -11,9 +11,7 @@ quest_giver:
   - "[[Thorbin Sprake]]"
 quest_location:
   - "[[BB Megatower]]"
-  - ">"
   - "[[Tier 3]]"
-  - ">"
   - "[[The Kitchen]]"
 reward:
   - 100 platinum

@@ -3,15 +3,15 @@ dg-publish: true
 type: main location
 cover:
 created: 2026-04-23
-modified: 2026-07-27
+modified: 2026-08-28
 district: "[[Westreach]]"
 parent:
 associations:
   - "[[Sludge Farmers]]"
   - "[[Bellanova Family|Bellanovas]]"
-  - "[[NPCs/The Driftwarden]]"
   - "[[Sewer Goblins]]"
   - "[[Cult of the Machine God]]"
+  - "[[NPCs/The Driftwarden|The Driftwarden]]"
 tags:
 ---
 
@@ -119,12 +119,13 @@ views:
 
 
 
-![[admin/assets/location_notfarsewer_sludgefarm.webp]]
+
+![[admin/assets/location_notfarsewer_filtershrine.webp]]
 ![[admin/assets/location_notfarsewer_slimefight.webp]]
+![[admin/assets/location_notfarsewer_sludgefarm.webp]]
 ![[admin/assets/location_notfarsewer_pumpingstation_blockagefight.webp]]
 ![[admin/assets/location_notfarsewer_pumpingstation_blockage.webp]]
 ![[admin/assets/location_notfarsewer_pumpingstation.webp]]
 ![[admin/assets/location_notfarsewer_pipejunction.webp]]
 ![[admin/assets/location_notfarsewer_floodgatebazaar.webp]]
-![[admin/assets/location_notfarsewer_filtershrine.webp]]
 ![[admin/assets/location_notfarsewer_boneculvert_combat.webp]]
