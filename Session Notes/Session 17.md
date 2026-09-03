@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-08-24
-modified: 2026-08-28
+modified: 2026-08-31
 session_date: 08/24/2026
 session_number: 17
 players:
@@ -127,7 +127,7 @@ Dorian manages to succeed after a couple attempts and wins an enchanted red crys
 
 Solomon says he should learn that enchantment since it seems cool. He wants the Animator's name or number but we don't actually have it.
 
-As we approach the ship, Dorian melts the pewter on his ring, revealing the true ring underneath: a signet of a raven holding a gold coin.
+As we approach the ship, Dorian melts the pewter on his ring, revealing the true ring underneath: a platinum and onyx signet of a raven holding a gold coin.
 
 We debate whether Dorian should use his true name but then a guard approaches us on the dock and asks our business.
 

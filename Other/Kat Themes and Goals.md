@@ -1,5 +1,5 @@
 ---
-modified: 2026-07-26
+modified: 2026-08-31
 created: 2026-04-27
 ---
 ## Themes
@@ -43,3 +43,13 @@ created: 2026-04-27
 ## Session 13
 
 - Gideon tells Kat not to go try and defuse the bombs and she listens -- Family II -- after everything that's happened this week and the promise she made to Morrgen to take care of Gideon, Kat realizes she needs to start thinking more before impulsively taking big risks. While she thought of herself like something of a stray cat the Oubliers were kind enough to take in, suddenly she's the only family Gideon has left in Hood Station
+
+
+
+
+
+
+
+- Kat questions whole career when Max does all the mechanic checks
+- "it's almost like circumstances matter"
+- 

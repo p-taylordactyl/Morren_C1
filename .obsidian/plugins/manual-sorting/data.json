@@ -190,7 +190,16 @@
         "admin/assets/session17_freakylilguy.webp",
         "admin/assets/npc_directorvosslen.webp",
         "admin/assets/location_deadwaterwharf_thegraypelican.webp",
-        "admin/assets/session17_combat1.webp"
+        "admin/assets/session17_combat1.webp",
+        "admin/assets/session18_enginerepair.webp",
+        "admin/assets/axbeak.webp",
+        "admin/assets/session18_combat1.webp",
+        "admin/assets/npc_lighthouse.webp",
+        "admin/assets/npc_cilliankravus.webp",
+        "admin/assets/npc_walter.webp",
+        "admin/assets/npc_mysteryperson1.webp",
+        "admin/assets/npc-mystery2.webp",
+        "admin/assets/npc_mystery3.webp"
       ],
       "sortOrder": "custom"
     },
@@ -559,7 +568,9 @@
         "NPCs/Grimjaw.md",
         "NPCs/Overmind.md",
         "NPCs/Umbral.md",
-        "NPCs/Director Vosslen.md"
+        "NPCs/Director Vosslen.md",
+        "NPCs/Lighthouse.md",
+        "NPCs/Walter.md"
       ],
       "sortOrder": "custom"
     },
@@ -614,7 +625,8 @@
         "Session Notes/Session 14.md",
         "Session Notes/Session 15.md",
         "Session Notes/Session 16.md",
-        "Session Notes/Session 17.md"
+        "Session Notes/Session 17.md",
+        "Session Notes/Session 18.md"
       ],
       "sortOrder": "custom"
     },

@@ -2,7 +2,7 @@
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-08-28
+modified: 2026-08-31
 cover: "[[quest_wharfextraction.webp]]"
 type: quest
 quest_status: in progress
@@ -36,7 +36,7 @@ There is key data within the [[Harbormaster's Office]], on the [[Docked Vessel 1
 ### Completion Requirements
 
 - [x] Gather data from the Harbormaster's Office
-- [ ] Gather data from Docked Vessel 1
+- [x] Gather data from Docked Vessel 1
 - [ ] Gather data from Docked Vessel 2
 - [ ] Gather data from Docked Vessel 3
 - [ ] Gather data from the Clerk's Home
@@ -53,7 +53,7 @@ There is key data within the [[Harbormaster's Office]], on the [[Docked Vessel 1
 
 - [ ] Locate the Clerk's Home
 - [ ] Find a way onboard Docked Vessel 1
-- [ ] Take the data stick onboard the Gray Pelican
+
 
 ## Done
 
@@ -62,3 +62,4 @@ There is key data within the [[Harbormaster's Office]], on the [[Docked Vessel 1
 - [x] Locate the Harbormaster's Office
 - [x] Locate Docked Vessel 2
 - [x] Locate Docked Vessel 3
+- [x] Copy the file onboard the Gray Pelican
