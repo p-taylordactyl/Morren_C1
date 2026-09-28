@@ -199,7 +199,12 @@
         "admin/assets/npc_walter.webp",
         "admin/assets/npc_mysteryperson1.webp",
         "admin/assets/npc-mystery2.webp",
-        "admin/assets/npc_mystery3.webp"
+        "admin/assets/npc_mystery3.webp",
+        "admin/assets/token_exosuitstevedore.webp",
+        "admin/assets/session19_ghost1.webp",
+        "admin/assets/npc_jonas.webp",
+        "admin/assets/npc_dexterdelavide.webp",
+        "admin/assets/session19_combat1.webp"
       ],
       "sortOrder": "custom"
     },
@@ -570,7 +575,10 @@
         "NPCs/Umbral.md",
         "NPCs/Director Vosslen.md",
         "NPCs/Lighthouse.md",
-        "NPCs/Walter.md"
+        "NPCs/Walter.md",
+        "NPCs/The Paper Tiger.md",
+        "NPCs/Crownless.md",
+        "NPCs/Patchwork.md"
       ],
       "sortOrder": "custom"
     },
@@ -626,7 +634,8 @@
         "Session Notes/Session 15.md",
         "Session Notes/Session 16.md",
         "Session Notes/Session 17.md",
-        "Session Notes/Session 18.md"
+        "Session Notes/Session 18.md",
+        "Session Notes/Session 19.md"
       ],
       "sortOrder": "custom"
     },

@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-08-31
-modified: 2026-09-03
+modified: 2026-09-21
 session_date: 08/31/2026
 session_number: 18
 players:
@@ -20,7 +20,6 @@ locations:
   - "[[Deadwater Wharf]]"
   - "[[The Gray Pelican]]"
 tags:
-  - under_construction
 ---
 
 ```dataviewjs
