@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-08-17
-modified: 2026-08-28
+modified: 2026-09-28
 session_date: 08/17/2026
 session_number: 16
 players:
@@ -21,6 +21,7 @@ locations:
   - "[[Harbormaster's Office]]"
 tags:
 ---
+
 ```dataviewjs
 const container = dv.el("div", "", { cls: "session-nav" });
 container.style.display = "flex";

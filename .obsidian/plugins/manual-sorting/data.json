@@ -204,7 +204,12 @@
         "admin/assets/session19_ghost1.webp",
         "admin/assets/npc_jonas.webp",
         "admin/assets/npc_dexterdelavide.webp",
-        "admin/assets/session19_combat1.webp"
+        "admin/assets/session19_combat1.webp",
+        "admin/assets/session20_combatescape.webp",
+        "admin/assets/npc_antiairguy.webp",
+        "admin/assets/session20_map1.webp",
+        "admin/assets/npc_deadwaterharbormaster.webp",
+        "admin/assets/npc_mayor.webp"
       ],
       "sortOrder": "custom"
     },
@@ -385,7 +390,8 @@
         "Factions and Groups/Corporate/Oligarchs.md",
         "Factions and Groups/Corporate/Paragon Soundworks.md",
         "Factions and Groups/Corporate/Titan Corporation.md",
-        "Factions and Groups/Corporate/Valencian Seahorses.md"
+        "Factions and Groups/Corporate/Valencian Seahorses.md",
+        "Factions and Groups/Corporate/Delavide Corporation.md"
       ],
       "sortOrder": "custom"
     },
@@ -578,7 +584,10 @@
         "NPCs/Walter.md",
         "NPCs/The Paper Tiger.md",
         "NPCs/Crownless.md",
-        "NPCs/Patchwork.md"
+        "NPCs/Patchwork.md",
+        "NPCs/Dexter Delavide.md",
+        "NPCs/Jonas.md",
+        "NPCs/Sharon.md"
       ],
       "sortOrder": "custom"
     },
@@ -635,7 +644,8 @@
         "Session Notes/Session 16.md",
         "Session Notes/Session 17.md",
         "Session Notes/Session 18.md",
-        "Session Notes/Session 19.md"
+        "Session Notes/Session 19.md",
+        "Session Notes/Session 20.md"
       ],
       "sortOrder": "custom"
     },

@@ -146,7 +146,7 @@ Kat challenges Silas on if he's certain his goal of dismantling the Ghosts to "f
 
 All that aside, we still have to figure out what to do.
 
-I lowkey don't have the energy to put down all the details but I think we might all feel like there's not a good solution here. Silas's priority is protecting Kali over Hood Station. Kat thinks working with the Ghosts/taking the payout is the solution that minimizes harm to Hood Station, but the others are staunchly against it. We do all also recognize that we can't exactly hold off both the Ghosts and the Corpos, even with the Stevedores "protecting" us. Silas will actively intervene against any plan he's aware of that involves turning the Corpos against the Ghosts. 
+I lowkey don't have the energy to put down all the details but I think we might all feel like there's not a good solution here. Silas's priority is protecting Kali over Hood Station. Kat thinks working with the Ghosts/taking the payout is the solution that minimizes harm to Hood Station, but the others are staunchly against it. We do all also recognize that we can't exactly hold off both the Ghosts and the Corpos, even with the Stevedores "protecting" us. Silas will actively intervene against any plan he's aware of that involves turning the Corpos against the Ghosts. Or anything that would make the Ghosts more powerful.
 
 The costumed people from earlier are just waking up. Keena stumbles over to them pretending to be drunk. They're some kind of amateur hero team that were investigating corruption in the Stevedores.
 

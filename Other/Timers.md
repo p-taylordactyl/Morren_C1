@@ -1,5 +1,5 @@
 ---
-modified: 2026-07-28
+modified: 2026-09-28
 created: 2026-06-08
 ---
 ### 1/07/2012
@@ -8,4 +8,6 @@ created: 2026-06-08
 
 **Kat Phone: expires Winter 40**
 
-Malcolm Court Date: Winter 37
+Malcolm Court Date: Winter 37 (No longer relevent)
+
+Kat Court Date for Saint mugger pierced by flag - Winter 42

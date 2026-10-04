@@ -73,6 +73,8 @@ views:
 
 
 
+
+
+![[admin/assets/location_deadwaterwharf_combat1.webp]]
 ![[admin/assets/location_deadwaterwharf_thegraypelican.webp]]
 ![[admin/assets/location_deadwaterwharf_combat2.webp]]
-![[admin/assets/location_deadwaterwharf_combat1.webp]]
