@@ -5,16 +5,18 @@ aliases:
   - Custis
 cover: "[[placeholder2.webp]]"
 created: 2026-05-25
-modified: 2026-08-28
+modified: 2026-10-04
 disposition:
   - enemy
 organizations:
   - "[[Oligarchs]]"
+  - "[[Delavide Corporation]]"
 associates:
+  - "[[Dexter Delavide]]"
 brief: The oligarch who had Dorian's parents murdered
 tags:
 status:
-  - unknown
+  - alive
 locations:
   - unknown
 ---

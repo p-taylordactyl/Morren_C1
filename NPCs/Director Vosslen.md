@@ -1,30 +1,29 @@
 ---
-dg-publish: false
+dg-publish: true
 aliases:
+  - Vosslen
 type: npc
 cover: "[[npc_DirectorVosslen.webp]]"
 created: 2026-08-27
-modified: 2026-08-28
+modified: 2026-10-04
 status:
+  - unknown
 disposition:
   - enemy
-  - unfriendly
-  - neutral
-  - friendly
-  - ally
-  - unknown
 organizations:
+  - "[[Titan Corporation]]"
 locations:
+  - "[[Deadwater Wharf]]"
+  - "[[The Gray Pelican]]"
 associates:
-brief:
+brief: A director of the Titan Corporation we helped Solomon kidnap for the Malefactors
 tags:
-  - under_construction
 ---
 ![[npc_DirectorVosslen.webp|400]]
 
 # Description
 
-
+A director of the Titan Corporation we helped Solomon kidnap for the Malefactors.
 
 # Session Mentions
 

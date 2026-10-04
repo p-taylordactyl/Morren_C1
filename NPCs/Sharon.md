@@ -1,22 +1,20 @@
 ---
-dg-publish: false
+dg-publish: true
 aliases:
 type: npc
 cover: "[[npc_Sharon.webp]]"
-created:
-modified:
+created: 2026-09-28
+modified: 2026-10-04
 status:
+  - alive
 disposition:
-  - enemy
-  - unfriendly
-  - neutral
   - friendly
-  - ally
-  - unknown
 organizations:
 locations:
+  - "[[Deadwater Wharf]]"
 associates:
-brief:
+  - "[[Jonas]]"
+brief: Jonas's niece
 tags:
   - under_construction
 ---
@@ -24,6 +22,9 @@ tags:
 
 # Description
 
+[[Jonas]]'s niece.
+
+- enlisted the party to help in the barely successful rescue of her uncle Jonas from execution at the hands of the Delavide Corporation
 
 
 # Session Mentions

@@ -1,11 +1,12 @@
 ---
-dg-publish: false
+dg-publish: true
 aliases:
 type: npc
 cover: "[[npc_DexterDelavide.webp]]"
-created:
-modified:
+created: 2026-09-28
+modified: 2026-10-04
 status:
+  - alive
 disposition:
   - enemy
   - unfriendly
@@ -14,17 +15,19 @@ disposition:
   - ally
   - unknown
 organizations:
+  - "[[Delavide Corporation]]"
 locations:
+  - "[[Deadwater Wharf]]"
 associates:
-brief:
+  - "[[Custis Delavide]]"
+brief: One of Dorian's cousins
 tags:
-  - under_construction
 ---
 ![[npc_DexterDelavide.webp|400]]
 
 # Description
 
-
+One of Dorian's cousins.
 
 # Session Mentions
 

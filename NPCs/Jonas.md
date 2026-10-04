@@ -1,30 +1,30 @@
 ---
-dg-publish: false
+dg-publish: true
 aliases:
 type: npc
 cover: "[[npc_Jonas.webp]]"
-created:
-modified:
+created: 2026-09-28
+modified: 2026-10-04
 status:
+  - alive
 disposition:
-  - enemy
-  - unfriendly
-  - neutral
   - friendly
-  - ally
-  - unknown
 organizations:
 locations:
+  - "[[Deadwater Wharf]]"
 associates:
-brief:
+  - "[[Sharon]]"
+brief: Resident of Deadwater Wharf working against the Delavide Corporation
 tags:
-  - under_construction
 ---
 ![[npc_Jonas.webp|400]]
 
 # Description
 
+Resident of [[Deadwater Wharf]] working to get the [[Delavide Corporation]] out of his neighborhood by making it too inconvenient for them to stay.
 
+- captured by the Delavide Corp for stealing mining equipment
+- rescued by the party and reunited with his teenage niece, [[Sharon]]
 
 # Session Mentions
 

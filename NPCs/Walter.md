@@ -1,30 +1,30 @@
 ---
-dg-publish: false
+dg-publish: true
 aliases:
 type: npc
 cover: "[[npc_Walter.webp]]"
-created:
-modified:
+created: 2026-08-31
+modified: 2026-10-04
 status:
+  - alive
 disposition:
-  - enemy
-  - unfriendly
   - neutral
   - friendly
-  - ally
-  - unknown
 organizations:
+  - "[[Old Guard]]"
 locations:
+  - "[[Deadwater Wharf]]"
 associates:
-brief:
+brief: A mysterious vigilante who saved Cillian Kravus from a murderous Saint
 tags:
-  - under_construction
 ---
 ![[npc_Walter.webp|400]]
 
 # Description
 
+A mysterious vigilante who saved Cillian Kravus from a murderous Saint.
 
+- wears [[Old Guard]] power armor, but apparently no longer with the group
 
 # Session Mentions
 

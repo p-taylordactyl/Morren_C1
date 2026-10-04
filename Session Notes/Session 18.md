@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-08-31
-modified: 2026-09-21
+modified: 2026-10-04
 session_date: 08/31/2026
 session_number: 18
 players:
@@ -226,11 +226,11 @@ Kat questions whether Keena actually cares or if she just wants the target off h
 
 During this, we notice a fight happening a ways away between these mysterious people and the [[Old Valence Stevedore Union|Stevedores]].
 
-![[npc_mysteryperson1.webp|584]]
+![[npc_patchwork.webp|584]]
 
-![[npc-mystery2.webp|582]]
+![[npc_crownless.webp|582]]
 
-![[npc_mystery3.webp|564]]
+![[npc_papertiger.webp|564]]
 
 
 

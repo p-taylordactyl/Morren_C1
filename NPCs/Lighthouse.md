@@ -1,11 +1,12 @@
 ---
-dg-publish: false
+dg-publish: true
 aliases:
 type: npc
 cover: "[[npc_Lighthouse.webp]]"
-created:
-modified:
+created: 2026-08-31
+modified: 2026-10-04
 status:
+  - alive
 disposition:
   - enemy
   - unfriendly
@@ -14,17 +15,22 @@ disposition:
   - ally
   - unknown
 organizations:
+  - "[[Cael Foundation]]"
 locations:
+  - "[[Deadwater Wharf]]"
 associates:
-brief:
+  - "[[Lumen Veil]]"
+brief: A hero working for the Cael Foundation
 tags:
-  - under_construction
 ---
 ![[npc_Lighthouse.webp|400]]
 
 # Description
 
+A hero working for the Cael Foundation. Carries around trading cards of himself.
 
+- helped the party fight off a bunch of birds at [[Deadwater Wharf]] 
+- lost to [[Gideon Oublier|Gideon]] in a friendly contest to see who could kill more birds during the fight
 
 # Session Mentions
 

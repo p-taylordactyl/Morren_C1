@@ -1,30 +1,30 @@
 ---
-dg-publish: false
+dg-publish: true
 aliases:
 type: npc
 cover: "[[npc_Patchwork.webp]]"
-created:
-modified:
+created: 2026-09-21
+modified: 2026-10-04
 status:
+  - alive
 disposition:
-  - enemy
-  - unfriendly
-  - neutral
   - friendly
-  - ally
-  - unknown
 organizations:
 locations:
+  - "[[Deadwater Wharf]]"
 associates:
-brief:
+  - "[[Crownless]]"
+  - "[[The Paper Tiger|Paper Tiger]]"
+brief: A wannabe vigilante hero
 tags:
-  - under_construction
 ---
 ![[npc_Patchwork.webp|400]]
 
 # Description
 
+A wannabe vigilante hero.
 
+- got his ass kicked by the [[Old Valence Stevedore Union|Stevedores]] in [[Deadwater Wharf]] while investigating their corruption
 
 # Session Mentions
 

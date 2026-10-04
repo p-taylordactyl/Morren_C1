@@ -4,19 +4,21 @@ aliases:
 type: location
 cover: "[[location_BoxTown.webp]]"
 created: 2026-07-28
-modified: 2026-08-28
+modified: 2026-10-04
 district: "[[Cloud District]]"
 parent: "[[Deadwater Wharf]]"
 associations:
   - "[[Box Boys]]"
 tags:
-  - under_construction
 ---
 
 
 
 # Notes
 
+A constantly moving organization of [[Box Boys]] in [[Deadwater Wharf]]
+
+- last known location the [[Dockrunner]]
 
 ### Points of Interest
 
@@ -37,8 +39,6 @@ views:
     indentProperties: true
 
 ```
-
-
 
 
 # NPCs
@@ -68,6 +68,9 @@ views:
 
 
 # Maps
+
+
+
 
 
 

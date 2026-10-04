@@ -2,7 +2,7 @@
 dg-publish: true
 aliases:
 created: 2026-06-01
-modified: 2026-09-28
+modified: 2026-10-04
 cover: "[[quest_wharfextraction.webp]]"
 type: quest
 quest_status: in progress
@@ -48,12 +48,12 @@ There is key data within the [[Harbormaster's Office]], on the [[Docked Vessel 1
 - We snuck into the [[Harbormaster's Office]] and collected a data stick
 - We learned that Docked Vessel 2 is a ship called [[The Gray Pelican]] and have made plans to grab the data stick while helping [[Solomon Hexley]] kidnap a [[Titan Corporation]] [[Director Vosslen|director]] onboard
 - We successfully boarded The Gray Pelican
+- file retrieved from the Pelican - director successfully kidnapped and guards ~~knocked out~~ murdered
 
 # To Do
 
 - [ ] Locate the Clerk's Home
-
-
+- [ ] Board [[Docked Vessel 1]]
 
 ## Done
 
