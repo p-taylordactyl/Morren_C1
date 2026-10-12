@@ -1,10 +1,11 @@
 ---
 dg-publish: true
 aliases:
+  - Gray Pelican
 type: location
 cover: "[[location_DockedVessel2.webp]]"
 created: 2026-07-28
-modified: 2026-08-23
+modified: 2026-10-05
 district: "[[Cloud District]]"
 parent: "[[Deadwater Wharf]]"
 associations:

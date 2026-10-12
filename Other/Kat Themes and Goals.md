@@ -1,5 +1,5 @@
 ---
-modified: 2026-09-28
+modified: 2026-10-05
 created: 2026-04-27
 ---
 ## Themes
@@ -114,3 +114,6 @@ created: 2026-04-27
 27. I expected better from you
 28. You guys do what you have to but no more secrets
 29. Debt to Hood Station
+30. Dad
+31. Going in to save Uncle Jonas
+32. Gideon is right I should stop taking risks

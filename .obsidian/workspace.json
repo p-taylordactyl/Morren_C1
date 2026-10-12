@@ -24,22 +24,6 @@
             }
           },
           {
-            "id": "0b49c65c39729231",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Session Notes/Session 19.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Session 19"
-            }
-          },
-          {
             "id": "d7932a435ea6ed0f",
             "type": "leaf",
             "pinned": true,
@@ -53,6 +37,36 @@
               "pinned": true,
               "icon": "lucide-file",
               "title": "Session 20"
+            }
+          },
+          {
+            "id": "141a1c90b4cce076",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 21.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session 21"
+            }
+          },
+          {
+            "id": "f719ce56590dad40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 22"
             }
           },
           {
@@ -96,51 +110,9 @@
               "icon": "lucide-file",
               "title": "Timers"
             }
-          },
-          {
-            "id": "899358f2b05dfe51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/The Hunter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Hunter"
-            }
-          },
-          {
-            "id": "b3aca2cb67767c27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Home"
-            }
-          },
-          {
-            "id": "dc8259af7a669942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NPCs/Volmara.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Volmara"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -377,54 +349,54 @@
       "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false
     }
   },
-  "active": "b3aca2cb67767c27",
+  "active": "141a1c90b4cce076",
   "lastOpenFiles": [
+    "Session Notes/Session 22.md",
+    "Session Notes/Session 23.md",
+    "Session Notes/Session 21.md",
+    "NPCs/Milo.md",
+    "Session Notes/{value}.md",
+    "Session Notes/Session 1.md",
+    "Quests/Wharf Extraction.md",
+    "Other/Kat Themes and Goals.md",
+    "Other/Timers.md",
+    "Factions and Groups/Corporate/Aegis Response Group.md",
+    "Locations/Dockrunner.md",
+    "Session Notes/0 Session Index.base",
+    "NPCs/0 NPC Index.base",
+    "Session Notes/Session 13.md",
+    "Session Notes/Session 12.md",
+    "Session Notes/Session 14.md",
+    "Locations/The Gray Pelican.md",
+    "Locations/The Rust Mammoth.md",
+    "admin/assets/npc_robot.webp",
+    "admin/assets/session21_map3.webp",
+    "Session Notes/Session 16.md",
+    "Session Notes/Session 17.md",
+    "Session Notes/Session 18.md",
+    "Session Notes/Session 19.md",
+    "admin/assets/npc_bulwark.webp",
+    "admin/assets/npc_milo.webp",
+    "admin/assets/weirdchicken.webp",
+    "admin/assets/session21_map2.webp",
+    "admin/assets/session21_combat1.webp",
+    "admin/assets/giantticks.webp",
+    "admin/assets/session21_map1.webp",
+    "admin/assets/npc_wb.webp",
+    "Session Notes/Session 20.md",
+    "Home.md",
     "NPCs/Walter.md",
     "NPCs/The Paper Tiger.md",
     "NPCs/Crownless.md",
     "NPCs/Patchwork.md",
-    "NPCs/Dexter Delavide.md",
-    "NPCs/Jonas.md",
-    "NPCs/Sharon.md",
-    "NPCs/The Hunter.md",
-    "NPCs/Volmara.md",
-    "NPCs/Deadwater Harbormaster.md",
-    "Home.md",
-    "NPCs/Umbral.md",
-    "NPCs/Director Vosslen.md",
-    "NPCs/Lighthouse.md",
-    "NPCs/The Driftwarden.md",
-    "NPCs/Mira Sporehand.md",
-    "NPCs/Drogrash.md",
-    "NPCs/Sprocket.md",
-    "NPCs/Hadrian Buchanon.md",
-    "Session Notes/Session 20.md",
-    "Locations/Box Town.md",
-    "Locations/Seahorse Bank.md",
-    "Locations/Docked Vessel 1.md",
-    "Locations/The Gray Pelican.md",
-    "Locations/Dockrunner.md",
-    "Locations/Ambition.md",
     "Factions + Groups",
-    "admin/assets/npc_volmara.webp",
-    "admin/assets/npc_dwharbormaster.webp",
-    "admin/assets/session20_map1.webp",
-    "admin/assets/npc_thehunter.webp",
-    "admin/assets/session20_combatescape.webp",
-    "admin/assets/session19_combat1.webp",
-    "admin/assets/session19_combat1.webp",
-    "admin/assets/npc_dexterdelavide.webp",
-    "admin/assets/npc_jonas.webp",
-    "admin/assets/session19_ghost1.webp",
     "Quests/0 Quest Index.base",
-    "Session Notes/0 Session Index.base",
     "admin/TTRPG/Time/event-source/old-valence/winter-nipy79d6.event.json",
     "admin/TTRPG/Time/tag-packs/og-tags.tags.json",
     "admin/TTRPG/Time/weather-dayview/old-valence/2011.weather.json",
     "admin/TTRPG/Time/weather-reference/old-valence/general/2011.reference.json",
     "admin/TTRPG/Time/event-index/old-valence/2012.index.json",
     "admin/TTRPG/Time/event-index/old-valence",
-    "admin/TTRPG/Time/event-source/old-valence/sessio-naeqs8p8.event.json",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas"
   ]

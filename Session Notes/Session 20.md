@@ -2,7 +2,7 @@
 dg-publish: true
 type: session_note
 created: 2026-09-28
-modified: 2026-10-04
+modified: 2026-10-05
 session_date: 09/28/2026
 session_number: 20
 players:
@@ -79,7 +79,7 @@ The flag bears the symbol of [[Morronel]], but there's sign of who or where it c
 
 We decide to rest before pressing on any further. Kat and Gideon are on watch.
 
-Gideon chastises Kat for being thoughtless with her risk-taking and how she could have left him with no family just now. He doesn't understand why she risks herself like that for strangers. She accepts the criticism and apologizes for not considering him more.  She also explains that she rescues people because she wants others to get the same second chance she got.
+Gideon chastises Kat for being thoughtless with her risk-taking and how she could have left him with no family just now. He doesn't understand why she risks herself like that for strangers. She accepts the criticism and apologizes for not considering him more.  She also explains that she rescues people because she wants others to get the same second chance she got. But she understands the tools in his toolkit aren't exactly conducive to nonlethality.
 
 Gideon gets a call from an unknown number and steps away to take it. Kat doesn't know it's an unknown number calling and doesn't follow. It's [[Morrgen Oublier|Morrgen]]. 
 

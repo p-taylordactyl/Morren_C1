@@ -209,7 +209,17 @@
         "admin/assets/npc_thehunter.webp",
         "admin/assets/session20_map1.webp",
         "admin/assets/npc_dwharbormaster.webp",
-        "admin/assets/npc_volmara.webp"
+        "admin/assets/npc_volmara.webp",
+        "admin/assets/npc_wb.webp",
+        "admin/assets/session21_map1.webp",
+        "admin/assets/giantticks.webp",
+        "admin/assets/session21_combat1.webp",
+        "admin/assets/session21_map2.webp",
+        "admin/assets/weirdchicken.webp",
+        "admin/assets/npc_milo.webp",
+        "admin/assets/npc_bulwark.webp",
+        "admin/assets/session21_map3.webp",
+        "admin/assets/npc_robot.webp"
       ],
       "sortOrder": "custom"
     },
@@ -498,7 +508,7 @@
         "Locations/Crownlight Landing.md",
         "Locations/Seahorse Bank.md",
         "Locations/Box Town.md",
-        "Locations/Docked Vessel 1.md",
+        "Locations/The Rust Mammoth.md",
         "Locations/The Gray Pelican.md",
         "Locations/Dockrunner.md",
         "Locations/Ambition.md"
@@ -649,7 +659,8 @@
         "Session Notes/Session 17.md",
         "Session Notes/Session 18.md",
         "Session Notes/Session 19.md",
-        "Session Notes/Session 20.md"
+        "Session Notes/Session 20.md",
+        "Session Notes/Session 21.md"
       ],
       "sortOrder": "custom"
     },

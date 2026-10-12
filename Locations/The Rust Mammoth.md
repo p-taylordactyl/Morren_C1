@@ -1,10 +1,11 @@
 ---
 dg-publish: true
 aliases:
+  - Rust Mammoth
 type: location
 cover: "[[location_DockedVessel1.webp]]"
 created: 2026-07-28
-modified: 2026-08-28
+modified: 2026-10-05
 district: "[[Cloud District]]"
 parent: "[[Deadwater Wharf]]"
 associations:

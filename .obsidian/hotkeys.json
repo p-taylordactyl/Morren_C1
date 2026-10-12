@@ -99,5 +99,29 @@
       ],
       "key": "Q"
     }
+  ],
+  "quickadd:choice:df21a921-cd60-47d7-a83e-be39168549aa": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "quickadd:choice:7712162b-34b5-42b5-a780-5b592ae0029c": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "quickadd:choice:5db32848-3c96-4b29-9622-9e5ae5f8ce34": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    }
   ]
 }

@@ -7,6 +7,9 @@ formulas:
 views:
   - type: cards
     name: All
+    groupBy:
+      property: locations
+      direction: ASC
     order:
       - file.name
       - brief
