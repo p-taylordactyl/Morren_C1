@@ -11,8 +11,7 @@
         "Locations",
         "Session Notes",
         "Quests",
-        "Other",
-        "Calendar.md"
+        "Other"
       ],
       "sortOrder": "custom"
     },
@@ -24,8 +23,8 @@
         "admin/templates",
         "admin/Base Embeds and Dataviews.md",
         "admin/Useful Bits - OLD.md",
-        "admin/Meta.md",
-        "admin/In-Session New Note Automation.md",
+        "admin/Meta Info.md",
+        "admin/In-Session New Note Workflow.md",
         "admin/scripts",
         "admin/TTRPG"
       ],
@@ -601,7 +600,8 @@
         "NPCs/Sharon.md",
         "NPCs/The Hunter.md",
         "NPCs/Deadwater Harbormaster.md",
-        "NPCs/Volmara.md"
+        "NPCs/Volmara.md",
+        "NPCs/Milo.md"
       ],
       "sortOrder": "custom"
     },

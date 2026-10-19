@@ -103,16 +103,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Timers.md",
+                "file": "admin/Meta Info.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Timers"
+              "title": "Meta Info"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -349,8 +349,20 @@
       "ttrpg-tools-time:Open TTRPG Tools - Time: Timeline filters": false
     }
   },
-  "active": "141a1c90b4cce076",
+  "active": "e214acaf8db51672",
   "lastOpenFiles": [
+    "Home.md",
+    "admin/Meta Info.md",
+    "Other/Kat Themes and Goals.md",
+    "admin/Base Embeds and Dataviews.md",
+    "Session Notes/Session 02.md",
+    "Locations/0 Location Index.base",
+    "admin/Useful Bits - OLD.md",
+    "admin/In-Session New Note Workflow.md",
+    "admin/Pre-Publish Checklist.md",
+    "admin/Home Backup.md",
+    "Other/Timers.md",
+    "Calendar.md",
     "Session Notes/Session 22.md",
     "Session Notes/Session 23.md",
     "Session Notes/Session 21.md",
@@ -358,8 +370,6 @@
     "Session Notes/{value}.md",
     "Session Notes/Session 1.md",
     "Quests/Wharf Extraction.md",
-    "Other/Kat Themes and Goals.md",
-    "Other/Timers.md",
     "Factions and Groups/Corporate/Aegis Response Group.md",
     "Locations/Dockrunner.md",
     "Session Notes/0 Session Index.base",
@@ -372,9 +382,6 @@
     "admin/assets/npc_robot.webp",
     "admin/assets/session21_map3.webp",
     "Session Notes/Session 16.md",
-    "Session Notes/Session 17.md",
-    "Session Notes/Session 18.md",
-    "Session Notes/Session 19.md",
     "admin/assets/npc_bulwark.webp",
     "admin/assets/npc_milo.webp",
     "admin/assets/weirdchicken.webp",
@@ -383,12 +390,6 @@
     "admin/assets/giantticks.webp",
     "admin/assets/session21_map1.webp",
     "admin/assets/npc_wb.webp",
-    "Session Notes/Session 20.md",
-    "Home.md",
-    "NPCs/Walter.md",
-    "NPCs/The Paper Tiger.md",
-    "NPCs/Crownless.md",
-    "NPCs/Patchwork.md",
     "Factions + Groups",
     "Quests/0 Quest Index.base",
     "admin/TTRPG/Time/event-source/old-valence/winter-nipy79d6.event.json",
@@ -396,7 +397,6 @@
     "admin/TTRPG/Time/weather-dayview/old-valence/2011.weather.json",
     "admin/TTRPG/Time/weather-reference/old-valence/general/2011.reference.json",
     "admin/TTRPG/Time/event-index/old-valence/2012.index.json",
-    "admin/TTRPG/Time/event-index/old-valence",
     "admin/Home.canvas",
     "admin/Workflow Map.canvas"
   ]
